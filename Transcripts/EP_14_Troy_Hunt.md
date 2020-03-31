@@ -1,4 +1,4 @@
-# Episode 14 Troy Hunt_Ready
+# Transcript Episode 14: Troy Hunt
 
 **Michaela:** [00:00:02] Hello and welcome, to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to Troy Hunt, but before I introduce Troy, let me tell you a little bit about myself. For several years, I've been working with Microsoft to help engineering teams be more effective and efficient.
 
