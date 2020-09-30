@@ -1,8 +1,8 @@
 # Transcript EP-13 of the Software Engineering Unlocked Podcast Dan Abramov
 
-**Michaela:** [00:00:02] Hello and welcome to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to Dan Abramov. Dan is probably the most well known person in the whole front end development online scene. Dan mostly works on React, a very popular framework for JavaScript. Dan is also very vocal about JavaScript, React and development on his Twitter, as well as on his personal blog.
+**Michaela:** [00:00:02] Hello and welcome to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to Dan Abramov. Dan is probably the most well known person in the whole front-end development online scene. Dan mostly works on React, a very popular framework for JavaScript. Dan is also very vocal about JavaScript, React and development on his Twitter, as well as on his personal blog.
 
-Den is also actively supporting diversity in the tech space and recently started a side project next to his day to day job at Facebook. So I'm super thrilled to have Dan here with me today. Dan, thank you so much for joining the show.
+Dan is also actively supporting diversity in the tech space and recently started a side project next to his day to day job at Facebook. So I'm super thrilled to have Dan here with me today. Dan, thank you so much for joining the show.
 
 **Dan:** [00:00:40] Thank you. Hi.
 
@@ -10,7 +10,7 @@ Den is also actively supporting diversity in the tech space and recently started
 
 Can you tell me a little bit about what your day to day actually looks like?
 
-**Dan:** [00:00:49] Yeah. So I work on the React core team. Even though most of the team is in Menlo park, in United States, but we do have a few people in London. So I work on React itself mostly, the open source library that some of the listeners might be using most of the things like fixing bugs in it, deploying new versions and working on new features, sometimes writing documentation, figuring out the migration paths when we change APIs and just general kind of maintenance for the library.
+**Dan:** [00:00:49] Yeah. So I work on the React core team. Even though most of the team is in Menlo park, in United States, but we do have a few people in London. So I work on React itself mostly, the open source library that some of the listeners might be using. I work on most of the things like fixing bugs in it, deploying new versions and working on new features, sometimes writing documentation, figuring out the migration paths when we change APIs and just general kind of maintenance for the library.
 
 **Michaela:** [00:01:26] Yeah. So I actually read through your decade in review blog post, which I also link down in the show notes. And there you described how you interviewed for Facebook, and so you described that you were at a conference and you gave a talk and there were also people there from Facebook and one of the people from Facebook you knew already from online collaboration and through chats.
 
@@ -24,9 +24,9 @@ It's mostly, so in terms of length, I can't say the exact length. it also depend
 
 And then the onsite process is something like four hours and it's, easily three coding interviews, each, each interviews, with the different person, and it takes roughly 45 minutes, I think each. And, there is a, a couple of coding interviews, one interview about the past experience, in one interview that is more a kind of design architecture, kind of interview.
 
-But all of those are tailored to, to frontend. so that's pretty much what I went through. And, in this case, I was just lucky that, there were four different people from Facebook at that conference, because there were speakers. and yeah, and we, we do use whiteboards, but we, at least in the front end interview process, we don't use the typical, like computer science, whiteboard questions.
+But all of those are tailored to frontend. So that's pretty much what I went through. And, in this case, I was just lucky that, there were four different people from Facebook at that conference, because there were speakers. and yeah, and we, we do use whiteboards, but we, at least in the front end interview process, we don't use the typical, like computer science, whiteboard questions.
 
-So it's not about these in some weird data structures that aren't relevant in frontend, but it's more about things that you might encounter. And so we, we do use whiteboards in the sense that, we don't give you computer to write code in, like, so you have to write on paper or on whiteboard.
+So it's not about those on some weird data structures that aren't relevant in frontend, but it's more about things that you might encounter. And so we do use whiteboards in the sense that, we don't give you computer to write code in, like, so you have to write on paper or on whiteboard.
 
 But we also try to treat it like just as a draft. So I think it's good to practice with whiteboard. But it's, like sometimes whiteboard is annoying, right? Like, you can't copy and paste, and just stuff like this. but this is also why we try to keep the questions, relatively small. so we don't expect solutions to be more than like a 30, 40 lines of code for most questions.
 
