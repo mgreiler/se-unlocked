@@ -10,7 +10,7 @@ Transcripts can be improved either while you listen to the epsiodes, or even jus
 Please remove spelling, grammar and other mistakes that you see. 
 **Before starting** to work on an epsiode, please **leave a comment on the issue** indicating that you are going to work on the transcript, to avoid conflicts and duplication of work. 
 
-Even transcripts that do not have an active open issue there might be mistakes. If you find problems with one of the transcipts, please feel free to open an issue, or directly create a PR with the improvements.
+Even for transcripts that do not have an active open issue there might be mistakes. If you find problems with one of the transcipts, please feel free to open an issue, or directly create a PR with the improvements.
 
 ## Hacktoberfest 
 The issues count towards the #Hacktoberfest. 
