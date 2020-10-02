@@ -1,68 +1,62 @@
 # Transcript Episode 14: Troy Hunt
 
-**Michaela:** [00:00:02] Hello and welcome, to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to Troy Hunt, but before I introduce Troy, let me tell you a little bit about myself. For several years, I've been working with Microsoft to help engineering teams be more effective and efficient.
+**Michaela:** [00:00:02] Hello and welcome, to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to Troy Hunt. But before I introduce Troy, let me tell you a little bit about myself. For several years, I've been working with Microsoft to help engineering teams be more effective and efficient.
 
-I worked on solutions to improve, build, test and culture tools and processes at Microsoft. In fact, I work with all major product teams such as Office, Windows, Visual Studio to help them get better results. Since 2018, I work with engineering teams all over the world through workshops and consultancy. 
+I worked on solutions to improve, build, test and culture tools and processes at Microsoft. In fact, I worked with all major product teams such as Office, Windows, Visual Studio to help them get better results. Since 2018, I work with engineering teams all over the world through workshops and consultancy. 
 
 In my code review workshops teams identify bottlenecks in the engineering processes and learn how to resolve them.
 
-Everything I teach is based on proven best practices for code reviews that have to speed up code review turnaround times, but also increasing effectiveness. Given the recent events, all workshops are remote and are a great opportunity for team building and to strengthen the bond between colleagues. In the current stressful situation, such workshops can make a big difference in lighten up the mood.
+Everything I teach is based on proven best practices for code reviews that have to speed up code review turnaround times, but also increasing code review effectiveness. Given the recent events, all workshops are remote and are a great opportunity for team building and to strengthen the bond between colleagues. In our current stressful situation, such workshops can make a big difference and lighten up the mood.
 
-If you want to learn more, have a look at my website at michaelagreiler.com/workshops or write me an email at michaela@michaelagreiler.com so and now onto Troy. Well Troy Hunt is a leading security expert. Through his online security workshops and his various online courses at Pluralsight, he has helped already hundreds of thousands of engineers understand ins and outs of security.
+If you want to learn more, have a look at my website at michaelagreiler.com/workshops or write me an email at michaela@michaelagreiler.com so and now onto Troy. Well Troy Hunt is a leading security expert. Through his online security workshops and his various online courses at Pluralsight, he has helped already hundreds of thousands of engineers understand the ins and outs of security.
 
-He also developed a popular website, haveibeenpwned.com where you can easily check if your data has been exposed to a data breach in the last years. Well, I could go on and on, but just let me say that I'm super excited to have Troy here with me. Thank you, Troy, for being on my show. 
+He also developed the popular website, haveibeenpwned.com where you can easily check if your data has been exposed to a data breach in the last years. Well, I could go on and on, but just let me say that I'm super excited to have Troy here with me. Thank you, Troy, for being on my show. 
 
 **Troy:** [00:01:46] Hey, thank you for having me here.
 
-**Michaela:** [00:01:48] Try it. There are two very distinct topics that I want to talk with you about today. One is how you manage to become the leading voice in the security space and touch so many lives of so many people. And the other topic is. What do you think that, you know, what knowledge do software engineers actually need to process about security?
+**Michaela:** [00:01:48] Troy, there are two very distinct topics that I want to talk with you about today. One is how you managed to become the leading voice in the security space and touch so many lives of so many people. And the other topic is: what do you think that, you know, what knowledge do software engineers actually need to posess about security?
 
-What do they need to know about data preaches and attacks to the software system? So maybe I want to start with the data breaches. And there's, it's almost like every week there's a new data breach where millions of records of personal data are leaked. And on one hand that's super scary. But on the other hand, I also think because it happens so often.
+What do they need to know about data breaches and attacks to the software system? So maybe I want to start with the data breaches. And there's, it's almost like every week there's a new data breach where millions of records of personal data are leaked. And on one hand that's super scary. But on the other hand, I also think because it happens so often.
 
-People feel, I feel that people are getting a little bit blunt or debted by it. Maybe it's just me. It's almost like, well, it happened now for the first time in a row in a year, and nothing actually happened to me, for example. Right. So probably it's not that bad. What do you think about that? 
+People feel, I feel that people are getting a little bit blunt or debted by it. Maybe it's just me. It's almost like, well, it happened now for the fourth time in a row in a year, and nothing actually happened to me, for example. Right. So probably it's not that bad. What do you think about that? 
 
 **Troy:** [00:02:47] Oh man, I wish it was only every week.
 
-It is many times per day. At the moment. I just receive so much data that people are sending to me and it's it. It's just simply more than I can process it. It's just untold numbers of individual breaches and of course a huge number of records in age. And then part of the problem too is that. W we only know what we know.
+It is many times per day. At the moment. I just receive so much data that people are sending to me and it's just simply more than I can process. It's just untold numbers of individual breaches and of course a huge number of records in age. And then part of the problem too is that we only know what we know.
 
-It's like that old quote about unknown unknowns in other, like there's so many more incidents out there that we've just simply never heard of, but, but have happened in the yet to surface and, and you're quite right that there is a degree of, of what I've often heard referred to as data breach fatigue.
+It's like that old quote about unknown unknowns in other, like there's so many more incidents out there that we've just simply never heard of, but, but have happened and are yet to surface and, and you're quite right that there is a degree of, of what I've often heard referred to as data breach fatigue.
 
-So people just getting so used to seeing data breaches all over the place that they tend to sort of tune out. And, and what I, I sense has really happened over the last few years is we've sort of transitioned from people judging an organization harshly because they've had a data breach and now judging them more on how they handle the bridge instead.
+So people just getting so used to seeing data breaches all over the place that they tend to sort of tune out. And, and what I, I sense has really happened over the last few years is we've sort of transitioned from people judging an organization harshly because they've had a data breach and now judging them more on how they handle the breach instead.
 
-So if we think about incidents such as in 2017 there were a couple of big ones that were handled very, very poorly. Equifax was not a very well handled. Datta reached the, the Uber situation was not a very well handled data breach and they got, they got rather slammed by the public. But then I'll say in other organizations, have data breaches and handled them exceptionally well and actually come out of it looking pretty good.
+So if we think about incidents such as in 2017 there were a couple of big ones that were handled very, very poorly. Equifax was not a very well handled data breach. The, the Uber situation was not a very well handled data breach and they got, they got rather slammed by the public. But then I'll say in other organizations, had data breaches and handled them exceptionally well and actually come out of it looking pretty good.
 
 So I think public sentiment has changed because it is happening so much. 
 
-**Michaela:** [00:04:18] And do you think there is, you know, is that the right shift? Do you think it's just not preventable to have those data breaches or should organizations spend more and to technology be more involved to, you know, hinder or data breaches or limit those.
+**Michaela:** [00:04:18] And do you think there is, you know, is that the right shift? Do you think it's just not preventable to have those data breaches or should organizations spend more and should technology be more involved to, you know, hinder data breaches or limit those.
 
-**Troy:** [00:04:35] Well, the, the, the first thing is that they're all preventable. So every single data breach that I see has had a mistake somewhere. Someone who's got some poor coding and they've got a sequel injection vulnerability. Someone hasn't put a password on the publicly facing database and someone goes and siphons the data out.
+**Troy:** [00:04:35] Well, the, the, the first thing is that they're all preventable. So every single data breach that I see has had a mistake somewhere. Someone who's got some poor coding and they've got a SQL injection vulnerability. Someone hasn't put a password on their publicly facing database and someone goes and siphons the data out.
 
-So every one of these is due to a human error at some point. So yes, they absolutely preventable. And I'd hate to sort of get to the point where we got, it's going to happen anyway. You know, I think we, we, we do need to continue doing our best to, to not make the mistakes in the first place, but then also plan for if they happen.
+So every one of these is due to a human error at some point. So yes, they are absolutely preventable. And I'd hate to sort of get to the point where we go "ahh , it's going to happen anyway." You know, I think we, we, we do need to continue doing our best to, to not make the mistakes in the first place, but then also plan for if they happen.
 
-So, for example, password hashing is a really good example. Password hashing offers absolutely no security whatsoever. Until something else goes really badly wrong. So you've got to have a sequel injection vulnerability, or back your database up publicly facing and put it in the root of your website and someone downloads it.
+So, for example, password hashing is a really good example. Password hashing offers absolutely no security whatsoever. Until something else goes really badly wrong. So you've got to have a SQL injection vulnerability, or back your database up publicly facing and put it in the root of your website and someone downloads it.
 
 And then password hashing is useful. So that's a good example of, of where we implement security controls in layers of defense. With the expectation that some of them might go wrong. 
 
-**Michaela:** [00:05:39] And so you think that the attack surface is sort of stayed the same. It's just that 
+**Michaela:** [00:05:39] And so you think that the attack surface has sort of stayed the same. It's just that 
 
 **Troy:** [00:05:45] it's getting massively bigger. So, I mean, have a think about it, right?
 
-Like we've all seen stats about how many different Mac addresses there are out there these days, how many different IP addresses here there are these days moving to IPV six and we've just got gazillions of them. And IOT is, is certainly a big part of this as well. I mean, IOT man. How badly we missing that up.
+Like we've all seen stats about how many different Mac addresses there are out there these days, how many different IP addresses there are these days moving to IPV6 and we've just got gazillions of them. And IOT is, is certainly a big part of this as well. I mean, IOT man. How badly are we messing that up.
 
-Is this how many connected things? It's just become a joke. I saw where I saw one last week I spoke of it, which was a, an IOT candle. So there is a Kickstarter to have a candle that you can light with. We were fire remotely. Oh my goodness. I know. So I, I ordered one because I was like, I've got to see this.
+There's so many connected things. It's just become a joke. I saw where I saw one last week I spoke about, which was a, an IOT candle. So there is a Kickstarter to have a candle that you can light with real fire remotely. Oh my goodness. I know. So I, I ordered one because I was like, I've got to see this.
 
-You know, this is going to be amazing. Well, actually I was thinking, I'm going to take this to conferences. I'm going to talk about it, and it'd be really cool. But then I was like. Are you allowed to take that on a plane? I'm like, maybe I can't even put that on the 
+You know, this is going to be amazing. Well, actually I was thinking, I'm going to take this to conferences. I'm going to talk about it, and it'd be really cool. But then I was like. Are you allowed to take that on a plane? I'm like, maybe I can't even put that on the plan. so that's amazing. Oh, well it's not just that, but you know, Hey, you're not meant to take like cigarette lighters on a plane. So I imagine it's similar to that. But, uh, yeah. Might find out soon. We'll see. Might have my candle confiscated. 
 
-**Michaela:** [00:06:38] plate. And somebody who 
+**Michaela:** [00:06:52] so. You have this website, where everybody can see if their email address was somehow connected to your data breach. It's called, have I been pwned? And I saw that. Well, one of the first steps that when you are a part of a data breach, what you do is you update your password, but what else would you recommend somebody to do?
 
-**Troy:** [00:06:39] it amazing. Oh, well it's not just that, but you know, Hey, not meant to take like cigarette lighters on a plane.
+So sometimes if, if there is not a lot of my other data, I mean, I cannot change where I live, right? So I will not move. Because of that. But for example, if there's credit card information, I would update my credit card. Is that justified or is that, you know, one step too far?
 
-So I imagine it's similar to that. But, uh, yeah. Might find out soon. We'll see. Might have my candle confiscated 
-
-**Michaela:** [00:06:52] so. You have this Bab said, where everybody can see if their email address was somehow connected to your data breach. It's called, have I been pawned? And I saw that. Well, one of the first steps that when you are a part of a data breach, what you do is you update your password, but what else would you recommend somebody to do?
-
-So sometimes if, if there is not a lot of my other data, I mean, I cannot change where I live, right? So I will not move. Because of that. But for example, if there's credit card information, I would update my credit card. Is that justified or is that, you know, one step too, 
-
-**Troy:** [00:07:27] too far? Yeah. You know, like you just change your password, update your mother's maiden name, and change your date of birth.
+**Troy:** [00:07:27] Yeah. You know, like you just change your password, update your mother's maiden name, and change your date of birth.
 
 It's, it's all fine. I mean, it's, it's an interesting thing, isn't it? Where we've got these pieces of static, immutable data, which we can never revoke. We can never change. And your birthday, mother's maiden name, perfect examples. And that, the interesting thing is, is that the way. This sort of data static KBA is still used for identity verification.
 
@@ -70,63 +64,61 @@ So there are still organizations out there who say, Hey, uh, you know, you want 
 
 So that's a bit problematic that the credit card thing is interesting and honestly, like the, I think the piece of data I probably care about the least is my credit card. And, and the simple reason for that is that every time I have a credit card that's compromised and it has happened many times. I do travel a lot and I buy a lot of stuff online.
 
-The bank normally calls me up and says, Hey, we're saying some fraudulent activity on your card. Was this you? And you look at the transaction and go, no, it wasn't. And they go, okay, no worries. We're going to cancel the card. We're going to refund the money. We'll have a new one in the mile at land in your inbox in a couple of days, you let a box if it is like a facil physical thing, right?
+The bank normally calls me up and says, Hey, we're seeing some fraudulent activity on your card. Was this you? And you look at the transaction and go, no, it wasn't. And they go, okay, no worries. We're going to cancel the card. We're going to refund the money. We'll have a new one in the mail, it'll land in your inbox in a couple of days, your letterbox, it is like still a physical thing, right?
 
 And then what you do is you go and update your direct debits or anything else that you have on file for your card, and then you get on with life. So I actually don't care too much about my credit card. I care a lot more about things like my passwords because they actually get you into my life. I care more about other personal attributes that could be used to prove identity.
 
-And the only reason credit cards make such big headlines, and the only reason that they constantly referred to and things like data breach disclosure notices is because PCI. Actually has the ability to effectively kill an organization. So every time a company's in a data breach, they're like, so you know, you email address and your password and your date of birth lists or stuff got exposed with good news, your credit card is fine.
+And the only reason credit cards make such big headlines, and the only reason that they are constantly referred to and things like data breach disclosure notices is because PCI. Actually has the ability to effectively kill an organization. So every time a company's in a data breach, they're like, so you know, your email address and your password and your date of birth lists or stuff got exposed but good news, your credit card is fine.
 
-That's the thing I care the least about are, but you've got to remain PCI compliance, so you're pandering. Not to the individual, but to the payment card industry. 
+"But that's the thing I care the least about!", Ahh but you've got to remain PCI compliant, so you're pandering not to the individual, but to the payment card industry. 
 
 **Michaela:** [00:09:51] Yeah, that's exactly what I wanted to ask you, because every time I get an email about a data breach, it also suggests slightly that I might not be impacted.
 
-So it never says you are not, or you are it somehow, you know, it's between the line. It's like. Oh, there have been, you know, 300,000 records, but they are not a 3 million that haven't been. And you know, it's more likely that you are not impacted. They're not. And so every time I get one of those, I'm like, probably it's not me, but I go and update my password.
+So it never says you are not, or you are, it somehow, you know, it's between the line. It's like. Oh, there have been, you know, 300,000 records, but there are another 3 million that haven't been. And you know, it's more likely that you are not impacted. They're not. And so every time I get one of those, I'm like, probably it's not me, but I go and update my password.
 
-But yeah, I think that this is probably a good strategy also to make people feel secure even they are not. 
+But yeah, I think that this is probably a good strategy also to make people feel secure even when they are not. 
 
 **Troy:** [00:10:31] Yeah, it's, I always wonder as well, how much of this is lawyers, right? And so I, I actually had a conversation with a company today that's got a very unpleasant vulnerability. And then the guy I was speaking to, he said, look, my, my legal counsel internally has basically said, don't say anything.
 
-Don't do anything. And unlike might've in this particular situation, if you don't do anything, you're going to have a really, really bad day. So lawyers. Very often I find really don't understand the industry and a lot of their guidance is out of step with reality. And yeah, got a really interesting example of this is that so many times those individuals who are break into websites, dumping data, redistributing it.
+Don't do anything. And I'm like mate in this particular situation, if you don't do anything, you're going to have a really, really bad day. So lawyers. Very often I find really don't understand the industry and a lot of their guidance is out of step with reality. And yeah, a really interesting example of this is that so many times those individuals who break into websites, dumping data, redistributing it.
 
-They don't care. They're anonymous where they believe they're anonymous, they don't believe in nothing bad can happen. So all the legal constructs in the world make absolutely no difference to them. And this is where I think lawyers tend to lose the plot a bit. 
+They don't care. They're anonymous or they believe they're anonymous, they don't believe anything bad can happen. So all the legal constructs in the world make absolutely no difference to them. And this is where I think lawyers tend to lose the plot a bit. 
 
 **Michaela:** [00:11:25] So what are some of the steps apart from updating your password that you would say people should take action on?
 
-**Troy:** [00:11:34] Well, firstly, if, if you ever say password in the singular sense, that's a problem. So if it is like, let me just update the one password that I use everywhere, or there's your first problem. So what we really want to see people doing here is doing what. I think most people know they should, which is having strong and unique passwords.
+**Troy:** [00:11:34] Well, firstly, if, if you ever say password in the singular sense, that's a problem. So if it is like, let me just update the one password that I use everywhere, well there's your first problem. So what we really want to see people doing here is doing what. I think most people know they should, which is having strong and unique passwords.
 
-So never using the same password in multiple places. Always making sure it's strong and we've got to sort of be a little bit clear about those two things as well. Uniqueness is pretty obvious. Don't use the same thing multiple places because if somebody gets in one place, then they can log into other things.
+So never using the same password in multiple places. Always making sure it's strong and we've got to sort of be a little bit clear about those two things as well. Uniqueness is pretty obvious. Don't use the same thing multiple places because if somebody gets in one place, then they can log into your other things.
 
-But strength is something that's, that's changed in terms of our interpretation of it. So in days gone by, we'd say, Oh, if you want a strong password, you've got to have upper case characters and lower case characters and numbers and symbols. And that. The original logic there was that that gives you a broader range of characters and the more characters you have in terms of length, and the more you have in terms of range, they multiply each other out and there's more possibilities.
+But strength is something that's, that's changed in terms of our interpretation of it. So in days gone by, we'd say, Oh, if you want a strong password, you've got to have upper case characters and lower case characters and numbers and symbols. And the original logic there was that that gives you a broader range of characters and the more characters you have in terms of length, and the more you have in terms of range, they multiply each other out and there's more possibilities.
 
 The problem is, is that that's not really how humans work. And I do this really fun quiz. Every time I do a talk and I, I sort of travel around a lot and I get the same experience no matter where I am in the world. I say to people like, imagine if you had your favorite and it's all lower case, and you go to a website and you try to put that password in and the website says, no, you've got to have an upper case character.
 
 What will you do? And everyone all over the world says, Oh, I just capitalize the first letter. And then everyone's like, Oh, hang on a moment. Why is everyone else doing the same thing? It's like, well, do you think maybe the hackers have worked this out? And then you go, okay, well you need a number. What do you do?
 
-And everyone says, Oh, I just put a one on the end. So there's this classic view of what makes passwords strong is not really consistent with reality. So in a, in a perfect world, a strong password. If you want something that a human can actually type in is going to be something like a pass phrase, pick a few random words and combine those together.
+And everyone says, Oh, I just put a one on the end. So this classic view of what makes passwords strong is not really consistent with reality. So in a, in a perfect world, a strong password. If you want something that a human can actually type in is going to be something like a pass phrase, pick a few random words and combine those together.
 
-Or ideally you have a dedicated digital password manager and you generate the password and it's just going to be 2030 40. Random characters, however many you set it as, that is a strong password, and that's going to be unique as well. 
+Or ideally you have a dedicated digital password manager and you generate the password and it's just going to be 20, 30, 40 random characters, however many you set it as, that is a strong password, and that's going to be unique as well. 
 
-**Michaela:** [00:13:47] So that's what I do. I have a dedicated password manager and I click every time I click the little generate button and something, you know, very unique and very obvious, Kate, it comes out right?
+**Michaela:** [00:13:47] So that's what I do. I have a dedicated password manager and I click every time I click the little generate button and something, you know, very unique and very obfuscated t comes out right?
 
-But I'm still like. I, it gives me a little bit of anxiety because first of all, I have a master password for dead one, which is now in, it's super, super secret. And then the second one is if that company gets into data breach or you know, what happens if, you know, I don't think, I don't know exactly what could happen, but I'm not completely at ease.
+But I'm still like. I, it gives me a little bit of anxiety because first of all, I have a master password for that one, which is now in, it's super, super secret. And then the second one is if that company gets into data breach or you know, what happens if, you know, I don't think, I don't know exactly what could happen, but I'm not completely at ease.
 
 Do you think that I should just sleep very well? 
 
-**Troy:** [00:14:24] Well, the question that normally gets pies as people say, what happens if someone gets into my password manager and there's a really easy answer, you're screwed. Like you're going to have a really, really bad day. Now that I think that the reasonable question to ask here is what is the likelihood, like we know the impact is high?
+**Troy:** [00:14:24] Well, the question that normally gets posed is people say, what happens if someone gets into my password manager and there's a really easy answer, you're screwed. Like you're going to have a really, really bad day. Now that I think that the reasonable question to ask here is what is the likelihood, like we know the impact is high, what's the likelihood? And this really depends on a combination of the password manager that you choose and the practices that you follow. So I use the password manager Onepassword. And there's a few key things there that people need to understand. So first of all, my master password alone is not sufficient.
 
-What's the likelihood? And this really depends on a combination of the password manager that you choose and the practices that you follow. So I use the password manager one password. And there's a few key things there that people need to understand. So first of all, my master password alone is not sufficient.
+You need the master password and you need a secret key. And the secret key is a globally unique identifier. It's a great big string of characters. I have it printed out, physically stored in a safe. So someone with remote access that understands my master password, can't do anything. I also have two factor authentication, so even if you have those two things, you also need to have control of my authenticator app as well.
 
-You need the master password and you need a secret key. And the secret key is a globally unique identifier. It's a great big string of characters. I have it printed out, physically stored in a safe. So someone with remote access then understands my master password, can't do anything. I also have two factor authentication, so even if you have those two things, you also need to have control of my authenticator app as well.
+If someone completely compromises all of Onepassword. All of the passwords are encrypted on the client and then sent to Onepassword encrypted. So not only can an attacker not access the passwords, but Onepassword themselves can't access the password either. So the most likely scenario that I can come up with is someone would actually have to compromise the entire development life cycle pipeline.
 
-If someone completely compromises all of one password. All of the passwords are encrypted on the client and then sent to one password encrypted. So not only can an attacker not access the passwords, but one password themselves can't access the password either. So that the most likely scenario that I can come up with as someone would actually have to compromise the entire development life cycle pipeline.
+Like they'd literally have to get into build servers or code level access, compromise the client, circumvent the client side encryption, or siphon the passwords off in parallel to somewhere else. But certainly as it stands at the moment, there's no way anyone can get into, can get anything of use if they actually get into the Onepassword environment or if they get the master password.
 
-Like they'd literally have to get into build servers or code level access, compromise the client, circumvent the client side encryption, or siphon the passwords off in parallel to somewhere else. But certainly as it stands at the moment, there's no way anyone can get into, can get anything of use if they actually get into the one password environment or if they get the master password.
+So with all that in mind, I feel a lot more comfortable that if I follow good. InfoSec hygiene. So not just my password, but also making sure I keep my operating system up to date cause I don't want malware running on my machine, which might then get access to the password manager. I'm very careful about the extensions I run in my browser, you know, all this sort of stuff.
 
-So with all that in mind, I feel a lot more comfortable that if I follow good. InfoSec hygiene. So not just my password, but also making sure I keep my operating system up to date cause I don't want malware running on my machine, which might then get access to the password manager. I'm very careful about the extensions are run in my browser, you know, all this sort of stuff.
+**Michaela:** [00:16:22] Okay. Yeah, that sounds good. I should probably switch my password manager. Um, one of the things I wanted to talk with you about, again from a end user perspective a little bit is data privacy. So I know that you are sharing a lot of your life also online via Twitter or via your personal blogs. How do you feel about that?
 
-**Michaela:** [00:16:22] Okay. Yeah, that sounds good. I should throw, switch my password. Red. Um, one of the things I wanted to talk with you about, again from a end user perspective a little bit is data privacy. So I know that you are sharing a lot of your life also online via Twitter or by your personal blogs. How do you feel about that?
-
-What do you think, you know, is a. It's a good amount to share outside RD. Some boundaries that you said. Did you say, well that's, that's something that I don't, you know, expose to the, to the outside world. 
+What do you think, you know, is a good amount to share outside. are there some boundaries that you said. Did you say, well that's, that's something that I don't, you know, expose to the, to the outside world. 
 
 **Troy:** [00:16:57] Well, I think the first thing is, is that it's a very personal thing. Privacy means very different things to different people.
 
