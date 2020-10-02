@@ -1,61 +1,29 @@
 # Transcript Episode 25 Michaela
 
-**Michaela:** [00:00:00] Hello and welcome to this software engineering 
-unlocked  podcast. I'm your host, dr. McKayla. And today is a special episode. 
+**Michaela:** 
+
+[00:00:00] Hello and welcome to this software engineering 
+unlocked podcast! I'm your host, dr. McKayla. And today is a special episode. 
 Yeah, the software engineering unlocked podcast turned one. And to celebrate the 
-one year anniversary. And can you imagine it's already one year, I thought I 
+one year anniversary - and can you imagine it's already one year? - I thought I 
 will tell you a little bit about myself.
-I will very inline with the theme of the show. I will tell you a little bit. I 
-came into tech a little bit, my experiences with different companies. And also I 
-will tell you about my favorite topic code review. So yeah, let's see how that 
-goes a little bit nervous because it's the first not interview style.
-Podcasts. So it means that I don't have another person interviewing me and 
-asking me questions. So it will be all me talking and I hope that this goes 
-well, I don't know. So yeah, about me. Well, should I start maybe really from 
-the beginning, like I do with my guests. Yeah. So how did I actually come into.
-Ted, you know, that's quite a strange story because I went to in high school, 
-that was all about art. And while it's way back then a computer were already a 
-thing. I'm not that old, but, uh, at my school, we did it and have laptops in 
-our class. We didn't drive on a word for example, or some word process or 
-something.
-We wrote really still with pencil on paper. And especially when I graduated at 
-the time were already advanced. So in other school, people were using computers 
-and programs to type, and our school was an art school. And so we were not very 
-progressed. Uh, our teachers also thought, you know, It's not a good thing.
-You know, the writers write on paper. So even though when I graduated, I was 
-still [00:02:00] writing most of my stuff, really with pen and paper. And I had 
-little to no exposure to computers. We had a computer at home, but because it's, 
-um, it was something expensive and it was something, you know, that. Also, my 
-parents were maybe a little bit afraid of, we were not allowed to just go and 
-play with the computer or try things out.
-So I really have to say my exposure to it. Computers were really re was really, 
-really limited. Yeah. Never ever would I have thought in this year that I will 
-study computer science, but I'm in the last year before graduating and before 
-starting a university, I actually attended a few lectures at the university and 
-I attended lectures in different areas.
-I was in one lecture about psychology. I was in an, um, lecture about physics 
-and I was in the lecture about algorithms. And somehow I was really hooked. I 
-never, I actually thought I will study math. This is what I thought that I will 
-go on. But then when, when it wasn't this lecture and this professor talked 
-about distributed systems and threading problems, and he also were talking about 
-cash machines.
-And so I really could see that vacation of what very much it's like math to me 
-and logic. But I could see really the impact that it has on the real world. And 
-so I think I was hooked. So I got a first book about it. And during the summer 
-break, before starting university, I read this book, it was about really 
-fundamentals.
-What is an algorithm and what is computer science? Uh, still, I didn't touch any 
-computers. Right? It was really theoretical knowledge about, you know, what 
-computer science is all about. And I was really, really fascinated. I thought, 
-this is what I want to do. And so when I made the decision and I said, I'm going 
-to apply, my parents were not thrilled.
-They were like, this is not for girls. And this is not for you. [00:04:00] And 
-you're coming from an art background, which was very true. Right. I was mainly 
-painting pictures. I drew, I had paintings and things like that, architecture, 
-but, um, I was always good at math and. I decided, even though they weren't 
-happy and actually even said, they're not going to really support me doing that.
-I went ahead, add end. I'm enrolled. And the enrollment was actually online and 
-yeah, mr. Whitfield, to be honest. Yeah. I really failed to create an account. 
+
+[00:00:26] I will very inline with the theme of the show. I will tell you a little bit how I
+came into tech, a little bit (about) my experiences with different companies, and also I 
+will tell you about my favorite topic: code review. So yeah, let's see how that 
+goes. 
+
+[00:00:42] I'm a little bit nervous because it's the first "not-interview-style" podcast, so it means that I don't have another person interviewing me and asking me questions, so it will be all me talking and I hope that this goes well, I don't know. So yeah, about me. Well, should I start? Maybe really from the beginning, like I do with my guests. So how did I actually come into Tech, you know, that's quite a strange story because I went to a high school that was all about art. And while it's way back then a computer were already a thing, I'm not that old, but, uh, at my school, we didn't have laptops in our class. We didn't write on a word for example, or some word process or something.
+
+[00:01:31] We wrote really still with pencil on paper. And especially when I graduated at the time we were already advanced. So in other school, people were using computers and programs to type, and our school was an art school, and so we were not very progressed. Uh, our teachers also thought, you know, "It's not a good thing", you know, "the writers write on paper", so even though when I graduated, I was still writing most of my stuff, really with pen and paper. And I had little to no exposure to computers. 
+
+[00:02:09] We had a computer at home, but because it's, um, it was something expensive and it was something, you know, that. Also, my parents were maybe a little bit afraid of, we were not allowed to just go and play with the computer or try things out. So I really have to say my exposure to computers were really really, really limited. Yeah. Never ever would I have thought in this year that I will study computer science, but I'm in the last year before graduating and before starting a university, I actually attended a few lectures at the university and I attended lectures in different areas.
+
+[00:02:46] So I was in one lecture about psychology. I was in an, um, lecture about physics and I was in the lecture about algorithms. And somehow I was really hooked. I never- I actually thought I will study math. This is what I thought that I will go on. But then when, when it wasn't this lecture and this professor talked about distributed systems and threading problems, and he also were talking about cash machines. And so I really could see the application of what very much looked like math to me and logic. But I could see really the impact that it has on the real world. And so I think I was hooked. So I got a first book about it, and, during the summer break, before starting university, I read this book, it was about really fundamentals.
+
+[00:03:36]  What is an algorithm and what is computer science? Uh, still, I didn't touch any computers. Right? It was really theoretical knowledge about, you know, what computer science is all about. And I was really, really fascinated. I thought, "this is what I want to do". And so when I made the decision and I said, "I'm going to apply", my parents were not thrilled. They were like, "this is not for girls, and this is not for you and you're coming from an art background", which was very true, right? I was mainly painting pictures. I drew, I had paintings and things like that,architecture, but, um, I was always good at math and I decided, even though they weren't happy and actually even said, they're not going to really support me doing that, I went ahead, add then enrolled. 
+
+(W.I.P)[00:04:29] And the enrollment was actually online and yeah, mr. Whitfield, to be honest. Yeah. I really failed to create an account. 
 You know, dad. This was the current state that I was in. Right. So I got a 
 little bit worried about, um, if I'm not even able to in role, because I had so 
 little exposure to computers, internet, and things like that.
