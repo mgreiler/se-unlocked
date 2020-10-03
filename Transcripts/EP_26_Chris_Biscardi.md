@@ -1,20 +1,20 @@
 # Transcript Episode 26 with Chris Biscardi
-**Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
-podcast. I'm your host, dr. McKayla. And today I have depression to talk to 
+**Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
+podcast. I'm your host, Doctor McKayla, and today I have depression to talk to 
 Chris Biscardi. Chris has an independent consultant that works with startups. 
 It's built on open source. He's also a blogger streamer and the creator of the 
-awesome party Porgy community before he worked for Dropbox.
-And now he builds cool new frameworks such as toast, but before I welcome, 
+awesome Party Corgi community before he worked for Dropbox.
+And now he builds cool new frameworks such as Toast, but before I welcome, 
 Chris, let me tell you about my awesome code review workshops. Yeah, in my 
-workshops you. and if you want, your whole team can learn how to get the most 
+workshops you, and if you want, your whole team can learn how to get the most 
 out of code reviews. Because if we are honest, code reviews are very time 
 consuming and therefore also very expensive engineering practice.
-Well. That's where I come into play. I accelerate teams to make code reviews 
+Well, that's where I come into play. I accelerate teams to make code reviews 
 their super power instead of an expensive bottleneck. And to make it easier for 
-you to find my workshop, I got a brand new domain called awesome code reviews. 
-So don't hesitate to hop over to  awesomecodereviews.com. Now it's a great time 
+you to find my workshop, I got a brand new domain called Awesome Code Reviews. 
+So don't hesitate to hop over to AwesomeCodeReviews.com. Now it's a great time 
 to book a workshop before the year closes or to propose it to your manager.
-But now let's go back to Chris. Chris, why come to my show? 
+But now let's go back to Chris. Chris, welcome to my show. 
 
 **Chris:** [00:01:09] Hey, thanks for having me. 
 
@@ -24,7 +24,7 @@ is how come that you are now an independent consultant? What do you do? And
 especially I see that you have picked somehow a niche.
 I do not in general. Independent software engineer, you know, taking on any 
 project, but somehow you make specifically clear that you're taking on projects 
-that are, has a startup culture behind them. Right. So they are having this new 
+that are, has a startup culture behind them, right? So they are having this new 
 element in it, but also they are built on open source. Why did you pick that?
 And, um, yeah, what's, what's the reason behind your choice here. 
 
@@ -39,7 +39,7 @@ have very, very large open source presences. So I started out in open source. I
 continued in open source. And then when I went back to freelancing and then 
 eventually consulting, it was something that I just kind of like already had an 
 expertise in.
-Right. I guess we'll talk about party corgi later, but like the whole like open 
+Right. I guess we'll talk about Party Corgi later, but like the whole like open 
 source community. And how do you deal with PRS and how do you deal with the 
 community at large and. What do you decide to work on and how do, what do you 
 tell to what people to get everything, to move forward in a way that is 
@@ -47,7 +47,7 @@ collaborative and, uh, results in the best result for the community, as well as
 
 **Michaela:** [00:02:55] the company.
 Yeah, that makes total sense. So when you say you're you work with startups that 
-build on opensource, do you mean that they are using open source to build their 
+build on open source, do you mean that they are using open source to build their 
 software and that could be proprietary? Or is it really also startups that then 
 open source their systems? Or could it be both? 
 
@@ -75,7 +75,7 @@ they may be outsourced their, their development or something like that. But it
 seems that it's a complete different, different way of consultancy, which is 
 really focused on understanding community.
 As you said, understanding how open source works. So they are not only using 
-open source, but they are producing opensource. So do you have to. Brief and no, 
+open source, but they are producing open source. So do you have to. Brief and no, 
 they're the way in and out. Right. That's really cool. Um, and when you're 
 looking at this different. Clients that you worked with, right? You said Docker, 
 you said Gatsby at they're all open source.
@@ -89,12 +89,12 @@ Uh, I could probably talk about that for an entire podcast episode again and
 again. Um, yeah. Yeah. I mean, there are similarities and there are differences 
 right there. There's similarities in the sense that like they're open source 
 projects. So there's the feature of like having a community around it. Or having 
-users, um, I don't necessarily consider those to be the same.
-Right. You can have users of an open source project without having a community. 
-Right. And you can have a community around an open source project that doesn't, 
+users, um, I don't necessarily consider those to be the same, right?
+You can have users of an open source project without having a community, right?
+And you can have a community around an open source project that doesn't, 
 uh, sort of like feed into your business. You have to think about that whole 
 system as a whole system, as opposed to being like, Oh, we're just gonna throw 
-some code up and get hub and like, Yeah, we're an opensource company now 
+some code up and get hub and like, Yeah, we're an open source company now 
 
 **Michaela:** [00:06:00] community also ecosystem because somehow if I'm 
 thinking about open source and I think about a guest fee or also what WordPress, 
@@ -105,15 +105,15 @@ are two different
 **Chris:** [00:06:16] things? Yeah, I think there's, there's sort of like two 
 different approaches in my head. There's the sort of competitive approach to it 
 and there's the collaborative approach to it. Um, and then sometimes they're 
-mixed up in the same company.
-Right. Um, but when you talk about ecosystem versus community, I think it's a 
+mixed up in the same company, right?
+Um, but when you talk about ecosystem versus community, I think it's a 
 community when you're all working together. Um, and you feel like there's enough 
 space in the pie for everybody to take a slice and continue forward. Um, and 
-realistically, I think that's the better option in the longterm. Because the 
+realistically, I think that's the better option in the long-term. Because the 
 companies that I've seen take the competitive approach with their ecosystem 
 itself, in which case I wouldn't consider it so much of as much of a community.
 Um, they end up sort of like not doing as well because people are worried about, 
-Oh, if we do this, what will they do? Right. If we build this, will they launch 
+Oh, if we do this, what will they do, right? If we build this, will they launch 
 their own? And then what do we do at that point? Whereas like, if you're more 
 collaborative, as you generate these software projects and work with your 
 ecosystem, you end up having.
@@ -133,16 +133,16 @@ place where both exists.
 Um, I think that Docker took more of the ecosystem approach and was probably a 
 little bit more competitive than a cooperative. In general, but yeah. And then 
 you start looking at the other end and you start looking at like, who's really 
-community driven and you look at view, right? And you look at rust and those 
-feel very community driven.
-Right. Um, when Russ succeeds, everybody succeeds, right? When view succeeds, 
+community driven and you look at view, right? And you look at Rust and those 
+feel very community driven, right?
+Um, when Rust succeeds, everybody succeeds, right? When view succeeds, 
 everybody succeeds. Um, when Docker succeeds, not necessarily, everybody is 
 succeeding. 
 
 **Michaela:** [00:08:31] Okay. And so how do you think that what's, what's the, 
 what's the core to dad instead? You know, if we have, if you build something, 
 how can we make sure that if one succeeds everybody succeeds, I mean, this is 
-such a nice, um, way a mindset, right.
+such a nice, um, way a mindset, right?
 That we can strive for, but what are some of the things that we can do actively 
 do to get to that point? 
 
@@ -153,7 +153,7 @@ probably get really, really deep into.
 Um, but I won't get too deep into that is like the VC funding and open source 
 startup dynamic. And that kind of like forces you into this competitive nature 
 because you often feel like, um, as somebody who has taken this money that you 
-need to win. Right. Uh, and sometimes that crosses over or often that crosses 
+need to win, right? Uh, and sometimes that crosses over or often that crosses 
 over into, I need to win at the cost of other people.
 And when, in reality we think of software. And if you, if you've read books like 
 working in public and whatnot, you understand that like, if you were taking milk 
@@ -161,7 +161,7 @@ from a cow or like trees from a forest or something like. Sometimes those are
 renewable, but they're kind of finite, right? Like there aren't infinite amounts 
 of trees and there aren't infinite amounts of cows.
 Um, but there's almost infinite amounts of like the ability to download a copy 
-of the software. Right? Like if I download the software, it doesn't prevent you 
+of the software, right? Like if I download the software, it doesn't prevent you 
 from downloading the software. So there's a sense of where this like competitive 
 versus community, uh, dynamic plays out on almost every level. Um, and it's 
 fundamentally informed by the way that software works and like software 
@@ -169,7 +169,7 @@ distribution works.
 
 **Michaela:** [00:10:12] Okay. Yeah. Well, this brings me somehow also to your 
 community, because I feel that your community is really awesome place to be in. 
-Um, it's called Paki corgi. Yeah. It's a platform. It's a community for 
+Um, it's called Party Corgi. Yeah. It's a platform. It's a community for 
 creators. That's how I would describe it. But, um, maybe you can go into more 
 detail. What's your vision with it?
 And what's, you know, what's the heart of this community and. Why do you think 
@@ -184,18 +184,18 @@ think that when, when other people look at what I did and they're like, Oh,
 obviously it would have ended up like that. And I looked at it and I kind of go 
 like, okay, I didn't know it was going to end up like that.
 Um, I hoped it would end up like that, but, uh, like, do you really know when 
-you're starting something? Uh, not really. And like party Cory started as, um, a 
-smaller, like, not really grandiose vision. Right. So I guess, let me backpedal 
-a little bit. And like party corgi is a community of creators engaging in a 
+you're starting something? Uh, not really. And like Party Cogi started as, um, a 
+smaller, like, not really grandiose vision, right? So I guess, let me backpedal 
+a little bit. And like Party Corgi is a community of creators engaging in a 
 community of practice.
 And what that means is that it's a community of people who are, uh, engaging in 
 the practice of a thing, whatever their thing is. Uh, often it's content 
 creation, it's blogging, screencasts egghead videos, things like that. Um, 
 sometimes it's just regular engineering work or design work or something like 
 that.
-Um, we have channels, for example, for JAMstack and serverless, we have channels 
+Um, we have channels, for example, for JAM stack and serverless, we have channels 
 for content creation and newsletters and, uh, doing like an indie hackers 
-product business. Right. Um, but then we also have people who are, um, doing 
+product business, right? Um, but then we also have people who are, um, doing 
 music or baking or growing plants and things like that. And those channels work 
 in the same way, where they're about the practice of like caring for your plants 
 and sharing pictures with them.
@@ -203,7 +203,7 @@ Uh, pictures of them, sorry, with, uh, other people and, um, like showing what
 you've cooked and sharing your recipes and like, And it's this idea of the 
 community of practice, where there's a big group of people that get together for 
 a common purpose and support each other through that purpose. And that is sort 
-of what party corgi network is to me today.
+of what Party Corgi network is to me today.
 Um, it is a housing that creates shared infrastructure that supports these kinds 
 of, uh, communities inside of it. 
 
@@ -213,15 +213,15 @@ courtroom workshops for example, is that if we are interacting, collaborating
 with each other, that somehow we have a framework of rules.
 Um, also about our behavior and you know, what is accepted and what isn't 
 accepted. And so I'm, for example, also advising people to have a code of 
-conduct for their code reviews, right. So that people know, well, this is the 
+conduct for their code reviews, right? So that people know, well, this is the 
 kind of feedback, or this is the kind of interactions that we want. Um, so. What 
 I, what I also see with communities very often is that it's really important 
 that we have such a very stable framework that we know, you know, this is how we 
 are expecting to behave with each other.
 And this is also the consequences. If you are not, if you are not following the 
-rules, right. Because rules without any consequences, aren't somehow. ER, um, 
+rules, right? Because rules without any consequences, aren't somehow. ER, um, 
 what's your vision for the ad? Do you have, do you have like community roles, 
-uh, for your party, Colby corgi community? How do they look like, have you 
+uh, for your Party Corgi, Corgi community? How do they look like, have you 
 thought a lot about that?
 Um, what's your take on that? 
 
@@ -243,13 +243,13 @@ And nobody else wants to do that. So we can't really get rid of them. Cause
 they're like a pillar of the community or whatever. And like that's a really 
 hard situation and you have to kind of get rid of those people. Or like get them 
 to modify their behavior, which is something that we've done fairly well in 
-party corgi.
+Party Corgi.
 I think like when it comes to enforcement, we do things publicly as much as 
 possible because I firmly believe that every action that you take, uh, uh, with 
 something that is like a code of conduct violation or something like that, or 
 something that could be grown into a code of conduct violation is a 
-communication with the people who are lurking in your community.
-Right. So the only way that you have a conversation with people who don't 
+communication with the people who are lurking in your community, right?
+So the only way that you have a conversation with people who don't 
 participate daily in conversation is for them to see what actions you're taking. 
 Right? So the actions you take have to be very clear and public and firm, uh, in 
 many cases. And if there needs to be follow up discussion with a particular 
@@ -279,48 +279,48 @@ But now in software development, even, um, starting at the new company, it's I
 think less. Direct. Yeah, definitely have something. And maybe you have an 
 employee handbook, but who reads it? Who enforces it? How do we behave? Right? 
 There are, I think there are a lot of power struggles happening daily in all of 
-the offices and places and remote work and whatnot.
-Right. All over the place. So how can we take those learnings from community 
+the offices and places and remote work and whatnot, right?
+All over the place. So how can we take those learnings from community 
 building and to bring them into our day to day work 
 
 **Chris:** [00:17:31] life? Yeah. I mean, I think that, um, when it comes down 
-to it and you talk about open source and community and like the party Corgan 
-network, uh, community, those are basically the same thing.
-Right. Um, and if you look at the way that Russ runs their community, uh, is a 
+to it and you talk about open source and community and like the Party Corgi 
+network, uh, community, those are basically the same thing, right?
+Um, and if you look at the way that Rust runs their community, uh, is a 
 pretty good example of like generally speaking, how to do things. There, there 
 was a talk recently that I watched about how breath handles their community, 
 called something like. Why wasn't I consulted was the title of the talk and it 
 goes over like, uh, how different groups are, is set up to own different pieces 
 of the rest of community, for example.
-And it's very similar to the way that party corgi has different people owning 
+And it's very similar to the way that Party Corgi has different people owning 
 different channels and responsible for different sub areas of the community. 
 Right. And like far, far, far bigger, so they're far or along and developed. Um, 
 but I truly believe that, like if you're trying to build a group of humans 
 together, Uh, working towards common purposes that this approach of that I took 
-with party corgi and whatnot is the same approach that you need to take with 
+with Party Corgi and whatnot is the same approach that you need to take with 
 open source is the same approach that you needed to take with your business.
-Uh, if you want this to be a positive thing going forward and self-reinforcing 
-right. 
+Uh, if you want this to be a positive thing going forward and self-reinforcing, 
+right?
 
 **Michaela:** [00:18:42] Okay. And so if you could summarize it, what is that 
 approach? So what can we take and how can we take it then? You know, what's the 
-ingredient for that? What's the recipe. 
+ingredient for that? What's the recipe?
 
 **Chris:** [00:18:55] So, I guess in the early days, like show up and show the 
-values that you want in the community.
-Right? Like, um, the, like me as the first person, um, I had to do the things 
+values that you want in the community, right?
+Like, um, the, like me as the first person, um, I had to do the things 
 that I wanted to see other people do, and then people will self select in and 
 out of that. Uh, as they see you doing things, and I think that's when it comes 
 down to it, that's the most important thing. You have to be very conscious of 
 what you are doing and the behavior that you're displaying.
 Um, and how that influences other people to act. Because for example, um, as a 
-leader of the party, corgi community, if I do something, it carries a lot of 
-weight, right. If I come in and I say, no, that's not okay. Um, There's a lot of 
-people that will not contest that. Right. They'll just say, Oh, this is how this 
+leader of the Party Corgi community, if I do something, it carries a lot of 
+weight, right? If I come in and I say, no, that's not okay. Um, There's a lot of 
+people that will not contest that, right? They'll just say, Oh, this is how this 
 community operates not, Hey, Chris, maybe you fucked up here and maybe you 
 shouldn't, uh, shouldn't have done that and should have done it a different way.
 Um, there's not a lot of people who will do that because I represent, uh, what a 
-lot of people view as the community, as one of the people who started it. Right. 
+lot of people view as the community, as one of the people who started it, right? 
 Um, So I think it's super important in, in like the primary takeaway. I was, I 
 would say take away is that the things that you do as the person who found the 
 community or the company or the project will influence how people act for the 
@@ -360,7 +360,7 @@ with the power don't want to.
 **Michaela:** [00:22:14] Yeah. Yeah. Oh, um, that's very depressing, but yeah. 
 Yeah. I agree. I also think that it's a, yeah, it's really hard if, if you are 
 not having any power to do anything, but I also think that maybe in the little 
-we can change and influence a little bit, the people surrounding us, right.
+we can change and influence a little bit, the people surrounding us, right?
 It could be our colleagues or our, our inner. Maybe our manager that manages 
 acid, we have some conversation and we change it a little bit. The perspection 
 of, of the people. 
@@ -384,11 +384,11 @@ how diverse are the processes that you are seeing?
 somebody is using. I'm not going to name any video production software, but like 
 if somebody is using some video software to have their meetings that is awful 
 and preventing their teams from communicating effectively and whatnot, um, uh, 
-maybe like maybe I can suggest something new, but probably not.
-Right. Like probably the situation is going to be that the company that I'm 
+maybe like maybe I can suggest something new, but probably not, right?
+Like probably the situation is going to be that the company that I'm 
 working with already has established practices for the tools that they use for 
 communication. And like telling them to move from Slack to discord is a 
-nonstarter, right. Competent to do that. Um, so there's things that you have to 
+nonstarter, right? Competent to do that. Um, so there's things that you have to 
 adapt to, and there's a lot of those as somebody who comes in as a third party, 
 right?
 This is not a, um, like I will come in, I will give my expertise in certain 
@@ -405,10 +405,10 @@ I've seen compared to being an employee, um, where I could say, like, I can use
 my power as a consultant because people are paying me for my expertise. And if 
 an employee says something and I'm like, that is the right thing to do.
 I can repeat that. And sort of like raise their voice to the level of the people 
-who are listening. Right. 
+who are listening, right?
 
 **Michaela:** [00:25:43] Amplifying that. Yeah. And so how do your contracts 
-look like? Are they like longterm or you're just going in, you know, for a 
+look like? Are they like long term or you're just going in, you know, for a 
 couple of hours consulting on one specific topic, or do you, you know, are you 
 with the company for several months and help them on an ongoing project or 
 something like that?
@@ -417,12 +417,12 @@ something like that?
 make sense to hire me to do, right. Like the, um, if you just want a couple of 
 buttons created on a site or like some CSS written or, um, like a, a one off, 
 uh, pipeline built or something like that, I'm probably not the best person to 
-do that because my rate is not commensurate with that work.
-Right. You probably want somebody who is a bit earlier in their career who maybe 
+do that because my rate is not commensurate with that work, right?
+You probably want somebody who is a bit earlier in their career who maybe 
 has a little bit less experience, um, who needs to gain some experience to do 
-those. Um, so I'll come in, uh, and like advise on a JAMstack adoption, uh, 
+those. Um, so I'll come in, uh, and like advise on a JAM stack adoption, uh, 
 process, right? Like this company wants to move their sites from whatever 
-they're doing to more of a JAMstack approach to simplify their dev ops pipelines 
+they're doing to more of a JAM stack approach to simplify their dev ops pipelines 
 and things like that.
 Um, and I can give a lot of advice around from, to get them from where they are, 
 to where they need to be. Um, and that can come from just like a one hour 
@@ -457,19 +457,18 @@ amount of writing you need to do on the internet to be perceived as an expert in
 a field. The truth is that most people don't write about stuff. Uh, so with, say 
 three to five well-written blog posts, you can be a visible expert in a specific 
 field that you want to start freelancing or consulting in, or, uh, however you 
-want to approach it.
-Right. Um, And that's, that's really my advice. Um, I will caveat that with say 
-I got my start like 10 years ago. Right. So, um, yes, I know that this works, 
+want to approach it, right?
+Um, And that's, that's really my advice. Um, I will caveat that with say 
+I got my start like 10 years ago, right? So, um, yes, I know that this works, 
 uh, I've seen people do it today. Um, but keep in mind that I started a long 
-time ago. Um, and I've been doing this for awhile, so like, My advice for 
+time ago. Um, and I've been doing this for awhile, so like, my advice for 
 getting started today might not fit your exact situation.
 
 **Michaela:** [00:29:32] Yeah. I mean, I see it today. I see it quite often when 
 people are writing, you know, 10 blog posts and they have like 10 people 
-visiting the blog post. Right. So it's definitely not something that you can 
-easily rank. Maybe you have to push it from. Uh, a few other sites as well. 
-Right. I don't know, maybe some direct connections that you can interact with, 
-right.
+visiting the blog post, right? So it's definitely not something that you can 
+easily rank. Maybe you have to push it from. Uh, a few other sites as well, right?
+I don't know, maybe some direct connections that you can interact with, right?
 People that you worked on before, or, you know, um, having some, some personal 
 network that you can activate to get the first one to clients or something like 
 that. Um, 
@@ -529,7 +528,7 @@ don't have a better English, uh, right now, um, is that I haven't started early
 enough. Right. So I could have, you know, demonstrated my expertise shared with 
 the world already while I was employed.
 Um, and that, I think this is such a smart move, or why do you are a student or 
-at the bootcamp or whatnot. Right. So this working in public and, you know, just 
+at the boot camp or whatnot. Right. So this working in public and, you know, just 
 sharing what you're learning public and with the, with the world, with the inter 
 world, right. And with the internet, I think that's such an important first step 
 because it's.
@@ -587,7 +586,7 @@ work on?
 What is the expertise that I can bring to the table? Even if you don't have it 
 at that point, or just getting, you know, you're starting it, let's say you're 
 starting with JavaScript. That's your thing. Then don't take on something that's 
-written in Peyton. Great. You can do it. Uh, but it's really hard to be 
+written in Python. Great. You can do it. Uh, but it's really hard to be 
 competitive in that.
 I mean, because you have to get the knowledge, you have to get up on speed. 
 Right? So, uh, whatever you're charging them, uh, you will take more than the 
@@ -653,10 +652,10 @@ that it's not going to like crash everybody and ruin everybody's weekend. Right.
 Um, if you don't, then don't apply on the Friday or don't merge on a Friday, 
 even, right.
 You shouldn't be merging code that you aren't about to deploy. Um, But like 
-that's all intertwined, right? Cause if you want to move to like a JAMstack 
+that's all intertwined, right? Cause if you want to move to like a JAM stack 
 based approach, one of the things that that, um, does for you is it decreases 
 your operational load. Right? If you move from a server side rendered 
-application to a JAMstack approach, now your problems happen at build time 
+application to a JAM stack approach, now your problems happen at build time 
 instead of at runtime on a server.
 Right? So if something goes wrong with a server, you wake somebody up. If 
 something goes wrong with a build. Everybody wakes up tomorrow morning and goes, 
@@ -678,7 +677,7 @@ rewrite your backend into serverless and you're doing that already.
 And you're committed, right. Um, Do you know, anybody that uses react at your 
 company and they were kind of looking at each other and they kind of like, uh, 
 not really. Um, and I was like, maybe start there, right? Like if you can't 
-like, don't just jump into a JAMstack metal framework, like gas, but your next 
+like, don't just jump into a JAM stack metal framework, like gas, but your next 
 there's something, if you don't even know anything about react, right.
 Um, you're gonna get yourself into a situation where like Gatsby is a complex 
 system, right. It's not simple. So what's next. So were all of these meta 
@@ -751,8 +750,8 @@ before, before we end this show about, about toast and what it is and how it's
 connected to rest in.
 
 **Chris:** [00:46:04] Sure. Um, so I, uh, accidentally I say I accidentally fell 
-into this specialty of JAMstack metal framework development. Um, So I built the 
-prototype of a jam stack, meta framework that used graph QL to do static site 
+into this specialty of JAM stack meta framework development. Um, So I built the 
+prototype of a JAM stack, meta framework that used graph QL to do static site 
 generation, uh, that influenced Gatsby to add it to their framework. Um, and 
 then I worked on Gaspe for a long time, uh, and, uh, some other frameworks and 
 whatnot.
@@ -760,7 +759,7 @@ And then this is my, sort of like a total rethink of, okay. So what if we didn't
 use Webpack? And we went with IES modules, cause those are available now in the 
 browser. What does that look like? Um, And one of the focuses is on performance 
 and build performance specifically. Um, and that's where rest comes in because 
-Russ has libraries that will let us do incremental computation of the build 
+Rust has libraries that will let us do incremental computation of the build 
 artifacts.
 Right. So that is a super exciting thing. Um, I got that working last week, so 
 yeah. Uh, we built a. 4,000 page site in 13 seconds, which is pretty cool. So 
@@ -778,7 +777,7 @@ thank you for being on my show and have a good day. Thank you for
 
 **Chris:** [00:47:33] Bye. Bye. 
 
-**Michaela:** [00:47:36] I hope you enjoyed another episode after sup 
+**Michaela:** [00:47:36] I hope you enjoyed another episode of the software 
 engineering unlocked podcast.
 Don't forget to subscribe and I talk to you again in two weeks. Bye.
 
