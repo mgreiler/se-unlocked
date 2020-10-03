@@ -1,5 +1,4 @@
-# Transcript of Episode 15 of the Software Engineering Unlocked Podcast with 
-Peter Pezaris
+# Transcript of Episode 15 of the Software Engineering Unlocked Podcast with Peter Pezaris
 
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked 
 Podcast. I'm your host, Doctor McKayla, and today I have the pleasure to talk to 
