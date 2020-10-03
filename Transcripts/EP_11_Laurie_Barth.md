@@ -1,4 +1,5 @@
 # Transcript Episode 11 Laurie Barth
+
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 
 Laurie Barth also known as laurieontech on Twitter. Laurie is a staff engineer at 
@@ -7,15 +8,18 @@ instructor and a vivid conference speaker.
 I love following your content on Twitter, where Laurie always asks many thought 
 provoking questions and helps people increase and reflect on their skills as a 
 leader. So thank you, Laura, for being on my show today. 
+
 **Laurie:** [00:00:33] Yeah, I'm excited to be here, 
+
 **Michaela:** [00:00:35] Laurie. I would like to start with your role at Gatsby. 
 Um, I think you recently transitioned to Gatsby.
 What do you do on your day to day work? What does it look like on a day to day 
 basis to work there?  
-**Laurie:** [00:00:48] Yeah, So I started here in October. No day is the same. I think 
-kind of all software engineers can say that in one way or another. But my job is 
-really to teach in whatever form that may take it, to help people understand how 
-to use Gatsby.
+
+**Laurie:** [00:00:48] Yeah, So I started here in October. No day is the same. 
+I think kind of all software engineers can say that in one way or another. 
+But my job is really to teach in whatever form that may take it, to help 
+people understand how to use Gatsby.
 And that means every day is a little bit different. Some days I'm collaborating 
 with teammates. Some days I'm writing documentations. Some days I'm prepping for 
 a webinar or a talk. Um, other days we're, you know, kind of in the planning 
@@ -29,9 +33,11 @@ that can be helpful to all kinds of different people who kind of
 understand and get their knowledge in different ways. So, yeah, that's my, my 
 day to day is there is no day to day. I wake up, I go to my office in my house. 
 I sit down at my computer. Yeah. Say, okay, what am I tackling this morning?
+
 **Michaela:** [00:02:01] Okay. Yeah, sounds really exciting. And would you 
 describe your role a little bit like a developer relations or a developer 
 advocacy role as well? It sounds for me a little bit like that. 
+
 **Laurie:** [00:02:13] Um, so yeah, there are some similarities, there are 
 certainly some overlap in terms of the fact that, you know, we're an open source 
 project.
@@ -45,9 +51,11 @@ even though jokingly, it may seem like it. Um, it's, it's not necessarily my job
 to do all of that interaction. I do it because I enjoy it. Uh, but my focus is a 
 little bit more laser focused on specifically teaching and learning instead of, 
 um, advocating for Gatsby as a platform or a product.
+
 **Michaela:** [00:03:15] Okay. So you said that the learning experience is 
 different or unique and well different than others. So what would you say makes 
 it unique? What's different there. 
+
 **Laurie:** [00:03:27] Yeah. Um, so. So if you go to the Gatsby documentation 
 site, you'll see. I mean, it's all on gatsbyjs.org for people who don't know, 
 you'll see a bunch of different tabs.
@@ -68,6 +76,7 @@ software engineer, they may start at step one of the tutorial.
 Um, if they're already someone who knows react, they may start a little bit 
 later, but it's about making sure that everyone's experience is covered, um, in 
 our learning tools.
+
 **Michaela:** [00:04:58] Yeah. I really like this philosophy. That resonates a 
 lot. Yeah. Because sometimes if you're starting out, I actually made the choice 
 last year to use Hugo, uh, for one of my sites, just to try it out. Right. And 
@@ -77,6 +86,7 @@ Right. So you have to decide whether or not the documentation is good enough
 that you can invest in that technology. Right. So one of my questions is, do you 
 see that from the adoption patterns right. There are different groups of 
 people adopting Gatsby than other, you know, other static site generators.
+
 **Laurie:** [00:05:39] Yeah. So I can't necessarily say it from a, from a data 
 driven perspective. I've seen various sets of data, but nothing that I could 
 kind of recall off the top of my head, but I can, from an anecdotal point of 
@@ -90,6 +100,7 @@ the company who probably do have that data and can point out and say, yes,
 Laurie, that's a thing.
 But it’s nothing that I can kind of like cite right now, so I wouldn’t want 
 to speak out of turn.
+
 **Michaela:** [00:06:27] Yeah, sure. Um, so, and actually, um, because I'm 
 following you on Twitter, I know that you said that you actually switched from 
 architectural role, right. Being a software architect to actively developing 
@@ -98,6 +109,7 @@ It probably felt a little bit rusty coming back to developing, but then you
 said, well, it actually it's changed how I see the things and I'm, you're even 
 better developer right now. Is that, Is that correct? What I got out from 
 your teeth or was the experience different? 
+
 **Laurie:** [00:06:57] Yeah, it's, it's a slightly more complicated story.
 I like your simplified version. Um, yeah, complicated story is that my, my 
 previous role to working at Gatsby was as a consultant and that meant that kind 
@@ -115,6 +127,7 @@ um, information architecture in deciding kind of how are we going to structure
 this documentation experience or this learning experience for other people.
 And then if you know, I'm doing a webinar and I have to make a repository, then 
 I go back and put on my software architecture hat. 
+
 **Michaela:** [00:08:12] Yeah. I mean, especially with blog posts and I think 
 this is probably similar to, you know, providing documentation and learning  
 experience. I started writing something, there comes, you know, more and more 
@@ -126,11 +139,14 @@ how can you actually make that? Not. You know, the monster gigantic blog posts
 ever that nobody wants to read and still it's self contained and things like 
 that.
 Right. Um, so yeah, uh, 
+
 **Laurie:** [00:08:49] not a science. 
+
 **Michaela:** [00:08:51] Yeah. Well, some of my blog posts that I wrote, I 
 think. Two months ago, three months ago, I go and say, wow, wow, this is way too 
 long. But at that point it was like, no, it cannot be shorter. Cannot be 
 shorter. 
+
 **Laurie:** [00:09:07] One of my first blog post that, um, 
 was more technically heavy, um, included a lot of code samples was actually on 
 Gatsby and it was three parts.
@@ -143,11 +159,13 @@ But I looked back at it the other day. Cause I had to look through it for
 something, the tutorial that was a consequence of that blog post. And I was 
 like, Oh God, I need to rewrite this. This is not good. So, you know, you 
 evolve, you get a lot better. Exactly. 
+
 **Michaela:** [00:09:55] Yeah. Yeah, that's true. So you're already hinted a 
 little bit that this blog post might have impacted you, how you get to gatsby,
 how you got that role.
 Can you tell me a little bit about how you started working at Gatsby and you 
 know, what was your interview process like as well? 
+
 **Laurie:** [00:10:16] Yeah. Um, so, so they had an opening, they just posted an 
 opening for Staff software engineer, um, for the learning team. And at the 
 time I had been doing a lot content creation.
@@ -188,8 +206,10 @@ They time box them and they want you to actually fit in that time box. Um,
 but they also give you flexibility about when you're using your time for that.
 But everything I did in that interview, was directly related to work I would do 
 on the job. And for me, that was the benchmark. 
+
 **Michaela:** [00:13:07] And so when you say they time boxed, how, how long 
 does such a take home exercise or a project take? 
+
 **Laurie:** [00:13:12] Yeah, I don't specifically remember the blog post one, 
 but I remember the final project they said, please spend no more than 
 I can't remember if it was two or four hours. Um, but, but it was specific 
@@ -204,6 +224,7 @@ contribute and get done. And you don't want them to come in with an inflated
 view of that, because then you're going to spend, you know, 60 hours a week 
 trying to do what they think you can do in 40 hours.
 And nobody wants that that's recipe for burnout. 
+
 **Michaela:** [00:14:09] Yeah. I think also, I mean, if you're, if you are a 
 little bit further in your career, right. And maybe you're also a little bit 
 more self confident, then the interview process is also for you to evaluate the 
@@ -225,6 +246,7 @@ have to review them and decide, you know, is that work good enough to be
 integrated?
 What should be changed? And, um, what do you think what's the most challenging 
 for you in that role? 
+
 **Laurie:** [00:15:41] It's a firehouse. Most people who contribute don't 
 necessarily realize that reviewing these PRS are not the only thing we do 
 every day. And so it's perfectly reasonable. I know this because I was 
@@ -246,12 +268,14 @@ it, if it doesn't get done and you know, a day or two, when it takes a little
 bit longer, we try so hard to keep that time down, but it's just not always 
 possible.
 So that, that would be the hardest part I would say. 
+
 **Michaela:** [00:17:13] And so coming back to code reviews because it's one of 
 my favorite topics. I think it's a very interesting topic because of, well, the 
 technical aspects and the social aspects. Some people don't like, or dislike 
 contributes because they see them as gatekeeping or, you know, hindering people 
 to contribute and things like that.
 What's your view on it. And how do you do them? 
+
 **Laurie:** [00:17:38] Yeah. So code reviews they're, they're like anything else 
 if done  Well, they can be great if done poorly, they can be horrible and bad 
 for your self esteem and, um, kind of, abusive in some ways. So code reviews are 
@@ -284,6 +308,7 @@ gracious and to note that any kind of edits are not criticism, it's just,
 there's a reason for it, whether it be the style guide or, um, impacts elsewhere 
 in the, in the system. So we try not to have arbitrary commentary and I think 
 that helps a lot.
+
 **Michaela:** [00:20:04] Yeah, I think, and often people also say, Oh, 
 code reviews about the code, not a person. Right. Most of the things are 
 about the person, right? So 
@@ -304,6 +329,7 @@ And I think it has, I don't know, more than 5,000 hearts and likes and things
 like that. Right. So the first thing that comes to my mind is are there any 
 words that sit with you for several years? Is there something that triggered 
 that very thing? Well, why do you have this word still in my head? 
+
 **Laurie:** [00:21:21] Yeah.
 So I can specifically say that, um, the trigger for writing that tweet was 
 seeing multiple people talk about feedback from colleagues or superiors, um, 
@@ -338,8 +364,10 @@ And so you need to be intentional. You need to think about how you're giving
 that feedback, um, how you are, uh, being critical if you need to be, but in a 
 way that's actionable and constructive instead of just pointing out something, 
 someone did wrong. 
+
 **Michaela:** [00:23:34] So how do you deal with that? How, how do you shake 
 that off? If somebody says you're obnoxious, I mean, 
+
 **Laurie:** [00:23:41] um, I don't know that there's any one right answer. 
 Um, I think in the case of, you 
 know, getting that a speaker feedback, I would love organizers to pay more 
@@ -364,6 +392,7 @@ thoughtfulness that you deserve. Same with, uh, reviewing your blog posts or a
 talk you're giving and try not to look at, or even listen to the anonymous 
 feedback. Those people don't necessarily have the time or attention or incentive 
 to be as thoughtful or intentional with what they're saying. 
+
 **Michaela:** [00:25:22] Yeah. I like also what you said about the conferences, 
 right? I mean, this is a community that's actually moderated, right?
 So there are conference organizers and It's their responsibility to moderate 
@@ -388,6 +417,7 @@ Like you didn't read it. I mean, you start your whole conversation.
 But I didn't read it and then you're ripping it apart. It's how, so it must 
 be really, they must be outliving something that makes them feel good. 
 something like that.
+
 **Laurie:** [00:27:12] Yeah,
 Um, I said, you know, who, who just let it roll off their backs. I think a lot 
 of the people who speak that way and, um, kind of let their opinions flow no 
@@ -407,6 +437,7 @@ can't say I agree with their view, but, but there's definitely a group of people
 out there who just, you know, you can say whatever you want to them, they'll say 
 whatever they want to you.
 And they don't think words matter. 
+
 **Michaela:** [00:28:31] Well, I would like to bring that conversation back to 
 the workplace because well, the internet is somehow unlimited, right? So 
 everybody can in some capacity contribute there, but the workplace is a little 
@@ -430,6 +461,7 @@ will probably say, listen, um, can you explain to me again, what's your main,
 the idea behind that?
 And if you're not, you're not able to say that. Have you thought about that 
 concept and you work actively with your team on that in some way? 
+
 **Laurie:** [00:30:10] Yes. So I'm a big part of psychological safety is your 
 personal situation and how much safety you have in your job security. And that, 
 that has a lot of different layers.
@@ -470,6 +502,7 @@ sure everyone feels comfortable and, you know, in the abstract, I would like to
 say, yeah, I think we're doing great. But at the same time, you know, we haven't 
 had something that's super tense yet. And that's when you get evidence of 
 whether what you're doing is working or if you need to adjust.
+
 **Michaela:** [00:33:07] Yeah. And that's exactly what I wanted to say because 
 only in the moment that you needed then you realize you don't have it right. Or 
 you have it, um, before it's, it's so abstract that you Oh yeah. I feel 
@@ -484,6 +517,7 @@ good question. So. You also talked about being an egghead instructor. And I
 would like to understand a little bit more what that really means. What is an  
 egghead instructor? What do you do? And, um, yeah. And how do you prepare those 
 courses and, you know, things like that.
+
 **Laurie:** [00:34:10] Yeah.So, um, it had his, uh, Platform for learning. 
 And it's a video platform. Um, and I became an instructor this past summer. 
 Joel hooks, one of the cofounders sent me a message on Twitter and he said, 
@@ -496,7 +530,9 @@ had previously read my blog posts and went to watch the videos and said, Oh, I
 found the video is so valuable. That's the way I learned best. And that was my 
 goal to give kind of multi-modality to the way that people could learn from the 
 things that I was trying to teach.
+
 **Michaela:** [00:34: 57] Very cool. 
+
 **Laurie:** [00:34:59] Yeah. In terms of topics, um, my course was kind of 
 born out of the fact that I've used angular and I've used react and I've used
 Vue. And I had recently been working on a project with Vue and I was kind of 
@@ -506,10 +542,13 @@ So lots of JavaScript syntax, some stuff about working with Vue code. Um, some
 stuff about RXJS and specific operators. Maybe even some CSS in there I'd have 
 to go back, but it's, it's normally based on what blog posts I'm writing or what 
 new fun trick I just learned that I didn't know about before. 
+
 **Michaela:** [00:35:42] So about you are completely free in deciding to do 
 another video of whatever interests you.
 What do you think is valuable for the audience? 
+
 **Laurie:** [00:35:50] Whatever I want to do, I can do. 
+
 **Michaela:** [00:35:53] Sure. Cool. That's really cool. Yeah. I actually 
 learned really good with video. I know nowadays always go to YouTube first. I 
 search there. If anybody has done it, I mean, it depends on the video, right? 
@@ -518,6 +557,7 @@ And then that really is annoying. But if it's a serious, for example, Hugo Hugo
 thing, I followed. I followed Mike, I think it's Mike. Um, and Mike really 
 explains very well how to set up a hugo site. And so I went, you know, video 
 per video and I was like, well, that's, that's exactly my style. I like that. 
+
 **Laurie:** [00:36:33] And egghead, has a very particular style.
 Um, you'll see other video platforms that exist and, you know, they kind of do a 
 set up and they say, Hey, this is what we're going to talk about today. And then 
@@ -530,6 +570,7 @@ description and the title, um, there's a little kind of code pen or code sandbox
 that will show you what it was that I did. Um, otherwise I'm diving in, I'm 
 starting to code finishing it and you know, most of my videos are 
 Less than a minute. I mean, it's really fast. It's quick and dirty.  
+
 **Michaela:** [00:37:23] Yeah, I think I like that. Yeah. More so for example, I 
 also do things on Pluralsight, but exactly. That's what I don't like is that 
 you're, you know, you're your click somewhere and then, you know, it's the 
@@ -543,17 +584,22 @@ Because I don't understand where something comes, you know, some resources
 suddenly appear on your machine and I have no idea how you get them. Um, so it 
 should be self complained,  but, uh, yeah, to the point, I think that's, that's 
 what I like. 
+
 **Laurie:** [00:38:13] Yeah, for sure. 
+
 **Michaela:** [00:38:15] Well, one of the things that I wanted to talk with you 
 is about speaking, because I'm also getting back into speaking this year.
 Just a few conferences because I have two kids, so I'm not going to fly around, 
 uh, every month. Uh, but I see that you are almost never at home. At least it 
 looks like that. If I look at your speaking website, I'm like, okay, Laurie 
 lives around the globe.
+
 **Laurie:** [00:38:41] I live in a hotel. 
+
 **Michaela:** [00:38:43] Mmm. Yeah. How do you balance speaking with your 
 day to day work at Gatsby? and your speaking engagement part of your work at 
 Gatsby? Or how does that work? 
+
 **Laurie:** [00:38:52] Yeah, so, um, a lot of the speaking engagements  
 you'll see is actually last year. Um, and, and last year was a year where I 
 applied everywhere. I was interested in doing more speaking than I'd done 
@@ -585,6 +631,7 @@ Gatsby kind of gives me the latitude to make smart choices. Um, my self until
 it gets to the point where they think I've not making smart choices.
 And then they say, okay, Lori, we're renting you in a little bit, but so far so 
 good. 
+
 **Michaela:** [00:40:44] So maybe one of the last topics that I want to, um, 
 pick your brain about is Twitter, because you increased your Twitter following 
 quite a bit over the last year. And I see you, you know, I see that you have a 
@@ -595,6 +642,7 @@ like if people are writing back, if I, you know, hear about them, but I would
 like to understand. What Twitter means to you and how do you use Twitter to 
 really engage with people?
 I see that you are asking a lot of questions. Why do you do that? 
+
 **Laurie:** [00:41:27] Yeah. I first got a Twitter account, a 
 professional Twitter account because I was speaking at a conference, one of my 
 first conferences and they said, you know, do you have a Twitter? And I was 
@@ -627,9 +675,11 @@ go on vacation and I put down my phone because I want to. I'm going to see a
 huge drop in the number of people who engage with me. And it's not because the 
 people who like what I write have disappeared, it's because they're not seeing 
 what I tweeted on their feet.
-It's just not getting picked up. And that's okay. So, so you learn that, and you recognize that like what, whether or not your stuff is seen as not really a 
+It's just not getting picked up. And that's okay. So, so you learn that, and you 
+recognize that like what, whether or not your stuff is seen as not really a 
 byproduct of what you wrote or what you said, the questions thing was born out of.
-Early days, Twitter. I had gotten to the point where I had a thousand, maybe 2000 followers.
+Early days, Twitter. I had gotten to the point where I had a thousand, 
+maybe 2000 followers.
 And I said, I think there's enough people here that I could get some interesting 
 data. Um, so I asked a question and I can't for the life of me, remember what 
 the first one was, and I didn't expect anyone to answer. And it had like over a 
@@ -652,6 +702,7 @@ And I've been laughing all morning at the response. So, you know, sometimes it
 just, you know, put a little bit of a levity in someone's day and sometimes 
 it's, what are people working on sometimes it's, you know, how do you learn 
 best? Because that directly goes to what I do. It varies.  
+
 **Michaela:** [00:45:34] Yeah, I really like to ask questions.
 So that's probably why that's so interesting to me because I'm super curious 
 person and I always want to know how others see the world, right? And 
@@ -664,20 +715,25 @@ and they're like, Hm.
 But yeah, if people answer, I'm really super happy, always. So. Yeah. So Laurie, 
 I think that we actually reached the end of my show. Do you want to, you know, 
 talk about something that we haven't covered yet? 
+
 **Laurie:** [00:46:16] No, I think we've talked about some fun stuff. The only thing 
 that I would say is feel free to tweet at me.
 If you think of anything you'd like to ask. I am Laurieontech, on Twitter. I 
 write a number of blog posts about Javascript, web technologies, other stuff. I 
 do the egghead stuff. I speak at conferences. If you ever see me in the wild, 
 please come up and say, hello. 
+
 **Michaela:** [00:46:40] Yeah, I will put everything in the show notes.
 And, um, yeah, I just want to thank you for, for this really well rounded 
 interview. I learned a lot today from you. Thanks for taking the time.
+
 **Laurie:** [00:46:51] time. Absolutely. Thanks so much for having me. I 
 appreciate it. 
+
 **Michaela:** [00:46:55] I hope you enjoyed another episode of software engineering 
 unlocked podcast. Don't forget to subscribe. And I talk to you again in two 
 weeks.
+
 **Michaela:** [00:47:10] Bye.
 
 
