@@ -772,7 +772,7 @@ changed, right?
 So why should they, I would, I should change, right? Because this doesn't make 
 sense. So it's really cool that the tools can already do that a little bit more. 
 I know it'd be running a little bit out of time, so I don't know. I have so many 
-things to talk with you. I want to talk about Marx. 
+things to talk with you. I want to talk about mocks. 
 
 **Kent:** [00:51:24] Ah. 
 
