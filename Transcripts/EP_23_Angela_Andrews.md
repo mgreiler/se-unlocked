@@ -1,4 +1,4 @@
-# Transcript Episode 23 Angela Andrews
+# Transcript - Episode 23, Angela Andrews
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to Angela Andrews: a solution architect at RedHat. But before I start, I wanted to tell you that I have added new dates for my code review workshops. In these workshops, you learn how to get the most out of code reviews. That means you learn how to make them fast and effective at the same time. In the workshop I share with you all my knowledge I gained over the last 10 years. I worked with engineers at Microsoft, National Instruments, Metro Systems, Wix, Automatic, Flutter, and many others to make code reviews their super power. I'd love to also work with you and your team -- so check out my brand new website address: https://awesomecodereviews.com.
 
