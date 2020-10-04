@@ -411,52 +411,53 @@ couple of hours consulting on one specific topic, or do you, you know, are you
 with the company for several months and help them on an ongoing project or 
 something like that?
 
-**Chris:** [00:26:02] It depends. Definitely. Um, there's. Work that it doesn't 
-make sense to hire me to do, right. Like the, um, if you just want a couple of 
+**Chris:** [00:26:02] It depends. Definitely, um, there's work that it doesn't 
+make sense to hire me to do, right? Like the, um, if you just want a couple of 
 buttons created on a site or like some CSS written or, um, like a, a one off, 
-uh, pipeline built or something like that, I'm probably not the best person to 
-do that because my rate is not commensurate with that work, right?
+uh, CI pipeline built or something like that, I'm probably not the best person
+to do that because my rate is not commensurate with that work, right?
 You probably want somebody who is a bit earlier in their career who maybe 
 has a little bit less experience, um, who needs to gain some experience to do 
 those. Um, so I'll come in, uh, and like advise on a JAM stack adoption, uh, 
 process, right? Like this company wants to move their sites from whatever 
-they're doing to more of a JAM stack approach to simplify their dev ops pipelines 
+they're doing to more of a JAM stack approach to simplify their DevOps pipelines 
 and things like that.
 Um, and I can give a lot of advice around from, to get them from where they are, 
 to where they need to be. Um, and that can come from just like a one hour 
 conversation all the way to like, Here's a week and I will come back with a 
-written document about a year, all my suggestions on what you need to do to get 
+written document about here are all my suggestions on what you need to do to get 
 it from here to there.
 Um, and this is the business value that you'll get out of that. And then they 
 can make the decision informed now about whether that's the right move or not. 
 Um, and then there's a longer term contracts, right? So the work I did with say 
 Gatsby, for example, uh, they wanted me to actually do work on their community 
-and their, um, Uh, open source project and things like that.
+and their, um, uh, open source project and things like that.
 So I was writing code and doing, and doing user research and working with the 
-community to, uh, bring Gatsby themes to life. And some other things like Gaspe 
-plugin, MDX, um, and that is a longer term R and D project. Uh, so that was 
+community to, uh, bring Gatsby Themes to life. And some other things like
+gatsby-plugin-mdx, um, and that is a longer term R&D project. Uh, so that was 
 framed more as a retainer than a, um, like short term project. 
 
-**Michaela:** [00:27:50] So I think what is super interesting for me and for 
+**Michaela:** [00:27:50] So, I think what is super interesting for me and for 
 many of them and listeners, I guess, is how do you get started with that?
-You're a little bit outlined did that you were actually already free in your 
-early career. Then you went to work with some of the startups and some 
+You're a little bit outlined did that you were actually already freelancing in
+your early career. Then you went to work with some of the startups and some 
 companies, and then you went back to, uh, independent consultancy work. So what 
-would you advise somebody that wants to, you know, Get their own things start 
+would you advise somebody that wants to, you know, get their own things, start 
 their own business.
 Maybe not the same thing as you did, but in the software engineering, you know, 
 in the software engineering area, what are some good ways to maybe get exposure? 
 Um, I think I heard you saying once, uh, be visible and people will come to you, 
-but Hmm. How, how does that work? How can we help? How can we achieve something 
-like that?
-How can we even kickstart it, get the foot in the door. I 
-**Chris:** [00:28:41] think that, um, people, uh, grossly overestimate, the 
+but, hmm, how, how does that work? How can we, you know, how can we achieve
+something like that?
+How can we even kickstart it, get the foot in the door.
+
+**Chris:** [00:28:41] I think that, um, people, uh, grossly overestimate, the 
 amount of writing you need to do on the internet to be perceived as an expert in 
 a field. The truth is that most people don't write about stuff. Uh, so with, say 
 three to five well-written blog posts, you can be a visible expert in a specific 
 field that you want to start freelancing or consulting in, or, uh, however you 
 want to approach it, right?
-Um, And that's, that's really my advice. Um, I will caveat that with say 
+Um, and that's, that's really my advice. Um, I will caveat that with say 
 I got my start like 10 years ago, right? So, um, yes, I know that this works, 
 uh, I've seen people do it today. Um, but keep in mind that I started a long 
 time ago. Um, and I've been doing this for awhile, so like, my advice for 
@@ -465,30 +466,30 @@ getting started today might not fit your exact situation.
 **Michaela:** [00:29:32] Yeah. I mean, I see it today. I see it quite often when 
 people are writing, you know, 10 blog posts and they have like 10 people 
 visiting the blog post, right? So it's definitely not something that you can 
-easily rank. Maybe you have to push it from. Uh, a few other sites as well, right?
+easily rank. Maybe you have to push it from, uh, a few other sites as well, right?
 I don't know, maybe some direct connections that you can interact with, right?
 People that you worked on before, or, you know, um, having some, some personal 
-network that you can activate to get the first one to clients or something like 
-that. Um, 
-**Chris:** [00:30:01] yeah, that works for super important. And, um, I think 
-that that's something that like, when people talk about like Griff, Twitter, Uh, 
-that's one of the things that is the problem.
-Right? Cause people say something similar to what I just said, and they're like, 
-just right. And you're good. Um, and I want to be clear that that's not what I'm 
-saying. You can write three to five blog posts and like you still have to have 
-either a network or an audience or something like that. Right? Like people still 
-need to see those blog posts.
+network that you can activate to get the first one, two clients or something like 
+that. Um, yeah.
+**Chris:** [00:30:01] Networks are super important. And, um, I think 
+that that's something that like, when people talk about like grift Twitter, uh, 
+that's one of the things that is the problem, right?
+Cause people say something similar to what I just said, and they're like, "Just
+write three blog posts and you're good!" Um, and I want to be clear that that's
+not what I'm saying. You can write three to five blog posts and like you still
+have to have either a network or an audience or something like that, right?
+Like people still need to see those blog posts.
 Um, and you need the right people to see those blog posts and to do that, you 
-need to build up your online presence and, uh, whether that's Twitter or dev to, 
-or any of these other platforms, um, or your own site. Right. Which is a harder, 
-but, um, better path in the long run. Um, like it requires a lot of work to, uh, 
-do this.
+need to build up your online presence and, uh, whether that's Twitter or
+dev.to, or any of these other platforms, um, or your own site, right? Which is
+a harder, but, um, better path in the long run. Um, like it requires a lot of
+work to, uh, do this.
 And also like those three to five blog posts that I was talking about aren't 
 necessarily going to be your first, right. Like writing is a skill, uh, and 
 marketing is a skill. So if you're going to jump from pure engineering work, as 
 I see to doing consulting, okay, maybe you already know people that you can get 
-your first clients from, um, which is great.
-Right. But if you're going to take the approach of, I don't know who would be my 
+your first clients from, um, which is great, right?
+But if you're going to take the approach of, I don't know who would be my 
 clients and I need to find some and generate that interest and be public about 
 it. Um, the three to five blog posts that I was just talking about are not going 
 to be the first ones that you write probably. Um, you're probably going to write 
@@ -498,19 +499,19 @@ have to, after you learn how to write, learn how to market yourself and market
 your blog posts and market your expertise, and then you're going to learn how to 
 like price things. Like eventually you're going to have people coming to you and 
 you're going to have to learn how to like set up contracts and price things.
-And like, what does a good client look like? Right. And you don't figure out 
+And like, what does a good client look like, right? And you don't figure out 
 what a good client looks like until you've had five to 10 of them, right? 
 
-**Michaela:** [00:31:53] Like 
+**Michaela:** [00:31:53] Yeah. True.
 
-**Chris:** [00:31:54] it's, it's easy to recognize a really bad client. Right. 
-Um, and if you're trying to get into this one thing I'll remind people of is 
-that like, uh, whereas you can't really fire your employer, you can fire a 
-client.
+**Chris:** [00:31:54] Like it's, it's easy to recognize a really bad client,
+right? Um, and if you're trying to get into this one thing I'll remind people
+of is that like, uh, whereas you can't really fire your employer, you can fire
+a client.
 So if they breach the contract, uh, the contract is over, right? If either side 
 breaches it. So it's much more of a equal partnership as opposed to some kind of 
-an employee employer relationship where you can't really fire your employer, 
-like even quit. But. It's not quite the same thing. 
+an employee-employer relationship where you can't really fire your employer, 
+like you can quit, but, it's not quite the same thing. 
 
 **Michaela:** [00:32:23] Yeah. Well, I totally agree.
 I think blogging and, you know, social, having a social media presence is really 
@@ -519,24 +520,23 @@ not done with the three, five blog posts. Um, it's really hard to, to, um, get
 people to look at those. Uh, but on the other hand, I think there are, there are 
 many, many benefits that when once you're getting into that rhythm, right, 
 you're understanding how the community takes, how to, as you said, market 
-yourself, how to write, how to demonstrate your expertise.
-Right? This is really, then it really becomes something very, very valuable. Um, 
-something that I somehow, uh, Regret I regret is really a strong word, but I 
-don't have a better English, uh, right now, um, is that I haven't started early 
-enough. Right. So I could have, you know, demonstrated my expertise shared with 
-the world already while I was employed.
+yourself, how to write, how to demonstrate your expertise, right?
+This is really, then it really becomes something very, very valuable. Um, 
+something that I somehow, uh, regret, I regret is really a strong word, but I 
+don't have a better English word for it, uh, right now, um, is that I haven't
+started early enough, right? So I could have, you know, demonstrated my
+expertise, shared with the world already while I was employed.
 Um, and that, I think this is such a smart move, or why do you are a student or 
-at the boot camp or whatnot. Right. So this working in public and, you know, just 
-sharing what you're learning public and with the, with the world, with the inter 
-world, right. And with the internet, I think that's such an important first step 
-because it's.
-It's very low hanging fruit that you can do, right. It doesn't have to be the 
-best, um, article. You don't have to have a niche. Yeah. You just write about 
-what you learn because you're learning, as you said, you're learning so many 
-skills. You're learning to ride. You're learning how to publish that you, um, 
-have first figure out where do I have my blog?
-Right. We have it on my own domain, right on deaf too, or whatnot. Right. 
-There's so many different options. So you get a little bit into dad. Um, Uh, 
+at the boot camp or whatnot, right? So this working in public and, you know, just 
+sharing what you're learning in public and with the, with the world, with the
+inter-world, right? And with the internet, I think that's such an important
+first step because it's, it's very low hanging fruit that you can do, right?
+It doesn't have to be the best, um, article. You don't have to have a niche, yeah
+you just write about what you learn because you're learning, as you said, you're
+learning so many skills. You're learning to write. You're learning how to publish
+that. You, um, have first figure out where do I have my blog, right?
+We have it on my own domain, write on dev.to, or whatnot, right?
+There's so many different options. So you get a little bit into that, um, uh, 
 thinking and, and build your thoughts process around it. And you're getting 
 skills from that. And maybe you just do it once a month. It doesn't have to be 
 every week, or, you know, I think sometimes people have these very high goals 
@@ -544,239 +544,234 @@ that you want to achieve.
 Maybe it's only every three months. I see even, you know, online presence is 
 where people have two or three nicely written blog posts per year, but because 
 they are doing it like, you know, how fast two years go buy right? Or three 
-years or five years. And then you're having something that, um, People will get 
+years or five years. And then you're having something that, um, people will get 
 to know you.
 Um, and you're, you're getting your skills a little bit. So I think really 
 starting early, as early as possible is, is one of the best things people could 
-do. Yeah. Yeah. I 
+do. Um, yeah.
 
-**Chris:** [00:34:54] totally agree with that. Um, I think that when we start 
+**Chris:** [00:34:54] Yeah, I totally agree with that. Um, I think that when we start 
 talking about like, what do you actually need, um, to be like recognized as an 
-expert, if you're trying to produce content or whatnot, Um, and if we, if we 
+expert, if you're trying to produce content or whatnot. Um, and if we, if we 
 talk about this, like three hypothetical three to five blog posts, um, like 
 getting started doing that while you are stable and employed and, uh, have an 
-income, wasn't one of the most powerful things you can do, because then you 
+income, is the, is one of the most powerful things you can do, because then you 
 don't need a client.
 You can do this until you figure out how to do this. Uh, and then when clients 
-come to you, you can be like, okay, Is it time now for me to quit my job and go 
+come to you, you can be like, okay, is it time now for me to quit my job and go 
 do this, or do I want to do this half time or quarter time with like a client to 
-test out what it's like. Right. You can also read 
+test out what it's like, right?
 
-**Michaela:** [00:35:39] for the, for the good client to come to you.
+**Michaela:** [00:35:39] You can also wait for the good client to come to you.
 Right. So before I started my business, I was really waiting for the clients 
 that I want to work with. I didn't, you know, take on anything, but really what 
 I wanted to do, what I thought did I have a lot of experience with. Um, and so I 
-actually sit out, I think, Hmm. Nine months. Um, to just have this client, you 
-know, where everything was ready, I could have taken on smaller projects as much 
+actually sit out, I think, hmm, nine months, um, to just have this client, you 
+know, where everything was ready. I could have taken on smaller projects as much 
 projects that I'm not that interested in or project that doesn't fit so much 
-into the path that I want to go.
-Right. Because I think one of the most, that's why I asked you about your niche. 
+into the path that I want to go, right?
+Because I think one of the most, that's why I asked you about your niche. 
 I think one of the most or biggest mistake is to be, you know, everybody's 
-darling or, you know, um, You know the expert for everything, right? Oh, you 
-want to PHB website or I can do that, right? Oh, you want something with the 
-gems?
-Like, Oh, I can do that. Right. You want some graphic design? Oh yeah, I can do 
-that. Right. Um, and I think, I think it's very easy to, to get into that. 
+darling or, you know, um, you know, the expert for everything, right? Oh, you 
+want to PHP website oh I can do that, right? Oh, you want something with the 
+JAM stack?
+Like, oh, I can do that, right? You want some graphic design? Oh yeah, I can do 
+that, right? Um, and I think, I think it's very easy to, to get into that. 
 Especially if you need money or, you know, you need some clients, but I don't 
 think it's the, it's the right approach. Um, it's much better if you're in a 
-position where you can say, well, What are the projects that I really want to 
-work on?
-What is the expertise that I can bring to the table? Even if you don't have it 
-at that point, or just getting, you know, you're starting it, let's say you're 
-starting with JavaScript. That's your thing. Then don't take on something that's 
-written in Python. Great. You can do it. Uh, but it's really hard to be 
-competitive in that.
-I mean, because you have to get the knowledge, you have to get up on speed. 
-Right? So, uh, whatever you're charging them, uh, you will take more than the 
-hours, probably, especially if you're new to that, because you feel like, Oh my 
+position where you can say, well, "What are the projects that I really want to 
+work on? What is the expertise that I can bring to the table?" even if you
+don't have it at that point, or just getting, you know, you're starting it.
+Let's say you're starting with JavaScript. That's your thing. Then don't take
+on something that's written in Python, right? Obviously, you can do it, uh, but
+it's really hard to be competitive in that.
+I mean, because you have to get the knowledge, you have to get up on speed,
+right? So, uh, whatever you're charging them, uh, you will take more than the 
+hours, probably, especially if you're new to that, because you feel like, oh my 
 God, it takes me now 10 hours to do something that should be one hours. I 
 charged him two hours.
 Uh, but you still, you know, you spend 10 hours doing it. Uh, but if you're 
 really good at, let's say JavaScript, then it takes you half an hour. So that's 
-awesome. Right? 
+awesome, right? 
 
 **Chris:** [00:37:39] Yeah. And I think that connected to that, there's 
 something, um, about where if you're an employee at a company you're not an 
 employee for no reason, right?
 You're an employee because you're providing business value that is greater than 
-your salary to the company that isn't playing you. And if you figure out what 
-that business value is, You can turn that into freelancing and consulting and 
-whatnot. Right. But you have to understand it from like a business perspective 
+your salary to the company that is paying you. And if you figure out what 
+that business value is, you can turn that into freelancing and consulting and 
+whatnot, right? But you have to understand it from like a business perspective 
 and a business owner perspective.
 Like what are you going to do to create more value than you're going to charge 
 them and do that in an obvious way? Like, obviously I am creating this value for 
-you. Therefore you can pay me a subset of it. 
+you, therefore you can pay me a subset of it. 
 
 **Michaela:** [00:38:19] Yeah. Yeah. And I think it also, if you're thinking 
-about. Ours. Right. Ours is really easy to get started with.
-Like I'm putting it in there, how many hours? And you're paying me the same 
-amount. Right. Um, but if you're, if you're able to go away from that and say, 
+about hours, right? Hours is really easy to get started with.
+Like I'm putting it in that many hours and you're paying me the same 
+amount, right? Um, but if you're, if you're able to go away from that and say, 
 as you said, this is the business value, right? Let's say a website, that's the 
-value of the website that you will get with it, or a performance increase.
-From your website or whatnot. Right. So whatever you're offering and you, and 
+value of the website that you will get with it, or a performance increase
+from your website or whatnot, right? So whatever you're offering and you, and 
 you can put a number to it, and hopefully this number is larger than the hours 
-that you spend doing it. Right. That's that's what we want. I mean, I think 
-that's, that's somehow, um, the right, the right approaches or him. From what we 
-are working in it, but yeah.
-Anyway, I think we round with a little bit 
-
-**Chris:** [00:39:04] here. 
+that will you spend doing it, right? That's, that's what we want, I mean, I
+think that's, that's somehow, um, the right, the right approaches for, for what
+we are working in it, but yeah, anyway, I think we rambled a little bit here.
 
 **Michaela:** [00:39:06] I actually started reading with software engineering 
-and practices. So I tried again last time. So I'm. Now you told me a little bit 
-that you're consulting more. For example, if people want to go to the gym stack. 
+and practices. So I tried again last time. So, um, now you told me a little bit 
+that you're consulting more, for example, if people want to go to the JAM stack. 
 So then you're looking through probably technologies that they have there.
-Um, and, and, uh, make some estimations on how much time effort, uh, how much 
+Um, and, and, uh, make some estimations on how much time/effort, uh, how much 
 friction they will have, how much pain they will suffer, you know, uh, once they 
-are getting over, something like that, um, Do you also look at their software 
-engineering practices? Like if they're doing testing or if you're doing code 
+are getting over something like that. Um, do you also look at their software 
+engineering practices? Like if they're doing testing or if they're doing code 
 reviews and things like that and advise them on that, or do you leave that out?
 Is that, um, nothing that's really connected to the kind of consultant, um, 
-consultancy that you 
+consultancy that you do.
 
-**Chris:** [00:39:54] do. I mean, it's, it's, you can't take it away, right? 
+**Chris:** [00:39:54] I mean, it's, it's, you can't take it away, right? 
 Like if you're going to transition from one set of technologies to another, and 
-this is like a broad approach change for you. Um, you can't take away the fact 
+this is like a broad approach change for you, um, you can't take away the fact 
 that like, you're not doing code review or you don't have tests or things like 
-that.
-Right. Um, there's this concept of like don't deploy on Fridays. Right. And I 
-think that the, the nuanced version of that is, uh, don't deploy on Fridays. If 
+that, right?
+Um, there's this concept of like don't deploy on Fridays, right? And I 
+think that the, the nuanced version of that is, uh, don't deploy on Fridays if 
 you don't have the infrastructure to, uh, ensure that when you merge on a 
-Friday, that the code can go out safely, right. That's kind of like the full 
-thing, uh, you should be able to do only on a Friday, right?
+Friday, that the code can go out safely, right? That's kind of like the full 
+thing, uh, you should be able to deploy on a Friday, right?
 You should have the infrastructure set up such that if you merge code on a 
 Friday, it should be able to go out and you should have a reasonable expectation 
-that it's not going to like crash everybody and ruin everybody's weekend. Right. 
-Um, if you don't, then don't apply on the Friday or don't merge on a Friday, 
-even, right.
-You shouldn't be merging code that you aren't about to deploy. Um, But like 
+that it's not going to like crash everybody and ruin everybody's weekend, right? 
+Um, if you don't, then don't deploy on the Friday or don't merge on a Friday, 
+even, right?
+You shouldn't be merging code that you aren't about to deploy. Um, but like 
 that's all intertwined, right? Cause if you want to move to like a JAM stack 
 based approach, one of the things that that, um, does for you is it decreases 
-your operational load. Right? If you move from a server side rendered 
+your operational load, right? If you move from a server side rendered 
 application to a JAM stack approach, now your problems happen at build time 
-instead of at runtime on a server.
-Right? So if something goes wrong with a server, you wake somebody up. If 
-something goes wrong with a build. Everybody wakes up tomorrow morning and goes, 
-Oh, why did the build fail? That's weird. And then you fix it, right? So like 
+instead of at runtime on a server, right?
+So, if something goes wrong with a server you wake somebody up. If 
+something goes wrong with a build everybody wakes up tomorrow morning and goes, 
+"Oh, why did the build fail? That's weird." And then you fix it, right? So like 
 the practices of how you develop software and the approaches that you take are, 
 uh, very much intertwined.
 Um, and they're very much sort of like if I come in and somebody wants to move 
-to the jam stock, there's, uh, a whole assortment of that kind of stuff that I 
+to the JAM stack, there's, uh, a whole assortment of that kind of stuff that I 
 will definitely, uh, include in my report as it were, uh, if they are having me 
-do. Sort of like a week long report or something like that. So 
+do sort of like a week long report or something like that. 
 
-**Michaela:** [00:41:55] are there ever a situation where you say don't do it?
+**Michaela:** [00:41:55] So, are there ever a situation where you say don't do it?
 
 **Chris:** [00:41:59] Yeah. Yeah. Um, somebody, uh, uh, hired me and they were 
 like, we want to move to, we want to move to Gatsby and we're going to rewrite 
 our application to do that. And we're rewriting into serverless. And, um, I 
 looked at what they were doing and it was sort of like, okay, so you're going to 
 rewrite your backend into serverless and you're doing that already.
-And you're committed, right. Um, Do you know, anybody that uses react at your 
+And you're committed, great. Um, Do you know, anybody that uses React at your 
 company and they were kind of looking at each other and they kind of like, uh, 
 not really. Um, and I was like, maybe start there, right? Like if you can't 
-like, don't just jump into a JAM stack metal framework, like gas, but your next 
-there's something, if you don't even know anything about react, right.
+like, don't just jump into a JAM stack meta framework, like Gatsby, or Next or
+there's something, if you don't even know anything about React, right?
 Um, you're gonna get yourself into a situation where like Gatsby is a complex 
-system, right. It's not simple. So what's next. So were all of these meta 
-frameworks. They're not cheap, uh, from a, uh, like ex like energy expenditure, 
-uh, you, right? You, you need to know a lot to work with them and if they go 
+system, right? It's not simple. So is Next. So are all of these meta 
+frameworks. They're not cheap, uh, from a, uh, like ex- like energy expenditure, 
+uh, view, right? You, you need to know a lot to work with them and if they go 
 wrong, you need to know a lot about the internals to debug them.
 Um, I feel like that's a situation in which I was sort of like, well, you 
 probably shouldn't do this. Like, if you really want to do this, like you can 
-pay me to help you figure out how to actually move forward. But this is going to 
+pay me to help you figure out how to actually move forward, but this is going to 
 take a lot of work and you're already doing a rewrite for half of your 
 application.
 Like don't take on a second rewrite when you haven't finished the first one. 
 
-**Michaela:** [00:43:24] Yeah. So one of the  in my mind all the time I was 
-thinking, well, one thing is to look at the technology, right? But on the other 
-hand, people have to have the expertise to use that, right? And this is really 
-expensive to also get that in your company.
-I know that for example, outdated stacks tech stacks can be really a 
-motivational killer as well. Right? So that you're not attracting talent and 
-that your talent that you're having is not really happy. And. But on the other 
+**Michaela:** [00:43:24] Yeah. So one of the, exactly that, was in my mind all
+the time I was thinking, well, one thing is to look at the technology, right?
+But on the other hand, people have to have the expertise to use that, right?
+And this is really expensive to also get that, um, in your company.
+I know that for example, outdated stacks, tech stacks can be really a 
+motivational killer, as well, right? So that you're not attracting talent and 
+that your talent that you're having is not really happy and, but on the other 
 hand, if you don't have the expertise for taking on something like that, it's 
 it's yeah.
 It's really, it's really a very hard and very terrible problem probably to have. 
 
-**Chris:** [00:44:04] Yeah, for sure. I'm mired in legacy software that you 
+**Chris:** [00:44:04] Yeah, for sure. sort of mired in legacy software that you 
 built five, six, seven years ago. Now, I guess like somebody could have a 
-backbone application right now. Right. And a backbone like pre marrying that 
-application, which, um, It doesn't really matter what that is, but like that's a 
-six, seven year ago, text doc.
-Right. And if you haven't moved off of it by now, you're probably not going to. 
+Backbone application right now, right? And a Backbone like pre-Marionette 
+application, which, um, it doesn't really matter what that is, but like that's a 
+six, seven year ago, tech stack, right?
+And if you haven't moved off of it by now, you're probably not going to. 
 Yeah. 
 
-**Michaela:** [00:44:28] Yeah. True. And probably it's okay. I don't know. 
+**Michaela:** [00:44:28] Yeah. True. And probably it's okay. I don't know.
+Maybe they don't have to? 
 
 **Chris:** [00:44:32] Clearly your business is still running seven years later, 
 so like, does it really matter? 
 
 **Michaela:** [00:44:37] Yeah. Yeah. Well, I have a friend just comes to my mind 
-that I'm a friend to the study with me and I think then yeah, almost 20 years, 
-he's he's hacking meaning I'm like, wow, you're still doing that drill.
-They're not going to change it. 
+that I'm a friend to the study with me and I think it's been. yeah, almost 20 years, 
+he's, he's hacking, um, mainframes, I'm like, wow, you're still doing that well,
+and it pays the bills and they're not going to change it. 
 
-**Chris:** [00:44:56] Yeah, 
+**Chris:** [00:44:56] Yeah, people still run mainframes!
 
-**Michaela:** [00:44:57] it is. Yeah. Well, I think we are coming to an end to 
+**Michaela:** [00:44:57] Yeah, it is. Yeah. Well, I think we are coming to an end to 
 this episode. Is there something that you think we haven't really touched on or 
-that you would like to, um, at my listeners know maybe something about your 
-community or, um, yeah, 
+that you would like to, um, let my listeners know maybe something about your 
+community or, um, yeah. 
 
-**Chris:** [00:45:13] sure. Um, uh, the community is at like discord.gg/party 
+**Chris:** [00:45:13] Sure. Um, uh, the community is at like discord.gg/party 
 corgi.
-Um, We're doing a lot of breasts recently in the community, which is pretty 
+Um, We're doing a lot of Rust recently in the community, which is pretty 
 cool. Um, so if you're interested in that kind of thing, uh, come say hi, and we 
-can talk about that. Um, but we would love to have you around in the 
+can talk about that. Um, but we would love to have you around in the community.
 
-**Michaela:** [00:45:31] community. Yeah. Because you're seeing rest. I have one 
+**Michaela:** [00:45:31] Yeah. Because you're saying Rust I have one 
 more thing to talk with you about, uh, I completely forgot about that.
-You are working on some really cool new stuff, right? One thing is called toast. 
-Like bread 
+You are working on some really cool new stuff, right? One thing is called Toast. 
+Like bread toast.
 
-**Chris:** [00:45:45] toast. Yeah. 
+**Chris:** [00:45:45] Yeah. 
 
 **Michaela:** [00:45:47] It's actually like SpongeBob, but not the sponge for 
-the toast. That's how I envision it 
+the toast. That's how I envision it somehow.
 
-**Chris:** [00:45:52] somehow. 
-
-**Michaela:** [00:45:53] So what is that maybe, maybe tell us a little bit 
-before, before we end this show about, about toast and what it is and how it's 
-connected to rest in.
+**Michaela:** [00:45:53] So what is that? Maybe, maybe tell us a little bit 
+before, before we end this show about, about Toast and what it is and how it's 
+connected to Rust and to you.
 
 **Chris:** [00:46:04] Sure. Um, so I, uh, accidentally I say I accidentally fell 
-into this specialty of JAM stack meta framework development. Um, So I built the 
-prototype of a JAM stack, meta framework that used graph QL to do static site 
+into this specialty of JAM stack meta framework development. Um, so I built the 
+prototype of a JAM stack meta framework that used graphQL to do static site 
 generation, uh, that influenced Gatsby to add it to their framework. Um, and 
-then I worked on Gaspe for a long time, uh, and, uh, some other frameworks and 
+then I worked on Gatsby for a long time, uh, and, uh, some other frameworks and 
 whatnot.
-And then this is my, sort of like a total rethink of, okay. So what if we didn't 
-use Webpack? And we went with IES modules, cause those are available now in the 
-browser. What does that look like? Um, And one of the focuses is on performance 
-and build performance specifically. Um, and that's where rest comes in because 
+And then this is my, sort of like a total rethink of, okay, so what if we didn't 
+use Webpack? And we went with ES modules, cause those are available now in the 
+browser. What does that look like? Um, and one of the focuses is on performance 
+and build performance, specifically. Um, and that's where Rust comes in because 
 Rust has libraries that will let us do incremental computation of the build 
-artifacts.
-Right. So that is a super exciting thing. Um, I got that working last week, so 
-yeah. Uh, we built a. 4,000 page site in 13 seconds, which is pretty cool. So 
-that's where rest comes in. And I really like writing the language and it's a 
+artifacts, right?
+So that is a super exciting thing. Um, I got that working last week, so 
+yeah. Uh, we built a 4,000 page site in 13 seconds, which is pretty cool. So 
+that's where Rust comes in and I really like writing the language and it's a 
 lot of fun. Um, and it's, it's brought some joy to my life that is, um, has been 
 missing from other projects.
-So I'm super excited about toast and specifically the breast implementation. 
+So I'm super excited about Toast and specifically the Rust implementation. 
 
 **Michaela:** [00:47:22] Yeah. Very cool. Yeah. Thank you so much. And, um, 
-thank you for being on my show and have a good day. Thank you for 
+thank you for being on my show and have a good day.
 
-**Chris:** [00:47:30] having me. It was really invaluable. 
+**Chris:** [00:47:30] Thank you for having me. It was really enjoyable.
 
-**Michaela:** [00:47:32] Yeah. 
+**Michaela:** [00:47:32] Yeah. Bye bye.
 
-**Chris:** [00:47:33] Bye. Bye. 
+**Chris:** [00:47:33] Bye. 
 
-**Michaela:** [00:47:36] I hope you enjoyed another episode of the software 
-engineering unlocked podcast.
+**Michaela:** [00:47:36] I hope you enjoyed another episode of the Software 
+Engineering Unlocked podcast.
 Don't forget to subscribe and I talk to you again in two weeks. Bye.
 
 
