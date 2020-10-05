@@ -713,5 +713,4 @@ so much for being here.
 Yeah, it was really wonderful. I really enjoyed it.
 
 **McKayla:** [00:43:26] 
-I hope you enjoyed the another episode of software engineering unlock podcast dont forget to subscribe and I talk to you again in 2 weeks
-
+I hope you enjoyed another episode of the software engineering unlock podcast don't forget to subscribe and I talk to you again in 2 weeks.
