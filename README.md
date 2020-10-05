@@ -9,7 +9,7 @@ If you want to help make the podcast more accessible, please feel free to pick u
 Transcripts can be improved either while you listen to the epsiodes, or even just be reading through the text and correcting issues that way.
 Please remove spelling, grammar and other mistakes that you see. 
 **Before starting** to work on an epsiode, please **leave a comment on the issue** indicating that you are going to work on the transcript, to avoid conflicts and duplication of work. 
-The transcripts are formatted with line breaks after ~80 chars to allow for a better pull request experience. It does not affect the markdown appearance. Please try to keep it ~80 chars. Some +/- isn't a big deal, but please do not completely remove it.
+The transcripts are formatted with **line breaks after ~80 chars** to allow for a better pull request experience. It does not affect the markdown appearance. Please try to keep it ~80 chars. Some +/- isn't a big deal, but please do not completely remove it.
 
 Even for transcripts that do not have an active open issue there might be mistakes. If you find problems with one of the transcipts, please feel free to open an issue, or directly create a PR with the improvements.
 
