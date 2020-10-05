@@ -240,102 +240,100 @@ frustrating when you're almost sure that you're ready to open
 your PR or that you think that you're done, you actually only know the 
 issue 40 minutes later.
 So I guess it's part of the work, but that's why sometimes, 
-I said that while the building is running, you can pick up another small 
+I said that while the build is running, you can pick up another small 
 ticket if you want, just so you can keep going instead of just, you know, 
 watching the builds for 40 minutes. 
 
 **Michaela:** [00:15:21] Yeah, yeah. Sure. Yeah. I think it really depends on the size 
-of the software.
-So Microsoft, it has quite some substantial, 
-**Charlie:** [00:15:28] uh, software systems and 
-**Michaela:** [00:15:30] the bill can take also quite long. So yeah, I know that 
-problem. Well, um, something that I want to talk about, which I think Plex into 
-that as well is manual 
-**Charlie:** [00:15:40] testing. Do you know if they are. 
-**Michaela:** [00:15:42] Are men will testers or are people manually testing the 
-Atlassian software as well?
-**Charlie:** [00:15:49] Or is that something that's really replaced 
-**Michaela:** [00:15:51] by automated tests 
-**Charlie:** [00:15:53] right now? Um, so I haven't worked yet with somebody who 
-was on like a tester or a QA person. Yeah. But so far, what I, what we've been 
-doing is that every time that we're about to merge a pull request, we actually 
+of the software. So Microsoft also quite some substantial software systems and 
+the build can take also quite long. So yeah, I know that 
+problem. Well, something that I want to talk about, which I think plucks into 
+that as well is manual testing. Do you know if they are manual testers
+or are people manually testing the Atlassian software as well?
+Or is that something that's really replaced by automated tests right now?
+
+**Charlie:** [00:16:00] So, I haven't worked yet with somebody who 
+was only, like, a tester or a QA person, but so far, what we've been 
+doing is that, every time that we're about to merge a pull request, we actually 
 have a little QA session with somebody else in the team where we go manually 
-through the feature.
-And, um, and we look at the change that we've been doing. So, uh, on top of 
-having a review of just the code in Bitbucket, we actually do a manual QA face 
-to face with somebody from the team, because I, you know, if I work on 
-something, I would have built something a certain way. But I need a colleague of 
-mine to maybe come up with an idea of like, Oh, have you tried this?
-Or would it break if you do this? And things like that. So I haven't yet I 
-worked with somebody who's a dedicated role was to do that. But I think we all 
-are responsible. Yeah. Wait for the QA before we much something. 
-**Michaela:** [00:16:48] Okay. Yeah, that turns, it sounds reasonable. Um, at 
-Alessia and I heard that you have something called the team playbook and it's 
-sort of the best practices of Atlassian for building high performing teams.
-Have you heard of the playbook at Lucien? And do you know that some of your 
-colleagues or your team is putting some of those plays it's called, um, In, uh, 
-in 
-**Charlie:** [00:17:16] there to make you work better. And so I have sort of the 
-team playbook, but right now, actually I actually forgot. So the rules that are 
-inside, um, so I feel like the team playbook would be more of, um, a guideline 
-rather than like practices that you have to follow.
-Uh, so I wouldn't remember exactly, um, what we have in the playbook, but I feel 
-like team by team. Uh, we would kind of pick our own, um, practices, I think 
-maybe in the team playbook. Um, I don't remember if it mentions, uh, some retro 
-retrospective meetings where we talk about, um, How we've been feeling in the 
-team only about the work, but the, you know, as people have, how we've been 
+through the feature, and we look at the change that we've been doing. So, on top of 
+having a review of just the code in Bitbucket, we actually do a manual QA face-to-face
+with somebody from the team, because if I work on 
+something, I would have built something a certain way, but I need a colleague of 
+mine to maybe come up with an idea of, like, "Oh, have you tried this?," or
+"Would it break if you do this?," and things like that. So I haven't 
+worked with somebody whose dedicated role was to do that. But I think we all 
+are responsible in a way for the QA before we merge something. 
+
+**Michaela:** [00:16:48] Okay. Yeah, that sounds reasonable. 
+At Atlassian, I heard that you have something called the Team Playbook and it's 
+sort of the best practices of Atlassian for building high-performing teams.
+Have you heard of the Playbook at Atlassian, and do you know that some of your 
+colleagues or your team is putting some of those plays, it's called in there, 
+to make you work better?
+
+**Charlie:** [00:17:21] So, I have heard of the Team Playbook, but right now,
+actually, I actually forgot the rules that are inside, 
+so I feel like the Team Playbook would be more of a guideline 
+rather than, like, practices that you have to follow.
+So I wouldn't remember exactly what we have in the Playbook, but I feel 
+like, team-by-team, we would kind of pick our own practices. I think, 
+maybe in the Team Playbook—I don't remember if it mentions some 
+retrospective meetings where we talk about how we've been feeling in the 
+team, not only about the work, but how we've been 
 feeling, how we can do things better in the next sprint or, you know, is there 
-any concerns?
-Um, so I think team by team, usually the team lead decides the practices that 
-we're going to have and, uh, team members can also, um, propose things. So we. 
-Often have sessions where every week we, um, we kind of have like, um, a tech 
-meeting where we show what we've been working on because as we don't really pair 
-program, sometimes, uh, we don't have the time to see what other people in the 
+any concerns? So I think team by team, usually the team lead decides the practices that 
+we're going to have and team members can also propose things. So we 
+often have sessions where every week we kind of have, like, a tech 
+meeting where we show what we've been working on, because, as we don't really pair 
+program, sometimes we don't have the time to see what other people in the 
 team have been working on.
 So every week we have a session where people are able to showcase what they've 
-been doing to share knowledge within the team. Uh, so I wouldn't really 
-remember, this is part of the, of the team playbook, but I feel like, um, every 
-team would be picking whatever practices. They feel more comfortable with those 
-if they feel would be beneficial.
-**Michaela:** [00:18:52] So you worked before joining a Atlantean, you've worked 
-actually at smaller companies first. What do you think are the differences. 
-Experience in joining this larger enterprise. Um, do you see some differences 
-how the organization operates on how teams work together and things like that? 
+been doing to share knowledge within the team. So I wouldn't really 
+remember if this is part of the Team Playbook, but I feel like every 
+team would be picking whatever practices they feel more comfortable with, 
+or they feel would be beneficial.
+
+
+**Michaela:** [00:18:52] Mmhmm. So you worked, before joining Atlassian, you've worked 
+actually at smaller companies first. What do you think are the differences you 
+experienced in joining this larger enterprise? Do you see some differences 
+how the organization operates, on how teams work together and things like that? 
+
 **Charlie:** [00:19:09] There's definitely differences.
-It's been, it's been really interesting to explore different environments 
-because before a lesbian, I was working for a consultancy. So the nature of the 
-work was quite different because, um, instead of being really involved in one. 
-Product. Um, I basically was assigned to a team every few months. Sometimes it 
-was, uh, uh, on your three months project.
-Sometimes it was six sometimes a year means that when you join a company to help 
-them for a few months, you're not sure really part of their team. Like you ended 
-up being responsible for a part of. A company's product, but you're not really, 
-really part of the team. Like you help them on the, on the small parts.
-So usually I worked on code bases that were way smaller. Um, a lot of the time 
-they were sometimes starting something from scratch, which is very different 
-from working on it could base that has been there, you know, for more than 10 
-years. And I, um, you know, as a consultant, we were building teams that had, 
-uh, sometimes more diversity in terms of roles.
-So. With the consultancy I was in before we, it was rare that we only had one 
-designer. We usually had a couple of UX designers. We definitely had testers. We 
-definitely had a product managers and the team was really diverse in terms of 
-disciplines. Whereas that lesson is very often more technical. But the, the 
-main, the main difference and the main challenge for me has been the size of the 
-code base.
-JIRA has more than a million blends of code. So it's been quite different to go 
-from monolith front-end in JIRA or coming from more microservices when I was in 
-a, in a consultancy. So it's been really interesting to navigate these different 
-spaces. But I liked the fact that in a product, I get to dive deeper into the 
-code base and be part of decisions that are, it's supposed to be long lasting, 
-whereas consultancy, you try to help a company and you try to help them make it 
-long lasting decisions.
-When men, they, they decide what they want to do. You're just here to advise 
-them and do your best. But in the end as well, you leave to go and help another 
-company. They. Kind of decides what to do in, and sometimes it feels like you 
-don't really see the end of what you're building, because you're only here.
-Whereas, uh, at the last, you know, on a product, you know, you're supposed to 
-make every decision knowing that you wanted to last and you don't want it to be 
+It's been really interesting to explore different environments 
+because before Atlassian, I was working for a consultancy, so the nature of the 
+work was quite different because instead of being really involved in one product,
+I basically was assigned to a team every few months. Sometimes it was on a three-months project,
+sometimes it was six, sometimes a year. It means that when you join a company to help 
+them for a few months, you're not really part of their team. Like, you ended 
+up being responsible for a part of a company's product, but you're not really, 
+really part of the team. Like you help them only on the small parts.
+So usually I worked on codebases that were way smaller. A lot of the time, 
+we were sometimes starting something from scratch, which is very different 
+from working on a codebase that has been there, you know, for more than 10 
+years. And as a consultant, we were building teams that had 
+sometimes more diversity in terms of roles.
+So with the consultancy I was in before, it was rare that we only had one designer.
+We usually had a couple of UX designers, we definitely had testers, we 
+definitely had a product managers, and the team was really diverse in terms of 
+disciplines, whereas Atlassian is very often more technical.
+But the main difference and the main challenge for me has been the size of the 
+codebase.
+JIRA has more than a million lines of code. So it's been quite different to go 
+from a monolith front-end in JIRA or coming from more microservices when I was in 
+a consultancy. So it's been really interesting to navigate these different 
+spaces. But I like the fact that, in a product, I get to dive deeper into the 
+codebase and be part of decisions that are supposed to be long-lasting, 
+whereas consultancy, you try to help a company and you try to help them make 
+long-lasting decisions when, in the end, they decide what they want to do. You're just here to advise 
+them and do your best. But in the end, when you leave to go and help another 
+company, theyk ind of decides what to do, and sometimes it feels like you 
+don't really see the end of what you're building, because you're only here temporarily.
+Whereas, at Atlassian, on a product, you know, you're supposed to 
+make every decision knowing that you want it to last and you want it to be 
 performant and helpful because it's going to impact the product in the longterm. 
+
 **Michaela:** [00:21:42] And so when you consulted those companies where you're 
 sitting with the teams, would you go to company a for example, and then really 
 sit with their team for a stretch of several 
