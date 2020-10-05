@@ -169,82 +169,82 @@ and it will automatically add these people. But in terms of approval,
 you need at least one person. If you have more, good, but it's not necessary, 
 You need one person to approve to be able to then merge the PR. 
 
-**Michaela:** [00:10:24] Mmhmm. And so I noted at  and you embrace his principles like 
+**Michaela:** [00:10:24] Mmhmm. And so I noted at Atlassian, you embrace Agile principles like 
 continuous improvement and iterations and things like that.
-Do you also strive for continuous integration and continuous deployment? And 
-**Charlie:** [00:10:37] how long does a 
-**Michaela:** [00:10:38] code. Usually take from, you know, when you develop it, 
-let's say you develop and test it on your machine. How long does it take that 
-it's really deployed in production and 
-**Charlie:** [00:10:48] which steps are involved 
-**Michaela:** [00:10:50] during that, that continuous integration or deployment 
-process?
-**Charlie:** [00:10:54] Sure. So we, we definitely do have a continuous 
-integration, a deployment we deploy to production. I'd say at least once a day, 
-I wouldn't be here. Exactly sure. About how frequent, but I think we do it as 
-frequent as. Possible because JIRA is a very, a big application. I think we have 
-more than a a hundred Dave working on the front end of JIRA.
+Do you also strive for continuous integration and continuous deployment? And how long does 
+code usually take from, you know, when you develop it—let's say you develop and test it on your machine—
+how long does it take that it's really deployed in production and which steps are involved 
+during that continuous integration or deployment process?
+
+
+**Charlie:** [00:10:54] Sure. So we, we definitely do have continuous 
+integration and deployment. We deploy to production, I'd say, at least once a day, 
+I wouldn't be exactly sure about how frequent, but I think we do it as 
+frequent as possible because JIRA is a very, a big application. I think we have 
+more than a hundred devs working on the front end of JIRA.
 So it means that every time I work on my features, I actually have a lot of 
-other developers working on their own brunches. So it means that if, when I try 
-to pull from master before I actually write, uh, create my new branch, actually 
-have I see all the other branches and pull requests that other developers have 
-created while I've been working on, um, on my, on my parts.
+other developers working on their own brunches. So it means that when I try 
+to pull from master before I actually create my new branch, I actually 
+see all the other branches and pull requests that other developers have 
+created while I've been working on my parts.
 So we tried to actually deploy and merge as often as possible, because that will 
-reduce the, the risk of breaking, uh, something. And if it breaks, then it means 
-that we don't have to many changes that we have to look at if we break 
+reduce the risk of us breaking something. And if it breaks, then it means 
+that we don't have too many changes that we have to look at if we break 
 something. So we're definitely trying to deploy as often as possible. And in 
-terms of how long it takes for a feature to go to a production, it really 
-depends on what your working on.
-So for example, in my previous team, um, when I was working on adding, um, 
+terms of how long it takes for a feature to go to production, it really 
+depends on what you're working on.
+So for example, in my previous team, when I was working on adding 
 profile counts in the front end of JIRA. So what that was is when you hover over 
-the name of a user, you can see a profile cards being displayed with the avatar 
-and the name of the person in the email. If you want to get in contact with them 
+the name of a user, you can see a profile card being displayed with the avatar 
+and the name of the person and the email if you want to get in contact with them 
 or something like that.
-And that actually took us a few months because we had to, uh, there was so many 
-guests he could, that was there that we had to clean up. And, uh, we wanted to 
+And that actually took us a few months because we had there was some 
+legacy code that was there that we had to clean up, and we wanted to 
 create this package in a way that it would be easily reusable across the 
-application. And we wanted to provide an API that was easy for other developers 
+application, and we wanted to provide an API that was easy for other developers 
 to add it to that part of JIRA or later on.
-So it was a bigger restructure then, then the features that we can work on. So 
-that took a few. Months for us from start to finish because we ran into a few 
+So it was a bigger restructure than other features that we can work on. So 
+that took a few months for us from start to finish, because we ran into a few 
 issues as well, but more recently there's been some tasks that I've had to do 
-that we're just cleaning up some feature flags that hadn't been cleaned up in a 
-while.
-And that can be much to production. Yeah. Mean in a day. Uh, it, depending on, 
-um, if the feature flag and on another feature or something, if it's, uh, if 
-it's quite isolated, um, it's pretty. Easy to clean up and you can get it 
+that were just cleaning up some feature flags that hadn't been cleaned up in a 
+while, and that can be merged to production in a day, depending on 
+if the feature flag is dependent on another feature or something. 
+If it's quite isolated, it's pretty easy to clean up and you can get it 
 approved in just a few minutes and you can then merge that and it could be 
 deployed by the end of the day.
-So depending on the size of the feature, the cycle can be quite fast. Uh, 
-otherwise it doesn't, even if you have quite a lot of review on your PR or even 
-if it ends up being a change, that's longer, nothing stops you from actually 
-starting another ticket while the build is running. For example. Cause that can 
+So depending on the size of the feature, the cycle can be quite fast. 
+Otherwise it doesn't, even if you have quite a lot of review on your PR or even 
+if it ends up being a change that's longer, nothing stops you from actually 
+starting another ticket while the build is running, for example, 'cause that can 
 take quite a bit of time.
-So it's sometimes up to you to try to close as many tickets as you can. And 
+So it's sometimes up to you to try to close as many tickets as you can, and 
 maybe while one is building and is taking more time, you can pick up a smaller 
-one just to try to get things rolling. Basically. 
-**Michaela:** [00:13:58] And so you said the build takes a little bit of time. 
-Um, do you have an idea of how long it takes?
-**Charlie:** [00:14:05] Yeah, sometimes it is quite frustrating. I have to say. 
-Um, so I think, I would say at least. 40 minutes sometimes. Um, I think it's 
-quite long, so I don't know if maybe in other companies it's actually not long, 
+one just to try to get things rolling, basically. 
+
+**Michaela:** [00:13:58] Mmhmm, mmhmm. And so, you said the build takes a little bit of time. 
+Do you have an idea of how long it takes?
+
+**Charlie:** [00:14:05] Yeah, sometimes it is quite frustrating, I have to say. 
+So I think... I would say at least 40 minutes sometimes, which I think it's 
+quite long, so I don't know if, maybe in other companies, it's actually not long, 
 but it can be sometimes quite frustrating because as the application is pretty 
-big, You rarely run all the tests locally.
+big, you rarely run all the tests locally.
 So you might run the test of your little package that you've modified and you 
 check that these tests are, you know, passing, but then when you actually push 
-and it goes through the, the pipeline and you know, you're running the build. 
-Um, sometimes you only realize that at the end of the build that you broke 
+and it goes through the pipeline and, you know, you're running the build, 
+sometimes you only realize that at the end of the build that you broke 
 something in another component.
-So it means that you only know eventually 40 minutes later. That you actually 
-have to go back and modify something. So sometimes yeah, it can be quite 
-frustrating when you're almost sure that you know, that you're ready to open 
-your, your PR or, or that you think that you're done. You actually only know the 
+So it means that you only know, eventually, 40 minutes later that you actually 
+have to go back and modify something. So sometimes it can be quite 
+frustrating when you're almost sure that you're ready to open 
+your PR or that you think that you're done, you actually only know the 
 issue 40 minutes later.
-Um, so I guess it's part of, you know, I love the work, but that's why sometimes 
-I'm I said that while the building is running, you can pick up another small 
-tickets if you want, just so you can keep going instead of just, you know, 
-watching the fields. For 40 minutes. Yeah. 
-**Michaela:** [00:15:21] Yeah, sure. Yeah. I think it really depends on the size 
+So I guess it's part of the work, but that's why sometimes, 
+I said that while the building is running, you can pick up another small 
+ticket if you want, just so you can keep going instead of just, you know, 
+watching the builds for 40 minutes. 
+
+**Michaela:** [00:15:21] Yeah, yeah. Sure. Yeah. I think it really depends on the size 
 of the software.
 So Microsoft, it has quite some substantial, 
 **Charlie:** [00:15:28] uh, software systems and 
