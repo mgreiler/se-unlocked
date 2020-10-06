@@ -147,7 +147,7 @@ jibberish, and, oh, whatever, right? (laughs)
 
 **Trisha:**: [00:08:44] Yeah, exactly. I found that a lot. Well, I mean the 
 programming or guidance. Got the program because I enjoyed the programming for 
-programming sake. Right. But, um, a lot of the things I've been thinking about 
+programming's sake. Right. But, um, a lot of the things I've been thinking about 
 is I understand why things are taught that way at university, but I often think 
 wouldn't it be better if you, at least one of your courses was.
 Let's call it legacy software development. Right? And you get given a large 
@@ -156,173 +156,148 @@ but an existing large system. And the exercises might be something like refactor
 this in this direction or add this feature or fix this bug because one of the 
 things I've come to the conclusion of in the last like 10 years or so is.
 Computer science degrees are not, um, apprenticeships for programmers. It's not 
-the same thing. Know you do learn a lot more on the job. Of course. And the 
+the same thing. Now you do learn a lot more on the job, of course. And the 
 computer science course is not designed to teach you how to be an effective 
-programmer is designed to give you the basics in computer science, but it would 
-be nice if one of those basics was.
-How to read existing code, which I have talked about before, but how to read 
+programmer, it's designed to give you the basics in computer science, but it would 
+be nice if one of those basics was how to read existing code, 
+which I have talked about before, but how to read 
 code, how to, how to write tests to provoke certain types of behaviors, how to 
 navigate through someone else's code, how to apply a design pattern that you're 
 talking about in an existing code base. Like what does it do? How does it change 
 the way it works?
-What's the purpose of those things. I've often thought that it would be nice to 
-inherit code. In computer science courses and have some exercises around 
+What's the purpose of those things? I've often thought that it would be nice to 
+inherit code in computer science courses and have some exercises around 
 inherited code rather than constantly writing stuff from scratch. Cause we just 
-don't do that in the real world. Yeah, that's true. 
+don't do that in the real world. 
 
-**Michaela:**: [00:10:09] And I mean, if you're writing something from scratch 
-or there's this little thing in the beginning where you think, Oh, this is hard, 
-right.
+**Michaela:**: [00:10:09] Yeah, that's true. And I mean, if you're writing 
+something from scratch or there's this little thing in the beginning where you 
+think, Oh, this is hard, right.
 But very soon it's easy and it's really fun. And you're just writing your own 
 system. But it's not, it's not representative of what you have to do in a day to 
 day job, as you said. And yeah, I looked at one of your talks and it was called 
-reading code is much harder than writing code. Right. And it really reminded me 
+"Reading code is much harder than writing code". Right. And it really reminded me 
 of code reviews as well.
-Right. One of my favorite topics. And so now you're saying it again and I I'm so 
-filling Hammonds by Sam is a professor at university of Leiden. And she does a 
-lot of research 
-
-**Trisha:**: [00:10:47] on how people are learning, how to program, 
-
-**Michaela:**: [00:10:50] especially kids. How are kids learning, how to 
-program? And she says the same thing she says, well, they have to read 
-
-**Trisha:**: [00:10:56] a ton of things, 
-
-**Michaela:**: [00:10:57] right.
-They have to read programs and they have also to get it by heart. Like, for 
-example, the, the nitty gritty of the syntax of the language, how do you make a 
-loop before loop? For example, how do you, I have different concepts for, for 
-the people to really understand the problem that they're solving and not 
-thinking, Oh, you know, how was that actually in Peyton?
+Right. One of my favorite topics. And so now you're saying it again and I, umm, 
+so Philippe Hammonds is a professor at university of Leiden. And she does a 
+lot of research on how people are learning how to program, especially kids. 
+How are kids learning how to program? 
+And she says the same thing. She says, "Well, they have to read a ton of things, 
+right. They have to read programs and they have also to get it by heart." 
+Like, for example, the, the nitty gritty of the syntax of the language, how do 
+you make a loop, For Loop? For example, how do you, I have different concepts 
+for, for the people to really understand the problem that they're solving and 
+not thinking, Oh, you know, how was that actually in Python?
 You know, when I said four, do you have like to have like some, some parenthesis 
 there or not? You know, something like that, but this is everything is automatic 
 and you can really focus on, on the problem at hand. And I liked that. Really a 
 lot. I like this idea, but yeah, as you said, we are not really doing it that 
 way.
-We are doing it that, Oh, let's drive the hell away. Good. Right. I was writing 
-a main method right. At the beginning, they would say, Oh, I forgot everything. 
-Why, why it's doing or what is it? Doing just write it down and then right 
-there, you know, print and hell of world and that's it. And then you saw it in 
+We are doing it that, "Oh, let's drive the hell away." Good. Right. I was writing 
+a main method right. At the beginning, they would say, "Oh, I forgot everything. 
+Why, why it's doing or what is it?" Doing just write it down and then right 
+there, you know, print and hello world and that's it. And then you saw it in 
 the console, right?
-And you like, yes, I'm a programmer or no. And so, yeah, I totally agree that it 
-would be so beneficial for people to read more code, but you also sat in this 
+And you are like, "Yes, I'm a programmer now!" And so, yeah, I totally agree that 
+it would be so beneficial for people to read more code, but you also said in this 
+talk, is that. People don't like to read code. Why? Why is that by 
+people not liking to read code, what's what's holding us back?
 
-**Trisha:**: [00:12:00] talk, is that. 
-
-**Michaela:**: [00:12:02] People don't like to read code. Why? Why is that by 
-people not liking to read code 
-
-**Trisha:**: [00:12:07] what's what's holding us back. I mean, whole bunch of 
+**Trisha:**: [00:12:09] I mean, whole bunch of 
 reasons, but one of the reasons why I came up with that talk.
 Yeah, well, I was talking with my colleague. Um, and so she speaks a bunch of 
 like different languages. Um, I'm constantly trying to learn Spanish because I 
 live in Spain and we were talking about how, how you learn natural languages 
-versus. Buses, um, programming languages. And I used to work with her when we 
+versus-- versus, um, programming languages. And I used to work with her when we 
 were doing code view stuff, actually for the code review tool that we have at 
 JetBrains, which is why it's all related.
 You know, one of the reasons why people hate code reviews is cause you have to 
 read other people's code and you hate other people's code. Cause you don't 
 understand it because you didn't write it. And. There's a number of different 
-reasons why you don't like reading other people's code one. We just, we don't 
+reasons why you don't like reading other people's code. One, we just, we don't 
 practice it very much.
-We don't read code at university. Like you say, you get shown, this is an if 
-statement or this is a main method, but that's all boiler plate. That's the crap 
+We don't read code at university. Like you say, you get shown "this is an if 
+statement" or "this is a main method", but that's all boiler plate. That's the crap 
 that you don't read. That's the stuff you skip over when you're actually reading 
 someone else's code. That's the stuff you want your eyes to kind of glaze over.
 So we should be learning more like the here's here's a bunch of code. Like what 
-do you think it does? Which when we studied English, literature used our 
+do you think it does? Which when we studied English literature used our 
 yearbook. And you say, what was, what were the characters feeling? What were 
 they doing? What are the things in this piece? We don't many do that with code.
 We have to do all the time in the day to day job. We have to go, right? What do 
 we think this code is doing? How do I want to change it obviously, but when 
-we're learning how to code, we don't really answer questions on it. What do we 
-think this code is doing? If you're doing certification, it's always some trick 
-question, like given this really simple looking forward, what's really printed 
-out at the end of it.
-Dumb cause I'll just run it. So I don't really, I don't mean things like that 
+we're learning how to code, we don't really answer questions on "What do we 
+think this code is doing?" If you're doing certification, it's always some trick 
+question, like: "Given this really simple looking For Loop, what's really printed 
+out at the end of it?" So, well that's dumb 'cause I'll just run it. 
+So I don't really, I don't mean things like that 
 because anything which is like a compiler trick or something, which you can see 
 quickly by running something. I think that's dumb. What's more interesting is 
-you've got big block of code. Like what do you think this method should be 
-doing?
+you've got big block of code. Like "what do you think this method should be 
+doing?"
 It's almost definitely not going to have an output and input cause it's in a 
 bigger system. So like what should it be doing? So we don't like to read other 
 people's code because we don't practice it enough. We don't like to meet other 
-people's code. Because we didn't write it. And that may, is it difficult to 
-understand?
+people's code. Because we didn't write it, and that makes it difficult to 
+understand.
 We don't like reading other people's code because we are conditioned to think 
-that. As developers as programmers are outputs, our value is in output lines of 
-code. So we're still not, we're not really measured that way. These days, you 
+that as developers as programmers, our outputs, our value is in output lines of 
+code. So we're still not, we're not really measured that way these days. You 
 don't really measure it on the amount of lines of code that you write, but 
 ultimately your organization cares about whether you deliver some features, 
 whether you've fixed a bug.
-So we're still internally. We sort of think that our value as members of the 
+So we're still internally, we sort of think that our value as members of the 
 team is about writing lines of code. We don't see the fact that in order to 
 deliver that feature, we spent 90% of the time reading. We tend to think of that 
 as a massive waste of time, because all I was doing was reading, trying to find 
 the place where this bug happened, instead of writing the stuff that fixes it, 
 we just, we are not valued for, for reading code for, for unassigned stuff.
 We feel we're not getting our little gold stars or our tick boxes for, for doing 
-the reading that have that. So I think that's part of the thing we just don't 
+the reading bit of that. So I think that's part of the thing we just don't 
 recognize as an industry that although we do probably spend. I'd say 70 to 90% 
-of our time reading code. We don't see that as value. We just see it as, Oh my 
+of our time reading code. We don't see that as value. We just see it as, "Oh my 
 God, this code must be awful because I had to spend 90% of my time reading it 
-and understanding it instead of the 10% of my time writing my new lines of code 
-instead of accepting.
-No, that's, that's how it is. Like if you wanted to, what would be a good 
-analogy? If you're updating a book, let's say there's an existing, I don't know 
+and understanding it instead of the 10% of my time writing my new lines of code" 
+instead of accepting "No, that's, that's how it is." 
+Like if you wanted to, what would be a good analogy? 
+If you're updating a book, let's say there's an existing, I don't know 
 a Java book. And you want to add a new chapter to that book on a new feature in 
 Java. You can't just write that chapter and insert it somewhere, like wedge into 
 the book.
 You have to read the book, figure out like what's the, what the pattern is, what 
 the flow is, what the, what the structure is, find the right place to put it. 
-Make sure your pros matches the pros in the book, but you can't just write 
-something and Chuck it. Yeah. That's not, that's not how things work. So 
+Make sure your prose matches the prose in the book, but you can't just write 
+something and chuck it in there. Yeah. That's not, that's not how things work. 
 
-**Michaela:**: [00:15:55] during my PhD, I worked a lot on, uh, 
-
-**Trisha:**: [00:15:57] code 
-
-**Michaela:**: [00:15:57] comprehension, so helping people to understand code.
+**Michaela:**: [00:15:55] So during my PhD, I worked a lot on, uh, 
+code comprehension, so helping people to understand code.
 And I think one of the main problems is that reading code is a little bit tricky 
-because we have only one abstraction. Right? So the code is the code there. 
-Isn't I mean, obviously, for example, in, in an idea, you could then collapse 
+because we have only one abstraction. Right? So the code is the code. There 
+isn't I mean, obviously, for example, in, in an idea, you could then collapse 
 the things and then it might tell that just the method names and things like 
 that, but there isn't a lot of granularity there for the abstraction level that 
-you have.
-So one of the things that I did. Student a PhD was, 
-
-**Trisha:**: [00:16:23] I was building models, 
-
-**Michaela:**: [00:16:25] especially also a visual models that help people 
+you have. So one of the things that I did during the PhD was, I was building 
+models, especially also a visual models that help people 
 understand the code and they were abstracting things. So for example, whatever 
 it was, the task, there were some of the things that I just skipped, right. So I 
 thought, well, based on what that person now wants to do on the intent of the 
 developer, for example, you don't need that information.
 And so those methods were really. Trying to help people understand code easier, 
 because I think it's a very hard task, even if you're doing it very, very often, 
-it doesn't, 
-
-**Trisha:**: [00:16:56] it 
-
-**Michaela:**: [00:16:56] gets easier, but there is still a level of hardness to 
+it doesn't, it gets easier, but there is still a level of hardness to 
 it. Right. That doesn't go away. It doesn't go away. What do you think about, 
-for example, 
-
-**Trisha:**: [00:17:04] comments and things 
-
-**Michaela:**: [00:17:05] like that?
-I am actually quite depressed. Ben of comments. I'm also a fan of having very 
+for example, comments and things like that?
+I am actually quite a fan of comments. I'm also a fan of having very 
 readable code. Right. So if you can express it with the code, that's the best, 
 right. But I'm not opposed on, you know, having any comments there and helping 
-people reach to understand what's actually happening again. Did this starts from 
+people read to understand what's actually happening again. Did this starts from 
 CSS code I'm writing right.
-With, if I'm defining something, I right there, Y you know what this class does, 
-where does it belong? Which part of the system is it? Because it's. Just making 
+With, if I'm defining something, I write there, you know "what this class does, 
+where does it belong? Which part of the system is it?" Because it's just making 
 it so much easier. You don't have to go and figure it out yourself. Right. What 
-do you think about 
+do you think about that?
 
-**Trisha:**: [00:17:37] that? Um, so I used to be a big commenter because I'm 
+**Trisha:**: [00:17:37] Yeah. Um, so I used to be a big commenter because I'm 
 because I've got terrible memory and I can never remember what, what I was doing 
 in the code and when and why.
 And I'm more likely to rework my own code than someone else's code. Cause I'll 
