@@ -307,12 +307,12 @@ like the first 10 years of my career, I just spent a lot of the time writing
 comments going, okay, well, it has to be this way because this didn't work.
 And I tried this and that didn't really work and this piece is trying to do this 
 sort of thing. Um, so I used to put loads of comments in my code as mostly 
-memory AIDS. Um, when I moved to, to Elmax in London and I was working with a 
-bunch of people who are eight, doing a lot of clean code B, writing a lot of 
-automated tests, um, C excellent developers.
-Um, D not afraid of refactoring. They said we don't write comments in our code. 
-So I was like, okay, well, this is going to be a big change for me, but let's, 
-let's see if I can make this work. And it turned out when I was working. Now I 
+memory aides. Um, when I moved to, to Elmax in London and I was working with a 
+bunch of people who are: (a) doing a lot of clean code, (b) writing a lot of 
+automated tests, um, (c) excellent developers. Um, (d) not afraid of 
+refactoring. They said: "we don't write comments in our code."
+So I was like: "okay, well, this is going to be a big change for me, but let's, 
+let's see if I can make this work." And it turned out when I was working. Now I 
 didn't write a single comment because, well, there's a few reasons. One, we 
 didn't have the clean code.
 It was a bit easier. We'd have really readable tests. We had tests that all 
@@ -326,62 +326,57 @@ have a couple of remote workers. We've had programs every day. So if we didn't
 know what was going on, we would always ask the pair, like, what do you think 
 this is doing?
 And they might have worked on it in a pair, or they might know someone who did 
-it. So we would, everyone was always interoperable to ask like, You seem to know 
-what this is, what does it do and why? And we also had very technical business 
-analyst of like combination between the, an architect and a business analyst.
-So when we were like, what is this module? What is it responsible for? What's it 
-supposed to do? How's it supposed to work? We would always have them white 
-boarding stuff out and saying, well, this is kind of how the system's supposed 
-to work. These are how these things work together. So, um, I didn't really need 
-comments because there were always people to ask about like what was happening 
-and why it was happening.
+it. So we would, everyone was always interruptable to ask like: "You seem to 
+know what this is, what does it do and why?" And we also had very technical 
+business analysts sort of like combination between the, an architect and a
+business analyst. So when we were like: "what is this module? What is it 
+responsible for? What's it supposed to do? How's it supposed to work?" We would 
+always have them white boarding stuff out and saying: "well, this is kind of 
+how the system's supposed to work. These are how these things work together." 
+So, um, I didn't really need comments because there were always people to ask 
+about like what was happening and why it was happening.
 And I think that's, that's part of the other reason why code is difficult to 
-read because. Even even these days, there's this idea that we're all lone 
+read because even, even these days, there's this idea that we're all lone 
 programmers and we have to sit in front of the computer and read the code on our 
 own and understand it on our own. That's why we have to sort of annotate it with 
 our little notes.
-If we are reading, let's say, well, for star code is huge, right? So it's not a 
-tiny, it's not novel. It's not easily digestible. The story with like a single 
-thread. It's like a massive, uh, I don't, I like it  have like 26 volumes where 
-everything isn't, it doesn't have a coherent thread and they self reference and 
-you can't read all of that to find the right thing.
+If we are reading, let's say, well, for a start code is huge, right? So it's not
+a tiny, it's not a novel. It's not an easily digestible story with like asingle 
+thread. It's like a massive, uh, I don't, I like an encyclopaedia with 26 
+volumes where everything isn't, it doesn't have a coherent thread and they self 
+reference and you can't read all of that to find the right thing.
 Um, well you can cause that's ordered, but. The, the, the code bases we're 
-talking about are, it's not like reading a story. So that means you do need to 
-do any sort of other human beings and saying, well, you did this bit, like, what 
-does, what does that, how does it work? Why is it that way? So comments are 
-useful.
-I think if you are going to have to work on the code in isolation, for example, 
-open source projects where, um, diff different people were working on it at 
-different times, the person who's responsible for that code might not even be 
-contributing anymore. They might not be available on your time zone.
-That kind of thing. It's really good to annotate. Like you were saying the ways, 
-the bigger picture stuff. Why is this here? What's you know, where does it 
-belong? What are the, what's the reasoning? You don't comment. The what, what is 
-this doing? It's a four loop. It's iterating it. Doesn't that doesn't need a 
-comment.
-What needs a comment of, why are we iterating? Why haven't we put this into 
-different data structure that might be more effective, for example? 
+talking about are enormous, it's not like reading a story. So that means you do
+need to do any sort of other human beings and saying: "well, you did this bit, 
+like, what does, what does that, how does it work? Why is it that way?" So 
+comments are useful, I think, if you are going to have to work on the code in 
+isolation. 
+For example, open source projects where, um, different people were working on 
+it at different times, the person who's responsible for that code might not even 
+be contributing anymore. They might not be available on your time zone.
+That kind of thing. It's really good to annotate. Like you were saying 
+the "why's", the bigger picture stuff. Why is this here? What's you know, where 
+does it belong? What are the, what's the reasoning? 
+You don't comment the "what", what is this doing? It's a For Loop. It's 
+iterating it. Doesn't that doesn't need a comment.
+What needs a comment of, "why are we iterating? Why haven't we put this into 
+different data structure that might be more effective", for example? 
 
 **Michaela:**: [00:21:24] Yeah. So one of the things I'm giving workshops for 
 code reviews, for example, and one of the exercises that I do with my 
-participants is, and give them some piece of code, right.
+participants is, I give them some piece of code, right.
 And I give them a few minutes to look at it. It's not really large it's so one 
-file, um, 
-
-**Trisha:**: [00:21:40] a couple of 
-
-**Michaela:**: [00:21:41] lines of code and they have to try to figure out 
-what's going on and everybody sitting and to try and do the thing and to tinker. 
-And then after maybe five minutes, because we, I don't want to spend a whole day 
-doing that.
-Right. I give them the description off the code review, and this code review 
-description tells them actually what what's happening here. What's the purpose 
-of that code, you know, and what changed. But it's really, really hard at the 
-first minute understanding those pipelines, but then once you give them the 
-explanation behind suddenly.
-The questions changed completely. They understand what's happening here. Why is 
-that happening? And then the question becomes very different. It's like, is that 
-correct? Would I would do it in that way? And things like that. And I find it 
+file, um, a couple of lines of code and they have to try to figure out 
+what's going on. And everybody sitting and to try and do the thing and to 
+tinker. And then after maybe five minutes, because we, I don't want to spend a 
+whole day doing that. Right. I give them the description of the code review, 
+and this code review description tells them actually what what's happening here. 
+What's the purpose of that code, you know, and what changed. But it's really, 
+really hard at the first minute understanding those pipelines, but then once you
+give them the explanation behind, suddenly the questions changed completely. 
+They understand what's happening here. Why is that happening? And then the 
+question becomes very different. It's like: "is that correct? 
+Would I would do it in that way?" And things like that. And I find it 
 really fascinating because yeah, as you said, understanding code is difficult 
 and if we get some guidance, the whole soft process changes.
 So one of the things that I wanted to talk with you about as well is your role 
@@ -391,20 +386,24 @@ did you start there and how did you get into contact with them and things like
 that?
 
 **Trisha:**: [00:22:53] Uh, I've been here five years now, which is the longest 
-I've ever worked for anyone. That's it? Massive record. And so I graduated, we 
-did in 2001, so I've got like 20 years experience the first 10 years of my 
+I've ever worked for anyone. 
+
+**Michaela:**: [00:22:59] (laughs)
+
+**Trisha:**: [00:23:00] (laughs) That's it? Massive record. And so I graduated 
+in 2001, so I've got like 20 years experience. The first 10 years of my 
 career. So I kind of stopped the story. Didn't I, when I graduated from 
 university, the first 10 years of my career, I did what, what I would advise a 
 lot of junior developers to do, which is like hop around from job to job.
 I did like, you know, 18 months here, two years there. I did a couple of jobs 
 where I was only there for three months and cut your losses fast. That's my 
-advice. Get the hell out. Yeah. 
+advice. Get the hell out of there. (laughs) Yeah. 
 
-**Michaela:**: [00:23:24] You don't like it. 
+**Michaela:**: [00:23:24] (laughs) You don't like it. 
 
 **Trisha:**: [00:23:25] Yeah. Yeah. Get out because it's, you know, you can 
-always, there's always ways to justify that sort of thing.
-A, you can always say I didn't like it, or you can always say it's a contract. 
+always, there's always ways to justify that sort of thing: (a), you can 
+always say I didn't like it, or (b) you can always say it's a contract. 
 It was just a three month contract, you know? Yeah. Don't be afraid of, of 
 getting out, particularly for women, if it's a toxic environment, get out 
 straight away. Yeah. So for the next, for the first 10 years, I kind of moved 
@@ -413,27 +412,31 @@ stuff.
 So there was usually a web front end to it, which sometimes I was involved in, 
 sometimes I wasn't. Um, then I started working at this company. I just mentioned 
 Elmax in London. Where for the first time I'd been reading a lot, I'd read 
-about, um, extreme programming. I'd read about agile. I'd read it. I did my 
+about, um, extreme programming. I'd read about Agile. I'd read it. I did my 
 scrum master certification.
-I read a bunch of stuff by Joel. Spolsky like I had this idea of how software 
-development, so it should be, and it worked for a lot of places where it was not 
+I read a bunch of stuff by Joel Spolsky. Like I had this idea of how software 
+development should be, and it worked for a lot of places where it was not 
 really like that. I mean, I worked for consultancy, which was really good where 
 I worked at a couple of different banks in London. That was interesting.
-Cause that's where I saw. So does the computing power being used for real stuff 
-rather than some of the rubbish time seen before. But when I was working, that 
-was a totally different ball game where that people would doing the stuff that 
-I'd read about. They were doing extreme programming, they were doing pair 
-programming, they were doing retrospectives.
-They would doing continuous delivery before. Like they finally was literally 
-writing the continuous delivery book while he was my boss at Elmax. The book 
-hadn't even been written and we were already doing it. And so all of this stuff 
-was, was really mindblowing. And I learned more in the first year there, I let 
-more than the previous 10 years or put together.
-And at that point I kind of, so I worked there for four years and. My last year, 
-I was kind of recent last two years. Really? I was responsible for doing sort of 
+'Cause that's where I saw. So does the computing power being used for real stuff 
+rather than some of the rubbish that I'd seen before. But when I was working at
+Elmax, that was a totally different ball game where the people would doing the 
+stuff that I'd read about. They were doing extreme programming, they were doing 
+pair programming, they were doing retrospectives.
+They would doing continuous delivery before. Like David Farley was literally 
+writing the continuous delivery book while he was my boss at Elmax.
+
+**Michaela:**: [00:24:51] Very cool.
+
+**Trisha:**: [00:24:53] The book hadn't even been written and we were already 
+doing it. And so all of this stuff was, was really mindblowing. And I learned 
+more in the first year there, I learned more than the previous 10 years all 
+put together.
+And at that point I kind of, so I worked there for four years, and my last year, 
+--well, the last two years really-- I was responsible for doing sort of 
 their developer advocacy type stuff, because, because why? Because I read a lot. 
 I was, I was interested in blogs. I was interested in writing blogs.
-I'd been to Q con London. At one of my previous jobs, I liked this idea of 
+I'd been to QCon London. At one of my previous jobs, I liked this idea of 
 conferences. I was kind of involved in the Java, the London Java user group. So 
 I was kind of involved with people who are part of the bigger community who are 
 going to conferences. And, um, you know, as part of the job of user group, you 
