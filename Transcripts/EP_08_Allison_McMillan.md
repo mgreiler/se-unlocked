@@ -1,12 +1,12 @@
 ## Transcript Episode 8 Allison-McMilan
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
-podcast. I'm your host, dr. Mikayla. And today I have the pleasure to talk to 
+podcast. I'm your host, Dr. Mikayla. And today I have the pleasure to talk to 
 Allison McMillan. Allison is an engineering manager at GitHub, and one of the 
 hosts of the parent driven development podcast. Allison has worn many hats, 
-including startup, founder, community builder at the university of Michigan, our 
+including startup founder, community builder at the university of Michigan, our 
 managing director of a national nonprofit.
-Alison is also a mother of four. Two young children and very outspoken about the 
+Alison is also a mother of two young children and very outspoken about the 
 problems, especially new mothers face that want to stay in tech and progress in 
 their career. So I'm super thrilled to have her on the podcast today to be able 
 to pick her brain about how it is to work for GitHub and how she managed to have 
@@ -16,7 +16,7 @@ So Alison, welcome to the show.
 **Allison:** [00:00:48] Yeah. Hi, I'm so happy to be here. 
 
 **Michaela:** [00:00:50] Yeah, really great. So Alison, maybe let's start from 
-the beginning. So I said, you're a mother you're working for GitHub. You have 
+the beginning. So I said, you're a mother, you're working for GitHub. You have 
 this podcast. So how did it all start? 
 
 **Allison:** [00:01:02] Uh, yeah. It's it's so how it all started? Well, I was 
@@ -29,7 +29,7 @@ really just awesome inclusive community, really welcoming of folks who want to
 learn.
 And, um, and there's, it was just really friendly. Uh, and so I'm from there, I 
 continuing continue to learn, became a software developer. And when I had my 
-first child, which was. A number of years before I started working in GitHub, it 
+first child, which was a number of years before I started working in GitHub, it 
 was a really tough transition for me. And I found that there was, it was really 
 hard to find outlets, to find people to talk to, especially mothers, but just 
 parents in general, it was just really challenging.
@@ -48,13 +48,13 @@ And that's how I, that's why I ended up there a couple of years ago. Yeah,
 **Michaela:** [00:03:00] very cool. So actually you don't have a traditional 
 background I get from your story. So you're somehow switch careers and started 
 programming after you did something else before. Or how does that really? How 
-does that the book?
+does it work?
 
 **Allison:** [00:03:15] Yeah, I was a political science major. Um, I was a 
 political science and, um, near East history. Um, So nothing to do with code or 
 even remotely related to, to sort of tech, et cetera. And I worked in the 
 nonprofit world for, um, for a number of years. And then I actually had, I run, 
-I lost just startup that I ran for a little over a year.
+I lost the startup that I ran for a little over a year.
 And as I was working with a few friends who were developers, just in terms of 
 what the MVP would, would look like, et cetera. I found myself getting really 
 frustrated at night, knowing like some of the constraints and some of the 
@@ -63,11 +63,11 @@ startup, you know, based on an online platform, I really had to understand more
 about what programming was.
 It is. I mean, at that time, I didn't even know that the command line was a 
 thing that existed. And so again, rails girls was sort of just, I had a, I had 
-a. Friend who, um, from like the startup from the DC tech startup scene that was 
+a friend who, um, from like the startup, from the DC tech startup scene that was 
 running the first rails girls workshop and it looked interesting. And, uh, like 
 I said, I, I actually expected to, to hate it.
 I sort of grew up, um, in a very traditional households where the, and the 
-experts and the message was that like really as a woman, I wasn't math and 
+expectation and the message was that like really as a woman, I wasn't math and 
 science, like, wasn't my thing. Um, and I was never really. Very good at math 
 and science in, in school. Um, so. I expected to not enjoy it any part of the 
 day, I was like, I'm going to go because I need to go because this way I'll have 
@@ -76,12 +76,12 @@ I'm working with.
 And at the end of the day, I mean, I had something like I had something deploy 
 to Heroku and it was, you know, a little like to do list app. And it was so 
 exciting. And I had, you know, come across some error message and fix some bugs. 
-And I was like, Oh, this is, this is so much more. Interesting than I originally 
+And I was like, Oh, this is, this is so much more interesting than I originally 
 anticipated.
 And so I just sort of kept teaching myself, doing tutorials, you know, spun up 
 my first sort of practice site, which is just a place to put. Um, meal and 
 recipe ideas for, uh, for my partner and I, um, and like I said, you said, I 
-mean, D C is really awesome. There was a lot of coworking. There's a lot of 
+mean, DC is really awesome. There was a lot of coworking. There's a lot of 
 coworking that happens.
 So like I would, you know, do co-working before the. DC rug or Arlington Ruby 
 event. Um, and tons of folks were, you know, volunteered to read over my code 
@@ -98,7 +98,7 @@ Oh,
 **Michaela:** [00:06:34] that sounds really inspiring. I think what a, what a 
 really good story. So, and then when you. Well expecting your second child and 
 you thinking a career change is now the right thing to do. Um, how did that 
-whole thing starts? So how did you approach get hub? You said that a friend told 
+whole thing starts? So how did you approach github? You said that a friend told 
 you about the position and you were.
 Thinking already, um, that you would like to change now. And when you started, 
 how was that? How was it being a new mother and then starting as a new place, 
@@ -125,7 +125,7 @@ my struggles after my first was that it was just really, I spent a lot of hours
 learning and teaching myself and putting time in and doing a lot of stuff before 
 I had a child and I wasn't expecting.
 My brain to change in interesting unanticipated ways. I wasn't expecting the 
-prolong, like sleep deprivation. I wasn't expecting just like the. Less amount 
+prolong, like sleep deprivation. I wasn't expecting just like the less amount 
 of time that I had outside of work to, to work on things. So yeah, it is, it is 
 really difficult to be a new, a new mom, whether it's your first or second or 
 whatever, and also be, uh, basically to have an infant and also be new to 
@@ -144,8 +144,8 @@ I put out a tweet and I was like, I don't know. I don't know if I should stay in
 the industry or just leave. I don't know what I'm doing. Like I really am having 
 a tough time. I would love to talk to mothers who are programmers, who can just 
 talk to me about sort of what I'm going through. And I had, I had one 
-conversation with a mom who.
-Talk to me about the ways in which your brain actually changes. Cause one of the 
+conversation with a mom who talked to me about the ways in which your brain 
+actually changes. Cause one of the 
 things that really made me nervous was that I found that all of the techniques 
 and all of the things that I had done in the past to learn things and to 
 remember things and to like ramp up a lot of them, like weren't working anymore.
@@ -178,7 +178,7 @@ actually a manager of managers, right?
 
 **Allison:** [00:12:24] Yes. 
 
-**Michaela:** [00:12:25] At get hub.
+**Michaela:** [00:12:25] At GitHub.
 So what's your role there? Can you tell me a little bit about that? What's your 
 day to day work? What do you do? 
 
@@ -194,7 +194,7 @@ which sort of means I'd just like, you know, get a sense of like what they're
 talking about, what major like technical problems are they're solving right now.
 What are the things that are most important to them? Both, uh, sort of like in 
 terms of team dynamics, as well as like relating to other teams, collaborating 
-across, across, get hub with, uh, with other engineering teams. And yeah, and a 
+across, across, GitHub with, uh, with other engineering teams. And yeah, and a 
 lot of it is getting a sense of like where there are blockers and what I can 
 help, help unstick or help solve or help listen about.
 Um, so I would say my, my days vary, but that's a, that's a good, a good amount 
@@ -255,11 +255,11 @@ thing happens, you know, happened this week.
 Um, so it's paying attention to those things as well. And then in terms of. In 
 terms of checking in on things. I, each of the managers that worked for me and 
 manage their team, they, they all have cadences that they've set up with their 
-team. So some teams use like geek bot or some other sort of way to just, uh, to 
+team. So some teams use like Geekbot or some other sort of way to just, uh, to 
 do sort of like a virtual standup and, um, just like mention in, in Slack, like, 
 you know, what they worked on yesterday, what they're working on today.
 There are also like they'll often have some sort of weekly bank meeting. Um, and 
-so, so, you know, I, I w I will either try to like, Jump into those just to be a 
+so, so, you know, I, I  will either try to like, Jump into those just to be a 
 fly on the wall or, you know, read, read any, any notes or anything, anything 
 afterwards. And I think a lot of it is having a, a good amount of, of trust.
 So like I trust that the folks that I manage are going to raise any issues or 
@@ -314,7 +314,7 @@ Um, right. Things, things like that.
 **Michaela:** [00:21:22] Yeah. So I was, um, talking with life singer from 
 automatic and automatic completely remote company. And for example, what they do 
 is they write, they write everything down. There is a WordPress site, obviously 
-for everything. Thing that they would do. So every project that they do or every 
+for everything that they would do. So every project that they do or every 
 team has their own, you know, instant instance off a blog, and then they write 
 everything down there.
 So you can always go and look at those written down conversations and find your 
@@ -323,14 +323,14 @@ way through that. Do you have something similar at get hub?
 every. Every team has, uh, has his own repo. And sometimes it's like where the 
 code is. And sometimes it's more repo for like internal team questions or 
 documentations.
-Or things like that, that sort of document, like how we were, um, onboarding 
+Or things like that, that sort of document, like how we work, um, onboarding 
 those, those sorts of things. Um, we make pretty liberal use of issues and a lot 
 of labels on, on those issues, so that it's really easy to search for something. 
 And to find it, if you're looking for. You know, not just sort of like bugs 
 features, et cetera, but also if you're looking for like weekly sync notes or 
 stand up notes or, you know, anything, anything like that.
 And then the other thing that we use a lot is team discussions. So on GitHub, 
-you can, um, you can have teams and oftentimes those discussion boards are sort 
+you can, um, you can have teams and often times those discussion boards are sort 
 of used for, you know, like you'll post information about. About the week or 
 about what was accomplished or, you know, something that's like really important 
 for, um, for your team to know.
@@ -345,8 +345,8 @@ of pop into another team Slack channel and be like, um, you know, Hey, we're
 thinking about this idea. W, you know, would you be interested in being CC'd on 
 the issue or being part of that conversation, et cetera?
 **Michaela:** [00:23:57] so one of the things that triggered the thing that you 
-said before about conflict resolution and communication is caboose. I 
-immediately had to think about code reviews because I think co-drivers resemble 
+said before about conflict resolution and communication is code reviews. I 
+immediately had to think about code reviews because I think code reviews resemble 
 similar issues where you have like written converts communication and, you know, 
 Tommy's can get a little bit heated.
 And one of the strategies to resolve that is also going out of this code review 
@@ -355,7 +355,7 @@ one on one conversations either, you know, pick up the phone or, you know, call
 somebody or walk over and discuss it in person or write the document or, you 
 know, take one step back and say, okay, it seems, you know, there is more.
 Disconnect here, let's revisit the whole topic or architectural what, what the 
-discussion is about. So I would like to know how are Koji views seen at GitHub? 
+discussion is about. So I would like to know how are code reviews seen at GitHub? 
 How do you do code reviews? Is every team doing code reviews. And as you are the 
 manager of managers, you probably have insights in different teams.
 Do you see differences? Similarities? I would like to know everything about 
@@ -363,7 +363,7 @@ that.
 
 **Allison:** [00:25:07] Yeah. Um, I think there's no, uh, There's no one uniform 
 way that we do code reviews it at GitHub. I think one of the, um, really. Nice 
-things about getup is that there's very little, that's actually like prescribed 
+things about GitHub is that there's very little, that's actually like prescribed 
 as well. You must do something this way.
 Managers are really given flexibility to sort of like work with their teams and 
 figure out, um, based on the project based on that. Size of the team based on, 
@@ -388,18 +388,18 @@ It'll take now, like you'd have stance, but it is one of my favorite things,
 things to do as part of a hiring process. Because I think that you can tell, 
 right, so much about, um, especially at a remote company where a lot of the 
 interaction is going to be through code reviews. I know so much about a 
-candidate by how they, um, how they review, uh, how they review a polar request.
+candidate by how they, um, how they review, uh, how they review a pull request.
 Cause I think that. For example, like confidence is a huge aspect of being able 
 to do good work with other folks remotely. So, you know, if you have someone on 
 your team that's constantly reviewing code with really like, why didn't you do 
 this? Or you should have just done this. Or if you had simply done this, like if 
 the phrasing isn't sort of kind and thoughtful, then it's also really easy to.
-To say to yourself like, Oh, I'm just such a bad program. Or like, what am I 
+To say to yourself like, Oh, I'm just such a bad programmer. Or like, what am I 
 even doing here? You know, whereas different sort of language or, or, uh, 
 prompts that that can be used. I think one of the, this is like sort of code 
 review, but sort of not code review. Right. Um, two others things related. Are 
-we talk a lot about pull requests, descriptions?
-Okay. So what is a good par quest? Like if, you know, for someone to be able to 
+we talk a lot about pull requests descriptions?
+Okay. So what is a good pull request? Like if, you know, for someone to be able to 
 review your code effectively, what does a good PR look like? Right. So a GIF, if 
 there's, if there's functionality involved, if it's something complex, really 
 making sure to sort of break it down and to spend time on that poor question.
@@ -408,16 +408,15 @@ it? What are other options that were considered, but that, you know, he didn't,
 didn't go down that path or maybe he went down that path and then reverted and 
 tried something new. I'm like, what is. Important context for either anyone 
 who's jumping into review the code for them to know, or even for future you to 
-know about, like, what I found is that poor requests with good descriptions 
+know about, like, what I found is that pull requests with good descriptions 
 often get revisited time and time again, when you're looking for like, Oh, how 
 did that relate to this other team?
 Or, um, you know, how, what was that, you know, what was that piece that we, 
 that we pulled in or they approach their, um, So I think that that's, that's 
 really important. And then the other thing that's a little bit more related to 
 like pull requests, but a little bit code code review related. Um, is that in 
-our.
-Department Slack channel. Um, I have a, like a Slack bot message that posts on 
-Fridays that asks that, that asks people to post, um, an interesting pull 
+our department Slack channel. Um, I have a, like a Slack bot message that posts 
+on Fridays that asks that, that asks people to post, um, an interesting pull 
 request that they authored or read and what was interesting about it or what 
 they learned as a result. So that's the way to sort of like take coder view or 
 take the work that you're doing or that the work where you code reviewed 
@@ -431,7 +430,7 @@ thoughtful and really excellent. And I really appreciated the conversation that
 occurred as a result.
 
 **Michaela:** [00:29:56] Yeah, so much that you just described resonates very 
-much with me. And while I give for example code to be workshops, and one of the 
+much with me. And while I give for example code reviews workshops, and one of the 
 things is the feedback that I always go through with the people, because I think 
 it's so important. It's so crucial how you phrase, as you said, how you phrase 
 the feedback and it it's just.
@@ -442,7 +441,7 @@ question out of it, Mark, at the end. I think people can, even though it's
 written conversation, people can feel where you're coming from and.
 It's the same. What's really important is that it's about the code. It's not 
 about the person, right? So for example, that's saying, well, you have to close 
-the socket. You say this code doesn't close. The socket, right. Is a very 
+the socket. You say this code doesn't close the socket, right. Is a very 
 different, very different conversation. 
 
 **Allison:** [00:30:55] Absolutely. 
@@ -455,7 +454,7 @@ Quite different. Right? So if you don't have a lot of description, there are not
 a good description. It's really about the quality, right? Not the length, but if 
 you have a good description of your change, it's that people can understand 
 what's actually going on and help you much better and give much better feedback.
-So that's really, really important. So, yeah. And I love that you. Take PRS and 
+So that's really, really important. So, yeah. And I love that you take PRS and 
 look through them because that's also one of the things that, yeah, I always 
 suggest is to, to make a review of your review from time to time. Right. Really 
 look into how are we actually giving reviews? What are we learning? Where are we 
@@ -469,7 +468,7 @@ that you're communicating with each other.
 **Allison:** [00:32:06] Yeah. Yeah. 
 
 **Michaela:** [00:32:08] Yeah. I love that. So, um, what about testing? Can you 
-tell me a little bit about testing at guitar? Is there. Do you have like 
+tell me a little bit about testing at GitHub? Is there. Do you have like 
 automated tests? Do you have like manual testing as well? Going on and how, you 
 know, what's your philosophy behind testing? 
 
@@ -501,14 +500,14 @@ there is functionality that's changing or being introduced, et cetera, then
 there are tests that that should be included in, in that. And if the person, I 
 think this is rare, but if for some reason, the person doesn't. Include a test 
 and their original PR it's.
-I think it's guaranteed that somebody in a coder view will comment on either 
+I think it's guaranteed that somebody in a code review will comment on either 
 suggestions around a test or comments around a test, et cetera. 
 
 **Michaela:** [00:34:24] And so you said you actually learned rails, so Ruby on 
-rails, right? Yes. Um, is that also what's fueling GetApp. Uh, can you tell me a 
+rails, right? Yes. Um, is that also what's fueling GitHub. Uh, can you tell me a 
 little bit about the tech stack behind?
 Um, I think I remember that that Ruby is one of the criteria, but is there more, 
-what, what do you have to know if you want to apply for, for getup, for example? 
+what, what do you have to know if you want to apply for, for GitHub, for example? 
 
 **Allison:** [00:34:47] Um, it's so it's, it's a lot of Ruby and rails. Um, 
 there is also some go and I think there's more and more goes sort of popping up. 
@@ -526,7 +525,7 @@ technical interview.
 Oftentimes that's a short take home, but it can take other forms. And then 
 there's usually some, um, again, video call technical portion where it's active 
 conversation. There is a, uh, values or leadership principles section where we 
-talk about what our. What our good hub values are. Um, and ask questions around 
+talk about what our. What our GitHub values are. Um, and ask questions around 
 that.
 There's always an interview or a chat with the hiring manager. So the person 
 that is related to the team that, that you would be joining. Um, and then we 
@@ -538,17 +537,17 @@ diversity inclusion? How do you think about diversity, inclusion and belonging,
 um, et cetera, so that we make sure that the folks that are joining GitHub care 
 about those sorts of things. 
 
-**Michaela:** [00:36:42] Okay. And it sounds really interesting because getup is 
+**Michaela:** [00:36:42] Okay. And it sounds really interesting because GitHub is 
 remote or a large part, as you said, is remote.
-Is it only U S remote or is it worldwide remote? 
+Is it only US remote or is it worldwide remote? 
 
 **Allison:** [00:36:52] It's it's worldwide remote, although we can't hire in 
-every country or even every state the, in the U S so I know that on our, um, On 
+every country or even every state the, in the US so I know that on our, um, On 
 our job site. I believe there's a, there's a link that talks about where, where 
 we can hire, I don't know all of the locations, um, off the top of my head, but, 
 um, yeah, there are, there are some restrictions in terms of where we can 
 actually hire folks from, 
-**Michaela:** [00:37:18] but it's not only us.
+**Michaela:** [00:37:18] but it's not only US.
 It also Europe 
 
 **Allison:** [00:37:20] and yes, definitely of America 
@@ -623,17 +622,16 @@ Work. It's always regular business hours for someone. Um, so you really need to
 be very disciplined in like turning off notifications or closing your computer 
 and saying, I am separating myself from my work day. I am not working. I will 
 not work until this time or until it's. Cause it's really easy to just like.
-Like at eight 30, when my kids are asleep, it's sometimes really easy for me to 
+Like at 8:30, when my kids are asleep, it's sometimes really easy for me to 
 just like open up my computer. Cause I'm doing it. Some other personal stuff get 
-involved in a work conversation and up like, you know, all of a sudden it's 10 
-30 or 11:00 PM. And I realized that I was like accidentally works for two hours 
-instead of.
-Rested and relaxed. 
+involved in a work conversation and up like, you know, all of a sudden it's 
+10:30 or 11:00 PM. And I realized that I was like accidentally works for 
+two hours instead of resting and relaxed. 
 
 **Michaela:** [00:43:01] Yeah. I can see so many things that you said. One of 
 the things that I love the most is lunchtime. So, so my husband and I are both 
 working remote and we always have lunch together. And I think that's one of the 
-biggest things that why allow promote so much. Just those, you know, 30 or 40 
+biggest things that why i love remote so much. Just those, you know, 30 or 40 
 minutes that we just spent together and have lunch every day.
 And, you know, it's just our quiet time because you never know how it's going to 
 be in the evening when the kids have to go to sleep and things like that. Right. 
@@ -663,7 +661,7 @@ or something feels off. And I like stop and think, and I realized that I have
 not left the house for five days except to maybe do like pick up and drop off 
 or, you know, something like that.
 So making sure that you sort of know yourself and are building those things 
-into, into your schedule. One thing that I I'm really bad at that I try always 
+into, into your schedule. One thing that  I'm really bad at that I try always 
 to be better at is. I really need to be like getting out of my house more, not 
 just coworking, but also like taking a break in the afternoon because I feel 
 like I get so focused on work and the things that I'm doing or meetings or 
@@ -814,7 +812,7 @@ other hand, there's like this fear, no, don't put out, I don't know where it's
 coming from, but it's there. Yeah. So. Alison. Thank you so much for talking 
 with me about so many different topics.
 Is there something that you want to tell my listeners, um, or that we haven't 
-discussed? They definitely should check out your book. I 
+discussed? They definitely should check out your podcast. I 
 
 **Allison:** [00:55:35] was going to say, can I do a shameless shameless plug? 
 Yeah. Parent driven development is the name of podcast and a parent driven 
@@ -830,8 +828,8 @@ being on my show. Thank you so much for talking to me.
 **Allison:** [00:56:07] Thanks for having me. 
 
 **Michaela:** [00:56:08] Yeah. Bye bye. I hope you enjoyed another episode of 
-the sup engineering unlocked podcast.
-Don't forget to subscribe. And I talk to you again two weeks. 
+the software engineering unlocked podcast.
+Don't forget to subscribe. And I talk to you again in two weeks. 
 
 **Allison:** [00:56:22] Bye.
 
