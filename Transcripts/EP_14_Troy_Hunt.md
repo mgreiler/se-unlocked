@@ -122,77 +122,75 @@ What do you think, you know, is a good amount to share outside. are there some b
 
 **Troy:** [00:16:57] Well, I think the first thing is, is that it's a very personal thing. Privacy means very different things to different people.
 
-Uh, I have friends that adamantly do not want any photo of the kid anywhere online. You know, even though there'll be at a friend's party, please don't take photos. My children don't put anything on Facebook. Now, I don't know exactly what they think will happen, but. Again, privacy is personal. They get to choose.
+Uh, I have friends that adamantly do not want any photo of the kid anywhere online. You know, even though they'll be at a friend's party, please don't take photos. My children don't put anything on Facebook. Now, I don't know exactly what they think will happen, but. Again, privacy is personal. They get to choose.
 
-Uh, I know other people who at the other end of the spectrum where they, uh, there'll be like influences as I want everything about my life on the internet. And then you're just looking at it going, Oh, I don't care about what your children are eating for breakfast. Like, why are you putting this on the internet?
+Uh, I know other people who at the other end of the spectrum where they, uh, they'll be like influencers as I want everything about my life on the internet. And then you're just looking at it going, Oh, I don't care about what your children are eating for breakfast. Like, why are you putting this on the internet?
 
-So F for me, I think I'm probably somewhere in the middle there where I share aspects of my life, a lot of my professional life, uh, online. Certainly I share bits and pieces of my kids normally related to things in the industry. In fact, I wrote a blog post with this only about a week ago. But there are other things that are, that are happening in my life, which, which I've chosen not to share, that are very personal.
+So for me, I think I'm probably somewhere in the middle there where I share aspects of my life, a lot of my professional life, uh, online. Certainly I share bits and pieces of my kids normally related to things in the industry. In fact, I wrote a blog post with this only about a week ago. But there are other things that are, that are happening in my life, which, which I've chosen not to share, that are very personal.
 
 Um, even maybe I'll share some of these things in the future, I don't know. But again, privacy is something that we all have to define for ourselves and then use the tools that we have appropriately in order to try and protect that privacy. 
 
-**Michaela:** [00:18:10] Yeah. And is there something that you think makes you vulnerable more in know, like for example, your address where you live or, you know, so if I tumble, I'm also thinking constantly about, especially my kids, right?
+**Michaela:** [00:18:10] Yeah. And is there something that you think makes you vulnerable more, you know, like for example, your address where you live or, you know, so for example I'm also thinking constantly about, especially my kids, right?
 
 This is probably my biggest concern. You know, how much do I share online about my kids? And I'm not completely opposed to sharing anything. And there are pictures of my kids floating around on the internet, but still, every time it happens, I'm like. Am I okay with it? And it feels like I don't know exactly what, you know what could happen, and I feel probably nothing, but with AI and things like that, machine learning algorithms that are getting better every day, I'm not sure if I can predict the future enough, you know, to say, well, it's a safe choice to, to share, for example, pictures of my kids.
 
 Do you think that that has some, some foundation this way of thinking, or is it just a panic. 
 
-**Troy:** [00:19:07] I think the, the problem is, is that you represent that in a really binary fashion. Is it safe? Versus what? Like not safe. So if I put a photo of my kid on the internet, is everything going to be totally fine or is it going to be disastrous in our, is it going to possibly be somewhere in between?
+**Troy:** [00:19:07] I think the, the problem is, is that you represent that in a really binary fashion. Is it safe? Versus what? Like not safe. So if I put a photo of my kid on the internet, is everything going to be totally fine or is it going to be disastrous you know, is it going to possibly be somewhere in between?
 
-And I think part of the challenges is what you've touched on, which is we just don't know in the future. What I do think is really interesting is that the changing social tolerances that we have to online sharing. So I'm in my early forties I got to 18 before I saw the internet. I managed to make it to adulthood without.
+And I think part of the challenges is what you've touched on, which is we just don't know in the future. What I do think is really interesting is the changing social tolerances that we have to online sharing. So I'm in my early forties I got to 18 before I saw the internet. I managed to make it to adulthood without having exposed myself in either the metaphorical or the literal sense, which often happens these days online. Like none of that happened. And the difference now is my kids are seven and 10 years old. So they've grown up in a time where they have never ever not known YouTube to exist or Facebook to exist, or an iPhone to exist and their social tolerances in as it relates to things like privacy.
 
-Having exposed myself in either the metaphorical or the literal sense, which often happens these days online. Like none of that happened. And the difference now is my kids are seven and 10 years old. So they've grown up in a time where they have never ever not known YouTube to exist or Facebook to exist, or an iPhone to exist and their social tolerances in as it relates to things like privacy.
+Again, are going to be very, very different to ours. And I'll sort of lament a little bit when we, we look at privacy and we say, this is the way it should be. And it's usually those of us who've grown up in a time where we had a lot more of it and we project our childhoods and our held beliefs onto everyone else.
 
-Again, it'd be very, very different to ours. And I'll sort of lament a little bit when we, we look at privacy and we say, this is the way it should be. And it's usually those of us who've grown up in a time where we had a lot more of it and we project our childhoods and our held beliefs onto everyone else.
-
-I think the reality of it is, is that as, as people get older and generations, uh, retire and then disappear and new ones come in and they've never known a world that's different, they're going to have a very, very different view of things. They look up until that point. My view of things is that I'm going to, I'm going to share what I feel is necessary and fulfilling to my life and my kids' life, and that's going to be a little bit different to what some other people do.
+I think the reality of it is, is that as, as people get older and generations, uh, retire and then disappear and new ones come in and they've never known a world that's different, they're going to have a very, very different view of things. Up until that point my view of things is that I'm going to, I'm going to share what I feel is necessary and fulfilling to my life and my kids' life, and that's going to be a little bit different to what some other people do.
 
 **Michaela:** [00:20:47] Yeah. Yeah. I think it's a good answer, and that's probably what I do as well because as I said, I share, but for each of the information that I share, I'm thinking. Should I or shouldn't I? Right. And I think it depends on the kind of information that, that you're sharing about your kids. 
 
-**Troy:** [00:21:02] Well, I think conscious conscious thought is, is a good thing, right?
+**Troy:** [00:21:02] Well, I think conscious thought is, is a good thing, right?
 
 Like the fact that you're thinking is this a good idea or not? Right off the bat is good. There's a lot of other people who are not giving it any thought whatsoever, and they're the ones I worry about a little bit more. 
 
-**Michaela:** [00:21:18] Yeah. I'm, I'm evaluating on a case by case 
+**Michaela:** [00:21:18] Yeah. I'm, I'm evaluating on a case by case scenario.
 
-**Troy:** [00:21:23] and you know, like this. Anyone listening to this, we go, that makes a lot of sense.
+**Troy:** [00:21:23] and you know, like this. Anyone listening to this, will go, that makes a lot of sense.
 
 That's just a perfectly common sense approach. 
 
-**Michaela:** [00:21:30] Yeah. So I would like to go a little bit away from the end user perspective and look at the tech behind. So, well, we touched a little bit already on what happened. If a company has a data breach, what are the common things there that go wrong? I would like to understand a little bit better.
+**Michaela:** [00:21:30] Yeah. So I would like to go a little bit away from the end user perspective and look at the tech behind. So, well, we touched a little bit already on what happened. If a company has a data breach, what are the common things there that go wrong? I would like to understand it a little bit better.
 
-What should engineers. No. About, you know, software engineers know about data breaches, data privacy, security. So what, what should they know apart from, you know, very common things like sequel injection, cross site scripting, maybe failure to restrict access as indication and session management problems.
+What should engineers know about, you know, software engineers know about data breaches, data privacy, security. So what, what should they know apart from, you know, very common things like SQL injection, cross site scripting, maybe failure to restrict access authentication and session management problems.
 
 Those are the things that come to my mind. But is there something else? What are the fundamentals that engineers should know. Well, 
 
-**Troy:** [00:22:12] probably the best place to start for engineers trying to figure out like what are the things that they need to look after. My applications is start with the O OS top 10 so I was pissed.
+**Troy:** [00:22:12] probably the best place to start for engineers trying to figure out like what are the things that they need to look after. My applications is start with the OS top 10 so I was pissed.
 
-The open web application security project, they're a not for profit organization and they produce a whole heap of really useful material and. They produce roughly every three years. A document called the top 10 web application security risks, and I just brought up on the screen, sir, I remembered the right order of them, but there are things like injection such as sequel injection, broken authentication, lots of ways you can screw up authentication, XML, external entities, sensitive data exposure, broken access control, security, misconfiguration, cross site scripting, insecurity, serialization using component with nine vulnerabilities and insufficient logging and monitoring.
+The open web application security project, they're a not for profit organization and they produce a whole heap of really useful material and. They produce roughly every three years a document called the top 10 web application security risks, and I just brought up on the screen, so I remembered the right order of them, but there are things like injection such as SQL injection, broken authentication, lots of ways you can screw up authentication, XML, external entities, sensitive data exposure, broken access control, security misconfiguration, cross site scripting, insecurity to serialization, using component with known vulnerabilities and insufficient logging and monitoring.
 
-And. All of these vulnerabilities have really, really good explanations from that quite critically are actually targeted at software engineers. So the targeted at the people building software, they're not written by security people for security people, and that's a massive, massive difference because there's so much material out there that just doesn't speak the language of people who are actually building the apps.
+And all of these vulnerabilities have really, really good explanations from OWOS quite critically are actually targeted at software engineers. So the targeted at the people building software, they're not written by security people for security people, and that's a massive, massive difference because there's so much material out there that just doesn't speak the language of people who are actually building the apps.
 
-**Michaela:** [00:23:21] Yeah, I think so too. I know that doc, Amanda, and I use it actually in my country of workshops to touch under. The area of security reviews and code areas with some, you know, security perspective. But you know, what happens very often is that I get some pushback from software engineers. They'd say, well, you know, it's really interesting, but I don't, I'm not in charge for that.
+**Michaela:** [00:23:21] Yeah, I think so too. I know that document, and I use it actually in my cod review workshops to touch on the area of security reviews and code reviews with some, you know, security perspective. But you know, what happens very often is that I get some pushback from software engineers. They'd say, well, you know, it's really interesting, but I don't, I'm not in charge for that.
 
-I'm not responsible. That's handled somewhere else. Or, you know. This is only relevant, but I would access user data, which I don't. And then if you, you know, dig it a little bit deeper. We understand that we are accessing these data quite often, but what do you think about this mindset? Is that something that you encounter as well?
+I'm not responsible. That's handled somewhere else. Or, you know. This is only relevant when I would access user data, which I don't. And then if you, you know, dig it a little bit deeper. We understand that we are accessing user data quite often, but what do you think about this mindset? Is that something that you encounter as well?
 
-And how, how, how do you handle that in, in Europe, in your workshop that are really focused on security? 
+And how, how, how do you handle that in your workshop that are really focused on security? 
 
-**Troy:** [00:24:07] Well, firstly, I've got a special place and have I been paying for these people? I've got, I've got a lot of cloud space. Yeah, I'm, I'm fine. If people want to have that edge, Hey look, I've made a complete career out of people having that attitude.
+**Troy:** [00:24:07] Well, firstly, I've got a special place in HaveIBeenPwned for these people. I've got, I've got a lot of cloud space. Yeah, I'm, I'm fine. If people want to have that attitude, Hey look, I've made a complete career out of people having that attitude.
 
 So yeah, I don't, I don't want to sort of kill my own job, but yeah, most seriously, I think that. There's a couple of issues there. So one of them is that just really demonstrates complacency. So a view that this just simply won't happen to us, or it's just not a serious problem. And it generally, when complacency is the issue, generally takes a serious data breach for, for something to change.
 
-I also think that there's a little bit of a, uh, not my problem attitude there. And I've certainly seen cases where developers will say, look, there's this, there's what the security team does. I, I do the developing security tenders to security things. And really, security is a shared responsibility. We've got to get this right.
+I also think that there's a little bit of a, uh, not my problem attitude there. And I've certainly seen cases where developers will say, look, there's this, there's what the security team does. I, I do the developing and the security team does security things. And really, security is a shared responsibility. We've got to get this right.
 
-As a collective whole, we can't just say chocolate over the fence and someone else deals with it. And the third thing I think is really relevant here as well is that security doesn't necessarily have to be an impost. It doesn't have to be time consuming. It doesn't have to be costly. And if you look at something like sequel injection, that the difference in effort and costs between building code, which is resilient to sequel injection versus vulnerable to sequel injection.
+As a collective whole, we can't just say chuck it over the fence and someone else deals with it. And the third thing I think is really relevant here as well is that security doesn't necessarily have to be an impost. It doesn't have to be time consuming. It doesn't have to be costly. And if you look at something like SQL injection, that the difference in effort and costs between building code, which is resilient to SQL injection versus vulnerable to sequel injection.
 
-It's the same. It is literally the same. There's absolutely no difference in the F. and in fact, I would argue that there are used cases. We're building resilience. Sequel injection code is actually more efficient if you're using object relational mappers or something like that. So I, I just don't see any good practical reason to have that attitude.
+It's the same. It is literally the same. There's absolutely no difference in the effort and in fact, I would argue that there are use cases where building resilient SQL injection code is actually more efficient if you're using object relational mappers or something like that. So I, I just don't see any good practical reason to have that attitude.
 
 I only see ignorance. 
 
-**Michaela:** [00:25:48] Yeah. Yeah, that's true. So I was thinking also about dev ops and now also dev sec ops, and it's more and more under ice. Do you think that that's also one of the reasons why people have to know more about security than ever before, or does it stay the same? It's just a different mindset.
+**Michaela:** [00:25:48] Yeah. Yeah, that's true. So I was thinking also about devops and now also dev-sec-ops, and it's more and more on the rise. Do you think that that's also one of the reasons why people have to know more about security than ever before, or does it stay the same? It's just a different mindset.
 
-**Troy:** [00:26:08] I think it makes it faster and easier than ever to screw stuff up. I look a, I love the principles behind this. You know, the, I love so much of what we're trying to do and that that area in the industry, it's just, it just makes sense that the, the challenge is, is that because of the rapid iteration of software and those rapid release cycles as well.
+**Troy:** [00:26:08] I think it makes it faster and easier than ever to screw stuff up. I look a, I love the principles behind this. You know, the, I love so much of what we're trying to do in that area in the industry, it's just, it just makes sense that the, the challenge is, is that because of the rapid iteration of software and those rapid release cycles as well.
 
-We, we do run the risk of circumventing what might've been a more formal security process in the past. Now, I think a lot of those formal processes have their own issues, but what it really does is highlights a shared responsibility thing again and say, Hey, you want to write software faster and release quickly?
+We, we do run the risk of circumventing what might've been a more formal security process in the past. Now, I think a lot of those formal processes have their own issues, but what it really does is highlight a shared responsibility thing again and say, Hey, you want to write software faster and release quickly?
 
 You're really going to need to buy into this security stuff because we can't go and manually penetration test every single release anymore. 
 
@@ -202,33 +200,31 @@ For example, about code reviews or security reviews? What are your advices in th
 
 **Troy:** [00:27:11] So I look at it in a little bit of a continuum about where we actually want to implement the each part of this. So, for example, developer education I think is absolutely critical. Now I have a vested interest because I run workshops and I have courses and all that sort of thing.
 
-But it just makes sense because it's such a cheap thing to do compared to all the other security things that you can spend your money on. So I would love to just start from the basis of high. Let's not try to screw this up in the first place. And I like, let's actually avoid. Writing bad code and we do that with education, but then we do have more formal processes that we can implement as well.
+But it just makes sense because it's such a cheap thing to do compared to all the other security things that you can spend your money on. So I would love to just start from the basis of high. Let's not try to screw this up in the first place. And I like, let's actually avoid writing bad code and we do that with education, but then we do have more formal processes that we can implement as well.
 
-Now, they may be everything from code reviews to automated analysis. There are some great automated analysis tools out there for both static and dynamic analysis. I've written about them in the past as well. Things like, look, every night my build server is going to pick up whatever it was. Coated during the day, build it, publish it to a staging environment.
+Now, they may be everything from code reviews to automated analysis. There are some great automated analysis tools out there for both static and dynamic analysis. I've written about them in the past as well. Things like, look, every night my build server is going to pick up whatever was coded during the day, build it, publish it to a staging environment.
 
 I'm going to run all the automated tools over and have a report waiting for me in the morning. Fantastic. You can automate this stuff. And then I mentioned penetration testing before as well. Again, this is an important part of it to like build that into your life cycle at the right time because it is an expensive, very human intensive exercise, but that's great.
 
 And if you build it on top of automated testing and you build it on top of educated developers, the hope is is that these really expensive penetration testers are not going to find much. And if they do, it's going to be something really, really good. 
 
-**Michaela:** [00:28:37] Yeah. One of the things that, um, battles me since quite some time now is we're testing and now you say penetration testing, but all kinds of men will test actually, when do they take place and where do we have space in this?
-
-You know, very little. Continuous deployment, continuous delivery life cycle. You said you have to think about when you do it because it's expensive, but when you think are a good times to do it, is it daily or is it weekly or you know, how do you figure out what a good cycle would be for that? 
+**Michaela:** [00:28:37] Yeah. One of the things that, um, baffles me since quite some time now is we're testing and now you say penetration testing, but all kinds of men will test actually, when do they take place and where do they have space in this continuous deployment, continuous delivery life cycle. You said you have to think about when you do it because it's expensive, but when you think are a good times to do it, is it daily or is it weekly or you know, how do you figure out what a good cycle would be for that? 
 
 **Troy:** [00:29:12] Well, ideally you want it to be a continuous process.
 
 So, yeah, to my example before, things like dynamic analysis, it's machines doing the work, right? Like, let that happen on a nightly basis. Tell me if I've deviated from whatever baseline I expect to be there. Fantastic. Uh, I would definitely like to see things like penetration testing, manual penetration testing done at key phases of a project.
 
-So, for example, at initial release or major revisions. Now, your problem here is that you can make a very, very, very small change and that could be disastrous as well. So that's certainly doesn't solve your problem, but that normally gives you a good overview of the whole thing. And then you can do the likes of a combination of dynamic analysis and integration test to try and pick up those little changes that you might make that cause vulnerabilities as well.
+So, for example, at initial release or major revisions. Now, your problem here is that you can make a very, very, very small change and that could be disastrous as well. So that certainly doesn't solve your problem, but that normally gives you a good overview of the whole thing. And then you can do the likes of a combination of dynamic analysis and integration tests to try and pick up those little changes that you might make that cause vulnerabilities as well.
 
-But one of the principles that we've had a lot in the industry in recent years is this idea of shifting left. So if you pitch your software development life cycle and we go like row all the way to the left hand side of the scale where like let's say the design phase, let's try and shift the security into design and get stuff right there rather than letting it filter through into build, deploy, sustain, all this sort of thing.
+But one of the principles that we've had a lot in the industry in recent years is this idea of shifting left. So if you pitch your software development life cycle and we go like all the way to the left hand side of the scale where like let's say the design phase, let's try and shift the security into design and get stuff right there rather than letting it filter through into build, deploy, sustain, all this sort of thing.
 
 **Michaela:** [00:30:24] And how would it look like, for example, how would security take place during the design? What would you think about. 
 
-**Troy:** [00:30:32] Well, I mean, a good part of that is actually having a security review of the design there. Yeah. That's the sort of thing that I'd love to see security teams involved in. So if you're in an organization that's large enough to have a dedicated team, get their input on that.
+**Troy:** [00:30:32] Well, I mean, a good part of that is actually having a security review of the design now, that's the sort of thing that I'd love to see security teams involved in. So if you're in an organization that's large enough to have a dedicated team, get their input on that.
 
-So for example, are we storing passwords in what we now believe is the best practice today? Uh, our password criteria. Correct. As per today's standards, that's something you can change at that design phase. What components are we going to use? Are we using any components with nine vulnerabilities? I mean, that was one of the things in the OS top 10 how are you going to keep those components up to date?
+So for example, are we storing passwords in what we now believe is the best practice today? Uh, are our password criteria. Correct. As per today's standards, that's something you can change at that design phase. What components are we going to use? Are we using any components with known vulnerabilities? I mean, that was one of the things in the OWOS top 10 how are you going to keep those components up to date?
 
-They're good discussions to have even before a line of code is ready. 
+They're good discussions to have even before a line of code is written. 
 
 **Michaela:** [00:31:08] So one of the things that I wanted to ask you about is about sensitive data. So for example, a lot of the companies like Facebook, Google, Twitter, and they have like. Tons of relevant and highly sensitive data about millions of people worldwide.
 
