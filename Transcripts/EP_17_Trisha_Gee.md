@@ -6,16 +6,16 @@ Trisha Gee. Trisha is the lead of the Java development advocacy team at
 JetBrains. She's an expert for Java high-performance systems and developed 
 software for a variety of industries, such as finance or manufacturing.
 She's also involved in open source and speaks at many different conferences. As 
-I'm a huge fan of JetBrains. And I always tinker with the idea of applying there, 
-let's get an insider's perspective from her on how it is to work there and how she 
-experienced the hiring process. But before I welcome Trisha, I want to give you 
-some updates on my code review workshops. Well, at the beginning of 
+I'm a huge fan of JetBrains. And I always tinkered with the idea of applying there, 
+I'm super thrilled to get an insider's perspective from her on how it is to work 
+there and how she experienced the hiring process. But before I welcome Trisha, I 
+wanted to give you some updates on my code review workshops. Well, at the beginning of 
 the Corona virus outbreak, it looked really dark for my workshops. All my 
-inhouse events have been canceled and postponed. Yeah, understandably. Right. 
+inhouse events have been canceled and postponed. Yeah, understandably. Right? 
 But the good news is that technology nowadays is so empowering. And so I can now 
 say that I successfully transitioned to online remote workshops.
 I've worked with quite a few people over the last weeks and I start love this new 
-remote format. In the upcoming month, I will work with over 60 engineers from companies 
+remote setting. In the upcoming month, I will work with over 60 engineers from companies 
 around the world. So if you want to make your code reviews fast and 
 effective, have a look at my workshop at  michaelagreiler.com/workshops. I will also 
 link that in the description, but now let's get back to Trisha.
@@ -23,51 +23,53 @@ Trisha, thank you so much for joining my show.
 
 **Trisha:**: [00:01:30] It's my pleasure. Thank you for having me. 
 
-**Michaela:**: [00:01:32] So I'm Tricia, I'd like to know a little bit more 
+**Michaela:**: [00:01:32] So Tricia, I'd like to know a little bit more 
 about your journey. How did you actually get started in tech and what brought 
 you to JetBrains? 
 
-**Trisha:**: [00:01:41] Um, how much time do you have?
+**Trisha:**: [00:01:41] Um, how much time do you have? (laughs)
 My parents were teachers and they thought back in the eighties, they thought 
-that computers were probably a good thing for people to be involved with. And 
+that computers were probably a good thing to be involved with. And 
 although we can afford our own computers, they would borrow computers from 
-school too, to bring back home over the summer holidays and encouraged me and my 
+school to bring back home over the summer holidays and encouraged me and my 
 sister to look at programming and, and getting into computer stuff.
-So quite early on volleyball. When I was like nine or 10, I was sort of 
+So quite early on probably about when I was nine or ten, I was sort of 
 programming, uh, with basic on a BBC micro, I kind of forgot about computers for 
-a few years up until I was about 15, 16, and trying to decide on the next 
+a few years up until I was about fifteen, sixteen, and trying to decide on the next 
 subjects I was going to take at school. And, um, I don't remember why I decided 
-to take a beating, but I decided to go with mass physics and computing because, 
+to take computing, but I decided to go with mass physics and computing because, 
 uh, well, computers are kind of cool and I like playing games and I, I kind of 
-liked the programming side of staff.
-So, um, and it seemed a lot better than, uh, what were the other options was 
+liked the programming side of stuff.
+So, um, and it seemed a lot better than, uh, what were the other options. I was 
 thinking about doing maybe chemistry or maybe some more maths. And I thought I'd 
 rather go broad than deep. So I picked computing with the intention of doing 
 physics at university, but then I really liked the computing side of stuff.
 So I studied computer science at university instead of doing physics. And I kind 
-of went from there. Really? I did do, um, I did a placement, yeah, between 
+of went from there really. I did do, um, I did a placement year, between 
 second and third year at university, where I worked at Ford motor company, I'm 
-actually doing programming. So that was like a major. Step for me to sort of 
+actually doing programming. So that was like a major step for me to sort of 
 figure out what it was really like to work in industry.
 And also to sort of see how my degree did or did not map well to the sorts of 
 skills that we needed to industry. Um, it was really interesting cause the 
 topics I was really interested in back in 2000 where like, um, the AI side of 
 stuff degree was truant, computer science and artificial intelligence. And I was 
 really interested in the artificial intelligence stuff.
-The, the community vision staff. Um, I was interested in, we learnt Java at 
+The, the community vision stuff. Um, I was interested in, we learnt Java at 
 university, so I was interested in that, but those things weren't used at work. 
 What was used at work was this stuff that I didn't like, which was the software 
 engineering courses and the databases courses and the object oriented design 
-staff.
+stuff.
 And so for my third year, when I went back, I went and refocused a lot of my 
 choices on stuff that was applicable to sort of daily working as a programmer. 
 
 **Michaela:**: [00:03:57] So you said that you're not, you didn't like the 
 software engineering part of it. Has that changed over time? Do you like it more 
-now? Or is that something 
-**Trisha:**: [00:04:04] that 
-**Michaela:**: [00:04:05] stuck with you?
-And you're not the funnel? 
+now? Or is that something that-- 
+
+**Trisha:**: [00:04:04] I--
+
+**Michaela:**: [00:04:05] stuck with you? And you're not the fond of? 
+
 **Trisha:**: [00:04:08] I didn't get it at university when we were studying, 
 bearing in mind that my, my. My parents are teachers. And so I had no real-world 
 industry experience. I didn't know what office jobs were like. I didn't 
@@ -76,78 +78,73 @@ how schools worked.
 Cause I went to school and my parents taught at schools. So when they're doing 
 like software engineering and the courses were those two main courses, I 
 remember disliking intensely. One was auditorial design and the other was 
-software engineering, which were. Coincidentally taught by the same teacher. So 
+software engineering, which were coincidentally taught by the same teacher. So 
 maybe there's some of that.
 Um, but I didn't really understand that they were teaching us waterfall 
 development. So I didn't really understand. I'm sort of a, I've been doing 
 programming for like on and off for about 10 years. I kinda got the coding bit. 
-I didn't understand how to do like requirements analysis, technical design, um, 
+I didn't understand how to do, like, requirements analysis, technical design, um, 
 you know, any of the sort of waterfall type development stuff.
-I didn't understand what I was doing in terms of like, What is the thing I'm 
+I didn't understand what I was doing in terms of like "What is the thing I'm 
 trying to fix? How do I, what's the problem I'm trying to solve? How do I break 
-it down into a technical technical specification or whatever? I didn't really 
+it down into a technical technical specification or whatever?" I didn't really 
 see the value in any of that. I'm just like, just tell me what I need to do and 
 I'll code it.
-Um, and I didn't see the, the value in. Things like boots, diagrams and UML, 
-and, and I just, he didn't get that stuff. And when I was working in industry, I 
-was like, Oh right. Well, some of this, a lot of this is around coordination of 
+Um, and I didn't see the, the value in. Things like boots diagrams and UML, 
+and, and I just, I didn't get that stuff. And when I was working in industry, I 
+was like, "Oh right!" Well, some of this, a lot of this is around coordination of 
 teams. A lot of this is around. Um, we need to, you ask another person what 
-they're we need to write that down.
+they're requirements are, we need to write that down.
 So we share that with other people. We need to have some idea of upfront design 
-because it's not necessarily me. Who's going to be coding it. We need to share 
-that amongst. The team. So sort of seeing those things in motion, lot less 
-boring and a lot more like, right. I understand it. You know, and, and it turns 
-out things like documentation requirements, gathering, prototyping, technical 
-design was actually something I was actually quite good at because I like 
-writing stuff down.
+because it's not necessarily me who's going to be coding it. We need to share 
+that amongst the team. So sort of seeing those things in motion, made it a lot 
+less boring and a lot more like, right. I understand it. You know? And, and it 
+turns out things like documentation, requirements gathering, prototyping, 
+technical design was actually something I was actually quite good at because 
+I like writing stuff down.
 And I like explaining things, which is why I ended up being a developer 
 advocate. So, um, Yeah. Once I knew what the purpose was and what the value was, 
 then all of that stuff sort of became much more interesting and important. 
+
 **Michaela:**: [00:06:17] Yeah. I can totally relate to that because when I 
-think back off my university and when I started.
-I'm studying. Right. It was a, quite a different journey because I had nothing 
-to do with programming, so I was doing it. Yeah. That's cool. And so we didn't 
-use computer at that time. Uh, if you wanted to ride, you know, your, your 
+think back off my university and when I started, um, studying. Right. 
+It was quite a different journey because it had nothing 
+to do with programming, so I was doing actually art school. And so we didn't 
+use computers at that time. Uh, if you wanted to write, you know, your, your 
 German, uh, exercises, for example, in word, that would be a big thing, right? 
-No, you had the on paper.
-The dependent, write it down. Right. And so they were very romantic about 
-everything like that. And then I decided to go for university and study computer 
+No, you had to do it on paper, with the pen! And write it down. Right? 
+So they were very romantic about everything like that. 
+And then I decided to go for university and study Computer 
 science. And so one of the first courses that I did was actually introduction to 
 programming. And so we learned Java as well. And we learned, you know, what is a 
-fall lube and everything.
-**Trisha:**: [00:07:03] Right? So at the 
-**Michaela:**: [00:07:03] end, I was quite okay with disinter, Ericsson with 
-writing little programs and things like that. And then the second term, after 
-that already, we had what was called soft engineering one. And what we learned 
-were designed veterans. And I had no idea. This seemed to me like to 
-**Trisha:**: [00:07:19] totally 
-**Michaela:**: [00:07:20] ever Terry, you know?
+For Loop and everything. Right? 
+So at the end, I was quite okay with the syntax, writing little programs and 
+things like that. And then the second term, after that already, we had what 
+was called software engineering one. And what we learned were designed patterns. 
+And I had no idea. This seemed to me like to totally arbitrary, you know?
 Yeah. I have no idea what I should do with that. I mean, even though we, we 
 implemented, for example, a compiler, right? So we were programming or doing 
 stuff, but there was no connection between those design patterns, for example, 
-and having the compiler to combine in a very, you know, a straight line forward 
+and having the compiler. 
+You just wrote the compiler in a very, you know, straight forward 
 way, how you would make the classes and things like that.
 But there was no connection between this course and the other course, because 
 those were two different courses. And then on one hand we learned all these 
-design patterns that were not 
-**Trisha:**: [00:07:51] applicable for the size 
-**Michaela:**: [00:07:52] of the software that we were building. Right. So 
-**Trisha:**: [00:07:54] these are all small 
-**Michaela:**: [00:07:55] programs and smaller systems and they are more really 
-to understand your idea behind, for example, you know, what is a compiler?
+design patterns that were not applicable for the size of the software that we 
+were building. Right. So these are all small programs and smaller systems and 
+they are more really to understand your idea behind, for example, you know, 
+what is a compiler?
 How does it work? Or for example, we also had a little web server or things like 
 that, right. But we never applied the design principles or design patterns 
 there. And for me, this was a course that I really didn't get. Um, and it was 
-really later when I was in the industry, working in industry that understood, 
-Oh, these are designed for veterans and that's why we need them.
+really later when I was in the industry, working in industry that I understood:
+"Oh, these are designed for veterans and that's why we need them."
 So it was very theoretical exercise at that point. And I think that's the 
-problem. So if it's 
-**Trisha:**: [00:08:29] so. Um, 
-**Michaela:**: [00:08:31] detached from reality and from what you know, and what 
-you're actually doing. 
-**Trisha:**: [00:08:35] So how can you make sense 
-**Michaela:**: [00:08:36] out of it? And there was, for me, it was this guy out 
-there was just talking some deliberation, whatever, right.
+problem. So if it's so, um, detached from reality and from what you know, 
+and what you're actually doing. So how can you make sense out of it? 
+And there was, for me, it was this guy out there was just talking some 
+jibberish, and, oh, whatever, right? (laughs)
+
 **Trisha:**: [00:08:44] Yeah, exactly. I found that a lot. Well, I mean the 
 programming or guidance. Got the program because I enjoyed the programming for 
 programming sake. Right. But, um, a lot of the things I've been thinking about 
@@ -172,6 +169,7 @@ What's the purpose of those things. I've often thought that it would be nice to
 inherit code. In computer science courses and have some exercises around 
 inherited code rather than constantly writing stuff from scratch. Cause we just 
 don't do that in the real world. Yeah, that's true. 
+
 **Michaela:**: [00:10:09] And I mean, if you're writing something from scratch 
 or there's this little thing in the beginning where you think, Oh, this is hard, 
 right.
@@ -183,10 +181,14 @@ of code reviews as well.
 Right. One of my favorite topics. And so now you're saying it again and I I'm so 
 filling Hammonds by Sam is a professor at university of Leiden. And she does a 
 lot of research 
+
 **Trisha:**: [00:10:47] on how people are learning, how to program, 
+
 **Michaela:**: [00:10:50] especially kids. How are kids learning, how to 
 program? And she says the same thing she says, well, they have to read 
+
 **Trisha:**: [00:10:56] a ton of things, 
+
 **Michaela:**: [00:10:57] right.
 They have to read programs and they have also to get it by heart. Like, for 
 example, the, the nitty gritty of the syntax of the language, how do you make a 
@@ -205,9 +207,12 @@ there, you know, print and hell of world and that's it. And then you saw it in
 the console, right?
 And you like, yes, I'm a programmer or no. And so, yeah, I totally agree that it 
 would be so beneficial for people to read more code, but you also sat in this 
+
 **Trisha:**: [00:12:00] talk, is that. 
+
 **Michaela:**: [00:12:02] People don't like to read code. Why? Why is that by 
 people not liking to read code 
+
 **Trisha:**: [00:12:07] what's what's holding us back. I mean, whole bunch of 
 reasons, but one of the reasons why I came up with that talk.
 Yeah, well, I was talking with my colleague. Um, and so she speaks a bunch of 
@@ -273,8 +278,11 @@ You have to read the book, figure out like what's the, what the pattern is, what
 the flow is, what the, what the structure is, find the right place to put it. 
 Make sure your pros matches the pros in the book, but you can't just write 
 something and Chuck it. Yeah. That's not, that's not how things work. So 
+
 **Michaela:**: [00:15:55] during my PhD, I worked a lot on, uh, 
+
 **Trisha:**: [00:15:57] code 
+
 **Michaela:**: [00:15:57] comprehension, so helping people to understand code.
 And I think one of the main problems is that reading code is a little bit tricky 
 because we have only one abstraction. Right? So the code is the code there. 
@@ -283,7 +291,9 @@ the things and then it might tell that just the method names and things like
 that, but there isn't a lot of granularity there for the abstraction level that 
 you have.
 So one of the things that I did. Student a PhD was, 
+
 **Trisha:**: [00:16:23] I was building models, 
+
 **Michaela:**: [00:16:25] especially also a visual models that help people 
 understand the code and they were abstracting things. So for example, whatever 
 it was, the task, there were some of the things that I just skipped, right. So I 
@@ -292,11 +302,15 @@ developer, for example, you don't need that information.
 And so those methods were really. Trying to help people understand code easier, 
 because I think it's a very hard task, even if you're doing it very, very often, 
 it doesn't, 
+
 **Trisha:**: [00:16:56] it 
+
 **Michaela:**: [00:16:56] gets easier, but there is still a level of hardness to 
 it. Right. That doesn't go away. It doesn't go away. What do you think about, 
 for example, 
+
 **Trisha:**: [00:17:04] comments and things 
+
 **Michaela:**: [00:17:05] like that?
 I am actually quite depressed. Ben of comments. I'm also a fan of having very 
 readable code. Right. So if you can express it with the code, that's the best, 
@@ -307,6 +321,7 @@ With, if I'm defining something, I right there, Y you know what this class does,
 where does it belong? Which part of the system is it? Because it's. Just making 
 it so much easier. You don't have to go and figure it out yourself. Right. What 
 do you think about 
+
 **Trisha:**: [00:17:37] that? Um, so I used to be a big commenter because I'm 
 because I've got terrible memory and I can never remember what, what I was doing 
 in the code and when and why.
@@ -371,12 +386,15 @@ this doing? It's a four loop. It's iterating it. Doesn't that doesn't need a
 comment.
 What needs a comment of, why are we iterating? Why haven't we put this into 
 different data structure that might be more effective, for example? 
+
 **Michaela:**: [00:21:24] Yeah. So one of the things I'm giving workshops for 
 code reviews, for example, and one of the exercises that I do with my 
 participants is, and give them some piece of code, right.
 And I give them a few minutes to look at it. It's not really large it's so one 
 file, um, 
+
 **Trisha:**: [00:21:40] a couple of 
+
 **Michaela:**: [00:21:41] lines of code and they have to try to figure out 
 what's going on and everybody sitting and to try and do the thing and to tinker. 
 And then after maybe five minutes, because we, I don't want to spend a whole day 
@@ -396,6 +414,7 @@ at JetBrains. So talk to me a little bit, how you started getting started at,
 uh, with computer and with, with tech, but how did you start at JetBrains? When 
 did you start there and how did you get into contact with them and things like 
 that?
+
 **Trisha:**: [00:22:53] Uh, I've been here five years now, which is the longest 
 I've ever worked for anyone. That's it? Massive record. And so I graduated, we 
 did in 2001, so I've got like 20 years experience the first 10 years of my 
@@ -405,7 +424,9 @@ lot of junior developers to do, which is like hop around from job to job.
 I did like, you know, 18 months here, two years there. I did a couple of jobs 
 where I was only there for three months and cut your losses fast. That's my 
 advice. Get the hell out. Yeah. 
+
 **Michaela:**: [00:23:24] You don't like it. 
+
 **Trisha:**: [00:23:25] Yeah. Yeah. Get out because it's, you know, you can 
 always, there's always ways to justify that sort of thing.
 A, you can always say I didn't like it, or you can always say it's a contract. 
@@ -505,11 +526,13 @@ and I saw that my career needed to go in a slightly different direction. So, um,
 you know, it was like an amicable Orica breakup, really.
 Um, and so he said, come and work for us. And so I, I went to go and work for 
 them. 
+
 **Michaela:**: [00:29:25] And so how did the hiring process really work? I'm 
 very, very afraid of hiring processes and, you know, approving myself, even 
 though I went through several walls, also, these really large. Large 
 organization hiring like they do at Microsoft, but I really don't like it.
 So how was that for JetBrains? 
+
 **Trisha:**: [00:29:44] How did you experience that? I, I already had, I had 15 
 years experienced by this point in time, I was sort of, I was famous cause I've 
 been speaking at conferences. I had a blog and, but it was it's the first job 
@@ -525,10 +548,12 @@ jobs. But no, that was the first one. Why there basically, because my, I had a
 pool folio by then, I'd already been giving demos on intelligent idea at 
 conferences I'd already.
 Blogged about how to do stuff. So 
+
 **Michaela:**: [00:30:39] that's also a direct show off of what you're going to 
 do there. Right? It's not something that's a byproduct, but it's, it's your 
 work, right? So you're actually, you see what you, they are hiring you for. 
 Right. 
+
 **Trisha:**: [00:30:51] It's a very different thing from, from programming. The 
 programming interviews are.
 100% broken and I can rant about this for a long time. If you really want 
@@ -566,30 +591,36 @@ because this again was my way of saying yes, I am a real programmer watch me
 code. Um, but he'd seen me driving the IDE. He knew that I knew how to use 
 intelligent idea. He knew that I knew how to demonstrate that to other people. 
 So like he didn't need to interview me.
+
 **Michaela:**: [00:33:04] What I really find interesting is that you repeatedly 
 sad that. You are trying to prove that you're belonging somehow where you are. 
 Right. And I have the same feeling. I mean, I'm, I'm in technology in 15 years 
 and. I have the constant feeding still now. Right? Like I did my bachelor's in 
 computer science.
 I did my master's in computer science. I have a PhD in software engineering and 
+
 **Trisha:**: [00:33:28] still am like, yes, 
+
 **Michaela:**: [00:33:30] I know what I'm talking about. I can program. And I'm 
 still like, learning like a maniac right now. For example, I'm refreshing my 
 Java script knowledge. Right. I'm learning a new language. I'm learning now, 
 Peyton, because I feel like with Java and teashop, I'm outdated.
 Right. And I want. I have this feeling that I have to prove that I belong over 
 and over and over again on one hand, it's it's 
+
 **Trisha:**: [00:33:51] a little bit tiresome, I feel, but on the other hand it 
 also keeps 
+
 **Michaela:**: [00:33:54] you sharp, but yeah, I find it really interesting that 
 you are also expressing that a little bit. When, when you're talking about how, 
 how you behaved over the last 20 
+
 **Trisha:**: [00:34:04] years, I feel over the last five years, certainly since 
 I've been at JetBrains.
 A lot of that feeling has gone away in a good way. And part of that is because 
 I've been presenting at conferences now for seven years. Um, having a little bit 
 of famous, quite helpful, because you don't have to prove yourself when people 
-come up and say, Oh, you're **Trisha:**, gee, I saw you talking about, but I 
+come up and say, Oh, you're Trisha, gee, I saw you talking about, but I 
 don't have to start with I'm Tricia.
 I am a real programmer, right? Yeah. So I built up that portfolio is a public 
 portfolio. So that, that does help. I do a bunch of screencasts now as well on 
@@ -633,6 +664,7 @@ statement.
 I'm like, yeah. Okay. If you tell me that's true. I don't know anything about 
 JavaScript. If someone comes up to me and says, that's a stupid way to do that 
 thing in Java, I'm like, well, you've got your way. I've got my way, whatever. 
+
 **Michaela:**: [00:36:48] Yeah. I think maybe it has also a little bit to do 
 with growing pain. Right?
 So every time you're moving, you're changing something. You're shaking things 
@@ -649,9 +681,12 @@ I cannot, you know, I don't know what people are talking about. So now it's on
 my list that I have to learn that. And, um, and I think it has to do with this 
 growing pain that you are changing, that you are doing something you, as you 
 said, like you're doing. Your thing 
+
 **Trisha:**: [00:37:43] already for 
+
 **Michaela:**: [00:37:43] quite some time. So you're settled and you're knowing 
 that, you know, the things and, um, 
+
 **Trisha:**: [00:37:48] yeah.
 And I think part of that as well is that one of the, one of my sweet spots. So 
 one of the things that I've been, um, have made my area is the new, new upcoming 
@@ -669,8 +704,11 @@ really well.
 Or I've got to put myself into that mindset, the sort of beginner's mindset of, 
 okay, this seems to be the most effective way to do this. It appears to work 
 like, but there are plenty of other ways to do stuff. 
+
 **Michaela:**: [00:38:46] Yeah, yeah. Yeah. That's true. 
+
 **Trisha:**: [00:38:48] So one 
+
 **Michaela:**: [00:38:49] of the things that I wanted to talk with you about is 
 the development processes at JetBrains.
 Chad finds is definitely one of the companies that I always think about I'm 
@@ -678,6 +716,7 @@ applying and working there. So if I applied there, how would, you know, how
 would the development process look like? What, you know, what would I do? Would 
 I write code what I have, you know, a test environment. We have testers there, 
 you know, how does that all work?
+
 **Trisha:**: [00:39:14] Um, so Japanese, I don't know if a JetBrains is unique, 
 but JetBrains is, is a very interesting sort of organization in that it's very 
 developer driven. The people who started the organization were developers and 
@@ -692,7 +731,9 @@ It's more like a sort of ecosystem. We've got a thousand over a thousand people
 work at JetBrains. Um, but really everyone's still any like two levels away from 
 the CEO is really flat. Like my boss is Hattie and Hattie is he reports directly 
 to the CEO. 
+
 **Michaela:**: [00:40:04] Yeah. 
+
 **Trisha:**: [00:40:04] Yeah. And, and my team is like 20 well. So now I'm, I'm 
 a team lead of, of the Java advocacy team.
 So I Malheur reports to me. So we have like a tiny team. Um, but the, the 
@@ -750,10 +791,14 @@ Malaga, but we have never, ever met up in Spain ever in the Lake seven years
 known him. And we always meet in like London or Amsterdam or New York or so, or 
 some Petersburg or Munich as it.
 Yeah. There's people in the States, people in the UK. 
+
 **Michaela:**: [00:43:26] So, yeah. Traveling a lot as 
+
 **Trisha:**: [00:43:27] well. Well, not right now. 
+
 **Michaela:**: [00:43:30] Yeah. That's what I wanted to ask you about. What are 
 you doing right now? What does an develop an advocate do during a pandemic? 
+
 **Trisha:**: [00:43:37] Oh, so yeah, this, this is. There's one good side of 
 this, which is that I'm working on a lot of content.
 I'm doing a lot of blog posts and videos. So I don't really have a boss who 
@@ -779,11 +824,13 @@ And then another day getting back and you just you're like, I just gave an hour
 long presentation. It just seems like a massive waste of my time. So I will be 
 doing some more virtual events, more webinars, but honestly, I'm just really 
 looking forward to doing more writing and more video stuff right now.
+
 **Michaela:**: [00:45:06] Yeah. Yeah. I can't imagine. And I can totally relate. 
-My kids are also two and four as a yeah. You're talking about okay, **Trisha:**. 
+My kids are also two and four as a yeah. You're talking about okay, Trisha. 
 So thank you so much for, for being on my show today, we talked about so many 
 things. Is there something that we haven't covered that you would like to, you 
 know, Let my listeners know, or you know, that you want to throw out.
+
 **Trisha:**: [00:45:25] So, yeah, hiring and other Java developer advocate. Um, 
 if anyone is interested in playing, I didn't actually talk that much about 
 developer advocacy hiring process. So I got hired. But without a process because 
@@ -812,9 +859,11 @@ help teach a lot of that stuff. I am looking for someone with complimentary
 skills. For example, I know nothing about AWS or cloud or DACA or any of that 
 stuff.
 And I would really love someone who understood that stuff. 
+
 **Michaela:**: [00:47:06] If somebody wants to apply, they should drive an email 
 directly to you or go to JetBrains, uh, slash and jobs, and then apply there. Or 
 how 
+
 **Trisha:**: [00:47:16] I'm just having a look at this. You'll probably hear me 
 typing. I think it's JetBrains. Yeah. Dre jetbrains.com/careers.
 Careers. Okay. Um, and there, you should be able to look for a developer 
@@ -825,11 +874,14 @@ developer advocacy roles are they're fully remote.
 Ideally we'd like someone in North America because we don't have someone 
 covering that geography and time zone. But, um, yeah, it's a fully remote 
 position. 
+
 **Michaela:**: [00:47:51] Okay. Okay, cool. Very cool. So thank you so much for 
 taking the time to talk with me. I hope you enjoy the rest of the day and, um, 
 thank you so much, 
+
 **Trisha:**: [00:48:00] Tricia.
 Thank you. It's my pleasure. Bye 
+
 **Michaela:**: [00:48:03] bye. Bye. Hey, if you enjoyed my show, it would mean 
 the world to me. If you become a Petron, you can find all information on 
 se-unlocked.com/patron. I have some exclusive perks for you. Another awesome way 
