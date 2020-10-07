@@ -541,20 +541,20 @@ work, right? So you're actually, you see what you, they are hiring you for.
 Right. 
 
 **Trisha:**: [00:30:51] It's a very different thing from, from programming. The 
-programming interviews are.
-100% broken and I can rant about this for a long time. If you really want 
-programming interviews are very, very difficult. It's difficult to set and 
-difficult to answer because we really don't know what makes a good programmer. 
+programming interviews are 100% broken and I can rant about this for a long 
+time. If you really want. Programming interviews are very, very difficult. 
+It's difficult to set and difficult to answer because we really don't know 
+what makes a good programmer. 
 And we really don't know how to measure that. And we really don't know how to 
 demonstrate our value as a programmer.
-One of the values I have as a programmer is asking stupid questions. Like, why 
-is it. Doing that. Right. But I can't ask that in an interview because you 
+One of the values I have as a programmer is asking stupid questions. Like: "why 
+is it doing that?" Right. But I can't ask that in an interview because you 
 haven't given me an application enterprise application and ask me to fix a 
 problem. So you can't see what my superpower is. My other superpower is 
 documenting code that no one else understands because I'm really good at that.
 And I like that, but that doesn't come up in interview either. And no one 
-thinks, right. Let's go find a developer who can document code that no one else 
-understands, right? People think I need you to write lines of code. This is why 
+thinks: "right. Let's go find a developer who can document code that no one else 
+understands," right? People think I need you to write lines of code. This is why 
 interviews are fundamentally broken. Anyway, what, what you're getting from real 
 technical interviews, what you're really getting is it's more like dating.
 How does this company work? What, who are the people in this company? What sorts 
@@ -569,46 +569,38 @@ well? But we haven't really recognized that. For, for advocacy, it's much, much
 easier because we can demonstrate exactly what we do.
 Like you say, it truly reflects what we do. How do you had seen me presenting a 
 Java zone? He knew what I was capable of. He knew he'd seen two different types 
-of at least two different types of my presence. One is a very opinion based 
+of at least two different types of my presentations. One is a very opinion based 
 where I stand up and walk around, like the reading code one that you were 
-talking about and the other is the live demo where it like live demos are.
-Really difficult and, um, lots and lots of work. Um, but I really liked it 
-because this again was my way of saying yes, I am a real programmer watch me 
-code. Um, but he'd seen me driving the IDE. He knew that I knew how to use 
+talking about and the other is the live demo where it like live demos are
+really difficult and, um, lots and lots of work. Um, but I really liked it 
+because this again was my way of saying: "yes, I am a real programmer watch me 
+code." Um, but he'd seen me driving the IDE. He knew that I knew how to use 
 intelligent idea. He knew that I knew how to demonstrate that to other people. 
 So like he didn't need to interview me.
 
 **Michaela:**: [00:33:04] What I really find interesting is that you repeatedly 
-sad that. You are trying to prove that you're belonging somehow where you are. 
-Right. And I have the same feeling. I mean, I'm, I'm in technology in 15 years 
-and. I have the constant feeding still now. Right? Like I did my bachelor's in 
-computer science.
+said that you are trying to prove that you're belonging somehow where you are. 
+Right? And I have the same feeling. I mean, I'm, I'm in technology now for 15 
+years and, I have the constant feeling still now. Right? Like I did my 
+bachelor's in computer science.
 I did my master's in computer science. I have a PhD in software engineering and 
-
-**Trisha:**: [00:33:28] still am like, yes, 
-
-**Michaela:**: [00:33:30] I know what I'm talking about. I can program. And I'm 
+still am like: "yes, I know what I'm talking about. I can program." And I'm 
 still like, learning like a maniac right now. For example, I'm refreshing my 
 Java script knowledge. Right. I'm learning a new language. I'm learning now, 
-Peyton, because I feel like with Java and teashop, I'm outdated.
-Right. And I want. I have this feeling that I have to prove that I belong over 
-and over and over again on one hand, it's it's 
+Pyhton, because I feel like with Java and Teashop, I'm outdated.
+Right? And I want. I have this feeling that I have to prove that I belong over 
+and over and over again. On one hand, it's it's a little bit tiresome, I feel, 
+but on the other hand it also keeps you sharp, but yeah, I find it really 
+interesting that you are also expressing that a little bit. When, when you're 
+talking about how, how you behaved over the last 20 years.
 
-**Trisha:**: [00:33:51] a little bit tiresome, I feel, but on the other hand it 
-also keeps 
-
-**Michaela:**: [00:33:54] you sharp, but yeah, I find it really interesting that 
-you are also expressing that a little bit. When, when you're talking about how, 
-how you behaved over the last 20 
-
-**Trisha:**: [00:34:04] years, I feel over the last five years, certainly since 
-I've been at JetBrains.
-A lot of that feeling has gone away in a good way. And part of that is because 
-I've been presenting at conferences now for seven years. Um, having a little bit 
-of famous, quite helpful, because you don't have to prove yourself when people 
-come up and say, Oh, you're Trisha, gee, I saw you talking about, but I 
-don't have to start with I'm Tricia.
-I am a real programmer, right? Yeah. So I built up that portfolio is a public 
+**Trisha:**: [00:34:11] I feel over the last five years, certainly since I've 
+been at JetBrains, a lot of that feeling has gone away in a good way. And part 
+of that is because I've been presenting at conferences now for seven years. Um, 
+having a little bit of fame is quite helpful, because you don't have to prove 
+yourself when people come up and say: "Oh, you're Trisha Gee, I saw you talking 
+about..." but I don't have to start with: "I'm Tricia. I am a real programmer,"
+right? Yeah. So I built up that portfolio. It is a public 
 portfolio. So that, that does help. I do a bunch of screencasts now as well on 
 YouTube. And, and so I'm showing how to, how to demo the IDE, but also I've had 
 an opportunity, particularly now, as a developer advocate, I've spoken to way 
@@ -618,7 +610,7 @@ you join a team, this is true of anybody. It doesn't matter what color you are
 or what race you are or what gender you are. When you join a team, you are 
 having a, again, it's like a dating thing. You're getting to know them.
 They're getting to know you. You want to, you want to start with your best self 
-and say, look, I'm good at all these things, you know, you want to prove 
+and say: "look, I'm good at all these things", you know, you want to prove 
 yourself when you joined the team that's normal. Then once you get into that 
 position, they should accept you and you should feel comfortable being part of 
 that team.
@@ -626,101 +618,90 @@ But. You're you've only had to do it to like half a dozen people or 20 people
 maybe or whatever. Um, and every time you move on to a new team, you have to do 
 the same thing again and again, as a developer advocate, I get to speak to way 
 more developers now. So I just, at the conferences, you speak to like 20 people 
-at one conference and.
-You no longer feel the need to be like, Hey, I'm Tricia, I'm a real programmer. 
-You just can't start off with, like I know by now I know I'm a real program, 
-right? I've spoken to a lot of you. I know what your problems are. Not all of 
-them, obviously, but I've heard, you know, a lot of people saying, I don't know 
-how to do this thing.
-And I'm like, Oh, I know that. Well, what about this stuff? And I'm like, Oh, I 
-know the answer to that. Or how do you think about that? And I'm like, Oh, I 
-don't know anything about that. But I do know someone who does know that thing, 
+at one conference and. You no longer feel the need to be like: "Hey, I'm 
+Tricia, I'm a real programmer." You just can't start off with, like: "I know by
+now I know I'm a real programmer, right? I've spoken to a lot of you. I know 
+what your problems are. Not all of them, obviously, but I've heard, you know, a
+lot of people saying, I don't know how to do this thing."
+And I'm like: "Oh, I know that!" Well, what about this stuff? And I'm like: "Oh,
+I know the answer to that." Or how do you think about that? And I'm like: "Oh, I 
+don't know anything about that. But I do know someone who does know that thing," 
 or I do know which words to Google to find that out. So having spoken to lots of 
-people are having much better idea of what my strengths and weaknesses are.
-It makes me much more comfortable with, with being me. Like I no longer feel the 
-urge to go into if I go into, um, A big technical conference, maybe, you know? 
+people and having much better idea of what my strengths and weaknesses are,
+it makes me much more comfortable with, with being me. Like I no longer feel the 
+urge to go into if I go into, um, a big technical conference, maybe, you know? 
 Well, there's one that I know well, and I don't need to prove myself, but if 
 there's one, let's say I go into JavaScript conference, I'll be much more 
 uncomfortable because I don't know anything about JavaScript.
 But I do know that I know a lot about Java. I do know about technical 
-presentation skills. I do know a lot about our IDs and I'm comfortable now with 
+presentation skills. I do know a lot about our IDE's and I'm comfortable now with 
 what I know and what I don't know. And that gives me that, you know, people come 
-up to me and go, Oh, well, that's a really stupid way to write a JavaScript 
-statement.
-I'm like, yeah. Okay. If you tell me that's true. I don't know anything about 
-JavaScript. If someone comes up to me and says, that's a stupid way to do that 
-thing in Java, I'm like, well, you've got your way. I've got my way, whatever. 
+up to me and go: "Oh, well, that's a really stupid way to write a JavaScript 
+statement." I'm like: "yeah. Okay. If you tell me that's true. I don't know 
+anything about JavaScript." If someone comes up to me and says: "that's a stupid 
+way to do that thing in Java", I'm like: "well, you've got your way. I've got my
+way, whatever."
 
 **Michaela:**: [00:36:48] Yeah. I think maybe it has also a little bit to do 
 with growing pain. Right?
 So every time you're moving, you're changing something. You're shaking things 
-up. You are in new territory and you have to somehow prove it also to yourself. 
-Then, you know, you. You know what you're talking about. Right. So I think, for 
-example, for me leaving Microsoft meant also leaving sort of some of the 
-Microsoft technologies behind.
-And now I'm, I'm looking at, for example, the startup scenes and different, you 
-know, it's, it's, it's actually my tech Pablo that I'm right now in, and it's a 
-lot of JavaScript, a lot of react that's going on there. Right. And I'm like, I 
-have no idea about react and it really bugs me. It's like, Oh my God, something 
-is missing.
-I cannot, you know, I don't know what people are talking about. So now it's on 
+up. You are in new territory and you have to somehow prove yourself also to 
+yourself. Then, you know, you. You know what you're talking about. Right. So 
+I think, for example, for me leaving Microsoft meant also leaving sort of some
+of the Microsoft technologies behind. And now I'm, I'm looking at, for example, 
+the startup scenes and different, you know, it's, it's, it's actually my tech 
+bubble that I'm right now in, and it's a lot of JavaScript, a lot of React 
+that's going on there. Right. And I'm like: "I have no idea about react and it
+really bugs me." It's like: "Oh my God, something is missing. I cannot, you 
+know, I don't know what people are talking about." So now it's on 
 my list that I have to learn that. And, um, and I think it has to do with this 
-growing pain that you are changing, that you are doing something you, as you 
-said, like you're doing. Your thing 
+growing pain that you are changing, that you are doing something new, as you 
+said, like you're doing. Your thing already for quite some time. So you're 
+settled and you're knowing that, you know, the things and, um... 
 
-**Trisha:**: [00:37:43] already for 
-
-**Michaela:**: [00:37:43] quite some time. So you're settled and you're knowing 
-that, you know, the things and, um, 
-
-**Trisha:**: [00:37:48] yeah.
-And I think part of that as well is that one of the, one of my sweet spots. So 
-one of the things that I've been, um, have made my area is the new, new upcoming 
-bits of Java. So I know if I'm like right on that straight away, There's just 
-almost no one knows that stuff. Cause it's brand new. The only people who know, 
-who know it better than me are people who read way more than me or the Oracle 
-developers themselves.
+**Trisha:**: [00:37:48] Yeah. And I think part of that as well is that one of 
+the, one of my sweet spots. So one of the things that I've been, um, have made 
+my area is the new, new upcoming bits of Java. So I know if I'm like right on 
+that straight away, There's just almost no one knows that stuff. Cause it's 
+brand new. The only people who know, who know it better than me are people 
+who read way more than me or the Oracle developers themselves.
 So that's also a benefit. Whereas if I'm going into something like, um, like 
-spring is a problem for me, for example, I don't really know the spring, spring 
+Spring is a problem for me, for example, I don't really know the Spring, Spring 
 framework very well. I've used it a bunch, but I know there are lots of people 
 out there who use it all the time and they use it in their way. So yeah, like if 
-I was going to be, when I was doing my spring demo last year, Had a certain 
+I was going to be, when I was doing my Spring demo last year, Had a certain 
 element of, I've either got to read like everything to, to get to know this 
 really well.
 Or I've got to put myself into that mindset, the sort of beginner's mindset of, 
-okay, this seems to be the most effective way to do this. It appears to work 
-like, but there are plenty of other ways to do stuff. 
+okay, this seems to be the most effective way to do this. It appears to work.
+Like, but there are plenty of other ways to do stuff. 
 
-**Michaela:**: [00:38:46] Yeah, yeah. Yeah. That's true. 
-
-**Trisha:**: [00:38:48] So one 
-
-**Michaela:**: [00:38:49] of the things that I wanted to talk with you about is 
-the development processes at JetBrains.
-Chad finds is definitely one of the companies that I always think about I'm 
+**Michaela:**: [00:38:46] Yeah, yeah. Yeah. That's true. So one of the things 
+that I wanted to talk with you about is the development processes at JetBrains.
+JetBrains is definitely one of the companies that I always think about I'm 
 applying and working there. So if I applied there, how would, you know, how 
 would the development process look like? What, you know, what would I do? Would 
 I write code what I have, you know, a test environment. We have testers there, 
 you know, how does that all work?
 
-**Trisha:**: [00:39:14] Um, so Japanese, I don't know if a JetBrains is unique, 
+**Trisha:**: [00:39:14] Um, so JetBrains, I don't know if a JetBrains is unique, 
 but JetBrains is, is a very interesting sort of organization in that it's very 
 developer driven. The people who started the organization were developers and 
 they created an IDE for them as developers. So everything, everyone from the 
 bottom up is, is basically a developer.
 Um, it's interesting for me because, um, I've worked one of what to large 
-organizations, they're all quite command and control. So you kind of, you, you 
+organizations, they're all quite command and control-y. So you kind of, you, you 
 know, there's like a hierarchy to navigate, to, to, to ask questions or to, to 
-feed stuff back Japanese doesn't really work like that. It's more like, um, It's 
+feed stuff back JetBrains doesn't really work like that. It's more like, um, It's 
 more like a network.
 It's more like a sort of ecosystem. We've got a thousand over a thousand people 
-work at JetBrains. Um, but really everyone's still any like two levels away from 
-the CEO is really flat. Like my boss is Hattie and Hattie is he reports directly 
-to the CEO. 
+working at JetBrains. Um, but really everyone's still only like two levels away 
+from the CEO is really flat. Like my boss is Hattie and Hattie is he reports 
+directly to the CEO. 
 
-**Michaela:**: [00:40:04] Yeah. 
+**Michaela:**: [00:40:06] Oh wow, I was reading about that, yeah. 
 
-**Trisha:**: [00:40:04] Yeah. And, and my team is like 20 well. So now I'm, I'm 
+**Trisha:**: [00:40:08] Yeah. And, and my team is like 20 well. So now I'm, I'm 
 a team lead of, of the Java advocacy team.
 So I Malheur reports to me. So we have like a tiny team. Um, but the, the 
 developer advocacy team has like 20 people who report effectively to sort Patty 
@@ -728,59 +709,58 @@ who has his boss and. The same to some extent with the other developers. So I
 think there's something like 300 developers on intelligent idea, but I don't 
 think, I don't think that's like in some sort of really strict hierarchy.
 And I kind of know it's not in a strict hierarchy because the way I interact 
-with the, with the developers, cause I don't develop on intelligent. 
-Specifically myself, is that I'm usually doing a video or a blog post on like, 
+with the, with the developers, cause I don't develop on intelligent 
+specifically myself, is that I'm usually doing a video or a blog post on like, 
 what are the new features unintelligent I did? And the way I like to approach 
 those is not like, here's, here's the button, click this, do this.
 It's like, okay, what is this feature? How would it help me as a developer to 
 get to do the thing I'm trying to, trying to do? Like, I don't really care about 
 what the feature looks like. I care about what I want to use it for. I'm always 
-trying to come up with these videos and blogs to say, let's say we have this 
+trying to come up with these videos and blogs to say: "let's say we have this 
 sort of problem.
-This is the feature that will help you fix that problem. But often when I'm 
+This is the feature that will help you fix that problem." But often when I'm 
 doing those, I have to, to figure out what the feature is, how it works and what 
 sorts of problems it solves. And in order to do that, I usually speak to the 
 individual developer who created that feature. Like, I don't, I don't have like 
 a single point of contact.
-And when I'm asking them, like, why did you develop this? They're like, well, it 
-just, it was a problem I had, so that's okay. Or it seemed like a good idea at 
-the time, you know? So a lot of, a lot of the organization, they, um, the 
-developers. They are dog food in the product because they write intelligent idea 
-and they're using intelligent data to intelligent data.
+And when I'm asking them, like: "why did you develop this?" They're like: "well,
+it just, it was a problem I had, so I fixed it. Or it seemed like a good idea 
+at the time, you know?" So a lot of, a lot of the organization, they, um, the 
+developers. They are dog fooding the product because they write intelligent idea 
+and they're using intelligent idea to write intelligent idea.
 And they're using Kotlin in intelligent idea to write intelligent idea. So 
 Kotlin and, and intelligent idea, or kind of, um, there's got the symbiotic 
-relationship because the developers are like, Oh, wouldn't it be nice if we had 
-an inspection, which showed us when the code looks like. This. So that's why the 
-IDE particularly for, for Java, cause they're intelligent, their code base is 
-still has a good chunk of Java as well as some and stuff.
+relationship because the developers are like: "Oh, wouldn't it be nice if we had 
+an inspection, which showed us when the code looks like this?" So that's why 
+the IDE particularly for, for Java, 'cause they intelligent idea code base
+is still has a good chunk of Java as well as some Kotlin and stuff.
 You know, the intelligent idea, Java features are always just expanding 
-ridiculously because our developers go, Oh, this would make my life easier. And 
-that really helps to really helps with our users because they're like, Oh, that 
-makes my life easier too. But so, yeah, so we do a lot of dog food. It seems to 
-me there's a certain level of the developers can kind of more or less pick what 
-they want to work on this year.
-We've actually got a roadmap. So we have a product roadmap and the plan is to 
-kind of try and do features, which go towards that product roadmap. But I think 
-this is the first year I've ever seen a product roadmap. Usually it's much more 
-if it's, if it exists, it's much more informal. So the development organization 
-is, is very, um, It's kind of where I think a lot of developers would like to 
-work.
+ridiculously because our developers go: "oh, this would make my life easier." 
+And that really helps to really helps with our users because they're like: "Oh, 
+that makes my life easier too." But so, yeah, so we do a lot of dog fooding. It 
+seems to me there's a certain level of the developers can kind of more or less 
+pick what they want to work on. This year we've actually got a roadmap. 
+So we have a product roadmap and the plan is to kind of try and do features, 
+which go towards that product roadmap. But I think this is the first year I've 
+ever seen a product roadmap. Usually it's much more if it's, if it exists, it's
+much more informal. So the development organization is, is very, um, it's kind 
+of where I think a lot of developers would like to work.
 It's kind of like, we just kind of trust you to get on with your job and just, 
-just do it. Yeah. And they're, so they're all like they're all coat. Well, a lot 
-of them, most of the intelligent idea develop because our in st. Petersburg 
-where we have a big office, we have a bunch in Munich as well, where we have our 
-European development office, but then all of the developer advocates, all of 
-ours, there's like 20 of us.
-We're all remote. And we will work. So I'm working from the South of Spain. 
-Yeah. Malice, India had, he's actually had, he's only about two hours away in 
+just do it. Yeah. And they're, so they're all like they're all code work. Well,
+a lot of them, most of the intelligent idea develop because our in St. 
+Petersburg where we have a big office, we have a bunch in Munich as well, where
+we have our European development office, but then all of the developer 
+advocates, all of us, there's like 20 of us.
+We're all remote. And we all work. So I'm working from the South of Spain. 
+Yeah. Mali is in India had, he's actually had, he's only about two hours away in 
 Malaga, but we have never, ever met up in Spain ever in the Lake seven years 
 known him. And we always meet in like London or Amsterdam or New York or so, or 
-some Petersburg or Munich as it.
-Yeah. There's people in the States, people in the UK. 
+St. Petersburg or Munich as it.
+But yeah. There's people in the States, people in the UK. 
 
-**Michaela:**: [00:43:26] So, yeah. Traveling a lot as 
+**Michaela:**: [00:43:26] So, yeah. Traveling a lot as well.
 
-**Trisha:**: [00:43:27] well. Well, not right now. 
+**Trisha:**: [00:43:27] Well, not right now. (laughs)
 
 **Michaela:**: [00:43:30] Yeah. That's what I wanted to ask you about. What are 
 you doing right now? What does an develop an advocate do during a pandemic? 
@@ -789,40 +769,40 @@ you doing right now? What does an develop an advocate do during a pandemic?
 this, which is that I'm working on a lot of content.
 I'm doing a lot of blog posts and videos. So I don't really have a boss who 
 tells me what to do. I have like an internal customer who gives me suggestions 
-on things she'd like, and she's always sort of saying, well, we need these 
-videos. And she's been saying for like three years, we need these 42 videos.
-And I'm like, yeah, I guess I'm averaging about three years. It's gonna take 
-awhile to get around to doing them. And in the last like three weeks or so, I've 
+on things she'd like, and she's always sort of saying: "well, we need these 
+videos." And she's been saying for like three years: "we need these 42 videos."
+And I'm like: "yeah, I guess I'm averaging about three years. It's gonna take 
+awhile to get around to doing them." And in the last like three weeks or so, I've 
 done three videos already and then way more videos. More blog posts. I'd already 
 cut down my travel a bit. This year. I'd only committed to six events.
 Um, and usually do sort of eight to 12 events. Something like that. To be 
-honest, I'm really happy. I'm not traveling this year. I just really, I just, I 
+honest, I'm really happy I'm not traveling this year. I just really, I just, I 
 think I really liked the travel. I really liked the conferences I worked 
-remotely and, uh, and I live in Spain where I don't really get out very much. To 
-people in Spanish, out here very much so I like conferences cause I get to go 
-out and connect with human beings and do stuff.
+remotely and, uh, and I live in Spain where I don't really get out very much and 
+speak to people in Spanish, out here very much. So I like conferences cause I 
+get to go out and connect with human beings and do stuff.
 But my kids are two and four now. Um, one of them is at school and I just really 
 don't need to be jetting off every two weeks or so to spend four days. I'm not, 
-I don't spend four days conference. He spent like a day getting there. Day, 
-prepping a day, give it like an hour, giving the presentation another day, doing 
+I don't spend four days conference. You spend like a day getting there. Day, 
+prepping a day, give it like an hour giving the presentation, another day doing 
 whatever else.
-And then another day getting back and you just you're like, I just gave an hour 
-long presentation. It just seems like a massive waste of my time. So I will be 
+And then another day getting back and you just you're like: "I just gave an hour 
+long presentation. It just seems like a massive waste of my time." So I will be 
 doing some more virtual events, more webinars, but honestly, I'm just really 
 looking forward to doing more writing and more video stuff right now.
 
 **Michaela:**: [00:45:06] Yeah. Yeah. I can't imagine. And I can totally relate. 
-My kids are also two and four as a yeah. You're talking about okay, Trisha. 
+My kids are also two and four as a yeah. You're talking about. Okay, Trisha. 
 So thank you so much for, for being on my show today, we talked about so many 
 things. Is there something that we haven't covered that you would like to, you 
-know, Let my listeners know, or you know, that you want to throw out.
+know, let my listeners know, or you know, that you want to throw out?
 
-**Trisha:**: [00:45:25] So, yeah, hiring and other Java developer advocate. Um, 
-if anyone is interested in playing, I didn't actually talk that much about 
-developer advocacy hiring process. So I got hired. But without a process because 
-I was already well known. Our hiring process is we, well, first you have to 
-apply. If you don't apply, we can't interview you and you will be interviewed by 
-me and an HR person.
+**Trisha:**: [00:45:25] So, yeah,  we are hiring and other Java developer 
+advocate. Um, if anyone is interested in playing, I didn't actually talk that
+much about developer advocacy hiring process. So I got hired. But without a 
+process because I was already well known. Our hiring process is we, well, first 
+you have to apply. If you don't apply, we can't interview you and you will be 
+interviewed by me and an HR person.
 You will usually have to submit a, uh, as an example, post, it could be 
 something you've already written. If you already have blog posts and example, 
 screencast or video, if you've already got one, that's great too. I mostly want 
@@ -831,45 +811,45 @@ IDE is for.
 And it's not just a text highlighter, you understand, using the keyboard to 
 navigate you understand life templates, shortcuts, all of those sorts of things. 
 Yeah. Yeah. And then, uh, and then mostly the most important thing for me is 
-probably gonna be team fit because Matt and I, we work quite well together and 
+probably gonna be team fit because Mattie and I, we work quite well together and 
 I'm just looking for a third person, like I'm nominally in charge of the team, 
-but I just really want as the three of us, whoever we are.
-To work well together to gel well, to be able to compliment each other in our 
+but I just really want us the three of us, whoever we are.
+To work well together, to gel well, to be able to compliment each other in our 
 skills. So for example, I'm not looking for someone who's an expert in, in Java, 
 in like cutting edge Java stuff, because me and Matt have both got that. Like we 
 both are on top of the new versions of Java and I'm not looking for someone 
-who's necessarily.
-Going to be a very experienced developer advocate because I've got some 
-experience. I've got plenty of experience. Matt has got some experience. We can 
-help teach a lot of that stuff. I am looking for someone with complimentary 
-skills. For example, I know nothing about AWS or cloud or DACA or any of that 
-stuff.
-And I would really love someone who understood that stuff. 
+who's necessarily going to be a very experienced developer advocate because I've
+got some experience. I've got plenty of experience. Matt has got some 
+experience. We can help teach a lot of that stuff. I am looking for someone with
+complimentary skills. For example, I know nothing about AWS or cloud or Docker or 
+any of that stuff. And I would really love someone who understood that stuff. 
 
-**Michaela:**: [00:47:06] If somebody wants to apply, they should drive an email 
-directly to you or go to JetBrains, uh, slash and jobs, and then apply there. Or 
-how 
+**Michaela:**: [00:47:06] And so, if somebody wants to apply, they should write
+an email directly to you or go to JetBrains, uh, slash and jobs, and then apply
+there. Or how does that work?
 
-**Trisha:**: [00:47:16] I'm just having a look at this. You'll probably hear me 
-typing. I think it's JetBrains. Yeah. Dre jetbrains.com/careers.
-Careers. Okay. Um, and there, you should be able to look for a developer 
+**Trisha:**: [00:47:18] I'm just having a look at this. You'll probably hear me 
+typing. I think it's JetBrains. Yeah. jetbrains.com/careers.
+
+**Michaela:**: [00:47:25] Careers. Okay. 
+
+**Trisha:**: [00:47:27] Um, and there, you should be able to look for a developer 
 advocacy role. They are sometimes listed as being, as having an office location, 
 but they're not, they're fully remote. I think the office location might be just 
-literally, um, you know, like a, a thing. The system makes you put in that. So 
+literally, um, you know, like a, a thing. The system makes you put in there. So 
 developer advocacy roles are they're fully remote.
 Ideally we'd like someone in North America because we don't have someone 
 covering that geography and time zone. But, um, yeah, it's a fully remote 
 position. 
 
 **Michaela:**: [00:47:51] Okay. Okay, cool. Very cool. So thank you so much for 
-taking the time to talk with me. I hope you enjoy the rest of the day and, um, 
-thank you so much, 
+taking the time to talk with me today. I hope you enjoy the rest of the day and,
+um, thank you so much, Trisha. 
 
-**Trisha:**: [00:48:00] Tricia.
-Thank you. It's my pleasure. Bye 
+**Trisha:**: [00:48:00] Thank you. It's my pleasure. Bye. 
 
-**Michaela:**: [00:48:03] bye. Bye. Hey, if you enjoyed my show, it would mean 
-the world to me. If you become a Petron, you can find all information on 
+**Michaela:**: [00:48:03] Bye bye. Hey, if you enjoyed my show, it would mean 
+the world to me. If you become a Patron, you can find all information on 
 se-unlocked.com/patron. I have some exclusive perks for you. Another awesome way 
 to support the show is by helping me spread the word, you can send the episode 
 to a friend or share it on Twitter, Facebook, LinkedIn.
