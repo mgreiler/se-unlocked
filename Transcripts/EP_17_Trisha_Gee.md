@@ -440,48 +440,52 @@ I'd been to QCon London. At one of my previous jobs, I liked this idea of
 conferences. I was kind of involved in the Java, the London Java user group. So 
 I was kind of involved with people who are part of the bigger community who are 
 going to conferences. And, um, you know, as part of the job of user group, you 
-were seeing presentations and meeting a wider range of people.
-And I thought this is something that I want to be involved in. Um, Elma, 
+were seeing presentations and meeting a wider range of people. And I thought: 
+"this is something that I want to be involved in." Um, Elma, was doing 
 interesting stuff. I want to, you know, enough about what's happening there. 
 That I can talk about it externally. It's great for us to recruit people. This 
 is a great place to work. So I was very comfortable going out and talking about 
-what we were doing and saying, come and work for us because I really got a lot 
+what we were doing and saying: "come and work for us" because I really got a lot 
 out of working for them and we really needed to, and our team.
 So the last sort of couple of years, yeah, I was involved in setting up, um, or 
 getting everyone started. Well, I knew everyone wanted. Doing some technical 
-blogs, getting like an aggregator for our blogs so that we had like the Mike's 
+blogs, getting like an aggregator for our blogs so that we had like the Emlax
 blogs, adding people who wanted to present from inside Elmax into different 
 conferences and presenting, and then sort of organizing the people who did that, 
 organizing their schedules and doing a bit of admin stuff really around that 
-applying for you can apply to.
-To win awards. I didn't even realize this is how it works. Like they don't just 
+applying for. You can apply to, to win awards. 
+I didn't even realize this is how it works. Like they don't just 
 hand out like prizes, you know, you can submit yourself for various awards in 
 the industry like yourself personally, or your organization or the code you've 
-written. And so I was doing a lot of that. Yeah, I know. Right. So we are 
-consultant a piece of our software, which is very good for us because it gives 
+written. And so I was doing a lot of that. 
+
+**Michaela:**: [00:24:51] I didn't know about that!
+
+**Trisha:**: [00:26:45] Yeah, I know. Right. So we open sourced a piece of our 
+software, which is very good for us because it gives 
 visibility over the, some of the amazing code that we're writing.
-So I submitted that to a bunch of like awards and said, look, this is kind of 
-cool. Like maybe we should win an award. And then, um, I ended up co-presenting 
-at job one with our CTO. I'm talking about this open source piece of software. 
+So I submitted that to a bunch of like awards and said: "look, this is kind of 
+cool. Like maybe we should win an award." And then, um, I ended up co-presenting 
+at Java One with our CTO, talking about this open source piece of software. 
 And as part of that journey towards the end of it, I'm like, this is what I want 
 to do.
 And at the time I was sort of spending one day a week, doing developer advocacy 
 four days a week, doing full time, pair programming and developing and stuff. 
 And. And I was like, I'm not satisfied just doing the development anymore. I 
 want to do more presenting. I want to, I want to invest more of my actual day 
-job doing the stuff I was doing, my blog posts at weekends and things like that.
+job doing the stuff. I was doing my blog posts at weekends and things like that.
 This is like, I was single and I didn't have kids. It was a lot easier to do it. 
 So, yeah. So I left and I went to go and work for Mongo DB, where they offered 
 me a role, which was like 50% engineering and 50% advocacy. So that I thought 
-that was the right blend because I didn't want to move away from the engineering 
-particularly.
-Being a woman in technology. The first question people ask you, I'll call you a 
-real developer. Yes. I'm a real developer. So, you know, I really wanted to make 
+that was the right blend because I didn't want to move away from the 
+engineering. Particularly, being a woman in technology, the first question 
+people ask you, is like "are you a real developer?", "Yes. I'm a real 
+developer." So, you know, I really wanted to make 
 sure that I could answer that question truthfully. Yes. I am developing stuff on 
 the Mongo DB job driver. Um, but over the course of that, um, one year talking 
-about the Mongo DB Java driver conferences, and then I realized that my real 
-skill with it is, is showing people how to, how to code stuff.
-Like I I'm, I'm a. I'm a good developer. I'm a solid developer. I really, my 
+about the Mongo DB Java driver at conferences, and then I realized that my real 
+skill with this, is it is showing people how to, how to code stuff.
+Like I-- I'm, I'm a. I'm a good developer. I'm a solid developer. I really, my 
 four years working at Elmax. I got to know intelligent idea very well. And I 
 realize, um, I'd spent 10 years working as like an ordinary developer using my 
 IDE in a very ordinary way as in not really using it very much. Um, and so I was 
@@ -492,42 +496,46 @@ um, when I was paired programming with people and over the course of that year,
 then, um, how to use the boss of JetBrains developer advocacy. He kind of came 
 to me. Well, actually I asked him questions about how to do developer advocacy 
 in a, in an effective way.
-And then he said at the end of that conversation, he's like, yeah, Do you want 
-to come and work for us? I was like, well, it seems a bit rude because I'm 
-trying to get ideas from you about how to be an effective advocate at Mongo DB. 
-And so over, like over the course of the next six months, Mongo Debbie's 
+
+And then he said at the end of that conversation, he's like: "yeah, do you want 
+to come and work for us?" I was like: "well, it seems a bit rude because I'm 
+trying to get ideas from you about how to be an effective advocate at Mongo DB." 
+And so over, like over the course of the next six months, Mongo DB's 
 direction went in a particular way.
 I mean, they are a database company. They have very few Java developers. My 
-specialty was like coding, Java app. Occasions inside the IDE using a Mongo DB 
+specialty was like coding, Java applications inside the IDE using a Mongo DB 
 backend, but it really, they, they carried on going in a particular direction 
 and I saw that my career needed to go in a slightly different direction. So, um, 
-you know, it was like an amicable Orica breakup, really.
-Um, and so he said, come and work for us. And so I, I went to go and work for 
+you know, it was like an amicable breakup, really.
+Um, and so he said: "come and work for us." And so I, I went to go and work for 
 them. 
 
 **Michaela:**: [00:29:25] And so how did the hiring process really work? I'm 
-very, very afraid of hiring processes and, you know, approving myself, even 
+very, very afraid of hiring processes and, you know, proving myself, even 
 though I went through several walls, also, these really large. Large 
 organization hiring like they do at Microsoft, but I really don't like it.
-So how was that for JetBrains? 
+So how was that for JetBrains? How did you experience that? 
 
-**Trisha:**: [00:29:44] How did you experience that? I, I already had, I had 15 
-years experienced by this point in time, I was sort of, I was famous cause I've 
+**Trisha:**: [00:29:44] I, I already had, I had 15 
+years experienced by this point in time, I was sort of, I was famous 'cause I've 
 been speaking at conferences. I had a blog and, but it was it's the first job 
 I've ever not had an interview for. So I was literally headhunted for that role.
-I said to Hattie in November. Yeah. Okay. I'll I'll yes. I'd like to come and 
-work for you. He's like great. Here's your contract. You're starting again. I 
-love that. Yeah. I love that. The first time. So I had a lot of jobs in London, 
-like I said, I've, I've moved around a lot and I was quite involved in the 
-London, Java community.
-And even with all his, that I'd been using my equipment agents for, for all of 
-my roles before then I'd have to go through a formal process for all of my other 
-jobs. But no, that was the first one. Why there basically, because my, I had a 
-pool folio by then, I'd already been giving demos on intelligent idea at 
-conferences I'd already.
-Blogged about how to do stuff. So 
+I said to Hattie in November: "Yeah. Okay. I'll I'll yes. I'd like to come and 
+work for you." He's like: "great. Here's your contract. You're starting in 
+January." 
 
-**Michaela:**: [00:30:39] that's also a direct show off of what you're going to 
+**Michaela:**: [00:30:10] I love that. Yeah. I love that. 
+
+**Trisha:**: [00:30:12] But that's-- that's the first time. So I had a lot of 
+jobs in London, like I said, I've, I've moved around a lot and I was quite 
+involved in the London Java community.
+And even with all of that I'd been using my equipment agents for, for all of 
+my roles before then I'd have to go through a formal process for all of my other 
+jobs. But no, that was the first one where they basically, because my, I had a 
+portfolio by then, I'd already been giving demos on intelligent idea at 
+conferences I'd already Blogged about how to do stuff. So 
+
+**Michaela:**: [00:30:39] That's also a direct show off of what you're going to 
 do there. Right? It's not something that's a byproduct, but it's, it's your 
 work, right? So you're actually, you see what you, they are hiring you for. 
 Right. 
