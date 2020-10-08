@@ -403,4 +403,3 @@ the sup engineering unlocked podcast. Don't forget to subscribe. And I talk to
 you again two weeks. 
 **Cher:** [00:27:02] Bye.
 
-© Michaela Greiler 2020, licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Some Rights Reserved. 
