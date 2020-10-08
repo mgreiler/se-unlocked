@@ -1,4 +1,5 @@
 # Transcript Episode 18 with Cher
+
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
 podcast. I'm your host, dr. McKayla. 
 Before I start, I want to tell you about a new project of 
@@ -19,10 +20,14 @@ She also regularly reminds people that independent of their education or
 background I'm impressed by how she openly shares her vulnerabilities and 
 encourage and lift up others. So I'm really happy that chair is here today. 
 Welcome to my show chair. 
+
 **Cher:** [00:01:21] Thank you so much. I don't think anybody's ever said so 
 many nice things about me.
+
 **Michaela:** [00:01:28] I could have gone on and on.
+
 **Cher:** [00:01:37] Brevity is important. 
+
 **Michaela:** [00:01:40] Um, so it's one of the first thing I want to talk with 
 you about is your journey into tech, because I know it's not a very traditional 
 journey. So you recently started to share more openly that you actually don't 
@@ -398,4 +403,4 @@ the sup engineering unlocked podcast. Don't forget to subscribe. And I talk to
 you again two weeks. 
 **Cher:** [00:27:02] Bye.
 
-
+© Michaela Greiler 2020, licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Some Rights Reserved. 
