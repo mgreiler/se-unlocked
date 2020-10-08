@@ -1,38 +1,38 @@
 Amir Salihefendic_Ready
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
-podcast. I'm your host, dr. McKayla. And today I have the pleasure to talk 
-Amir Salihefemdic. Amir is the founder and CEO of todoist. It's just a 
-company behind the diely successful productivity app to do list. And the 
-collaboration platform twist the slogan on a website, says we created tools to 
+podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to
+Amir Salihefendić. Amir is the founder and CEO of Doist. Doist is the  
+company behind the widely successful productivity app ToDoist and the 
+collaboration platform Twist. The slogan on their website says we create tools to 
 promote a calmer and more balanced, more fulfilling way to work and lift.
 And that's exactly why I'm following the company. And also Amir's work already 
 for years. Not only does he promote a remote work culture, but he also stands 
-behind a more meaningful and self control worklife. But before I welcome, we are 
-one to two invite you to become an early access. Read off some of my draft 
+behind a more meaningful and self control worklife. But before I welcome Amir, I wanted
+to invite you to become an early access reader of some of my draft 
 chapters for my poetry book.
-Sooner, but give my last, could you workshop before my summer break? My next 
-workshops are then in August in the coming month, I will focus completely on 
-writing the code for your book and doing some original research around code 
-reviews. So if you want to read what I write and follow the process, signed up 
-on McKayla giler.com/code you book, and follow me on Twitter.
+Sooner, but give my last, could you workshop before my summer break. My next 
+workshops are then in August, And in the coming month I will focus completely on 
+writing the code review book and doing some original research around code 
+reviews. So if you want to read what I write and follow the process, sign up 
+on michaelagreiler.com/code-review-book/ , and follow me on Twitter.
 I also linked both in a description, but 
-**Amir:** [00:01:04] now let me welcome. I'm here. 
+**Amir:** [00:01:04] now let me welcome Amir. I'm here. 
 **Michaela:** [00:01:05] I mean, it's thank you so much for being on my show. 
 **Amir:** [00:01:08] It's our pleasure. Yeah. I'm here. 
 **Michaela:** [00:01:11] One of the questions that I wanted to ask you since, 
-you know, forever is why and how do you actually start doing is, and I know you 
+you know, forever is why and how do you actually start Doist, and I know you 
 talked about this a lot, but I would like to know a little bit about this moment 
 that you, you know, You're working for example, you're doing your computer 
 science degree and you're working at a, at some companies part time.
 So why not join the, let's say normal workforce. Why not be a employee full 
-time? Employee? Why do you go and create your own company, your own project? Why 
-do you work on your own problem? 
+time? somewhere Employee? Why do you go and create your own company, your own 
+project? Why do you work on your own problem? 
 **Amir:** [00:01:46] Yeah. I mean, it's a very interesting question. And 
 honestly, like I think I would probably be a very bad employee, so that's like, 
-you know, I remember actually, you know, like some people they grew up and they 
+you know, I remember actually, you know, like some people they grow up and they 
 think like their dream is kind of like join this mega Corp.
 And for me, that was never really the dream. Like for me, the dream is this 
-critical stuff, doing it, like in a way that it's kind of compatible with. You 
+pretty cool stuff, doing it, like in a way that it's kind of compatible with. You 
 know, the way that I think and the stuff I want to create in the world and also 
 the culture I want to be part of. Yeah. So I think maybe it's like personality 
 type and also like something to note is like, I got very early offers.
@@ -41,10 +41,10 @@ have maybe probably more money than extra, like my current. Maybe not, I make
 sure I'm sure about that, but, uh, you know, I could have joined like these big 
 companies very early on if I wanted to do that, but it was not like, it wasn't 
 really something I was super interested in.
-I really wanted to like, create my own path and do my own stuff. Yeah. But 
-**Michaela:** [00:02:56] did you have this idea of, I want to have, or want to 
-make a productivity? App at that point or was it more, I want to be my own, my 
-own boss. I want to create my own endeavor, something like that. 
+I really wanted to like, create my own path and do my own stuff. Yeah.  
+**Michaela:** [00:02:56] But did you have this idea of, I want to have, or want to 
+make a productivity App at that point or was it more, I want to be my own, my 
+own boss. I want to you know, create my own endeavor, something like that. 
 **Amir:** [00:03:11] I mean, honestly, I think like, as a software developer 
 myself, I don't really like, always has interest for me is kind of creating 
 stuff.
@@ -62,14 +62,14 @@ That's usually the journey that is common. Like for instance, like the founder
 of Dropbox did a very similar thing. Yeah. 
 **Michaela:** [00:04:10] So one of the reasons why I'm so fascinated by your 
 work is the mental mindset about. You know, the bootstrap business that are 
-created to be substantial and somehow lasts forever. And, um, yeah, recent 
-articles that I read were that you don't have an exit strategy or that you, you 
-know how to become a market leader in 10 years.
+created to be substantial and somehow lasts forever. And, um,some of your
+recent articles that I read were that you don't have an exit strategy or 
+that you, you know how to become a market leader in 10 years.
 I really liked that very much. And also this, this idea of. Balance and 
-ambition, right? Because very often I'm also a little involved in a bootstrap 
-and indie hacker community. And, and a lot of people want the success overnight, 
-right. It's from, from I'm starting today and the new year, I want to have this 
-really successful company.
+ambition, right? Because very often I'm also a little bit involved in a
+bootstrap and indie hacker community. And, and a lot of people want the success
+overnight, right. It's from, from I'm starting today and the new year, I want
+to have this really successful company.
 And then there you are with, with product, I think. That a lot of people would 
 love to make and, and you made it to be a market leader, but it's not overnight. 
 Right. It's something that you work on in 10 years or, or over that time. Right. 
@@ -83,21 +83,21 @@ Why, why do you have this mindset? What do you think? What shaped your, your
 beliefs in, in having this long breath and also, you know, setting up everything 
 for sustainability? 
 **Amir:** [00:05:40] Yeah. I mean, honestly, you know, I'm actually unsure, like 
-what has shaped my. Way of thinking, but something that I think is very 
-problematic is kind of like if you're thinking short term, then I think like 
+what has shaped my way of thinking, but something that I think is very 
+problematic is kind of like if you're thinking in short term, then I think like 
 also this decision you make are going to be for the short term and they are not 
 going to be great.
 So for instance, like if my goal is to sell the company, You know, I will 
 probably not focus that much on like the lonesome culture that we'll be creating 
 or the sustainability, you know, off it, or like the people that we actually are 
 going to hire. Yeah. Because, you know, you know, at some point you're basically 
-exit this, but if you come to stop, would this like forever then okay.
-Like your, your mindset shifts, and then you're much more like, you know, 
+exit this, but if you come to stuck to this like forever then I think,
+ your mindset shifts, and then you're much more like, you know, 
 reflective or, you know, what kind of products do you focus on? What kind of 
 culture do you have? What kind of people do you have? So for me, that's kind of 
-like just a, like a forcing mechanism to actually think better and make better 
-decisions.
-Yeah. So, and I don't think he is basically like this notion. And I think like 
+like just a, like a forcing mechanism to actually you know think better and
+make better decisions.
+Yeah. So, and another thing is basically like this notion. And I think like 
 David from base camp has stated, is kind of like work on your best idea. So a 
 lot of people like they actually like postpone, you know, you have like a great 
 idea, but you're basically stuck in some kind of like local. Optimum, like maybe 
@@ -105,47 +105,47 @@ you work for like a huge company or whatever, and you don't have like a time to
 actually focus on your best idea.
 So for me, it's kind of like, what are the best idea that I have? And like, for 
 me, the best idea I've had so far. And of course I, it's not only my idea, but 
-like companies that he has is kind of like a tool to organize like your work and 
+like company's idea is kind of like a tool to organize like your work and 
 your life. And then also like a team communication app. That's kind of like 
 mindful.
 And that, you know, helps you like both of these help you live a better life and 
 do some better work. Yeah. So, so I hope I kinda answered this and like this 
 kind of like mindset is very uncommon in our industry. Like a lot of people they 
-want, you know, overnight success. They want, like, you know, shorts, I'm 
-thinking of like short some project that can basically make your way.
+want, you know, overnight success. They want, like, you know, short-term
+thinking of like short some project that can basically make your wealthy.
 But the one I'm thinking about Scott, like, okay, if I need to work on this for 
-like 30 years, you know, then, or 40 years of 50 years, you know, it becomes 
+like 30 years, you know, then, or 40 years or 50 years, you know, it becomes 
 like a very different mindset that you go into this and also like a very 
 different timeline. Yeah. 
-**Michaela:** [00:08:07] Yeah. So one of the strengths that you have with do it 
-or to do it is that you're actually profitable.
+**Michaela:** [00:08:07] Yeah. So one of the strengths that you have with Doist 
+or ToDoist is that you're actually profitable.
 Right? And so I think this was also one of the things that you had in your mind 
 very early on to have this profitable business that you are not. Really, 
 depending on the funding of others. But when was the time that you got to this 
 point of profitability? Was that, was it immediately, or did you invest like a 
-year or two before, you know, to do is, was actually bringing in some, some 
-revenue that you could actually live off and, and sustainably build that 
-**Amir:** [00:08:41] product.
+year or two before, you know, ToDoist was actually bringing in some, some 
+revenue that you could actually live off and sustainably build that product. 
+**Amir:** [00:08:41] 
 Yeah. So basically it took me about like six months to actually create like a 
-business model for, for today and actually like, make it profitable. So it may 
+business model for, for ToDoist and actually like, make it profitable. So it may 
 bigs either beginning, like you just covered the center costs, but you know, it 
 was all were already profitable for me because I was just like a student and 
 like it, and to me some money on the side, but I, before I actually started to 
-work full time, went to this, it took me almost four years.
+work full time on ToDoist, it took me almost four years.
 Where it was just like a side project. Yeah. And I would definitely not 
-recommend this. So what I would recommend, he's kind of like tried to like, 
+recommend this. So what I would recommend,is kind of like try to like, 
 think about the business model from the get go. Done really like thinking about 
 VC funding. Like that's another problem. I think a lot of people think about is 
-kind of like the goal is gone is money.
+kind of like the goal is gone to raise money.
 No, the goal should be to kind of like build a sustainable business because that 
 also gives you a lot more options. Like if you want to raise money at some 
 point, you know, you can do it. But the strength is really like building 
 something that people want to pay for. And like building this very early on and 
 then like creating like a sustainable business for yourself and for your team.
-Yeah. So that at least would be my recommendation in this regard. So one 
-**Michaela:** [00:10:00] of the things that I always do also admire is this 
+Yeah. So that at least would be my recommendation in this regard.
+**Michaela:** [00:10:00] So one of the things that I always also admire is this 
 foundation of you call it balance and ambition. And I'm for example, a very, 
-very ambitious person. And I really admire balance. I'm really not. Very good in 
+very ambitious person. And I really admire balance. I'm really not very good in 
 getting it into my life.
 Somehow I always feel like a little bit defeated by my own ambition. And so I 
 noted you were talking a lot about like the, the wellbeing of your employees and 
@@ -162,48 +162,48 @@ another company, a social network where I almost got like burned out because
 there was basically a zero balance.
 You know, I worked all the time. I was based like a train wreck, but like in 
 terms of stress, So I have been on the other side and like, it's not really a 
-good site to be in, especially if you want to do this for like 40, 50 years, you 
-know, you need to kind of have sustainable way of like leaving. Yeah. And 
+good side to be in, especially if you want to do this for like 40, 50 years, you 
+know, you need to kind of have sustainable way of like living. Yeah. And 
 honestly, that's, again, like something that it's unconventional in our 
 industry, because a lot of people are like promoting this hustling, like working 
 all the time.
 But I think actually it's like, it's not, I don't think it's actually more 
-productive. I think like the people that are actually happy and, you know, side 
-of it alive, we'll produce better work and especially better book, like long 
-term. So that's something that really bad you focused on. And I think it was 
-like, we can learn something from like athletes on this.
-Like if you look at some like program of like athlete, for instance, like Fedor 
+productive. I think like the people that are actually happy and, you know,  
+satisfied in real life will produce better work and especially better work, like 
+in long term. So that's something that really bad you focused on. And I 
+think it was like, we can learn something from like athletes on this.
+Like if you look at some of like athlete, for instance, like Federer
 or whoever else. Like, they're not playing tennis all the time or like their 
-sports all the time. They are planing, like in intervals where, you know, they 
+sports all the time. They are playing, like in intervals where, you know, they 
 go in and they train or play and then they relax and recharge. And I think like, 
-it's the same thing with like mental health work is like, you can be on all the 
+it's the same thing with like mental work is like, you can't work all the 
 time.
-You need to actually have like off switch and be able to disconnect arrest. I 
-don't like you will learn out or like you want really perform that. Well, Yeah. 
+You need to actually have like off switch and be able to disconnect or else 
+like you will burn out or like you won't really perform that well. Yeah. 
 So that's at least how I think about this. And especially, you know, like, can 
 we do isn't factory work? You know, it's, it's very creative and you actually 
 need to have like peak performance that it's like really great.
 It's not about like, you know, grinding it out like 14 hours per day. Like maybe 
 you, if you had like three hours where you could like, you know, Create a great 
-algorithm or create a great solution. It's much better spend like $40 just like, 
-you know, banging on a keyboard or whatever else, like, yeah. So, so that's at 
-least like the mindset I have when I go into this and why I think like ambition 
-and balance is important.
+algorithm or create a great solution. It's much better spend like 14 hours 
+just like, you know, banging on a keyboard or whatever else, like, yeah. So, 
+so that's at least like the mindset I have when I go into this and why I 
+think like ambition and balance is important.
 I mean, this said like, you know, I'm a super ambitious. Person as well. And a 
 lot of people actually mistake are like ambition and balanced to think that it's 
 kind of a relaxed environment or that we don't expect the best out of people 
 like we do. And, but we think actually like you reach the best by, you know, 
 having an off switch and having a balance in your life.
-Yeah. So that's how I think about it. Yeah, I 
-**Michaela:** [00:13:40] totally agree. I also think that this is how you're 
-getting enough energy and enough also freedom on a little bit in your, in your 
-thoughts, right? In, in your, in your, some space to think also, but how do you 
-for yourself, what are some of your maybe tricks or some of your main isn't that 
-you can actually turn on?
+Yeah. So that's how I think about it.
+**Michaela:** [00:13:40]Yeah, I  totally agree. I also think that this is how 
+you're getting enough energy and enough also freedom on a little bit in your, 
+in your thoughts, right? In, in your, in your, some space to think also, but 
+how do you for yourself, what are some of your maybe tricks or some of your 
+mechanism that you can actually turn on?
 This switch, right? This is something that is, for example, hard for me. So I 
 have to go and, um, bike for example, or, you know, do some other sport. The 
 best is being out in the fresh air to really clear my mind and getting out of 
-this, you know, work habit or, you know, work mind, race thing. So works for 
+this, you know, work habit or, you know, work mind, race thing. So what works for 
 you. Is that just something that you very.
 Very easily can turn on and off and you know, now work, stop the name, you know, 
 I'm relaxed. Or do you have some, some things that you're doing to make this 
