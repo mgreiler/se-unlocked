@@ -35,6 +35,7 @@ journey. So you recently started to share more openly that you actually don't
 have a computer science degree background and things like that. Do you want to 
 tell us a little bit how you actually started in tech and you know, what 
 brought you here?
+
 **Cher:** [00:02:22] Yeah. So I was definitely like, always very like curious 
 kid and I'm, and I'm still like curious. Uh, and I was always like really 
 interested in the way things worked. And so my mom. She worked for a 
@@ -143,7 +144,8 @@ like 2009, 2010. And I got a lot of bounce checks and clients not paying. And I
 got to a point where like, I was actively being evicted from my apartment 
 because I couldn't afford to pay the rent.
 And I was applying for like every single job that I could find. And one of those 
-jobs was at USA today or who owns USA today, um, for a mobile front end developer position. And mobile was like one of the things that the communities 
+jobs was at USA today or who owns USA today, um, for a mobile front end developer 
+position. And mobile was like one of the things that the communities 
 that I had gotten involved with cause I thought it was like really, really 
 important that websites be really usable.
 And so somehow, luckily, you know, like I got this interview, I went out there. 
@@ -203,10 +205,12 @@ didn't have to do any of that stuff anymore. Like the only thing was left was
 the food stamps. And then, you know, it kind of. Obviously like, you know, my 
 career kind of took off from that point in 2011, when I got that job at USA 
 today.
+
 **Michaela:** [00:13:48] Yeah. Somehow for me it sounds like a cycle, right? A 
 virtuous cycle where you, if you're in it, you're somehow getting deeper into 
 it. And it's really hard to get out. And once you're out, it's, it's the same 
 cycle. You can actually get that up. Do you feel that way as well?
+
 **Cher:** [00:14:05]  Oh, definitely. You know, only 4% of people that come 
 from poverty will ever break out of that cycle.
 And I think a lot of things that things that people don't really understand, 
@@ -225,6 +229,7 @@ we don't take the time to recognize that, that those people who, you know, like
 my friends who are still in that life, it's like the reason that it's there in 
 that is because it's, it's a cycle and there's, there's really no escape from 
 it.
+
 **Michaela:** [00:14:48] Yeah. It's really hard to get out. So one of the things 
 that you. Tell me, is that this getting pregnant was definitely a, when the 
 changed your mind and you know, where you were thinking, well, I don't want 
@@ -232,6 +237,7 @@ my kid, my baby to grow up in that environment or with those circumstances.
 And then there's this event that you have at the hotel, but do you think that 
 there were other things, were there other people in your life up to you to come 
 out of that or strengths coming completely from inside of yourself?
+
 **Cher:** [00:15:23] 
 Um, I definitely think that there were people along the way who helped. So I 
 definitely got like positive feedback along the way. Um, but I just it's, it's 
@@ -243,7 +249,8 @@ or you're gonna lose your kid and be homeless, you know, that's, that's what it
 took for me. And I do think that I do think that it's, it's like both, both 
 things matter that has to come from like internal and then you also, 
 cause you have to be willing to accept like other people's 
-help. And if you're not like you, you can't, you can't move forward. Yeah. 
+help. And if you're not like you, you can't, you can't move forward.  
+
 **Michaela:** [00:16:14] Yeah. But I think it's really, there's an incredible 
 strengths to being in a situation that really seems. You're a little bit stuck 
 right your, um, things are not, I mean, you definitely knew that the situation 
@@ -265,6 +272,7 @@ job, right which brought in more money and there's this upward spiral, right.
 What was the next step? So did you think by that time, I really want to become, 
 you know, a staff engineer at one of the largest and most prestigious, you know, 
 software engineering companies in the world.
+
 **Cher:** [00:17:43] Um, I don't think that I, uh, I had that in my head. I 
 think I was still at a point where like, I was like, I don't want to be on 
 food stamps, you know? And I want, I want to grow as a person. And I, I think 
@@ -278,14 +286,14 @@ stimuli that you were presented with when you were a child.
 So if the only attention you got was, you know, from, you know, a parent abusing 
 you or chastising you when you did something wrong and that's the only 
 attention you got. Um, you're basically going to be drawn to these high risk, 
-negative situations where even though like, you know, like, okay, I know after I 
-do this thing, I'm going to feel really bad, but during it, I'm going to feel 
+negative situations where even though like, you know, like, okay, I know after 
+I do this thing, I'm going to feel really bad, but during it, I'm going to feel 
 really good.
-And that's the only time I'm going to feel really good. And so I think that, I 
-was at a point and it's in 2011, I was in my mid twenties. Like maybe I was like 
+And that's the only time I'm going to feel really good. And so I think that, 
+I was at a point and it's in 2011, I was in my mid twenties. Like maybe I was like 
 26 or something like that. And so like, I was also maturing, I think, as a human 
-being and like recognizing, even though I wasn't actively in therapy anymore, I 
-knew that like, I, I was chasing those things for some reason that wasn't 
+being and like recognizing, even though I wasn't actively in therapy anymore, 
+I knew that like, I, I was chasing those things for some reason that wasn't 
 right.
 And the easiest way to not put yourself in those situations is to not have 
 access to them. And so the job was, so I lived in St.Louis, Missouri at the 
@@ -375,6 +383,7 @@ So I became a name and, you know, the Northern Virginia area of somebody who was
 like highly technically capable and then also understood like, you know, the 
 performance, um, implications of, on people with people who don't have access to 
 unlimited resources.  
+
 **Michaela:** [00:25:16] Yeah. I think that's really interesting. And I think 
 it's somehow it's, it's similar to the story of , you know, not giving up 
 and not saying, well, this is how my life now is, 
@@ -391,6 +400,7 @@ And also, I would like to hear everything about the hiring process because I'm
 super afraid of interviews and things like that. So we'd like to know. How he 
 experienced that? Yeah. Also for my listeners that want to apply at Apple, what 
 should they do? 
+
 **Michaela:** [00:26:17] Well, who wouldn't like to know. Right. But this is the 
 end of today's episode in part two I deep dive with Cher, into the hiring 
 processes at Apple, engineering culture and software engineering practices at 
@@ -398,5 +408,5 @@ this large prestigious company, I hope you tune in, in two weeks for now.
 I say bye, and have a good day. Bye. I hope you enjoyed another episode of 
 the software engineering unlocked podcast. Don't forget to subscribe. And I talk 
 to you again in two weeks. 
-**Cher:** [00:26:48] Bye.
 
+**Cher:** [00:26:48] Bye.
