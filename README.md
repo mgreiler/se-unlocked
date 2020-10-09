@@ -8,7 +8,7 @@ If you want to help make the podcast more accessible, please feel free to pick u
 
 ## How to contribute
 Transcripts can be improved either while you listen to the epsiodes, or even just be reading through the text and correcting issues that way.
-Please remove spelling, grammar and other mistakes that you see. 
+Please remove spelling, grammar and other mistakes that you see. You can find a short guideline on [how to edit the transcripts here](https://github.com/mgreiler/se-unlocked/blob/master/Transcription_Guidelines.md).
 **Before starting** to work on an epsiode, please **leave a comment on the issue** indicating that you are 
 going to work on the transcript, to avoid conflicts and duplication of work. 
 
