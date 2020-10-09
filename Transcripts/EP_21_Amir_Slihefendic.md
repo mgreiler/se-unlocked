@@ -211,14 +211,14 @@ transition from ambition to balance?
 **Amir:** [00:14:34] Yeah. I mean, I'm going to be honest here, like, you know, 
 my default more like, I love what I do. I'm really passionate about the work 
 that I do.
-And I have like a really hot time switching up as well. And I think like a lot 
-of fleet, like if you really love what you do, like you will have a huge doing 
-that. Yeah. So, um, you know, we have been stuck in this like Corona virus 
+And I have like a really hard time switching up as well. And I think like a lot 
+of fleet, like if you really love what you do, like you will have a huge problem
+doing that. Yeah. So, um, you know, we have been stuck in this like Coronavirus 
 nightmare for the last three months on a lockdown and it's suddenly getting 
 better in Chile.
 So, you know, what I do right now is kind of, not really that reflective of what 
 I do usually. So for instance, for me, like swimming is a great way. To, to shut 
-off like going to a park with my son without my cell phone is another great way 
+off like going to a park with my son without my cell phone is another great way,
 playing football as well. Like I actually, like I have found out that I really 
 need, you know, that to switch off.
 I really need to kind of like get out and do something active. Yeah. 
@@ -229,27 +229,27 @@ know, they play some games or whatever else, like they do to kind of relax or
 see some shows.
 But for me, like the best is kind of like to actively like do something. And 
 that kind of switches my mind off, like when I'm in a football match, you know, 
-I don't really think about like the, the book stuff or the same thing as like, 
+I don't really think about like the, the work stuff or the same thing as like, 
 when I'm in a park playing with my son. Like, I don't really think about the 
-book stuff.
+work stuff.
 **Michaela:** [00:16:05] So one of the things that I'm very, very passionate 
 about is software engineering practices. So I would like to learn a little bit 
-more about what you're doing at do is so do you do code reviews? Do you do, how 
+more about what you're doing at Doist, so do you do code reviews? How 
 do you test your systems also? What is your tech stack and, and how do you 
 combine that with within remote work?
 Right. So how is the remote work also shaping your software engineering 
 practices? And did they change, do you think that. Did they look a little bit 
-different because of this as a communication, for example? 
+different because of this as a asynchronous communication, for example? 
 **Amir:** [00:16:37] Yeah. I mean, honestly, I think like remote first. And then 
 combine that with like asynchronous first communication.
 So it means like we don't actually chat chit chat all day long, but like we use, 
-you know, long from a communication, mostly of course, like we do some meetings 
+you know, long form of communication, mostly of course, like we do some meetings 
 here and there, but like most of our communication is written. And , this is 
 kind of like, I think the ideal situation to create like really great software.
 Yeah. And so that's the first step, and I think there's like multiple layers to 
 this. So first of all, you know, I love the problems that we handle in software 
 is very, very hard. So, you know, like if you ping me about like really on 
-Slack, for instance, or Microsoft teams about a really hot problem, Like, it's 
+Slack, for instance, or Microsoft teams about a really hard problem, like, it's 
 very unlikely that I will just be able to answer it right away.
 Or maybe if I can answer it right away, it probably will be like a suboptimal 
 solution. While if I actually like ask you something and you have like a day to 
@@ -260,52 +260,51 @@ Ability to like really focus on hard problems and solve them. And also like do
 this friends, like pull requests. I think an amazing invention that makes this 
 much, much easier to do. And I think it creates much better code and much better 
 systems. So I hope I can like answer this in like a very holistic way.
-So, 
-**Michaela:** [00:18:17] especially code reviews are one of my favorite topics 
-and pull requests, especially I think to do is, or I do is you're using GitHub 
-for your PRS, for your pull requests. Do you feel that this is really the best. 
+**Michaela:** [00:18:17] So especially code reviews are one of my favorite 
+topics and pull requests, especially I think ToDoist, or Doist is using 
+GitHub for your PRS, for your pull requests. Do you feel that this is really the best. 
 Way of doing this communication is collaboration. Or like, I imagine that if you 
-are a person, you know, that that's designing software and activity apps, maybe 
+are a person, you know, that that's designing software and designing productivity apps, maybe 
 you have this lens of looking at other software flows or tools, especially 
 engineering tools as well and thinking well, is that really the optimum way to 
 do that?
 And I always wonder, so I actually see a couple of things that you could improve 
-in the, in the PR. Flow. And in the way we are communicating ours, for example, 
-ed get hub or get lab. Right. Is that also something that comes to your mind? Do 
+in the, in the PR. Flow. And in the way we are communicating through PRs, for example, 
+at Github or Gitlab. Right. Is that also something that comes to your mind? Do 
 you think this is actually a pretty good for, for how we are using the tool?
-**Amir:** [00:19:10] I mean now, you know, like I grew up without get, and like 
-these PR, like I grew up with some version a and CSV, so I know like how much it 
+**Amir:** [00:19:10] I mean now, you know, like I grew up without Git, and like 
+these PRs, like I grew up with some version like CSV, so I know like how much it 
 sucked before, or even like before that, like sending, you know, zip and dips, 
 that was like really a nightmare. So I didn't like the current, like, we are 
 really, really fortunate with the tools that we have in software development.
 Of course, like they can always be improved, but it's like just live DS ahead 
 off what other, you know, fields have. And even if you look at like the history 
-of get, it's kind of like history, like, you know, the Linux kernel is kind of 
+of Git, it's kind of like history, like, you know, the Linux kernel is kind of 
 like remote first team spread around the world. So it's kind of like optimized 
-for this kind of like remote first.
-Structures in like asynchronous communication structures, because most of the 
-communication is done. Like we are mailing list there. Yeah. Yeah. So of course, 
+for this kind of like remote first structures in like asynchronous 
+communication structures, because most of the communication is done like 
+we are mailing list there. Yeah. Yeah. So of course, 
 like we can improve this, but honestly, like I'm very, very happy about the 
-current flows. And also something we use is like we use tourists, which is also 
+current flows. And also something we use is like we use Twist, which is also 
 asynchronous communication.
-As kind of like a glue between like get a get hub. So for it's like, if you want 
+As kind of like a glue between like Git and Github. So for it's like, if you want 
 to ping somebody about like a pull request or an issue, like you would basically 
-do that untwist and then, you know, they will go to hit, get up to, you know, 
+do that on twist and then, you know, they will go to hit, get up to, you know, 
 solve the issue, like look at the specific problem or whatever else.
 Uh, yeah. So I still think you kind of like need to another layer. Like a lot of 
 teams use Slack. Like we don't. So like our stack is mostly like asynchronous 
 and this helps a lot. Yeah. 
-**Michaela:** [00:20:53] Yeah, Theresa is definitely something I want to talk 
+**Michaela:** [00:20:53] Yeah, Twist is definitely something I want to talk 
 with you about. Well, it's sort of very similar to it's a communication 
 platform, so yeah, similar to Slack, but has a different focus, right?
-So it's really designed for us cruise communication instead of synchronous 
-chats. And so what was your idea behind twists? Why did you come up with this 
+So it's really designed for asynchronous communication instead of synchronous 
+chats. And so what was your idea behind Twist? Why did you come up with this 
 idea and why? Why go for a very. For this broad problem of communication and 
 collaboration, it's not very specific to, for example, pull requests and the way 
 that we communicate there.
 Right. It's very focused. Well, now we have this goal in mind where I guess 
-twisted is similar to Slack is a universal tool that it can use for any 
-communication, any collaborations, or did you have something in mind, like 
+Twist is similar to Slack is a universal tool that it can use for any 
+communication, any collaboration, or did you have something in mind, like 
 really engineering teams that are using it for a specific, you know, way of 
 communicating?
 **Amir:** [00:21:42] Yeah. I mean, the way that everything about this, like, you 
@@ -316,44 +315,44 @@ know, like we're also like very focused inside this and other aspects such as
 design, like we're very design driven.
 As well as engineering driven, we also like always take like a more broader 
 look. And look at like the, the problem, the general problems that like a lot of 
-teams are facing and only like what developers are facing. Yeah. So that's 
+teams are facing and not only like what developers are facing. Yeah. So that's 
 basically how we look at this aspect. 
-**Michaela:** [00:22:30] Okay. And so I know that at do, is you're actually 
+**Michaela:** [00:22:30] Okay. And so I know that at Doist is actually 
 working in squats or at least you used to I'm pro are you still working in, in 
 terms of like collaborative, interdisciplinary teams?
 And why did you choose that, that way of collaborating? 
 **Amir:** [00:22:49] Yeah. I mean, that's a great question. And honestly, like 
-the thing about this is kind of like, we do stuff a lot differently than most 
+the thing about Doist is kind of like, we do stuff a lot differently than most 
 others, and we are always like, you know, trying to think from the first 
 principles is just instead of just like copying others, of course, like we have 
 tried to copy others.
 It almost always not, does not really work for some reason. It's just this as a 
 base. Like our structure is very unique in terms of how we work. And it's also 
 like, I think from that side, it might sound a bit insane. So basically, like we 
-have dynamic squad that are assembled and reassembled every month.
+have dynamic squats that are assembled and reassembled every month.
 Like depending on sometimes they are running for multiple months and we call 
 these cycles. So we basically have like monthly cycles where for instance, like 
 you can have like a cycle phase, like one of the cycles right now, it's kind of 
-like creating a better composer for twist. And usually like this, these squats 
+like creating a better composer for Twist. And usually like this, these squats 
 have like a designer, something Junius in them, maybe a support person or 
 marketing person.
 And they are basically like self sufficient that they can actually go in and 
 solve the whole problem space, like from, from start to finish and deliver that. 
 And then apart from like these neck squats that are assembled, we also have like 
-teams, so reserved. The iOS team is I think, seven people at the Android team.
+teams, so reserved. The iOS team is I think, seven people.And the Android team.
 And then we have backend and from then, and, you know, basically they're, 
 they're kind of like focusing more on like the holistic view of the code basis. 
 Yeah. So that's kind of how we work. And then we also have something called 
-internal audit, which is based like team specific. We call them dues, but you 
-always got projects that, for instance, like iOS, the thing is upcoming due and 
+internal Dues, which is based like team specific. We call them Dues, but you 
+always got projects that, for instance, like iOS-14 is an upcoming due and 
 it's only affecting the iOS team and they basically have like some, a person 
 allocated.
 Sometimes it can also have the two persons allocated for that. And apart from 
 those, so we basically have like a, you know, Product squats. We have these 
-internal squats and then we also have personal dues, which is based like one 
-person, like having a personal project that maybe isn't like even adding 
-something to our products.
-Um, for instance, like our, one of our designers did like internet for tourists. 
+like internal squats and then we also have personal Dues, which is based like 
+one person, like having a personal project that maybe isn't like even adding 
+something to our product.
+Um, for instance, like our, one of our designers did like internet for Doist. 
 Where he based like designed and coded everything in the cycle and, you know, so 
 that's how we work. And I think really this is probably a very unique way. And 
 I, I at least, I don't know many things the dude like, like we did, but yeah, I 
@@ -361,11 +360,11 @@ really liked this structure.
 And of course, like it has some pros and cons, but in general, like, we are very 
 happy about how we do this. 
 **Michaela:** [00:25:34] So how I imagine when you're describing it, how I 
-imagined it is like, well, every squad now is a little self-sufficient little 
+imagined it is like, well, every squat now is a little self-sufficient little 
 startup sort of, right? So there's like, I don't know, five people, maybe five 
 ambitious people that have all different, you know, talents and skills and 
 they're coming together and realize one thing in a very autonomous way.
-And I can see that this can be very, very. Impactful is there, is there a final 
+And I can see that this can be very, very impactful is there, is there a final 
 rule approval staff, for example, this every, you know, every feature that they, 
 for example deliver, does this go through the final approval by you or by, you 
 know, a team of owners or something like that, or is that completely, um, 
@@ -373,42 +372,42 @@ independent from, from start to end?
 **Amir:** [00:26:21] Yeah. I mean, honestly, like we don't have like final 
 approval. We actually don't really have a lot of like hierarchy inside this, but 
 I mean, for instance, like something that's like very critical for us is kind of 
-like code reviews are also just like, you know, design review is getting input 
+like code reviews are also just like, you know, design reviews getting input 
 from, from others is kind of like the alpha and beta testing.
 You know, so, so, so before, like something gets out, like it will get like a 
 lot, a lot of eyes on it and a lot more like the feedback will be given to a 
 specific thing. So usually, you know, like when we are ready to release 
-something, like it's usually rock solid and it has been like true. A lot of 
+something, like it's usually very rock solid and it has been like true. A lot of 
 like, like a review, right.
 Testing periods. Yeah. 
 **Michaela:** [00:27:06] And so can I imagine that, for example, for the code 
 reviews, you would have like a squad and under squad, there is one developer or 
 maybe two developers, but they are getting code reviews from other squats, or is 
-that always within the same squad? How do you, how do you do that? 
+that always within the same squat? How do you, how do you do that? 
 **Amir:** [00:27:21] Yeah, so, so basically they will get like reviews from the 
 team.
 So for instance, like if I'm an iOS engineer and I do like boards, Then like 
 boards get reviewed by, you know, somebody else inside the iOS team. And maybe 
-it would be like multiple people, like over a time period. And so that's how we 
+it would be like multiple people, like over a time span. And so that's how we 
 do it. I think like the beauty of this is kind of like that you have a lot of 
-calibration and you also have like a lot of insights input coming from other 
+collaboration and you also have like a lot of insights input coming from other 
 people that are maybe not fully into like the, the problem space that you're 
 solving.
 And it also means that a lot of more people who actually know the code base 
 better. Yeah. So, you know, I know our approach could be that you kind of have 
-like just internal reviews inside spots, but then you can just like, have, you 
+like just internal reviews inside squats, but then you can just like, have, you 
 know, a very constrained, like maybe two people or whatever that can actually 
 understand something.
 Yeah. 
 **Michaela:** [00:28:17] So when I look at your company culture and how you 
 communicate it and the values that are setting, I wonder what about, for 
-example, career letters? How do you see them? Do you have like titles to do is, 
+example, career letters? How do you see them? Do you have like titles at ToDoist, 
 and if you have titles, what are, you know, how, how would you, how do you 
 advance your career? Is there a concept like that, that you're, you know, 
-getting more responsibility in promotions and how does that work had to do list.
+getting more responsibility in promotions and how does that work at ToDoist.
 **Amir:** [00:28:46] Oh, you know, you touch a very, like a very present topic. 
-Like this is something that'd be a booking on right now. And honestly, like we 
-have booked on this for like almost two years. And the problem for us is like, 
+Like this is something that we're working on right now. And honestly, like we 
+have worked on this for like almost two years. And the problem for us is like, 
 we don't really want to add regular career paths. Like we are 80 people right 
 now. And it just like, feels very wrong to do like the regular, like things that 
 most companies do, because I think it kind of creates like this higher 
@@ -423,12 +422,12 @@ So we have like Gonzalo who's our CTO. Then we have heads and this can be like
 head of iOS. And then we basically Easter, which is basically like the. Like 
 everybody else. And we have about 80 people. And honestly like this, this feels, 
 this feels like the, the right, uh, approach for like our culture and the Attos 
-of the, of twist itself.
+of the, of Doist itself.
 But, you know, we still want to come like have a system where people can grow 
 and like, you know, mastery for us is very, very critical. Like personal growth 
 is very critical. This is like why we invest. Like so much into like these 
-personal dues and, you know, think about it. Like we, like every year we invest 
-about 80 bucks months of just like personal improvements for people.
+personal Dues and, you know, think about it. Like we, like every year we invest 
+about 80 months of just like personal improvements for people.
 And I don't think many companies do this, but of course, like we kind of like 
 want to have it like this career paths, but it should really be focused on like 
 mastering something and helping people grow and not like all of this, like 
@@ -438,7 +437,7 @@ Yeah. So this is kind of my input. Like it's a very, it's a very, a sensitive
 subject inside a company. Honestly, we have been like, we, I think on the 
 revision for like, we call it career paths, version four, we have not rolled 
 this out yet because we are not kind of like, sure how to do this. So we have 
-not really found like this Hellyer solution where we are just like, you know, 
+not really found like this healthier solution where we are just like, you know, 
 this makes a lot of sense, like this.
 You know, and this fits the company that we want to build in the culture we want 
 to build a, yeah. So I hope, you know, at some point we will find this and, you 
@@ -470,7 +469,7 @@ people manager. I'm getting a higher salary than people that are doing
 individual work.
 I think it's also like float, especially like in our industry. So we did like, 
 and you also should not really force people, you know, to go into the, these 
-like areas, for instance, like people management, very, maybe it's not really 
+like areas, for instance, like people management, where, maybe it's not really 
 your strength, you know, a lot of people don't don't have that strangle doesn't 
 have the passion, um, for this, I mean, honestly for me, myself, like I would 
 also say like, you know, I like to work a lot more with systems than like, 
