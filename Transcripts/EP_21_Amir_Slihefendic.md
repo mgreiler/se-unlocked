@@ -496,25 +496,25 @@ you have like similar dedication also to engineering values? Do you have, like
 that defined in, in this very clear way, do you have revisions of that? Do you 
 reflect as a company on the engineering values that you have?
 What means engineering rigor? For example, for us, what is, what is a very high 
-quality code base? How do we, you know, how do we. I get to that space and 
+quality code base? How do we, you know, how do we get to that space and 
 things like that. And what are your thoughts about engineering rigor and values 
 in that space? 
 **Amir:** [00:35:19] I mean, that's a great question again, you know, and 
-honestly, like something, we have been very bad that during our history is kind 
+honestly, like something, we have been very bad at during our history is kind 
 of not focusing too much on that.
 And this becomes like a really big issue once you grow and you have like, you 
 know, a lot more people, a lot more systems. I'll look more code. Like if you 
 don't have like the core value set, if you don't have the core practices set, 
 then it basically becomes like a wild, wild West. And that's where I feel like 
 we have actually slacked off and not really prioritize this enough.
-So like the CTO and engineering team are actually like doing this clean up now. 
+So like our CTO and engineering team are actually like doing this clean up now. 
 Where we are based like, you know, like for instance, like setting like a 
 handbook for engineering, where we have like all of the like processes 
 documented where we have like core value set, like, you know, what do we value 
 from the engineering standpoint?
 And like, like company values, like you can value everything and you also like 
-need to like prioritize stuff. So for instance, like if performance is. A core 
-value. You know, it has some impact on other stuff it's testing is a core value 
+need to like prioritize stuff. So for instance, like if performance is a core 
+value. You know, it has some impact on other stuff, if testing is a core value 
 then like you're probably be slower to actually develop stuff and to ship stuff.
 So you can like have two core values are kind of like a competing these other 
 like phrase, like ship fast and, you know, like, Test a lot. Like those things 
@@ -526,14 +526,14 @@ engineering organization to prioritize then some other stuff. And I think this
 is something that we have improved a lot. Like at last, at least for the last 
 year is kind of like code linting and like the tools are getting like really 
 ridiculous, a good they're like this, like in a code review, like you should 
-never go in and about like  because code stats should be dictated by tools and 
-not like.
-Humans. So that's again, I think they can actually automate. So that's what we 
-do right now. And we are also like automated testing. So for instance, like you 
-kind of really push on the front end without having the test suite passed. So it 
+never go in and comment about like code stats because code stats should be 
+dictated by tools and not like Humans. So that's again, I think they can 
+actually automate. So that's what we do right now. And we are also like 
+automated testing. So for instance, like you kind of really push on the 
+frontend without having the test suite passed. So it 
 also like, you know, makes the code review much easier because you know, you're 
 not even going to be able to create like a pull request if the code does not 
-pass.
+really pass.
 So, so I think like, honestly, there's a lot of that you can do there. And right 
 now you're just like, are trying to become a better testing in general, like 
 automating testing a lot and doing it like also on the front end client side 
@@ -554,25 +554,25 @@ is number one? And what's this number two and things like that. One thing that
 you touched on a little bit, but I wanted to ask you before I let you go, is how 
 do you keep the code base up to date?
 I imagine like when you first started working on this code base, is, is that 
-still, is that. Code still part of to do is for example, at the moment, or have 
+still, is that. Code still part of ToDoist for example, at the moment, or have 
 you changed the code base completely? Have you thrown away old versions of the 
 software system and how do you keep it, you know, up to date modern and also 
 maintainable?
 **Amir:** [00:39:41] Yeah, I think I can tell you, like, you know, I coded a lot 
-of the early stuff myself and especially like for instance, on the front end, 
-Like most of our code was based at custom Java script and extra. I created like 
+of the early stuff myself and especially like for instance, on the frontend, 
+Like most of our code was based at custom Javascript and extra. I created like 
 our own JavaScript library to, to do that. And that is basically like a very, 
-very like bad that code base, because it's basically very outdated and you have 
+very like bad code base, because it's basically very outdated and you have 
 like much, much nicer tools right now, uh, to solve like the issues.
-For instance, he's a great example, Redux. On just like an architecture level. 
-So for instance, on the front end team, what we have done is basically we have 
-re written everything to react and Redux, and we actually still, like, we have 
+For instance, React is a great example, Redux. On just like an architecture level. 
+So for instance, on the frontend team, what we have done is basically we have 
+re-written everything to React and Redux, and we actually still, like, we have 
 some, some parts are still missing, but that's basically what we had done.
 And there's still some code that I have written long time ago there, but, you 
 know, it's very minimal and I'm very happy about that. And the, the. Like it's 
-just much more maintainable, especially with a much larger theme. Yeah. On the 
-backend, I think, yeah. We have actually done a averse job. Like we have not 
-innovative enough or like moved away enough or adopted like betta like 
+just much more maintainable, especially with a much larger team. Yeah. On the 
+backend, I think, We have actually done a averse job. Like we have not 
+innovative enough or like moved away enough or adopted like better like 
 obstructions and systems.
 So that, that is, is I think more problematic. And honestly, I think in social, 
 like much harder to. Like rewrite all like redo the abstraction layer on the 
@@ -582,33 +582,33 @@ like, migrate like millions or for us, it's like hundreds of millions of
 projects, you know, billions of tasks.
 It becomes very, very unmanageable. And like each migration, like if we want to 
 do a schema update, you know, it takes days to do that. So it's not like as fast 
-to actually evolve the backend as it is to evolve the front end. And I think 
+to actually evolve the backend as it is to evolve the frontend. And I think 
 this, this is holding us back and the team is kind of like fighting with this on 
 a daily basis.
 And what we are currently trying to do right now on the backend is kind of like. 
 Rewrite our models from scratch and then basically migrate our old data to the 
 new models instead of like this constant, like patching of like broken 
-obstructions, because I think that is not,  a good way forward. Yeah. 
+obstructions, because I think that is not, a good way forward. Yeah. 
 **Michaela:** [00:42:12] Yeah, I can, I can see how that it's, as you said, it's 
-easier on the front end because you have less dependencies and less 
+easier on the frontend because you have less dependencies and less 
 comparability issues than on the backend.
 So I would like to ask you a couple of questions too, to wrap that episode of 
 that people actually ask me on Twitter to ask you. And so one question was now 
 that we have, especially with this pandemic, even more companies are somehow 
 even forced into remote work. Right. And they're relying on synchronous 
 communication platforms like Slack.
-And teams now twist is this SRM Chris, um, communication platform. How can we 
-envisioned that? What does this mean? How does the communication work with, for 
-example, twist and, and what are your thoughts about those two differences in 
-the way of communicating with each 
-**Amir:** [00:43:04] other? Yeah, I mean, it's a good question.
+And teams now Twist is this asynchronous, um, communication platform. How can we 
+envision that? What does this mean? How does the communication work with, for 
+example, Twist and, and what are your thoughts about those two differences in 
+the way of communicating with each other?
+**Amir:** [00:43:04] Yeah, I mean, it's a good question.
 And honestly, like that's something that we find very broken in. The current 
 culture is kind of like this real time focus. And, you know, we have been part 
 of this ourselves. Like we were one of the early adopters of Slack and we think 
 like this creates, you know, much more stressful environments and actually 
 produce much worse, like cooled or designs or products.
 So that's why we kind of are very focused on like this asynchronous way and like 
-focusing more on deeper work than this shallow work that is promoted. Yeah. And 
+focusing more on deep work than this shallow work that is promoted. Yeah. And 
 honestly, like most of the current companies are not really focused on this and 
 we think it's a huge error. So, you know, what kind of implications this will 
 have?
@@ -618,9 +618,9 @@ the default way. Like I think they will outperform a team. That's basically
 stressed out. That is basically chit chatting all day long and just like doing 
 shallow work and shallow solutions most of the time.
 So that's at least how we think about it's like, it's a huge, competitive 
-advantage, especially when you combine like a singer first, most of us like that 
-you can actually hire great people from anywhere in the world. Then it becomes 
-like a seagull competitive advantage. 
+advantage, especially when you combine like asynchronous first,remote first
+like that can actually hire great people from anywhere in the world. Then 
+it becomes like a significant competitive advantage. 
 **Michaela:** [00:44:39] Is that one of the things that I was really happy when 
 I left my corporate job was that I don't, I'm not forced to be part of those 
 instant synchronous communication that completely over overflowed my buffer more 
@@ -641,10 +641,11 @@ working in a very different way than if you're no, actually that, you know, it
 might take four hours until you get a reply from somebody. But I think it 
 creates for the person that's not interrupting.
 It creates a lot of space and a lot of. As you said, deep work opportunities. 
-And so this is really cool. So there's the last question that I want to ask you. 
-And I think a lot of my listeners want to know is how do we get, I had a job at 
-Jewish, right. So I think it's one of those companies. And I think you've talked 
-about it before that you're getting a lot of applications.
+And so this is really cool. So there's the last question Amir that I want to 
+ask you. And I think a lot of my listeners want to know is how do we get, 
+job at Doist, right. So I think it's one of those companies. 
+And I think you've talked about it before that you're getting a 
+lot of applications.
 And so what are some of the things that you're looking for in a potential 
 employee and a person that you would like to have join your team? What are some 
 of the skills, the trades personality that you're looking forward, where you 
@@ -653,18 +654,18 @@ think, well, this is actually a good fit for our company.
 And honestly, I think something that we are very fortunate about as a company is 
 kind of like this remote first aspect, you know, we can hire people from 
 anywhere. And usually like when we actually do a job posting, we get like 
-thousands of applicants. Uh, so actually getting into this is really, really 
+thousands of applicants. Uh, so actually getting into Doist is really, really 
 difficult at this current time.
 Of course, like it may change as like more like these huge companies are moving 
-to. Remote territory. And what do we look inside for a person? I mean, honestly, 
+into Remote territory. And what do we look inside for a person? I mean, honestly, 
 like, first of all, it's really like important that they are very passionate 
 about the problems that we solve. So instance, like, you know, organizations and 
 team communication, like you really need to be passionate about that.
-That's one aspect, another lesson it's like really, we really love people that 
+That's one aspect, another aspect it's like really, we really love people that 
 are kind of like really great. They craft and really focused on the growth 
-Sullivan. Like the best people we have a hired are conscious. Like. You know, 
+so like the best people we have a hired are conscious. Like. You know, 
 uh, they grow a lot and they are really focused on like mastering their, their 
-crops.
+crafts.
 I turned, maybe it's also like, like really loving, like what you do. And a lot 
 of our developers for instance, have done like personal projects, open source 
 projects on the side. And this for us, it's got like a great indicator that 
@@ -674,8 +675,8 @@ And even myself, like, you know, I have done open source projects and I also
 have published my VMRC on GitHub. So I think this is also like a very important 
 aspect of the general culture is kind of like, you know, We really love what we 
 do and we want to become like really, really great at it. Yeah. So I, you know, 
-those were like maybe treats tips I could share.
-**Michaela:** [00:48:42] Yeah. Okay, thank you so much. Well, I mean, we are at 
+those were like maybe three tips I could share.Yeah.
+**Michaela:** [00:48:42] Okay, thank you so much. Well, Amir I think we are at 
 the end of this, um, interview, I was really happy that you have been here on my 
 show. Is there something that you would like my listeners to know? Maybe, um, I 
 will link obviously your website. I will link your Twitter, but is there 
@@ -684,14 +685,15 @@ something else that you wanted to share with my audience before we wrapping up?
 I hope staying safe and, uh, yeah, it also seems like the, the problems, at 
 least in Europe are getting better while some other places are getting worse. So 
 yeah, I hope everybody's safe. And the, if you want, uh, I think the best way to 
-actually stay connected with me is we at sweeter, I'm a quite a regular user.
+actually stay connected with me is at Twitter, I'm a quite a regular user.
 And also like if you have any other like specific questions here, You know, 
-welcome to ad tech, me and I will try to respond to it. 
+welcome to and tag me and I will try to respond to it. 
 **Michaela:** [00:49:35] Okay. Thank you so much. So enjoy the rest of your day. 
 I'm here. Thank you so much for joining my show. 
-**Amir:** [00:49:41] Thank you for having me. It was a pleasure. Yeah. Thank 
-you. 
-**Michaela:** [00:49:45] Bye bye. I hope you enjoyed another episode after sup 
-engineering unlocked podcast.
-Don't forget to subscribe. And I talked to you again in two weeks. 
-**Amir:** [00:49:57] Bye.
+
+**Amir:** [00:49:41] Thank you for having me. It was a pleasure. Yeah. Yeah.
+**Michaela:** [00:49:45] Thank you.Bye bye. I hope you enjoyed another episode 
+of software engineering unlocked podcast.
+Don't forget to subscribe. And I talk to you again in two weeks. 
+Bye.
+
