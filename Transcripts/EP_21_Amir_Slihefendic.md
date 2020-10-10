@@ -19,7 +19,7 @@ I also linked both in a description, but now let me welcome Amir,
  thank you so much for being on my show. 
 **Amir:** [00:01:08] It's a pleasure. Yeah. 
 **Michaela:** [00:01:11]  I'm here. 
-One of the questions that I wanted to ask you since, 
+**Michaela:** [00:01:11]  Amir, one of the questions that I wanted to ask you since, 
 you know, forever is why and how do you actually start Doist, and I know you 
 talked about this a lot, but I would like to know a little bit about this moment 
 that you, you know, You're working for example, you're doing your computer 
@@ -695,4 +695,3 @@ you.
 engineering unlocked podcast.
 Don't forget to subscribe. And I talked to you again in two weeks. 
 **Amir:** [00:49:57] Bye.
-
