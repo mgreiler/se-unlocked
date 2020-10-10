@@ -17,7 +17,7 @@ reviews. So if you want to read what I write and follow the process, sign up
 on michaelagreiler.com/code-review-book/ , and follow me on Twitter.
 I also linked both in a description, but now let me welcome Amir, 
  thank you so much for being on my show. 
-**Amir:** [00:01:08] It's our pleasure. Yeah. I'm here. 
+**Amir:** [00:01:08] It's a pleasure. Yeah. 
 **Michaela:** [00:01:11]  I'm here. 
 One of the questions that I wanted to ask you since, 
 you know, forever is why and how do you actually start Doist, and I know you 
@@ -695,5 +695,4 @@ you.
 engineering unlocked podcast.
 Don't forget to subscribe. And I talked to you again in two weeks. 
 **Amir:** [00:49:57] Bye.
-
 
