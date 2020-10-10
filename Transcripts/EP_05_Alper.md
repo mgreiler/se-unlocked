@@ -1,96 +1,103 @@
 # Transcript Episode 5 Alper Koc
 
+(Intro music)
+
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked
-podcast. I'm your host, dr. McKayla. And today I have the pleasure to be talking 
-to Alper Kemmal Koc, who is a software engineer at a startup in Turkey called 
-Kiuka. Kuika helps use us to be more active, efficient than building mobile 
-apps. It's a low code solution so that users can build mobile apps based on 
-already implemented building blocks.
-Alpine has been there right from the start. He was the first engineer on the 
-team experiencing the whole start of life cycle from working on the initial idea 
-and implementing the prototype to working with the first customers and getting 
-his hands dirty, helping the company succeed. So there's tons to talk about 
-today.
-I'm really happy that Alper you're here. Welcome. 
+podcast. I'm your host, Dr. Michaela, and today I have the pleasure to be talking
+to Alper Kemmal Koc, who is a software engineer at a startup in Turkey called
+Kuika. Kuika helps users to be more efficient in building mobile apps. It's a
+low code solution so that users can build mobile apps based on already
+implemented building blocks.
+Alper has been there right from the start. He was the first engineer on the team,
+experiencing the whole startup life cycle from working on the initial idea, and
+implementing the prototype, to working with the first customers and getting his
+hands dirty, helping the company succeed. So there's tons to talk about today.I'm
+really happy that Alper, you're here. Welcome to the show.
 
-**Alper:** [00:00:43] Yeah. Thank you. Thank you for having time for me. 
+**Alper:** [00:00:43] Yeah. Thank you. Thank you for having time for me.
 
-**Michaela:** [00:00:47] Well, maybe that started with, how did you come to work 
-at a startup? Why did you choose that path and what led you there? 
+**Michaela:** [00:00:47] Well, maybe let's start with, how did you come to work
+at a startup? Why did you choose that path and what led you there?
 
-**Alper:** [00:00:54] As, as like most engineers, we, most of us like Greenfield 
-projects. So startups usually give it the chance for that.
-And, uh, I have always worked in relatively smaller companies. They were either 
-startups or they used to be startups and they're just in the next, next phase. 
-Quaker was when Quaker was studying. I was living in Holland. And our founder is 
-someone I knew already before. And he said, if I wanted to join, I said, yeah, I 
-liked the idea.
-And I always liked startups anyways. So, uh, I moved back to Turkey for this 
-actually in the 2015. And I've been working here since then. So 
-**Michaela:** [00:01:31] have you been one of the first engineers on that 
-project? 
-**Alper:** [00:01:34] Indeed, I am. I am the employee number one. I, yeah, I 
-have been a. I have been doing the whole architecture and then we have been, it 
-was just two of us at the beginning for like a couple months.
-Then we hired two more engineers and it was just four of us. We did only a 
-research and development for, I think, almost 20 months or something. And if you 
-were making all the technical decisions or architectural decisions and 
-technology choice, everything. So I have been deeply involved since 
-**Michaela:** [00:02:06] the beginning.
-So I imagine that this friend of yours comes with this idea to have this low 
-code platform and then you're like fire for it. And then you start really from 
-scratch, understanding if it's even feasible, what you're going to do and what 
-your requirements are for that. 
-**Alper:** [00:02:23] Yes, indeed. Our founder is a martial, correct?
-It's been in the army. So he knows the field. He had seen this opportunity every 
-time they are building software projects. Most of the time you're repeating the 
-same problems, able to software engineer is solving most of the time and did 
-their thing a lot of times. So. We thought like, yeah, why don't we just wrap 
-those up in, in some ready components?
-And the engineer really focuses on the business requirements, but not the, all 
-the hassle around it, so they can just focus on the requirements. They just 
-built their user interface and you'll get the app. 
-**Michaela:** [00:03:02] And when you start out with this idea, how do you 
-decide on which technologies you should use? 
-**Alper:** [00:03:08] I think for the first month we did a lot of research.
-We looked into all the popular technologies back then and let me put it this 
-way. There were two sides to the research. First of all, we were going to build 
-the tool. That generates tools, that generates apps. So we did research on both 
-sides. So what should be the technology of the tool itself or the platform 
-itself and what kind of technology and apps should be producing and, uh, on the 
-ant products site.
-So what we generate, we decided to go with hybrid technologies, for example, So 
-we wouldn't get into the problem of producing code for both Android and iOS. So 
-that was like one, one decision we made and the popular technology back then 
-was, was ironic. But it's still this. But I think it was only version one back 
-then.
-And, and we kind of did some reverse engineering. So that was, that was one fun 
-part of it. We didn't build our tool before we were about it. We picked up a 
-scenario. We actually built a mobile app. That's. You know, nice to use, easy to 
-build. And from there we went back. So we, we talked like, okay, what should we 
-do to produce this deuce, this code, 
-**Michaela:** [00:04:28] assuming that first year actually produced your use 
-case.
-And then you produced a tool that would produce that. 
-**Alper:** [00:04:35] Yes, exactly. So we had the app at the beginning, like on 
-the, on the first month or second month that we never use, but it would be kind 
-of what our customers would, would want. Or what they would be aiming to build 
-with, with Quaker. So that kind of dictated the decisions we made.
-**Michaela:** [00:04:54] And did you change some of the initial ideas that you 
-had on the tech stack? So did some of the technologies change over time? 
-**Alper:** [00:05:01] I definitely did. At the beginning, we had this 
-architecture, like we had a lot of backend code. We had a lot of C sharp.net. 
-And we had a, we had a, to your architecture that architecture never would 
-change, but the emphasis like the focus where most of the intellectual property 
-lies has changed a little bit, because we were focusing on a lot on, on, on, on 
-implementing the business, go on the back with C sharp.net.
-But. And that was kind of slowing us down a little bit. And, and at some point 
-you saw, okay. JavaScript is giving us a little bit more power and a little bit 
-more opportunities. So just naturally all by itself, it kind of, we kind of 
-switched our focus to the, to the JavaScript and front end site. That doesn't 
-mean we change architecture.
-Architecture has always been the way it is, but, um, I mean the, the most of the 
-business logic that's been implemented is shifted a little bit. 
+**Alper:** [00:00:54] Well, as, as like most engineers, we, most of us like
+greenfield projects. So startups usually give the chance for that. And, uh,
+I have always worked in relatively smaller companies. They were either startups
+or they used to be startups and they're just in the next, next phase. Kuika was,
+uh, when Kuika was starting I was living in Holland. And our founder is someone
+I knew already before. And he said, if I wanted to join, I said, yeah, I liked
+the idea. And I always liked startups anyways. So, uh, I moved back to Turkey
+for this actually in the 2015. And I've been working here since then.
+
+**Michaela:** [00:01:31] So have you been one of the first engineers on that
+project?
+
+**Alper:** [00:01:34] Indeed, I am. I am the employee number one. I, yeah, I
+have been, um, I have been doing the whole architecture and then we have been,
+it was just two of us at the beginning for like a couple months.Then we hired two
+more engineers and it was just four of us. We did only research and development
+for, I think, almost 20 months or something. And if you were making all the
+technical decisions or architectural decisions and technology choice, everything.
+So I have been deeply involved since the beginning.
+
+**Michaela:** [00:02:07] So I imagine that this friend of yours comes with this
+idea to have this low code platform and then you're like fire for it. And then
+you start really from scratch, understanding if it's even feasible, what you're
+going to do and what your requirements are for that project.
+
+**Alper:** [00:02:23] Yes, indeed. Our founder is much more experienced than me,
+so he knows the field. He had seen this opportunity every time they are building
+software projects. Most of the time you're repeating the same problems that every
+software engineer is solving most of the time, and did that thing a lot of times.
+So, we thought like, yeah, why don't we just wrap those up in, in some ready
+components? And the engineer really focuses on the business requirements, but not
+the, all the hassle around it, so they can just focus on the requirements. They
+just build their user interface and you'll get the app.
+
+**Michaela:** [00:03:02] And when you start out with this idea, how do you
+decide on which technologies you should use?
+
+**Alper:** [00:03:08] Well, I think for the first month we did a lot of research.
+We looked into all the popular technologies back then, and let me put it this
+way, there were two sides to the research. First of all, we were going to build
+the tool that generates tools, that generates apps. So we did research on both
+sides. So what should be the technology of the tool itself, of the platform
+itself, and what kind of technology and apps should be producing. And, uh, on the
+end product side, so what we generate, we decided to go with hybrid technologies,
+for example.
+So we wouldn't get into the problem of producing code for both Android and iOS. So
+that was like one, one decision we made and, and the popular technology back then
+was, was Ionic. But it still is. But I think it was only version one back then.
+And, and we kind of did some reverse engineering. So that was, that was one fun
+part of it. We didn't build our tool, we forget about it. We picked up a scenario.
+We actually built a mobile app. That's, you know, nice to use, easy to build. And
+from there we went back. So we, we talked like, okay, what should we do to produce
+this code.
+
+**Michaela:** [00:04:28] So you mean that first you actually produced your use
+case. And then you produced a tool that would produce that use case.
+
+**Alper:** [00:04:35] Yes, exactly. So we had the app at the beginning, like on
+the, on the first month or second month that we never use, but it would be kind
+of what our customers would, would want. Or what they would be aiming to build
+with, with Kuika. So that kind of dictated the decisions we made.
+
+**Michaela:** [00:04:54] And did you change some of the initial ideas that you
+had on the tech stack? So did some of the technologies change over time?
+
+**Alper:** [00:05:01] It definitely did. At the beginning, we had this
+architecture, like we had a lot of backend code. We had a lot of c# .net. And we
+had a, we had a, multitier architecture. That architecture never change, but the
+emphasis like the focus where most of the intellectual property lies has changed
+a little bit, because we were focusing a lot on, on, on, on implementing the
+business logic on the back with c# .net.
+But, and that was kind of slowing us down a little bit. And, and at some point
+you saw, okay, JavaScript is giving us a little bit more power and a little bit
+more opportunities. So just naturally all by itself, it kind of, we kind of
+switched our focus to the, to the JavaScript and front end site. That doesn't
+mean we change architecture. Architecture has always been the way it is, but, um,
+I mean the, the, most of the business logic that's been implemented has shifted
+a little bit.
+
 **Michaela:** [00:06:03] Okay. And so maybe to give our listeners also some idea 
 how old is that startup? Right now, we 
 **Alper:** [00:06:09] started in September, 2015. So, uh, in two months, it's 

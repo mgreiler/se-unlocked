@@ -15,11 +15,11 @@ workshops are then in August, And in the coming month I will focus completely on
 writing the code review book and doing some original research around code 
 reviews. So if you want to read what I write and follow the process, sign up 
 on michaelagreiler.com/code-review-book/ , and follow me on Twitter.
-I also linked both in a description, but 
-**Amir:** [00:01:04] now let me welcome Amir. I'm here. 
-**Michaela:** [00:01:05] I mean, it's thank you so much for being on my show. 
-**Amir:** [00:01:08] It's our pleasure. Yeah. I'm here. 
-**Michaela:** [00:01:11] One of the questions that I wanted to ask you since, 
+I also linked both in a description, but now let me welcome Amir, 
+ thank you so much for being on my show. 
+**Amir:** [00:01:08] It's a pleasure. Yeah. 
+**Michaela:** [00:01:11]  I'm here. 
+**Michaela:** [00:01:11]  Amir, one of the questions that I wanted to ask you since, 
 you know, forever is why and how do you actually start Doist, and I know you 
 talked about this a lot, but I would like to know a little bit about this moment 
 that you, you know, You're working for example, you're doing your computer 
@@ -690,10 +690,10 @@ And also like if you have any other like specific questions here, You know,
 welcome to and tag me and I will try to respond to it. 
 **Michaela:** [00:49:35] Okay. Thank you so much. So enjoy the rest of your day. 
 I'm here. Thank you so much for joining my show. 
+
 **Amir:** [00:49:41] Thank you for having me. It was a pleasure. Yeah. Yeah.
 **Michaela:** [00:49:45] Thank you.Bye bye. I hope you enjoyed another episode 
 of software engineering unlocked podcast.
 Don't forget to subscribe. And I talk to you again in two weeks. 
 Bye.
-
 
