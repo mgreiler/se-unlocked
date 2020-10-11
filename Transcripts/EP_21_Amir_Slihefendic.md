@@ -1,4 +1,5 @@
-Amir Salihefendic_Ready
+# Transcript Episode 21 with Amir Salihefendic
+
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to
 Amir Salihefendić. Amir is the founder and CEO of Doist. Doist is the  
