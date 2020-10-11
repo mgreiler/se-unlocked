@@ -1,5 +1,4 @@
-# Transcript Episode 21 with Amir Salihefendic
-
+Amir Salihefendic_Ready
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to
 Amir Salihefendić. Amir is the founder and CEO of Doist. Doist is the  
@@ -10,16 +9,15 @@ And that's exactly why I'm following the company. And also Amir's work already
 for years. Not only does he promote a remote work culture, but he also stands 
 behind a more meaningful and self control worklife. But before I welcome Amir, I wanted
 to invite you to become an early access reader of some of my draft 
-chapters for my poetry book.
-Sooner, but give my last, could you workshop before my summer break. My next 
+chapters for my code-review book.
+Sooner I'll give my last code-review workshop before my summer break. My next 
 workshops are then in August, And in the coming month I will focus completely on 
 writing the code review book and doing some original research around code 
 reviews. So if you want to read what I write and follow the process, sign up 
 on michaelagreiler.com/code-review-book/ , and follow me on Twitter.
 I also linked both in a description, but now let me welcome Amir, 
- thank you so much for being on my show. 
+Amir thank you so much for being on my show. 
 **Amir:** [00:01:08] It's a pleasure. Yeah. 
-**Michaela:** [00:01:11]  I'm here. 
 **Michaela:** [00:01:11]  Amir, one of the questions that I wanted to ask you since, 
 you know, forever is why and how do you actually start Doist, and I know you 
 talked about this a lot, but I would like to know a little bit about this moment 
@@ -30,7 +28,7 @@ time? somewhere Employee? Why do you go and create your own company, your own
 project? Why do you work on your own problem? 
 **Amir:** [00:01:46] Yeah. I mean, it's a very interesting question. And 
 honestly, like I think I would probably be a very bad employee, so that's like, 
-you know, I remember actually, you know, like some people they grow up and they 
+you know, I never actually, you know, like some people they grow up and they 
 think like their dream is kind of like join this mega Corp.
 And for me, that was never really the dream. Like for me, the dream is this 
 pretty cool stuff, doing it, like in a way that it's kind of compatible with. You 
@@ -51,14 +49,15 @@ myself, I don't really like, always has interest for me is kind of creating
 stuff.
 So, and I think actually like if you're starting out and you want to create your 
 own company, then like, You know, creating your own company is the easy set. Uh, 
-the much hottest step is kind of like finding something that you want to work 
+the much harder step is kind of like finding something that you want to work 
 on. And maybe also much more productive step is kind of just like being 
 passionate about a problem and trying to solve that problem before you actually 
 create the company.
 So that's at least like for me, that has been, the journey is kind of like. You 
 know, finding the problem, solving the problem, and then afterwards creating a 
-company around it. Everything companies have like a same journey, especially if 
-you go from my God, you know, software. A developer too, like a company builder.
+company around it. I think a lot of companies have like a same journey, 
+especially if you go from my God, you know, software. A developer too, 
+like a company builder.
 That's usually the journey that is common. Like for instance, like the founder 
 of Dropbox did a very similar thing. Yeah. 
 **Michaela:** [00:04:10] So one of the reasons why I'm so fascinated by your 
@@ -69,7 +68,7 @@ that you, you know how to become a market leader in 10 years.
 I really liked that very much. And also this, this idea of. Balance and 
 ambition, right? Because very often I'm also a little bit involved in a
 bootstrap and indie hacker community. And, and a lot of people want the success
-overnight, right. It's from, from I'm starting today and the new year, I want
+overnight, right. It's from, from I'm starting today and in a year, I want
 to have this really successful company.
 And then there you are with, with product, I think. That a lot of people would 
 love to make and, and you made it to be a market leader, but it's not overnight. 
@@ -114,7 +113,7 @@ do some better work. Yeah. So, so I hope I kinda answered this and like this
 kind of like mindset is very uncommon in our industry. Like a lot of people they 
 want, you know, overnight success. They want, like, you know, short-term
 thinking of like short some project that can basically make your wealthy.
-But the one I'm thinking about Scott, like, okay, if I need to work on this for 
+But the one I'm thinking about is like, okay, if I need to work on this for 
 like 30 years, you know, then, or 40 years or 50 years, you know, it becomes 
 like a very different mindset that you go into this and also like a very 
 different timeline. Yeah. 
@@ -122,7 +121,7 @@ different timeline. Yeah.
 or ToDoist is that you're actually profitable.
 Right? And so I think this was also one of the things that you had in your mind 
 very early on to have this profitable business that you are not. Really, 
-depending on the funding of others. But when was the time that you got to this 
+depending on funding of others. But when was the time that you got to this 
 point of profitability? Was that, was it immediately, or did you invest like a 
 year or two before, you know, ToDoist was actually bringing in some, some 
 revenue that you could actually live off and sustainably build that product. 
@@ -130,7 +129,7 @@ revenue that you could actually live off and sustainably build that product.
 Yeah. So basically it took me about like six months to actually create like a 
 business model for, for ToDoist and actually like, make it profitable. So it may 
 bigs either beginning, like you just covered the center costs, but you know, it 
-was all were already profitable for me because I was just like a student and 
+was all very, already profitable for me because I was just like a student and 
 like it, and to me some money on the side, but I, before I actually started to 
 work full time on ToDoist, it took me almost four years.
 Where it was just like a side project. Yeah. And I would definitely not 
@@ -146,10 +145,10 @@ then like creating like a sustainable business for yourself and for your team.
 Yeah. So that at least would be my recommendation in this regard.
 **Michaela:** [00:10:00] So one of the things that I always also admire is this 
 foundation of you call it balance and ambition. And I'm for example, a very, 
-very ambitious person. And I really admire balance. I'm really not very good in 
-getting it into my life.
+very ambitious person. And I really admire balance. I'm really, I am not very 
+good in getting it into my life.
 Somehow I always feel like a little bit defeated by my own ambition. And so I 
-noted you were talking a lot about like the, the wellbeing of your employees and 
+noted you talking a lot about like the, the wellbeing of your employees and 
 that, you know, they should be healthy and they should eat well, and there 
 should be enough time and flexibility and things like that. How are you as a 
 person?
@@ -158,7 +157,7 @@ life. Do you feel that you are having this balance between ambition and, you
 know, relaxation or as a, as a CEO, you're more on this, you know, stressed and 
 ambitious side. 
 **Amir:** [00:10:53] Yeah. I mean, the thing is like, I have actually tried to 
-just be focused on the ambition and it was actually like, I have co-found on 
+just be focused on the ambition and it was actually like, I have co-founded
 another company, a social network where I almost got like burned out because 
 there was basically a zero balance.
 You know, I worked all the time. I was based like a train wreck, but like in 
@@ -171,26 +170,25 @@ all the time.
 But I think actually it's like, it's not, I don't think it's actually more 
 productive. I think like the people that are actually happy and, you know,  
 satisfied in real life will produce better work and especially better work, like 
-in long term. So that's something that really bad you focused on. And I 
+in long term. So that's something that really beg you focused on. And I 
 think it was like, we can learn something from like athletes on this.
-Like if you look at some of like athlete, for instance, like Federer
+Like if you look at some program of like athlete, for instance, like Federer
 or whoever else. Like, they're not playing tennis all the time or like their 
 sports all the time. They are playing, like in intervals where, you know, they 
 go in and they train or play and then they relax and recharge. And I think like, 
-it's the same thing with like mental work is like, you can't work all the 
-time.
+it's the same thing with like mental work is like, you can't be on all the time.
 You need to actually have like off switch and be able to disconnect or else 
 like you will burn out or like you won't really perform that well. Yeah. 
-So that's at least how I think about this. And especially, you know, like, can 
-we do isn't factory work? You know, it's, it's very creative and you actually 
-need to have like peak performance that it's like really great.
+So that's at least how I think about this. And especially, you know, like the
+work that we do isn't factory work? You know, it's, it's very creative and 
+you actually need to have like peak performance that it's like really great.
 It's not about like, you know, grinding it out like 14 hours per day. Like maybe 
 you, if you had like three hours where you could like, you know, Create a great 
 algorithm or create a great solution. It's much better spend like 14 hours 
 just like, you know, banging on a keyboard or whatever else, like, yeah. So, 
 so that's at least like the mindset I have when I go into this and why I 
 think like ambition and balance is important.
-I mean, this said like, you know, I'm a super ambitious. Person as well. And a 
+I mean, this said like, you know, I'm a super ambitious person as well.And a
 lot of people actually mistake are like ambition and balanced to think that it's 
 kind of a relaxed environment or that we don't expect the best out of people 
 like we do. And, but we think actually like you reach the best by, you know, 
@@ -230,7 +228,7 @@ know, they play some games or whatever else, like they do to kind of relax or
 see some shows.
 But for me, like the best is kind of like to actively like do something. And 
 that kind of switches my mind off, like when I'm in a football match, you know, 
-I don't really think about like the, the work stuff or the same thing as like, 
+I don't really think about like the, the work stuff or the same thing is like,
 when I'm in a park playing with my son. Like, I don't really think about the 
 work stuff.
 **Michaela:** [00:16:05] So one of the things that I'm very, very passionate 
@@ -245,10 +243,11 @@ different because of this as a asynchronous communication, for example?
 combine that with like asynchronous first communication.
 So it means like we don't actually chat chit chat all day long, but like we use, 
 you know, long form of communication, mostly of course, like we do some meetings 
-here and there, but like most of our communication is written. And , this is 
-kind of like, I think the ideal situation to create like really great software.
+here and there, but like most of our communication is written, like in long form.
+This is kind of like, I think the ideal situation to create like really great 
+software.
 Yeah. And so that's the first step, and I think there's like multiple layers to 
-this. So first of all, you know, I love the problems that we handle in software 
+this. So first of all, you know, a lot of the problems that we handle in software
 is very, very hard. So, you know, like if you ping me about like really on 
 Slack, for instance, or Microsoft teams about a really hard problem, like, it's 
 very unlikely that I will just be able to answer it right away.
@@ -258,7 +257,7 @@ sleep on it, then may at least likely that you will come up with a much better
 like solution to the problem. So that's kind of like the work that we promote, 
 this kind of deep work.
 Ability to like really focus on hard problems and solve them. And also like do 
-this friends, like pull requests. I think an amazing invention that makes this 
+this , like pull requests. I think an amazing invention that makes this 
 much, much easier to do. And I think it creates much better code and much better 
 systems. So I hope I can like answer this in like a very holistic way.
 **Michaela:** [00:18:17] So especially code reviews are one of my favorite 
@@ -290,14 +289,14 @@ current flows. And also something we use is like we use Twist, which is also
 asynchronous communication.
 As kind of like a glue between like Git and Github. So for it's like, if you want 
 to ping somebody about like a pull request or an issue, like you would basically 
-do that on twist and then, you know, they will go to hit, get up to, you know, 
+do that on twist and then, you know, they will go to hit Github,you know, 
 solve the issue, like look at the specific problem or whatever else.
 Uh, yeah. So I still think you kind of like need to another layer. Like a lot of 
 teams use Slack. Like we don't. So like our stack is mostly like asynchronous 
 and this helps a lot. Yeah. 
 **Michaela:** [00:20:53] Yeah, Twist is definitely something I want to talk 
 with you about. Well, it's sort of very similar to it's a communication 
-platform, so yeah, similar to Slack, but has a different focus, right?
+platform, similar to Slack, but has a different focus, right?
 So it's really designed for asynchronous communication instead of synchronous 
 chats. And so what was your idea behind Twist? Why did you come up with this 
 idea and why? Why go for a very. For this broad problem of communication and 
@@ -339,13 +338,13 @@ have like a designer, something Junius in them, maybe a support person or
 marketing person.
 And they are basically like self sufficient that they can actually go in and 
 solve the whole problem space, like from, from start to finish and deliver that. 
-And then apart from like these neck squats that are assembled, we also have like 
+And then apart from like these dynamic squats that are assembled, we also have like 
 teams, so reserved. The iOS team is I think, seven people.And the Android team.
-And then we have backend and from then, and, you know, basically they're, 
+And then we have backend and frontend and, you know, basically they're, 
 they're kind of like focusing more on like the holistic view of the code basis. 
 Yeah. So that's kind of how we work. And then we also have something called 
-internal Dues, which is based like team specific. We call them Dues, but you 
-always got projects that, for instance, like iOS-14 is an upcoming due and 
+internal Dues, which is based like team specific. We call them Dues, which is based 
+on projects that, for instance, like iOS-14 is an upcoming Due and 
 it's only affecting the iOS team and they basically have like some, a person 
 allocated.
 Sometimes it can also have the two persons allocated for that. And apart from 
@@ -356,8 +355,8 @@ something to our product.
 Um, for instance, like our, one of our designers did like internet for Doist. 
 Where he based like designed and coded everything in the cycle and, you know, so 
 that's how we work. And I think really this is probably a very unique way. And 
-I, I at least, I don't know many things the dude like, like we did, but yeah, I 
-really liked this structure.
+I, I at least, I don't know many that do it like, like we did, but yeah, I 
+really like this structure.
 And of course, like it has some pros and cons, but in general, like, we are very 
 happy about how we do this. 
 **Michaela:** [00:25:34] So how I imagine when you're describing it, how I 
@@ -371,7 +370,7 @@ for example deliver, does this go through the final approval by you or by, you
 know, a team of owners or something like that, or is that completely, um, 
 independent from, from start to end?
 **Amir:** [00:26:21] Yeah. I mean, honestly, like we don't have like final 
-approval. We actually don't really have a lot of like hierarchy inside this, but 
+approvals. We actually don't really have a lot of like hierarchy inside this, but 
 I mean, for instance, like something that's like very critical for us is kind of 
 like code reviews are also just like, you know, design reviews getting input 
 from, from others is kind of like the alpha and beta testing.
@@ -379,10 +378,9 @@ You know, so, so, so before, like something gets out, like it will get like a
 lot, a lot of eyes on it and a lot more like the feedback will be given to a 
 specific thing. So usually, you know, like when we are ready to release 
 something, like it's usually very rock solid and it has been like true. A lot of 
-like, like a review, right.
-Testing periods. Yeah. 
+like, like a review and testing periods. Yeah. 
 **Michaela:** [00:27:06] And so can I imagine that, for example, for the code 
-reviews, you would have like a squad and under squad, there is one developer or 
+reviews, you would have like a squats and under squat , there is one developer or 
 maybe two developers, but they are getting code reviews from other squats, or is 
 that always within the same squat? How do you, how do you do that? 
 **Amir:** [00:27:21] Yeah, so, so basically they will get like reviews from the 
@@ -391,7 +389,7 @@ So for instance, like if I'm an iOS engineer and I do like boards, Then like
 boards get reviewed by, you know, somebody else inside the iOS team. And maybe 
 it would be like multiple people, like over a time span. And so that's how we 
 do it. I think like the beauty of this is kind of like that you have a lot of 
-collaboration and you also have like a lot of insights input coming from other 
+collaboration and you also have like a lot of insights and input coming from other 
 people that are maybe not fully into like the, the problem space that you're 
 solving.
 And it also means that a lot of more people who actually know the code base 
@@ -403,7 +401,7 @@ Yeah.
 **Michaela:** [00:28:17] So when I look at your company culture and how you 
 communicate it and the values that are setting, I wonder what about, for 
 example, career letters? How do you see them? Do you have like titles at ToDoist, 
-and if you have titles, what are, you know, how, how would you, how do you 
+and if you have titles, what are, you know, how, how do you, how do you 
 advance your career? Is there a concept like that, that you're, you know, 
 getting more responsibility in promotions and how does that work at ToDoist.
 **Amir:** [00:28:46] Oh, you know, you touch a very, like a very present topic. 
@@ -411,11 +409,11 @@ Like this is something that we're working on right now. And honestly, like we
 have worked on this for like almost two years. And the problem for us is like, 
 we don't really want to add regular career paths. Like we are 80 people right 
 now. And it just like, feels very wrong to do like the regular, like things that 
-most companies do, because I think it kind of creates like this higher 
+most companies do, because I think it kind of creates like this high
 hierarchal structure where you have like these fancy titles and like people, you 
-know, wanting to advance.
-The titles, but maybe not really, you know, their skills or like their 
-contribution or whatever else that that is maybe more important, like a title. 
+know, wanting to advance their titles, but maybe not really, you know, 
+their skills or like their contribution or whatever else that that is 
+maybe more important than , like a title. 
 Yeah. So, so right now, honestly, like we don't really have any titles, so we 
 have like, Yeah, we have three titles. So we have like a CXO, which is basically 
 a C level person.
@@ -424,7 +422,7 @@ head of iOS. And then we basically Easter, which is basically like the. Like
 everybody else. And we have about 80 people. And honestly like this, this feels, 
 this feels like the, the right, uh, approach for like our culture and the Attos 
 of the, of Doist itself.
-But, you know, we still want to come like have a system where people can grow 
+But, you know, we still want to like have a system where people can grow 
 and like, you know, mastery for us is very, very critical. Like personal growth 
 is very critical. This is like why we invest. Like so much into like these 
 personal Dues and, you know, think about it. Like we, like every year we invest 
@@ -465,16 +463,16 @@ become, you know, a manager for example, and do very different things.
 It's interesting concept, a little bit strange concept as well. How do you think 
 about that? 
 **Amir:** [00:32:49] I'm dead is so spot on. And that's definitely how we think 
-about it as well is, and honestly, I think it was like the status of like a 
-people manager. I'm getting a higher salary than people that are doing 
+about it as well is, and honestly, I think it was like the status of like  
+becoming a people manager. I'm getting a higher salary than people that are doing 
 individual work.
 I think it's also like float, especially like in our industry. So we did like, 
-and you also should not really force people, you know, to go into the, these 
+and you also should not really force people, you know, to go into these 
 like areas, for instance, like people management, where, maybe it's not really 
-your strength, you know, a lot of people don't don't have that strangle doesn't 
+your strength, you know, a lot of people don't don't have that strength don't
 have the passion, um, for this, I mean, honestly for me, myself, like I would 
 also say like, you know, I like to work a lot more with systems than like, 
-People issues.
+people issues.
 So even for myself, like it's not really my strength to be like this, you know, 
 like people like only managing people. So that's why I actually still do some, 
 some coding on the side because like, I would just find my job very, very 
@@ -504,7 +502,7 @@ in that space?
 honestly, like something, we have been very bad at during our history is kind 
 of not focusing too much on that.
 And this becomes like a really big issue once you grow and you have like, you 
-know, a lot more people, a lot more systems. I'll look more code. Like if you 
+know, a lot more people, a lot more systems, a lot more code. Like if you 
 don't have like the core value set, if you don't have the core practices set, 
 then it basically becomes like a wild, wild West. And that's where I feel like 
 we have actually slacked off and not really prioritize this enough.
@@ -518,7 +516,7 @@ need to like prioritize stuff. So for instance, like if performance is a core
 value. You know, it has some impact on other stuff, if testing is a core value 
 then like you're probably be slower to actually develop stuff and to ship stuff.
 So you can like have two core values are kind of like a competing these other 
-like phrase, like ship fast and, you know, like, Test a lot. Like those things 
+like phrase, like ship fast and, you know, like, test a lot. Like those things 
 are probably like in, you know, in conflict with each other. Maybe that's not a 
 best example, but you know, like, I'm pretty sure, like you can find some core 
 values that are kind of like in conflict with each other.
@@ -526,7 +524,7 @@ So you have to pick very carefully, like, you know, what do you want your
 engineering organization to prioritize then some other stuff. And I think this 
 is something that we have improved a lot. Like at last, at least for the last 
 year is kind of like code linting and like the tools are getting like really 
-ridiculous, a good they're like this, like in a code review, like you should 
+ridiculous good they're like this, like in a code review, like you should 
 never go in and comment about like code stats because code stats should be 
 dictated by tools and not like Humans. So that's again, I think they can 
 actually automate. So that's what we do right now. And we are also like 
@@ -535,17 +533,18 @@ frontend without having the test suite passed. So it
 also like, you know, makes the code review much easier because you know, you're 
 not even going to be able to create like a pull request if the code does not 
 really pass.
-So, so I think like, honestly, there's a lot of that you can do there. And right 
-now you're just like, are trying to become a better testing in general, like 
-automating testing a lot and doing it like also on the front end client side 
-teams. Which is historically much more difficult than like the backend.
+So, so I think like, honestly, there's a lot of stuff that you can do there.
+And right now you're just like, are trying to become a better testing in 
+general, like automating testing a lot and doing it like also on the 
+frontend client side teams. Which is historically much more 
+difficult than like the backend.
 Yeah. And I wouldn't say like, we are perfect at this. Like we are just starting 
 out, but I can definitely see like this being like a major competitive advantage 
 and just, you know, have the ability to kind of create much better systems and 
 much better products in the end. And, you know, that's what it's about.
 **Michaela:** [00:38:36] Yeah, I'm a really big believer that if you have very 
 clear engineering values, like you have very clear company values, those really 
-shaped your processes, your culture in your company, and shaped very much also 
+shape your processes, your culture in your company, and shaped very much also 
 your product. And as you said, there are, you know, people want to have all the 
 values. Like I want to be good in everything, right.
 But you have to prioritize and this shapes and. Shapes really how, how you 
@@ -562,7 +561,7 @@ maintainable?
 **Amir:** [00:39:41] Yeah, I think I can tell you, like, you know, I coded a lot 
 of the early stuff myself and especially like for instance, on the frontend, 
 Like most of our code was based at custom Javascript and extra. I created like 
-our own JavaScript library to, to do that. And that is basically like a very, 
+our own JavaScript library too, to do that. And that is basically like a very, 
 very like bad code base, because it's basically very outdated and you have 
 like much, much nicer tools right now, uh, to solve like the issues.
 For instance, React is a great example, Redux. On just like an architecture level. 
@@ -575,10 +574,10 @@ just much more maintainable, especially with a much larger team. Yeah. On the
 backend, I think, We have actually done a averse job. Like we have not 
 innovative enough or like moved away enough or adopted like better like 
 obstructions and systems.
-So that, that is, is I think more problematic. And honestly, I think in social, 
-like much harder to. Like rewrite all like redo the abstraction layer on the 
-backend because on the front end, like, you know, you do something, it just 
-affects one client on the backend to a refactoring. And suddenly you need to 
+So that, that is, is I think more problematic. And honestly, I think its much
+more harder to. Like rewrite or like redo the abstraction layer on the 
+backend because on the frontend, like, you know, you do something, it just 
+affects one client.On the backend to a refactoring. And suddenly you need to 
 like, migrate like millions or for us, it's like hundreds of millions of 
 projects, you know, billions of tasks.
 It becomes very, very unmanageable. And like each migration, like if we want to 
@@ -593,17 +592,17 @@ obstructions, because I think that is not, a good way forward. Yeah.
 **Michaela:** [00:42:12] Yeah, I can, I can see how that it's, as you said, it's 
 easier on the frontend because you have less dependencies and less 
 comparability issues than on the backend.
-So I would like to ask you a couple of questions too, to wrap that episode of 
+So I would like to ask you a couple of questions to wrap that episode up
 that people actually ask me on Twitter to ask you. And so one question was now 
 that we have, especially with this pandemic, even more companies are somehow 
 even forced into remote work. Right. And they're relying on synchronous 
-communication platforms like Slack.
-And teams now Twist is this asynchronous, um, communication platform. How can we 
+communication platforms like Slack And Teams ,now Twist is this asynchronous, 
+um, communication platform. How can we 
 envision that? What does this mean? How does the communication work with, for 
 example, Twist and, and what are your thoughts about those two differences in 
 the way of communicating with each other?
 **Amir:** [00:43:04] Yeah, I mean, it's a good question.
-And honestly, like that's something that we find very broken in. The current 
+And honestly, like that's something that we find very broken in the current 
 culture is kind of like this real time focus. And, you know, we have been part 
 of this ourselves. Like we were one of the early adopters of Slack and we think 
 like this creates, you know, much more stressful environments and actually 
@@ -613,21 +612,22 @@ focusing more on deep work than this shallow work that is promoted. Yeah. And
 honestly, like most of the current companies are not really focused on this and 
 we think it's a huge error. So, you know, what kind of implications this will 
 have?
-I think our Sydney, because if you have one team that can actually solve really 
+I think our significant, because if you have one team that can actually solve really 
 hard problems that can deep work really. And the deep, deep work is kind of like 
 the default way. Like I think they will outperform a team. That's basically 
 stressed out. That is basically chit chatting all day long and just like doing 
 shallow work and shallow solutions most of the time.
 So that's at least how we think about it's like, it's a huge, competitive 
 advantage, especially when you combine like asynchronous first,remote first
-like that can actually hire great people from anywhere in the world. Then 
+like you can actually hire great people from anywhere in the world. Then 
 it becomes like a significant competitive advantage. 
 **Michaela:** [00:44:39] Is that one of the things that I was really happy when 
 I left my corporate job was that I don't, I'm not forced to be part of those 
 instant synchronous communication that completely over overflowed my buffer more 
 or less.
 Right. So I was completely stressed out that I cannot, you know, Keep up because 
-I like to read everything and so possible, and you have all these interruptions. 
+I like to read everything and this is not possible, and you have all 
+these interruptions. 
 So this was definitely something that I'm really happy that I don't have to use, 
 you know, Slack channels. I don't have to keep, you know, keep this pressure off 
 being up to date.
@@ -636,20 +636,20 @@ looking at my emails only at certain times during the day, because I didn't
 want, you know, to, to be distracted all the time. So yeah, I can, I can also 
 see how that this deep work culture and this mindset of, you know, that you, you 
 don't interrupt the other person all the time and they are not there.
-It's a way of, of rethinking can your work day, right? If you're, if you're rely 
+It's a way of, of rethinking your work day, right? If you're, if you're rely 
 on that, that somebody is. Responding within the next five minutes, you're 
 working in a very different way than if you're no, actually that, you know, it 
 might take four hours until you get a reply from somebody. But I think it 
 creates for the person that's not interrupting.
 It creates a lot of space and a lot of. As you said, deep work opportunities. 
 And so this is really cool. So there's the last question Amir that I want to 
-ask you. And I think a lot of my listeners want to know is how do we get, 
+ask you. And I think a lot of my listeners want to know is how do we get a
 job at Doist, right. So I think it's one of those companies. 
 And I think you've talked about it before that you're getting a 
 lot of applications.
 And so what are some of the things that you're looking for in a potential 
 employee and a person that you would like to have join your team? What are some 
-of the skills, the trades personality that you're looking forward, where you 
+of the skills, the traits , the personality that you're looking forward, where you 
 think, well, this is actually a good fit for our company. 
 **Amir:** [00:46:39] Yeah. I mean, that's a, that's a good question.
 And honestly, I think something that we are very fortunate about as a company is 
@@ -660,10 +660,10 @@ difficult at this current time.
 Of course, like it may change as like more like these huge companies are moving 
 into Remote territory. And what do we look inside for a person? I mean, honestly, 
 like, first of all, it's really like important that they are very passionate 
-about the problems that we solve. So instance, like, you know, organizations and 
+about the problems that we solve. So instance, like, you know, organization and 
 team communication, like you really need to be passionate about that.
-That's one aspect, another aspect it's like really, we really love people that 
-are kind of like really great. They craft and really focused on the growth 
+That's one aspect, another aspect is like really, we really love people that 
+are kind of like really great at their craft and really focused on the growth 
 so like the best people we have a hired are conscious. Like. You know, 
 uh, they grow a lot and they are really focused on like mastering their, their 
 crafts.
@@ -690,11 +690,10 @@ actually stay connected with me is at Twitter, I'm a quite a regular user.
 And also like if you have any other like specific questions here, You know, 
 welcome to and tag me and I will try to respond to it. 
 **Michaela:** [00:49:35] Okay. Thank you so much. So enjoy the rest of your day. 
-I'm here. Thank you so much for joining my show. 
-
-**Amir:** [00:49:41] Thank you for having me. It was a pleasure. Yeah. Yeah.
+Amir, thank you so much for joining my show. 
+**Amir:** [00:49:41] Thank you for having me. It was a pleasure. Yeah.
 **Michaela:** [00:49:45] Thank you.Bye bye. I hope you enjoyed another episode 
 of software engineering unlocked podcast.
-Don't forget to subscribe. And I talk to you again in two weeks. 
+Don't forget to subscribe. And I talk'll to you again in two weeks. 
 Bye.
 
