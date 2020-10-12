@@ -8,7 +8,7 @@ remote work, and software development practices at his startup.
 
 I'm super thrilled for this awesome third episode. I hope you enjoy it. If you 
 like it, support my work by spreading the word. Tell your friends about the 
-podcast shar it on Twitter, LinkedIn, and Facebook. I promise I will do a happy 
+podcast share it on Twitter, LinkedIn, and Facebook. I promise I will do a happy 
 dance each time you do it. 
 
 Today, I have the pleasure to talk to Sandeep Panda, the founder and CEO of 
@@ -879,5 +879,4 @@ code reviews. I am looking forward to reading them on Hashnode. Thanks a lot.
 
 **Michaela:** [00:51:16] I hope you enjoyed another episode of the Software Engineering Unlocked 
 Don't forget to subscribe. And I talked to you again in two weeks. Bye.
-
 
