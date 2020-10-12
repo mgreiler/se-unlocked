@@ -1,11 +1,11 @@
 # Transcript Episode 2 Cassidy Williams
 
-**Michaela:** [00:00:00] Hello, and welcome to this summer engineering and luck 
+**Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, dr. McKayla and I open the doors to software companies 
 and thought leaders around the world. Today I speak with Cassidy Williams about 
-how it is to work remotely for code pen, partying, and actively used software 
+how it is to work remotely for CodePen, partying, and actively used software 
 from one technology to another.
-How and why she brings humor into Tai and how she handles all his side projects. 
+How and why she brings humor into tech and how she handles all his side projects. 
 I'm super thrilled for his awesome first episode. I hope you enjoy it. If you 
 like it, support my work by spreading the word. Tell your friends about this 
 podcast shared on Twitter, LinkedIn, Facebook. I promise you. I will do a happy 
