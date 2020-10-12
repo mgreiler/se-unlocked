@@ -27,7 +27,7 @@ team of six running, a friendly and inclusive community for engineers.
 Are you a self-taught developer or did you go to university? 
 
 **Sandeep:** [00:01:22] So I studied computer science for four years, uh, from 
-2009 to 2013. And that kind of, uh, give me the post to become an engineer and 
+2009 to 2013. And that kind of, uh, give me the boost to become an engineer and 
 learn coding. While I started a lot of things in the college I am mostly a 
 self taught engineer when it comes to using latest technologies and the tools that 
 we use right now. I taught myself all those tools and technologies. 
