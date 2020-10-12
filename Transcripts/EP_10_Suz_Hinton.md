@@ -880,9 +880,9 @@ insightful chat about it.
 we've talked a lot about very different topics areas. So if we want to reach 
 you, we can go on Twitch. Well, how do I find you there? 
 **Suz:**: [00:56:32] Yeah. So in most social media, my, um, username or handle 
-is Noah Katz or new Paquette. You can pronounce it any way you like, and that's 
+is NoopKat or new Paquette. You can pronounce it any way you like, and that's 
 N double O P K a T.
-Um, and so I am twitch.tv/new cat. And on Twitter, I am twitter.com/new cat as 
+Um, and so I am twitch.tv/noopkat. And on Twitter, I am twitter.com/noopkat as 
 well. 
 **Michaela:**: [00:56:51] Yeah, I will link everything in the show notes so that 
 people can find you. Thank you so much for showing me, you know, your work and 
