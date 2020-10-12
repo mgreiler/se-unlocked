@@ -24,7 +24,7 @@ And beside that, I'm the founder of the company called Hashnode and we are a
 team of six running, a friendly and inclusive community for engineers. 
 
 **Michaela:** [00:01:16] So how did you become a developer? What was your way?
-Are yourself taught developer or did you go to University? 
+Are you a self-taught developer or did you go to university? 
 
 **Sandeep:** [00:01:22] So I studied computer science for four years, uh, from 
 2009 to 2013. And that kind of, uh, give me the post to become an engineer and 
@@ -879,4 +879,3 @@ code reviews. I am looking forward to reading them on Hashnode. Thanks a lot.
 
 **Michaela:** [00:51:16] I hope you enjoyed another episode of the Software Engineering Unlocked 
 Don't forget to subscribe. And I talked to you again in two weeks. Bye.
-
