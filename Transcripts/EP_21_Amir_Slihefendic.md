@@ -170,7 +170,7 @@ all the time.
 But I think actually it's like, it's not, I don't think it's actually more 
 productive. I think like the people that are actually happy and, you know,  
 satisfied in real life will produce better work and especially better work, like 
-in long term. So that's something that really beg you focused on. And I 
+in long term. So that's something that I really value you focused on. And I 
 think it was like, we can learn something from like athletes on this.
 Like if you look at some program of like athlete, for instance, like Federer
 or whoever else. Like, they're not playing tennis all the time or like their 
@@ -326,8 +326,8 @@ the thing about Doist is kind of like, we do stuff a lot differently than most
 others, and we are always like, you know, trying to think from the first 
 principles is just instead of just like copying others, of course, like we have 
 tried to copy others.
-It almost always not, does not really work for some reason. It's just this as a 
-base. Like our structure is very unique in terms of how we work. And it's also 
+It almost always not, does not really work for some reason.  So, so a base(??)
+like our structure is very unique in terms of how we work. And it's also 
 like, I think from that side, it might sound a bit insane. So basically, like we 
 have dynamic squats that are assembled and reassembled every month.
 Like depending on sometimes they are running for multiple months and we call 
@@ -418,7 +418,7 @@ Yeah. So, so right now, honestly, like we don't really have any titles, so we
 have like, Yeah, we have three titles. So we have like a CXO, which is basically 
 a C level person.
 So we have like Gonzalo who's our CTO. Then we have heads and this can be like 
-head of iOS. And then we basically Easter, which is basically like the. Like 
+head of iOS. And then we basically have Doisters, which is basically like 
 everybody else. And we have about 80 people. And honestly like this, this feels, 
 this feels like the, the right, uh, approach for like our culture and the Attos 
 of the, of Doist itself.
