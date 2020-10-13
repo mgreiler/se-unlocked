@@ -78,6 +78,7 @@ GitHub, how do I connect to design infrastructure?
 So I'm actually getting UI components from you that I can then reuse or just, 
 you know, you sort of out of the box. That's how I would imagine it, but I'm not 
 sure if, if that's the correct. Understanding. 
+
 **Diana:** [00:04:46] Yeah. That that's the happy path for sure. Like that's what we 
 hope the experience will be. So I think, you know, I'm working on the front end.
 Yeah. Get herb is likely to interact with the design system, which is called 
@@ -97,6 +98,7 @@ So how to like guidelines on how to implement and, and then, yeah, probably code
 review in NPR.
 It's like we review a lot of this sort of. Sort of PRS that tension UI 
 implementation, basically. 
+
 **Michaela:** [00:06:11] Okay. And so from, from an organizational point of view, 
 the hierarchy and how divisions are located, is it that, you know, you have like 
 design infrastructure is their own thing where, you know, I imagine a lot of 
@@ -105,6 +107,7 @@ And on the other hand, you have like the engineering teams and then. The
 engineering teams just interact with the infrastructure or is it more that in 
 the engineering teams, they are also designers and they connect to the, to the 
 design infrastructure team. 
+
 **Diana:** [00:06:45] Yeah, that's it. That's a great question. So on my team, I 
 have both designers and engineers, and so the engineers tend to work on the, the 
 actual UI components in our different implementations on like things like the 
@@ -121,6 +124,7 @@ product design team and product designers tend to work in. And squats with PMs
 and, and engineers in the engineering org.
 So it's kind of like a sort of a matrix set up, really. So we're our own org. We 
 also work with a lot of other product teams, basically. 
+
 **Michaela:** [00:08:06] Very cool. And so, well, one of my favorite topics called 
 reviews. So for example, let's imagine we have to improve the code review 
 experience for who and how. Would designers be part of that.
@@ -132,6 +136,7 @@ really how it looks like people would implement it.
 Like the engineers would implement it. And then the buttons, the components we 
 will really pull out from infrastructure. Is that right? Is that how I would 
 imagine it, or how would that work? 
+
 **Diana:** [00:08:54] That's, I'm fairly close to, I think how we work, I'll add a 
 little bit more fidelity to that. So, I mean, I think that it's often easy to 
 think of design is sort of, you know, pushing pixels, but really designers are 
@@ -164,6 +169,7 @@ work really closely with product designers so that we get that feedback about
 what, what the system needs to cover, how to evolve it.
 And so it's really great to have those contributions from, from product 
 designers and engineers working outside the team as well. So. Yeah, 
+
 **Michaela:** [00:11:24] and it sounds really amazing. One question has popped in my 
 head when you were talking about, you know, having all these engineers, you have 
 the product designers, maybe product managers, you have a lot of internal.
@@ -177,6 +183,7 @@ And how do you do that? Like, do you do user studies, do you ask really larger?
 Do you have studies with larger numbers participants? They are, that are coming 
 from outside that you ask, you know, how to improve the system, or how does that 
 work? How does that process work? 
+
 **Diana:** [00:12:19] Yeah. Yeah. So you, right. It's kind of great to like, be able 
 to use, get hub, to build, get hub.
 Our team is like, Kind of particularly fortunate because of the fact, then we 
@@ -205,11 +212,13 @@ allows us to get like direct, written feedback from customers. We also have a,
 like a maintain is great that we can have like discussions with. And then 
 sometimes we'll like, If there's particular individuals or groups or companies 
 you want to talk to, then we might reach out more directly to them.
+
 **Michaela:** [00:14:22] Yeah. One of the things that you. Talk or passionate about 
 is inclusive design. So what is exactly inclusive design and, well, I think a 
 little bit, it plays into what you just talked about. So how, how, how do you 
 make sure at GitHub that, you know, your design doesn't leave out large parts or 
 even small parts of, of, you know, the, your user base.
+
 **Diana:** [00:14:46] Yeah, good question. I think that's a good question. Lots of 
 times though, because they were all kinda questions. I think the best way that I 
 can think of to describe why I like the framing of inclusive design, is it, is 
@@ -246,6 +255,7 @@ that we increasingly have to think about how do we, where do we, where is it
 important for us to give customers the more about the actual, like sort of core 
 experiences get hub? And I say, I think inclusive design is a really important 
 part of that.
+
 **Michaela:** [00:17:36] Yeah. Somehow I can see how, if we start thinking about 
 that we come into this or we could fall into this trap of, you know, a hundred 
 different decides, right? So one, one person is a power user and they want all 
@@ -259,6 +269,7 @@ How are you approaching that? What's your philosophy behind that, right? Like if
 you want to have, yeah. Novice people work with GitHub and also advanced people 
 have all the power with the features that are available, but without, you know, 
 overwhelming somebody that isn't very often on GitHub or not using everything.
+
 **Diana:** [00:18:39] Yeah, it, I mean, I'm not, I don't think that there's like a 
 three step process to sort of figuring that out. It's, it's a thing that we, 
 that is challenging and that we have to keep working at. I think the, some of 
@@ -272,6 +283,7 @@ get hubs UI because they can't find where things are.
 And I think, you know, we've got, we have scaled the product and we've added 
 more features and we have made that experience more difficult in places than it 
 should be. So that's definitely something that we. We are working on right now. 
+
 **Michaela:** [00:19:37] I really like this idea of making everybody feel like an 
 expert, because there are so many different ways.
 These are so many questions. I met so many goals that you could have, right. 
@@ -282,6 +294,7 @@ system.
 And the question that you could ask yourself. I mean, if you achieve it, this is 
 another question, but I think it's a very good, it's a very good goal to have a 
 really like that. 
+
 **Diana:** [00:20:08] Yeah. Yeah. And I think it's like thinking about not having 
 anything, be a barrier to like core interactions and like having those power 
 features that think that is a bonus almost to the experience.
@@ -308,6 +321,7 @@ to operations that you want to do, like really frequently. I think those are the
 sort of like, Things that you want to make an add on and not get in the way of 
 the core experience.
 If that makes sense. 
+
 **Michaela:** [00:22:00] Yeah. Yeah, definitely. And I mean, one of the things that 
 came to my mind when you, he said, well, make everybody feel like an expert, and 
 this is really a tiny thing, but it's one of the first things that if you go to 
@@ -325,6 +339,7 @@ talked a lot about design systems already without really introducing it.
 And yeah, I have a lot of my listeners and myself, we are engineers. Uh, so can 
 you explain it a little bit? What are design systems and you know, how do we use 
 them? Why do we need them? And yeah. 
+
 **Diana:** [00:23:10] Yeah. Um, gay question again. Um, so I would type that like a 
 lot of engineers who are working on the front end interact with design systems 
 or have, have some awareness, but basically a design system is, you know, 
@@ -358,6 +373,7 @@ example.
 And so it really, yeah, there's a, you know, systems are kind of like, Assistant 
 a system of systems. There's like many parts to it. There's a rambling answer. 
 But did that, did that cover it? 
+
 **Michaela:** [00:25:44] Yeah. Yeah. And well, especially from the last part, what I 
 got is that, so how you started having all these little individual units, right?
 Each button is a unit. Each input field is a unit, and then you say, well, it's 
@@ -375,6 +391,7 @@ through three pages or something like that.
 And so, so it gets more and more. On one hand complex, but on the other hand, a 
 little bit more mature. Is that, is that what you experienced at GetApp over the 
 time? 
+
 **Diana:** [00:26:50] Yeah, I think it's largely to do with scale. So saying, yeah, 
 it, you know, you have to start somewhere, so hopefully it does get more mature 
 you as you grey the system, but as get hub has.
@@ -385,6 +402,7 @@ flexibility. And now we need to sort of have more constraints and sort of larger
 pieces of the system sort of plugged together and a lot less variation.
 So that means we're sort of choosing to reduce some flexibility in places where 
 the, the, the value of flexibility doesn't really pay off, if that makes sense. 
+
 **Michaela:** [00:27:41] And so. One of my question that comes to my mind. If you're 
 talking about something like that is how does technical debt of for example, 
 legacy code, right?
@@ -394,6 +412,7 @@ rethought what people actually want or how, you know, how to the UI should look
 like, but now we have this system and it's in so many places. How do you.
 How do you change that over time? How do we evolve a design system when you work 
 with older parts of the system? 
+
 **Diana:** [00:28:18] Yeah, a lot of refactoring, but I think, I think like, like at 
 the point of a system is to be built from enabling change, um, in my mind. And 
 so it's actually, once you have some part of a system it's easier to make bigger 
@@ -444,10 +463,9 @@ sort of dark corners that we've missed and they sort of smaller UI bugs along
 the way.
 So even with like visual refreshes and we still are able to like prioritize and 
 break things up incrementally. 
+
 **Michaela:** [00:32:13] Yeah. That's really cool. So. You're talking a lot about 
-refactoring. And 
-**Diana:** [00:32:17] when I hear 
-**Michaela:** [00:32:18] I'm thinking about tests, that's the first thing that I was 
+refactoring. And when I hear that, I'm thinking about tests, that's the first thing that I was 
 thinking about, like the safety net that you have with regression paths so that, 
 you know, you're not, you know, screwing something up.
 And, and another thing that comes to my mind is code reviews. Right. Or having 
@@ -460,6 +478,7 @@ systems, do you have like contributes or do you have like tests that you're,
 that you ran regression tests, automated tests and yeah.
 How would that look like for a refactoring of all of those iconic pages? I 
 imagined this is like high risk thing. So you don't want to break anything here. 
+
 **Diana:** [00:33:10] Yeah. I mean, honestly, like I think we're finding some gaps 
 in that we want to build more testing infrastructure so that we have a higher 
 level of confidence in that some of that testing can be a bit less manual.
@@ -501,6 +520,7 @@ managers, and get a sense of the experience that a customer might have. So,
 yeah, we have like regular design reviews code code review, like, like actually 
 three of the products, but also we do meet in person to talk through stuff as 
 well.
+
 **Michaela:** [00:36:11] Very interesting. Very interesting. I love to hear you 
 explain that to me. What about feature flags? I think probably with the user 
 base of GitHub, it's, it's really nice and very practical to use feature flags 
@@ -512,6 +532,7 @@ the other metrics that you are, for example, getting there probably depends on
 the under feature, but what are some of those common metrics that really are 
 insightful to help you understand whether or not there are some problems with, 
 with the design, with the, with the feature.
+
 **Diana:** [00:36:53] Yeah, so we, yes, we definitely use feature flags a lot. Yeah. 
 Like that's most of them development and.com is done behind a feature flag 
 because that gives us a level of safety because it enables us to roll, roll that 
@@ -521,8 +542,10 @@ of work behind that feature together.
 Um, and then sometimes we also use the feature preview function that I mentioned 
 earlier, which actually gives a way to, like, for your customers to like opt 
 themselves into that same feature flag, basically. 
+
 **Michaela:** [00:37:33] What are some of the, you know, what are some of the probes 
 that you're actually placing throughout your work too, to get some feedback?
+
 **Diana:** [00:37:42] Yeah. So we have a, we use feature flags more for, yeah. 
 Rolling out like a feature rather than something like an experiment. So we do 
 have a slightly different approach, even though I might be using some of that 
@@ -545,6 +568,7 @@ this out or in case we do need to roll it back. So yeah, it depends on the
 feature, but yeah, we, it would be a collaboration with, with products and with 
 data science, depending on what type of thing we would, we would changing 
 basically.
+
 **Michaela:** [00:39:24] Okay. Yeah. So maybe I want to switch a little bit the 
 gears. Talk about a different topic, which I'm really interested in. Um, and 
 that would be your experience in a, in a very remote first organization. Right? 
@@ -554,6 +578,7 @@ And I, I somehow feel, or imagine it quite tricky to be a manager and people
 manager in a remote set up. How do you experience that and how do you. How do 
 you get the opinion of everybody and how do you connect with people? What's 
 what's the new secret? 
+
 **Diana:** [00:40:06] I said, if I have a secret, I think it's a thing that is 
 challenging.
 I think GitHub is fortunate to have been like a remote distributed company from, 
@@ -603,6 +628,7 @@ like, have everyone together really celebrate the work that we're doing. So I
 think finding the opportunities for like a bit more human connection, it has 
 been a bit more important because we don't, we're not able to sort of meet in 
 person at the moment.
+
 **Michaela:** [00:43:48] Yeah. I actually see a lot of the things that you stress 
 here for remote work is something that's a very good mindset to have also for 
 your design systems, right. For the inclusive design. And so you have, I'm 
@@ -615,13 +641,18 @@ podcast, being on my show. It was really fantastic to talk with you. I could go
 on and on, but you have to, we have to stop at one point. So thank you so much 
 and yeah.
 Have a good day. Enjoy your day and hope to talk to you soon again. 
+
 **Diana:** [00:44:34] Yeah. Thank you so much. So I really enjoyed it and yeah, I 
 could keep going. So thank you very much for having me on the show. 
+
 **Michaela:** [00:44:43] Yeah. Wonderful. Okay. Bye bye. 
+
 **Diana:** [00:44:45] Bye. Bye. 
+
 **Michaela:** [00:44:47] I hope you enjoyed another episode after sup engineering 
 unlocked podcast.
 Don't forget to subscribe and I talk to you again in two. 
+
 **Diana:** [00:44:57] Bye.
 
 
