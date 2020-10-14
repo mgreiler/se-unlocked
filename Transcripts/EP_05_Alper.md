@@ -98,92 +98,96 @@ mean we change architecture. Architecture has always been the way it is, but, um
 I mean the, the, most of the business logic that's been implemented has shifted
 a little bit.
 
-**Michaela:** [00:06:03] Okay. And so maybe to give our listeners also some idea 
-how old is that startup? Right now, we 
-**Alper:** [00:06:09] started in September, 2015. So, uh, in two months, it's 
+**Michaela:** [00:06:03] Okay. And so maybe to give our listeners also some idea,
+how old is that startup right now?
+
+**Alper:** [00:06:09] We started in September 2015. So, uh, in two months, it's
 going to be exactly four years.
-**Michaela:** [00:06:16] And how mature is it 
-**Alper:** [00:06:19] for the first two years? We did only the research and on 
-our beginning of our second year, we released our product to our initial 
-customers. And it has been growing up since then. It, I think this kind of 
-project, it's difficult to say it's okay. It's now mature because we are.
-Generating apps, we're generating software and that, and the technology is 
-changing every day. So we always need to keep up to it. So it will probably 
-never going to be mature. But currently we have, I think, 15 customers, uh, we 
-are, um, we are capable of satisfying their needs. We have been building apps 
-with, with the platform.
-Those apps are, are live and being used in those companies right now. 
-**Michaela:** [00:07:08] Well, if you're developing software at a startup and 
-it's only you at the beginning, and then, you know, the team slowly grows well, 
-how do you grow in the same time, the software methodologies and the best 
-practices and things like that.
-Have you been conscious about that at the beginning? Or was there a very 
-different attitude when you're the research, then what you have now that you 
-actually have customers? Was there some 
-**Alper:** [00:07:31] shift. Through a lot of phases on that. And we have been, 
-we have been strict on that since day one. Uh, I was living in Holland before, 
-and I have been, I have experienced a lot of methodologies being implemented 
-that are strictly and, and tailored to the needs of the company, the 
-organization.
-So even from day one, the first thing we talked about, okay, what's our 
-methodology. How are we going to do this? Not what we are going to do it, but 
-like, okay, what's the point of the process and everything? Well, the first 
-month or two, it was just two of us that there wasn't much, um, methodology, 
-like a rule and stuff.
-But we were talking about once we grew, we said, okay, let's do let's look into 
-Asia. Let's look into scrum. Let's look into combine and how we can implement 
-those. And I think like every three, four months we changed the methodology or 
-we came up with a relatively different implementation of the methodology 
-ourselves, because our needs changed.
-At the very beginning, we were doing a lot of research. We were doing a lot of 
-experiments. It was not very easy to make estimations. It was not easy to make 
-longterm plans. Then we said, okay, here's a methodology. We are going to make 
-quarterly visionary goals and we are going to do combined. So, you know, we will 
-have goals and we will define the topics.
-And we are going to pick those up one by one. After we meet those goals in the 
-first quarter, let's say for the, for the next quarter or the next five, six 
-months, I don't know. We have a more clear path to go. So we can, we could 
-define what we are going to do. So we, we kept switching in between depending 
-what we need.
-At the time. And after two years we starting having customers. And that, that 
-brought us to a whole new world where we had to run projects, costumers, and, 
-and, and some of our customers didn't know, Oh, about those methodologies, or 
-you can not apply some of those methods to the project management within two 
-organizations.
-So we kind of, we kind of, um, Picked like we did some cherry picking from 
-different metadata and implemented something for every project or for our own 
-work here within, within our, within our 
-**Michaela:** [00:10:07] team. So one of the things that the stroke, when you 
-were talking about why and how you use different methodologies, she said, well, 
-I have been in the Netherlands before.
-So do you think that culturally there is a difference between the Netherlands 
-and for example, Turkey on how much, um, methodology, the driven organization, 
-software organizations are. 
-**Alper:** [00:10:30] Uh, I think there it is. Yeah. I haven't worked in 
-Germany, but what I have been hearing from France, Germany Holland, or the more 
-countries that aren't, that the more North you go being on time, like being 
-punctual and being strict about cleanse has more value.
-People appreciate that more, but, but the more East or South Tigo that's, that's 
-not yet. Well, it is still important, but not as Dante as much. That, that makes 
-a huge difference. And I moved to Holland and every standup meeting is so strict 
-on the same time. Say minutes, not one minute later, not one minute earlier, if 
-you're late, you miss it.
-Simple as that. But, uh, it is difficult to do it that strict here, here. So, so 
-there's definitely a difference in culture. 
-**Michaela:** [00:11:23] So it means that in Turkey, if the stand up, if two 
-people are a little bit late, it's normal, like five minutes later. 
-**Alper:** [00:11:31] Well, yeah, it's stumble. It's also one of the biggest 
-cities in the world.
-And one of considers that there's a lot of traffic problems, so people can be 
-late. And yeah. Also, if you're a small team, Yeah. Yeah. You don't want to, you 
-don't want to miss one person and then, you know, you can just say, yeah, you 
-missed today's stand up. So we made for like five, 10 minutes, 15 minutes to get 
-you.
-Yeah. You adjust to it. So 
-**Michaela:** [00:11:56] you're saying that, um, you looked a lot into different 
-methodologies. What about, for example, testing, has testing been a part of your 
-software engineering process from the beginning on, or is it just something that 
-now that you're getting customers more relevant? What's your experience there?
+
+**Michaela:** [00:06:16] And how mature is it?
+
+**Alper:** [00:06:19] Well, for the first two years we did only the research, and
+on our, beginning of our second year, we released our product to our initial
+customers. And it has been growing up since then. It, I think this kind of project,
+it's difficult to say, it's okay, it's now mature because we are generating apps,
+we're generating software and that, and the technology is changing every day. So
+we always need to keep up to it. So it will probably never going to be mature. But
+currently we have, I think around 15 customers, uh, we are, um, we are capable of
+satisfying their needs. We have been building apps with, with the platform. Those
+apps are, are live and being used in those companies right now.
+
+**Michaela:** [00:07:08] Well, if you're developing software at a startup and it's
+only you at the beginning, and then, you know, the team slowly grows, well how do
+you grow in the same time, the software methodologies and the best practices and
+things like that? Have you been conscious about that at the beginning, or was there
+a very different attitude when you did the research, than what you have now that
+you actually have customers? Was there some shift?
+
+**Alper:** [00:07:31] Well, we have been through a lot of phases on that. And we
+have been, we have been strict on that since day one. Uh, I was living in Holland
+before, and I have been, I have experienced a lot of methodologies being
+implemented that are, like, strictly and, and tailored to the needs of the company,
+the organization.
+So even from day one, the first thing we talked about, okay, what's our methodology?
+How are we going to do this? Not what we are going to do it, but like, okay, what's
+the point of the process and everything? Well, the first month or two, it was just
+two of us, that there wasn't much, um, methodology, like, uh, rules and stuff. But
+we were talking about once we grew, we said, okay, let's do, let's look into Agile.
+Let's look into Scrum. Let's look into Kanban and how we can implement those. And I
+think like every three, four months we changed the methodology, or we came up with
+a relatively different implementation of the methodology ourselves, because our
+needs changed.
+At the very beginning, we were doing a lot of research, we were doing a lot of
+experiments. It was not very easy to make estimations. It was not easy to make
+long-term plans. Then we said, okay, here's a methodology, we are going to make
+quarterly visionary goals, and we are going to do Kanban. So, you know, we will
+have goals and we will define the topics, and we are going to pick those up one
+by one.
+After we meet those goals in the first quarter, let's say for the, for the next
+quarter or the next five, six months, I don't know, we have a more clear path to
+go. So we can, we could define what we are going to do. So we, we kept switching
+in between depending what we need at the time. And after two years we starting
+having customers, and that, that brought us to a whole new world where we had to
+run projects with the customers, and some of our customers didn't know about those
+methodologies, or you cannot apply some of those methods to the project management
+within two organizations.
+So we kind of, we kind of, um, picked, like we did some cherry picking from
+different methodologies and implemented something for every project or for our own
+work here within, within our, within our team.
+
+**Michaela:** [00:10:08] So one of the things that, uh, stroke me when you
+were talking about why and how you use different methodologies, you said, well
+I have been in the Netherlands before. So do you think that culturally there is a
+difference between the Netherlands and for example, Turkey on how much, um,
+methodology-driven organizations, software organizations are?
+
+**Alper:** [00:10:30] Uh, I think there is. I haven't worked in Germany, but what
+I have been hearing from friends, like Germany, Holland, or the more, countries
+that are, the more North you go, being on time, like being punctual, and being
+strict about plans has more value. People appreciate that more.
+But, but the more East or South you go that's, that's not, yeah well, it is still
+important, but not as, not as much. That, that makes a huge difference. And I
+moved to Holland and every standup meeting is so strict on the same time. Say
+minutes, not one minute later, not one minute earlier, if you're late, you miss
+it. Simple as that.
+But, uh, it is difficult to do it that strict here, here. So, so there's definitely
+a difference in culture.
+
+**Michaela:** [00:11:23] So it means that in Turkey, if the stand up, if the
+people are a little bit late, it's normal, like five minutes later. <em>(laugh)<em>
+
+**Alper:** [00:11:31] <em>(laugh)<em> Well, yeah, Istanbul is also one of the
+biggest cities in the world, and one of the cities that there's a lot of traffic
+problems, so people can be late. And yeah, also if you're a small team, yeah, you
+don't want to, you don't want to miss one person and then, you know, you can't
+just say, yeah, you missed today's stand up. So we wait for like five, 10 minutes,
+15 minutes to get you. Yeah, you adjust to it.
+
+**Michaela:** [00:11:56] So you're saying that, um, you looked a lot into different
+methodologies. What about, for example, testing, has testing been a part of your
+software engineering process from the beginning on, or is it just something that
+now that you're getting customers, more relevant? What's your experience there?
+
 **Alper:** [00:12:13] Well, to be very honest, it has, it's been a problematic 
 part of our work process. We have tried, uh, different ways of testing, like. 
 Let's say one person from the team is responsible for testing, but that's that's 
