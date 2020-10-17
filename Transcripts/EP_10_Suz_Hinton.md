@@ -2,7 +2,7 @@
 
 **Michaela:**: [00:00:00] Hello, and welcome to the software engineering 
 unlocked podcast. I'm your host, dr. McKayla. And today I have the pleasure to 
-talk to **Suz:** Hinton. **Suz:** is a senior software engineer at Stripe. She's 
+talk to Suz Hinton. Suz is a senior software engineer at Stripe. She's 
 a full stack engineer that also loves tinkering with hardware and in addition, 
 she regularly streams live coding sessions on Twitch.
 She's involved in open source and is a recognized international speaker. 
@@ -296,13 +296,16 @@ spun up, which was in the engineering org.
 So when that started, I waited a few months for the dust to settle and moved 
 over to that team to see if I could get any further in trying to do quality 
 work, um, on the engineering org, instead of on the sales org. 
+
 **Michaela:**: [00:19:00] But your experiences were quite the same between those 
 different orgs. 
+
 **Suz:**: [00:19:04] I would say that there were just different games.
 Um, and I would, I would say that I was rewarded for doing different things. I 
 think that the second team in engineering was way better set up to succeed. Um, 
 but that didn't necessarily mean that your relations with product teams were any 
 easier to forge. If that makes sense. 
+
 **Michaela:**: [00:19:26] Yeah. Yeah, yeah. Everything that you say.
 I mean, I can totally understand that you wouldn't like to be in that position. 
 I think few people, I mean, some of them might strive in such a setting, but few 
@@ -313,7 +316,9 @@ I worked with, with a lot of different product teams in the, obviously the
 engineering org, but even there, I could really see that. For example, the 
 office engineering org is very, very different than for example, windows or, you 
 know, visual studio, things like that. 
+
 **Suz:**: [00:20:03] Yeah. So. 
+
 **Michaela:**: [00:20:05] So that's really interesting to hear, um, your, your 
 experience.
 So looking back there, things, can you say that you learn something that you 
@@ -321,7 +326,8 @@ would do different and when you now decide to join a company, even, you know,
 when you decided to join Stripe, which signs and signals did you look for that 
 you think, well, these signals, somehow, if you will fit there and if you will 
 be happy and if you can strive there
-**Suz:**: [00:20:28] For Shaw.
+
+**Suz:**: [00:20:28] For Sure.
 Um, I think the first thing that I learned was to ask really tough questions in 
 an interview. I think that because the Microsoft door opening for me, it came so 
 sporadically and out of the blue. Um, I always sort of just like really swept up 
@@ -365,15 +371,20 @@ massive toll on me to change jobs. Um, but I think, I think that that's just
 more important on me asking the right questions before I joined a company.
 Um, and I think that that's actually been a really positive outcome. That's come 
 from that. If that makes sense. 
+
 **Michaela:**: [00:23:23] Yeah, I totally understand that I was also a US 
 resource sponsor and I was always super frightened that one day I would get 
 fired and I don't know what to do. 
+
 **Suz:**: [00:23:33] Yes. I absolutely relate to that.
+
 **Michaela:**: [00:23:37] I don't know, it wasn't very realistical event or 
 something, but you know, if there were layoffs, I was like, completely shut 
 down. I was like, Oh my God, the company is laying off people. And what happens, 
 you know, if they would decide to lay me off. 
+
 **Suz:**: [00:23:51] Yeah. Because it was terrible. Very 
+
 **Michaela:**: [00:23:53] tricky. Right, right. Yeah.
 It's tricky. It's not that easy if you don't, if you cannot just stay at, I 
 don't know if I recall correctly, but I had in mind that within two weeks, I 
