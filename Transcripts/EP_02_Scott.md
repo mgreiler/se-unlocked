@@ -445,7 +445,7 @@ like say you're really new in Tech, and then you look through all these
 technologies that they are, and then you look at the different companies that 
 there are.
 And you're just wondering, you know, should I learn JavaScript or should I learn 
-C++ should I learn react? Should I. Just pick a company that I want to work 
+C# should I learn react? Should I. Just pick a company that I want to work 
 for and then learn their tech stack. You know? So there are many different 
 angles. I think it's easier if you know where you're heading to, how can we make 
 it easier for us to understand where we are heading?
@@ -553,4 +553,3 @@ Yeah, that would be great.
 **Michaela:** [00:35:51] Thank you so much. Have a good day. Bye bye Scott. I hope 
 you enjoyed another episode of Software Engineering Unlocked podcast. Don't 
 forget to subscribe. And I talked to you again. Bye.
-
