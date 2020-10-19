@@ -232,11 +232,11 @@ Yet, I don't see that they are regulated extensively, if they are even regulated
 
 What our people are doing, are they reading? You know, what's actually stored there? It's more, what I see, People are just clicking, okay, you know about the cookies. It's okay. Yeah, I understand another cookie. Right? So do you think that those measurements actually make any sense? And then again, What does it mean for the larger good, right?
 
-Because if, even if a website is tracking, I think a large amount of these little websites and many of the websites are run by small businesses, I don't even think that they are looking at the, collected the data. So the data again feeds back to the large organizations that you know, have, have the power over that.
+Because if, even if a website is tracking, I think a large amount of these little websites and many of the websites are run by small businesses, I don't even think that they are looking at the collected data. So the data again feeds back to the large organizations that you know, have, have the power over that.
 
 What do you think about that? 
 
-**Troy:** [00:32:28] Well, certainly one of the first things we gotta recognize when we talk about regulations in government, they're traditionally always behind the curve when it comes to technology or technologies matches ahead at at an absolutely unprecedented price. And then government sort of tries to catch up and figure out what to do.
+**Troy:** [00:32:28] Well, certainly one of the first things we gotta recognize when we talk about regulations in government, they're traditionally always behind the curve when it comes to technology, technology marches ahead at at an absolutely unprecedented price. And then government sort of tries to catch up and figure out what to do.
 
 So that's, that's certainly a problem. Uh, things like, the cookie warnings, I think are a perfect example. I mean, every time I go to Europe, I just joke about it like, what are you guys do? Seriously? No one reads this. No one understands it. It doesn't matter. And by the way, even if you don't have cookies, you can still fingerprint browsers and track them.
 
@@ -244,17 +244,17 @@ And apparently you're not meant to do that either and this was part of the cooki
 
 Even very recently. And some people argue that, well, Facebook's worth a gazillion dollars. Say a fine of a hundreds of millions of dollars isn't that much, but that's still a very significant amount of money. So they are certainly subject to regulatory controls. I think the question then is, are the penalties sufficient in order to dissuade them from doing the wrong thing, or do they need to be higher?
 
-And look, we've obviously got regulations like GDPR, which are designed to try and apply some pretty stiff penalties for organizations that do the wrong thing. And the question is how much that's actually being a preemptive control and stopping it from happening in the first place versus a slap on the risk after that.
+And look, we've obviously got regulations like GDPR, which are designed to try and apply some pretty stiff penalties for organizations that do the wrong thing. And the question is how much that's actually being a preemptive control and stopping it from happening in the first place versus a slap on the wrist after that.
 
 **Michaela:** [00:34:06] Yeah, yeah, that's true. Maybe I want to switch it a little bit gears again. I want to talk about your, your career as well. So I would like to understand that a little bit more, how, everything started? So can you bring me back to the time when you were not as security expert, not as solidly donor, but you are just at the beginning of your journey to become one?
 
 Where were you in your life, you know, what was your, what did you think about, why would you do that and what were your first steps into that direction? 
 
-**Troy:** [00:34:39] Yeah. So look, I started out as a developer. I mentioned earlier, I was, I saw the internet when I was, I had ane in the mid nineties and I just wanted to build software for the internet.
+**Troy:** [00:34:39] Yeah. So look, I started out as a developer. I mentioned earlier, I was, I saw the internet when I was eighteen in the mid nineties and I just wanted to build software for the internet.
 
 And I, uh, I actually started out doing a computer science degree at university, realized that the internet was too new for universities. They didn't have any courses about it. So I did about 80% of the degree and then eventually just dropped out and went and went and just went, screw this. I'm just gonna do it myself.
 
-So. Started going and doing a lot of software development and I freelance for a while and then worked at a bunch of different companies, financial institutions, interactive TV, and then the, a large portion of my career was, I spent 14 years at Pfizer pharmaceuticals, uh, originally as a developer and then as a, as an architect.
+So. Started going and doing a lot of software development and I freelanced for a while and then worked at a bunch of different companies, financial institutions, interactive TV, and then the, a large portion of my career was, I spent 14 years at Pfizer pharmaceuticals, uh, originally as a developer and then as a, as an architect.
 
 And that was sort of the, that a big, big chunk of my career as it's been more than half my working life. And as I was in that job, in particularly towards probably the last five years that I was in that role, I, I just started getting very upset with no longer coding. I mean, there's, this, was this one of these sort of problems we have in this industry where a lot of organizations will say, Hey, if you're a developer, if you want your career to progress, you've got to stop doing that and do something else, which really, really super sucks if you actually like developing and would also like a career.
 
@@ -266,11 +266,11 @@ So every time I'd write about security, people like, Oh, this is amazing. You sh
 
 And so when did you make the shift from being an employee to being self employed and saying, well, now I'm going all in. Have you had your Pluralsight courses already? Or you know, how, how does that, how did the dad change happen? 
 
-**Troy:** [00:36:51] So I'll actually got to talk about this as a talk called hacky Korea. So if you do a Google for my name and hacky Korea, there's a YouTube video I've done a couple of times now.
+**Troy:** [00:36:51] So I've actually got a talk about this, it's a talk called hacker career. So if you do a Google for my name and hacker career, there's a YouTube video I've done a couple of times now.
 
 In fact, I was looking at it just an hour ago for another blog post I was writing and I was this, I think this is my favorite talk. Yeah. It's the only sort of soft skills talk I think I've done before, but it's, it's my favorite talk. And, and in there I talk about how I started to eventually hate my job.
 
-So this is now sort of 2014 era. Ah, I've got a new boss. The new boss really didn't understand what I did. He was in the Philippines. I was in Australia. Big cultural differences. My Ozzy honesty and directness probably didn't go down very well, which, if I'm being honest and direct, I didn't really care about.
+So this is now sort of 2014 era. Ah, I've got a new boss. The new boss really didn't understand what I did. He was in the Philippines. I was in Australia. Big cultural differences. My Ozzy honesty and directness probably didn't go down very well with him, which, if I'm being honest and direct, I didn't really care about.
 
 And, um, you know, we, we really didn't see Ottawa and I was just hating the job. And, I eventually had the very joyful opportunity to take a redundancy, and so they, they ended up making four different roles that were based out of Australia, but worked across Asia Pacific, redundant. We were in a part of the world where we were sort of the most expensive market looking after the cheapest market we were contracting, they're expanding.
 
@@ -282,13 +282,13 @@ And I managed a, at that time, my Pluralsight courses were going really, really 
 
 They found it interesting. You were already doing Pluralsight courses and then you are not happy with your day job and you get this opportunity. What do you think how, Yeah, I have like some ideas. How would a person that isn't, you know, in that particular position, how would kickstart a transition from employment to self employment?
 
-**Troy:** [00:39:03] So that the first blog post I ever wrote, I think summarizes that really well, and I didn't know it at the time, but it actually turned out to be kind of insightful. So the very first blog post was why online identities are a smart career move. And when I wrote that blog post. It was partly because I was interviewing people at the time for developer roles and I'd interview them and they'd say, you know, here's my CV.
+**Troy:** [00:39:03] So the first blog post I ever wrote, I think summarizes that really well, and I didn't know it at the time, but it actually turned out to be kind of insightful. So the very first blog post was why online identities are a smart career move. And when I wrote that blog post. It was partly because I was interviewing people at the time for developer roles and I'd interview them and they'd say, you know, here's my CV.
 
-My CV says I'm awesome, like you, cause it says you're awesome, like you wrote it. It was like, what else was I going to say? And again, and I liked the gun, speak to my referees, you know, like, here are my references. Give him a call, you know, they'll say, I'm awesome too, and I'll sort of go, Whoa, well you chose them.
+My CV says I'm awesome, and I'm like well of course it says you're awesome, like you wrote it. It was like, what else was it going to say? And again, and they went like, go and speak to my referees, you know, like, here are my references. Give them a call, you know, they'll say, I'm awesome too, and I'll sort of go, Whoa, well you chose them.
 
-Of course they're going to say you're awesome. Like, what are you like? There is absolutely no independent verification of who you are or what you do or anything like that. This doesn't make any sense at all. And what was happening is I'd go and try and find information about these people online. So it's like, all right, I'm going to take this guy.
+Of course they're going to say you're awesome. Like, what do you expect? There is absolutely no independent verification of who you are or what you do or anything like that. This doesn't make any sense at all. And what was happening is I'd go and try and find information about these people online. So it's like, all right okay, I'm going to take this guy.
 
-I'm going to, I'm going to Google the person, and then I'll find their LinkedIn profile, their StackOverflow information, some blog posts. Maybe they've commented on a forum, and I'd find absolutely nothing about the person, and I found that. Really fascinating that they'll sort of know independent verification of identity and role and history.
+I'm going to, I'm going to Google the person, and then I'll find their LinkedIn profile, their StackOverflow information, some blog posts. Maybe they've commented on a forum, and I'd find absolutely nothing about the person, and I found that really fascinating that there was sort of no independent verification of identity and role and history.
 
 So my theory was that if I was to start to carve out a bit of an online identity, and there was something there that other people could then look at and say, Hey, this is, this is troy. Look, Troy's got this history, he's done all of these things is what he's been up to. Then that would, That would hold me in high regard later on. And, at the time when I wrote the blog post, I sort of said, look, I don't know how long it will be before my employer doesn't like me, or I don't like them, but what I know is that if I get to that point later on and then I decide I want to do this, it will be too late.
 
@@ -298,7 +298,7 @@ And one of the things that's really struck me, particularly over the last year f
 
 **Michaela:** [00:41:51] Yeah, I totally agree. And I think also, for example, when I did my PhD, I was blogging, but I was blogging on the university website. And in hindsight I'm like, yeah, this was super stupid because I didn't own the content. And now that I'm gone for several years, they completely scratched the website. There isn't any blogpost of me anymore.
 
-There is no information about the tools that I have developed and, um, the things that I've written that just don't exist anymore. So I should have owned that content and I should have put that on my own website. But yeah, it was a lack of awareness. I wasn't completely aware that I should do that. And so, yeah, I think that for many people.
+There is no information about the tools that I have developed and, um, the things that I've written just don't exist anymore. So I should have owned that content and I should have put that on my own website. But yeah, it was a lack of awareness. I wasn't completely aware that I should do that. And so, yeah, I think that for many people.
 
 Even if you do test a little bit as you're sad, it takes a lot of time, but maybe you don't have to produce each month a blogpost, but maybe you write something every half a year, and if you do that over a long time, it will come bound to a substantial portfolio that people can look at it and say, well, you did that.
 
@@ -310,17 +310,17 @@ There was a meeting scheduled and there must've been about 12 or 14 of us in the
 
 Yeah. I went to the room and the most senior person, there was a lady who'd been with the company for more than 20 years and she was crying and I thought, ah, this isn't going to be very good.
 
-You know, when you go to a meeting already crying, the outcome's probably not going to be favorable for that person. And then as the penny dropped and it became clearer for people, there are just many ashen faces, many people very worried about what was going to happen to them. And, and I remember me at one stage, I literally said, can we just skip?
+There was a meeting scheduled and there must've been about 12 or 14 of us in the room in the technology department, and it was just a meeting with a really interesting mix of people that just didn't make sense to have them all in the one room at the same time. And then the topic of the meeting was something like "Updates", and when I got it, I was like, I wonder, I wonder if you know, and because by this I was so keen to leave and I was just waiting for that redundancy. Yeah. I went to the room and the most senior person, there was a lady who'd been with the company for more than 20 years and she was crying and I thought, ah, this isn't going to be very good.
 
-Because it was the way they doing. As I was saying, look, here's the org chart now, and there's all these names right in, in the boxes. And then they're like, he's the org chart in the future and there's just titles and there's less boxes than there are names. And they weren't really saying it. And, and I was getting quite excited cause I'm like, Oh this is it.
+You know, when you go to a meeting already crying, the outcome's probably not going to be favorable for that person. And then as the penny dropped and it became clearer for people, there are just many ashen faces, many people very worried about what was going to happen to them. And, and I remember me at one stage, I literally said, can we just... because it was the way they were doing.... they were saying "here's the org chart now", and there's all these names right in, in the boxes. And then they're like, here's the org chart in the future and there's just titles and there's less boxes than there are names. And they weren't really saying it. And, and I was getting quite excited cause I'm like, Oh this is it.
 
 I'm going to get up. And I remember saying like, can we just stop the bullshit and someone just psych? Clearly are you making jobs are done. Cause I'm quite okay with that. You know, I just want you to be honest about it. But I'll always remember how worried most of that room was because they didn't have that plan B. Their job was their life, and that to me, that Dutch has taught me a massively valuable lesson.
 
 **Michaela:** [00:45:06] Yeah, yeah. I was definitely that person. You know, they're just very, very focused and dedicated to one thing and somehow blindsided. Right? On one end, because I don't think that this dedication is from Marshall sites. Especially for lateral organization. Right. So, yeah, I think that's a very valuable obsession. Yeah. 
 
-**Troy:** [00:45:26] No, you're, you're, you're right. And, and look at it, it might be that your boss loves you, right? Like the, you could have a fantastic relationship, but your bosses another individual within a larger organization that is certainly in a case like Pfizer might be making decisions multiple levels up the chain on the other side of the world, based on numbers in a spreadsheet.
+**Troy:** [00:45:26] No, you're, you're, you're right. And, and look at it, it might be that your boss loves you, right? Like the, you could have a fantastic relationship, but your boss is another individual within a larger organization that in certainly in a case like Pfizer might be making decisions multiple levels up the chain on the other side of the world, based on numbers in a spreadsheet.
 
-And it doesn't matter how much you love the place or how much you think your boss loves you. That is not going to save you when an accountant does numbers and decides that they need to cut hits. 
+And it doesn't matter how much you love the place or how much you think your boss loves you. That is not going to save you when an accountant does the numbers and decides that they need to cut heads. 
 
 **Michaela:** [00:45:53] Yeah, and it also doesn't, you know, you have no influence over what your boss is going to do. Right? Maybe your manager is leaving, going some Burrell's being pre placed their reorgs.
 
