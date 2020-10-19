@@ -1,8 +1,8 @@
 # Transcipt Episode 10: Suz Hinton
 
 **Michaela:**: [00:00:00] Hello, and welcome to the software engineering 
-unlocked podcast. I'm your host, dr. McKayla. And today I have the pleasure to 
-talk to Suz Hinton. Suz is a senior software engineer at Stripe. She's 
+unlocked podcast. I'm your host, Dr. Michaela. And today I have the pleasure to 
+talk to **Suz:** Hinton. **Suz:** is a senior software engineer at Stripe. She's 
 a full stack engineer that also loves tinkering with hardware and in addition, 
 she regularly streams live coding sessions on Twitch.
 She's involved in open source and is a recognized international speaker. 
@@ -18,7 +18,7 @@ about your role and what you're currently working on and what are your
 responsibilities? How does your day to day work look like?
 
 **Suz:**: [00:00:47] I started at Stripe, I think about three months 
-ago. And I'm a. Developer advocate, I guess, in a way.
+ago. And I'm a  Developer advocate, I guess, in a way.
 Um, and so I work with basically a lot of people internally and also with the 
 community and users of Stripe at large. Um, right now I'm actually focusing on. 
 The terminal product offering that we have and terminal is an in-person payments 
@@ -27,7 +27,7 @@ Um, a really good example of this is Glossier who has really awesome cosmetics
 and personal care items. And let's say you become successful, but you'd then 
 like to go and open a physical retail store. Like we, we actually have a story 
 there and we can basically offer you some pre-certified readers. Um, And we have 
-some really nice API APIs that are in line with our regular payment APIs in 
+some really nice APIs that are in line with our regular payment APIs in 
 order to get started with that.
 And so I focus on that particular product. I work directly with the product 
 team. And so right now I'm working with the terminal product team and I'm trying 
@@ -139,10 +139,10 @@ you know, pick it up at a later point. And so a little while later, I would say
 a year and a half later, um, I'd been at Microsoft for over two years at that 
 point.
 And so I reached out to them again because I felt that it was the right time. 
-Um, I've always. Really admired Stripe because I used, uh, Stripe's API is when 
-I worked at Kickstarter, um, a while ago, because actually uses a Stripe to 
-take, uh, pledges from, um, from backers for creative projects. And so it was already 
-familiar with how good the deal documentation was.
+Um, I've always really admired Stripe because I used, uh, Stripe's API when 
+I worked at Kickstarter, um, a while ago, because kickstarter actually uses 
+a Stripe to take, uh, pledges from, um, from backers the projects. And so 
+it was already familiar with how good the documentation was.
 I was so inspired by that. It made me want to improve my own software and open 
 source documentation. Um, and so it's always been a company I'd admired. It was 
 more just that. I didn't think that I was, um, I guess like a good enough 
@@ -227,9 +227,9 @@ don't regret working for the company, but in a nutshell, um, I feel that the
 roles that I worked in at Microsoft, specifically, the teams were developed to 
 basically run against the grain of a lot of other teams internally.
 And what I mean by that is, you know, I was hired into a developer evangelism 
-role, um, where I was working with customers and bringing. Product feedback 
+role, um, where I was working with customers and bringing product feedback 
 directly back from the customers to the product teams. Um, and then I actually 
-also worked in a role which was developed efficacy, which was more about trying 
+also worked in a role which was developed advocacy, which was more about trying 
 to do outreach to users, improve, um, our samples, write demos, um, and go out 
 to customers and actually give best practice talks about how to actually use our 
 stuff.
@@ -243,7 +243,7 @@ And here are the financial, um, you know, motivations behind it, changing this
 for this customer and I'm blocking them and things like that. And so you would 
 constantly having to give quite critical feedback, um, and. Two teams who 
 traditionally may not have necessarily had a team doing that in the past and 
-having a mandate in Europe to actually listen to our feedback.
+having a mandate in to actually listen to our feedback.
 And so when you're really stressed out on a product team and you're trying to 
 ship a lot of features and you're running against these deadlines and someone is 
 coming and trying to undo that work and telling you you're working on the wrong 
@@ -281,11 +281,12 @@ scattered and mixed experience of trying to discover this weird board game that
 everyone else knew how to play that. I didn't know how to play. And that's when 
 I figured out after two and a half years of kind of going against the grain, but 
 also just like.
-Not wanting to work within that culture and trying to different teams just to 
+Not wanting to work within that culture and trying two different teams just to 
 see whether I could sort of find a good place. That's when I knew that it was, 
 it was time for me to throw in the towel. 
 **Michaela:**: [00:18:18] Okay. So you actually worked at different teams during 
-your time at Microsoft?
+your time at Microsoft? 
+
 **Suz:**: [00:18:21] Yeah, so I started as a technical 
 evangelist and that's in the sales organization.
 Um, and that's when I knew that they didn't really screen a lot for technical experize 
@@ -373,7 +374,7 @@ Um, and I think that that's actually been a really positive outcome. That's come
 from that. If that makes sense. 
 
 **Michaela:**: [00:23:23] Yeah, I totally understand that I was also a US 
-resource sponsor and I was always super frightened that one day I would get 
+visa sponsor and I was always super frightened that one day I would get 
 fired and I don't know what to do. 
 
 **Suz:**: [00:23:33] Yes. I absolutely relate to that.
@@ -392,15 +393,17 @@ actually have to find a new job. That would fit to the visa that I had and
 things like that. 
 **Suz:**: [00:24:10] So it's scary. 
 **Michaela:**: [00:24:12] It is right? Yeah, it is. It 
-**Suz:**: [00:24:14] is. That's really true.
-**Michaela:**: [00:24:15] 
-Um, so, well, can we talk a little bit about the soft engineering process at, as 
-Stripe? Because I'm super interested in how either. Different companies and 
-different people, different teams developed software. And one of my favorite 
-topics code review. So I would love to talk about code reviews with you. Um, 
-what code you have your practices have you experienced during your career, the 
-different companies and what stands out for you where you think well, that's 
-really, that makes a good code review practice.
+
+**Suz:**: [00:24:14] is. That's really 
+**Michaela:**: [00:24:15] true.
+Um, so, well, can we talk a little bit about the software engineering process
+at, as Stripe? Because I'm super interested in how either. Different companies
+and different people, different teams developed software. And one of my 
+favorite topics code review. So I would love to talk about code reviews with 
+you.Um, what code you have your practices have you experienced during your 
+career, the different companies and what stands out for you where you think 
+well, that's really, that makes a good code review practice.
+
 **Suz:**: [00:24:49] Most of the code review practices I've been through at 
 companies have been pretty similar to each other. Um, I think that the first job 
 I worked in there was actually code review because that wasn't always a thing in 
@@ -505,23 +508,22 @@ background, so I do miss teaching a little bit. Um, and so it kind of helps me.
 Express that as well.
 **Michaela:**: [00:31:27] Yeah. I mean, when you explain that, like that, 
 I feel like, Oh, I want to be a mentee.
-**Suz:**: [00:31:33] It 
-**Michaela:**: [00:31:33] sounds really cozy and dinner. I would have, if 
+It sounds really cozy and dinner. I would have, if 
 somebody reaches out and offers, you know, to, you know, answer some questions, 
 I actually didn't experience that in my career. It felt like, Oh, I can go 
 there. And. It would have helped so much and still worked. Right? I mean, right 
 now, actually I'm seeking out mentors a lot more pro actively, but I've never 
 had a person come up to me and say, Oh, you know, do you need some help?
-**Suz:**: [00:32:03] So 
-**Michaela:**: [00:32:03] right now I'm really seeking out mentors and, you 
+**Suz:**: [00:32:03] yeah
+**Michaela:**: [00:32:03] So right now I'm really seeking out mentors and, you 
 know, proactively approach people and ask questions. I don't think that they 
 think they are my mentors. I feel they are my mentors, but yeah, I totally, you 
 see the value in that. And I think it's so wonderful that you do that. And so 
 you also said that you're starting with the technical side, which I like a lot, 
 because that's concrete.
 Right. That's, you know, you're sitting down, you're looking at the piece of 
-code, they have questions, you know, about how to do 
-**Michaela:**: [00:32:30] something. Yeah. And yeah, it's, it's, it's very 
+code, they have questions, you know, about 
+**Michaela:**: [00:32:30] how to do  something. Yeah. And yeah, it's, it's, it's very 
 concrete and it's very clear. And then it evolved into something more. So you 
 also said that you're helping them advancing their career.
 So, um, how do you do that for yourself? How do you develop your soft skills, 
@@ -578,8 +580,8 @@ It's not something that I'm interested in, in the slightest. I love sitting down
 and just coding every day. I mean, in developer relations, you don't get to code 
 like, you know, for the entire eight hours, but I still get to ship stuff. I 
 still get to focus on. APIs. And I still get to like sit around and mess around 
-and Docker seeing if I can, you know, make an experience better.
-And, and I still get to actually open PRs and look at other people's code and 
+and Docs seeing if I can, you know, make an experience better.
+And, and I still get to actually open PRS and look at other people's code and 
 talk to people and have those technical conversations. Some managers are able to 
 juggle a little bit of both. Um, but I just don't think that I'm the right 
 person for that. I think that I still would need to work on my conflict 
@@ -598,8 +600,9 @@ stay and progress as an individual contributor?
 I know that at Microsoft is individual contributor path can really, you know, 
 you can advance your career and really become a thought leader in the company. 
 Right? So it's something similar happening at Stripe. Do you see that? 
-**Suz:**: [00:37:42] I've looked at the engineering ladders is there's a slightly 
-different engineering letters for develop relationships just because we're not 
+
+**Suz:**: [00:37:42] I've looked at the engineering ladder is there's a slightly 
+different engineering ladder for develop relationships just because we're not 
 just sitting around shipping stuff all day.
 Right. So you have to show leadership and not just writing good code. Um, and 
 obviously engineers have to also show good teamwork skills and technical 
@@ -623,7 +626,7 @@ not becoming a manager, it means that you somehow stack which. Is somehow
 implied that some companies, but I see more and more companies that really have, 
 as you said, these career change mentality where just, you know, can go on with 
 what you're really passionate about.
-And, uh, when that's technology, right. And thinking with your code and things 
+And, uh, well that's technology, right. And thinking with your code and things 
 like that, then that's what you become an expert on. Right? 
 **Suz:**: [00:39:24] There's also another distinction within the, I guess like 
 the individual contributor track, which is, there are certain career levels 
@@ -676,17 +679,18 @@ sometimes their best work is not necessarily going and learning something new.
 You know, sometimes it's just that they're just going to be so ultra valuable on 
 something and, and, and an Alliance so well with the team and, and them as well.
 And I think that's a wonderful thing to celebrate and something that tends to be 
-judged as being unambitious. And I think that that's the wrong way to think 
-about it.
-**Michaela:**: [00:42:37] I agree. So one of the things that I want to talk 
-with you about is the regular life coding events that you have on Twitch. So, 
-first of all, can you tell me a little bit more about what's live coding and also 
+judged as being on ambitious. And I think that that's the wrong way to think 
+about it
+
+**Michaela:**: [00:42:37] yeah yeah, I agree. So one of the things that I want to talk 
+with you about is the regular live coding events that you have on Twitch. So, 
+first of all, can you tell me a little bit more about that I've coding and also 
 to the listeners as well is live coding.
 Why do you do it? How did you start? You know, everything, we want to know 
 everything. 
 **Suz:**: [00:42:57] So live coding tends to fall into two different tracks. Um, 
 I'm on one of them, there's the track that you actually perform at a, like a DJ 
-and new life code visuals and things like that. So sometimes I can get con 
+and new live code visuals and things like that. So sometimes I can get con 
 people can get confused about the two definitions.
 So that's one definition. I have friends that do that. The other definition, 
 which is. Probably like a more recent one is the phenomenon of, um, of coding, 
@@ -705,7 +709,7 @@ kind of show that and I think it's, it's fun for people to learn from, but it's
 also fun for me cause I learned from other people as well. And it just provides 
 me with a little company while I'm working on something. 
 **Michaela:**: [00:44:17] I imagine it's super stressful, to be honest.
-I mean, I'm very afraid of. Interviews for example. And it also, if somebody 
+I mean, I'm very afraid of interviews for example. And it also, if somebody 
 looks over my shoulder that I'm not very familiar with. I mean, if it's a 
 colleague that I trust that's okay. But so some stranger, for example, looking 
 over my shoulder, I sometimes forget where the keys are on my keyboard someday.
@@ -768,7 +772,7 @@ said the same thing to me this week and she's a programmer as well. And it was
 funny that we were comparing. 
 **Michaela:**: [00:48:22] So, um, why do you use Twitch and not YouTube?
 Um, there's is there something like a streaming community on YouTube as well, or 
-is Twitch platform, if you want to do that, 
+is Twitch the platform, if you want to do that, 
 **Suz:**: [00:48:32] there is, it's kind of odd because I think that 
 conceptually YouTube makes more sense because YouTube is a variety platform. Um, 
 whereas Twitch is more geared towards gamers. I think the difference is that 
@@ -794,9 +798,10 @@ and then you have to do the other task as well. So do you, do you do that on
 your own or do you have another person that actually looks at, because I know 
 for example, for webinars, do you sometimes have a team then, you know, you're 
 giving the.
-They talk. And if I, for example, have a veterinarian, they teach something. 
+ talk. And if I, for example, have a webinar, they teach something. 
 Then I have a team. Maybe that's handling the questions with the audience, but 
 for that, it looks like you do everything yourself.
+
 **Suz:**: [00:50:33] It's so hard. It is really hard. And this is 
 where I come back to. You just become the worst programmer in the world because 
 you're basically.
@@ -871,7 +876,7 @@ You understand that I'm trying to create nicer communities and are willing to be
 part of that and help me defend that community. 
 **Michaela:**: [00:55:04] Okay. That sounds really nice. So Twitch is really a 
 cornerstone for you to build your community, to make open source, more welcoming 
-showing, you know, showing you to the people communicating on a on again.
+showing, you know, show you to the people, communicating on a on again.
 I think it comes to me back to how you mentor, right? You start, you said you 
 start with code. You're actually start with the problem with, with the hard 
 facts. Right? And if you are. Using Twitch and is showing how you code, how you 
@@ -902,7 +907,7 @@ for joining my show.
 Thank you so much. 
 **Suz:**: [00:57:06] Thank you. 
 **Michaela:**: [00:57:07] Okay. Bye. Bye. I hope you enjoyed another episode 
-after sup engineering unlocked podcast. Don't forget to subscribe. And I talk to 
+after software engineering unlocked podcast. Don't forget to subscribe. And I talk to 
 you again in two weeks. 
 
 
