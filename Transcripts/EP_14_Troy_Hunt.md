@@ -218,7 +218,7 @@ So, for example, at initial release or major revisions. Now, your problem here i
 
 But one of the principles that we've had a lot in the industry in recent years is this idea of shifting left. So if you pitch your software development life cycle and we go like all the way to the left hand side of the scale where like let's say the design phase, let's try and shift the security into design and get stuff right there rather than letting it filter through into build, deploy, sustain, all this sort of thing.
 
-**Michaela:** [00:30:24] And how would it look like, for example, how would security take place during the design? What would you think about. 
+**Michaela:** [00:30:24] And how would it look like, for example, how would security take place during the design? What would you think about? 
 
 **Troy:** [00:30:32] Well, I mean, a good part of that is actually having a security review of the design now, that's the sort of thing that I'd love to see security teams involved in. So if you're in an organization that's large enough to have a dedicated team, get their input on that.
 
@@ -226,11 +226,11 @@ So for example, are we storing passwords in what we now believe is the best prac
 
 They're good discussions to have even before a line of code is written. 
 
-**Michaela:** [00:31:08] So one of the things that I wanted to ask you about is about sensitive data. So for example, a lot of the companies like Facebook, Google, Twitter, they have like tons of relevant and highly sensitive data about millions of people worldwide.
+**Michaela:** [00:31:08] So one of the things that I wanted to ask you about is about sensitive data. So for example, a lot of the companies like Facebook, Google, Twitter, and they have like, tons of relevant and highly sensitive data about millions of people worldwide.
 
-Yet I don't see that they are regulated extensively if they are even regulated. Right. It's a, it's minimal to non-existent regulations there. On the other hand, for example, the European union has regulated each small website to, you know, spam. I would say, um, people about their cookies. Right? And I feel it's, again, what you said at the beginning, it's a little bit fatigue, right?
+Yet, I don't see that they are regulated extensively, if they are even regulated. Right? It's a, it's minimal to non-existent regulations there. On the other hand, for example, the European union has regulated each small website to, you know, spam. I would say, spam, people about their cookies. Right? And I feel it's, again, what you said at the beginning, it's a little bit fatigue, right?
 
-What our people are doing, are they reading? You know, what's actually stored there? It's more. What I see. People are just clicking, okay, you know about the cookies. It's okay. Yeah, I understand another cookie. Right? So do you think that those measurements actually make any sense? And then again. What does it mean for the larger good, right?
+What our people are doing, are they reading? You know, what's actually stored there? It's more, what I see, People are just clicking, okay, you know about the cookies. It's okay. Yeah, I understand another cookie. Right? So do you think that those measurements actually make any sense? And then again, What does it mean for the larger good, right?
 
 Because if, even if a website is tracking, I think a large amount of these little websites and many of the websites are run by small businesses, I don't even think that they are looking at the collected data. So the data again feeds back to the large organizations that you know, have, have the power over that.
 
@@ -240,13 +240,13 @@ What do you think about that?
 
 So that's, that's certainly a problem. Uh, things like, the cookie warnings, I think are a perfect example. I mean, every time I go to Europe, I just joke about it like, what are you guys do? Seriously? No one reads this. No one understands it. It doesn't matter. And by the way, even if you don't have cookies, you can still fingerprint browsers and track them.
 
-And apparently you're not meant to do that either. And this was part of the cookie warning, but I don't know that cause I don't read the warnings either. It kind of doesn't make any sense on that regard. But having said that, like we do need regulation to keep organizations in check, and certainly the likes of Facebook are subject to regulatory controls and they have received some massive fines in the past.
+And apparently you're not meant to do that either and this was part of the cookie warning, but I don't know that cause I don't read the warnings either. It's kind of doesn't make any sense on that regard. But having said that, like we do need regulation to keep organizations in check, and certainly the likes of Facebook are subject to regulatory controls and they have received some massive fines in the past.
 
-Even very recently. And some people argue that, well, Facebook's worth a gazillion dollars. So a fine of a hundreds of millions of dollars isn't that much, but that's still a very significant amount of money. So they are certainly subject to regulatory controls. I think the question then is, are the penalties sufficient in order to dissuade them from doing the wrong thing, or do they need to be higher.
+Even very recently. And some people argue that, well, Facebook's worth a gazillion dollars. Say a fine of a hundreds of millions of dollars isn't that much, but that's still a very significant amount of money. So they are certainly subject to regulatory controls. I think the question then is, are the penalties sufficient in order to dissuade them from doing the wrong thing, or do they need to be higher?
 
 And look, we've obviously got regulations like GDPR, which are designed to try and apply some pretty stiff penalties for organizations that do the wrong thing. And the question is how much that's actually being a preemptive control and stopping it from happening in the first place versus a slap on the wrist after that.
 
-**Michaela:** [00:34:06] Yeah, yeah, that's true. Maybe I want to switch a little bit gears again. I want to talk about your, your career as well. So I would like to understand that a little bit more. How everything started. So can you bring me back to the time when you were not a security expert and not a thgouth leader, but you are just at the beginning of your journey to become one?
+**Michaela:** [00:34:06] Yeah, yeah, that's true. Maybe I want to switch it a little bit gears again. I want to talk about your, your career as well. So I would like to understand that a little bit more, how, everything started? So can you bring me back to the time when you were not as security expert, not as solidly donor, but you are just at the beginning of your journey to become one?
 
 Where were you in your life, you know, what was your, what did you think about, why would you do that and what were your first steps into that direction? 
 
@@ -256,13 +256,15 @@ And I, uh, I actually started out doing a computer science degree at university,
 
 So. Started going and doing a lot of software development and I freelanced for a while and then worked at a bunch of different companies, financial institutions, interactive TV, and then the, a large portion of my career was, I spent 14 years at Pfizer pharmaceuticals, uh, originally as a developer and then as a, as an architect.
 
-And that was sort of the, that a big, big chunk of my career as it's been more than half my working life. And as I was in that job, and particularly towards probably the last five years that I was in that role, I, I just started getting very upset with no longer coding. I mean, there's, this, was this one of these sort of problems we have in this industry where a lot of organizations will say, Hey, if you're a developer, if you want your career to progress, you've got to stop doing that and do something else, which really, really super sucks if you actually like developing and would also like a career. So I, I did the other thing, I did the architecture thing and I missed the development so much that I started blogging and I started writing a lot of blogs about software related things, and one of those things was security and security just got a lot of traction.
+And that was sort of the, that a big, big chunk of my career as it's been more than half my working life. And as I was in that job, in particularly towards probably the last five years that I was in that role, I, I just started getting very upset with no longer coding. I mean, there's, this, was this one of these sort of problems we have in this industry where a lot of organizations will say, Hey, if you're a developer, if you want your career to progress, you've got to stop doing that and do something else, which really, really super sucks if you actually like developing and would also like a career.
 
-So every time I'd write about security, people like, Oh, this is amazing. You should do more of this. And I kind of know, okay, I'll do it a bit more of this. And I just found that there was a niche there which hadn't been met. 
+So I, I did the other thing, I did the architecture thing and I missed the development so much that I started blogging and I started writing a lot of blogs about software related things, and one of those things was security and security just got a lot of traction.
+
+So every time I'd write about security, people like, Oh, this is amazing. You should do more of this. And I kind of know, okay, I'll do it a bit more of this. And I just found that there was a nation there which hadn't been met. 
 
 **Michaela:** [00:36:29] Yeah. So it's really, you're, you're following what people wanted, wanted you to write about.
 
-And so when did you make the shift from being an employee to being self-employed and saying, well, now I'm going all in. Have you had your Pluralsight courses already? Or you know, how, how does that, how did that change happen. 
+And so when did you make the shift from being an employee to being self employed and saying, well, now I'm going all in. Have you had your Pluralsight courses already? Or you know, how, how does that, how did the dad change happen? 
 
 **Troy:** [00:36:51] So I've actually got a talk about this, it's a talk called hacker career. So if you do a Google for my name and hacker career, there's a YouTube video I've done a couple of times now.
 
@@ -270,15 +272,15 @@ In fact, I was looking at it just an hour ago for another blog post I was writin
 
 So this is now sort of 2014 era. Ah, I've got a new boss. The new boss really didn't understand what I did. He was in the Philippines. I was in Australia. Big cultural differences. My Ozzy honesty and directness probably didn't go down very well with him, which, if I'm being honest and direct, I didn't really care about.
 
-And, um, you know, we, we really didn't see eye to eye and I was just hating the job. And. I eventually had the very joyful opportunity to take a redundancy, and so they, they ended up making four different roles that were based out of Australia, but worked across Asia Pacific, redundant. We were in a part of the world where we were sort of the most expensive market looking after the cheapest market we were contracting.
+And, um, you know, we, we really didn't see Ottawa and I was just hating the job. And, I eventually had the very joyful opportunity to take a redundancy, and so they, they ended up making four different roles that were based out of Australia, but worked across Asia Pacific, redundant. We were in a part of the world where we were sort of the most expensive market looking after the cheapest market we were contracting, they're expanding.
 
-They're expanding. It just didn't make sense. And that the joy of a redundancy is the company sort of saying, look, it's, it's not you, it's me. Right? Like they're going, yeah, you're fine. We just don't need the role anymore. And as such, we need to pay you a lot of money to go, which is good. So I got paid, I think it was almost like a couple of years worth of pay to go.
+It just didn't make sense. And that the joy of a redundancy is the company sort of saying, look, it's, it's not you, it's me. Right? Like they're going, yeah, you're fine. We just don't need the role anymore. And as such, we need to pay you a lot of money to go, which is good. So I got paid, I think it was almost like a couple of years worth of pay to go.
 
 And I managed a, at that time, my Pluralsight courses were going really, really well. So I just went and started doing that. And then. Heaps of other things on top of it. 
 
 **Michaela:** [00:38:31] Yeah. I think that's a really good start. Many people would wish for. So there are actually several things. So your, your topic was being picked up by folks around the world.
 
-They found it interesting. You were already doing Pluralsight courses and then you are not happy with your day job and you get this opportunity. What do you think how. Do you have like some ideas, how would a person that isn't, you know, in that particular position, how would you kickstart a transition from employment to self-employment?
+They found it interesting. You were already doing Pluralsight courses and then you are not happy with your day job and you get this opportunity. What do you think how, Yeah, I have like some ideas. How would a person that isn't, you know, in that particular position, how would kickstart a transition from employment to self employment?
 
 **Troy:** [00:39:03] So the first blog post I ever wrote, I think summarizes that really well, and I didn't know it at the time, but it actually turned out to be kind of insightful. So the very first blog post was why online identities are a smart career move. And when I wrote that blog post. It was partly because I was interviewing people at the time for developer roles and I'd interview them and they'd say, you know, here's my CV.
 
@@ -288,53 +290,55 @@ Of course they're going to say you're awesome. Like, what do you expect? There i
 
 I'm going to, I'm going to Google the person, and then I'll find their LinkedIn profile, their StackOverflow information, some blog posts. Maybe they've commented on a forum, and I'd find absolutely nothing about the person, and I found that really fascinating that there was sort of no independent verification of identity and role and history.
 
-So my theory was that if I was to start to carve out a bit of an online identity, and there was something there that other people could then look at and say, Hey, this is, this is Troy. Look, Troy's got this history, he's done. All of these things is what he's been up to. Then that would. That would hold me in high regard later on, and at the time when I wrote the blog post, I sort of said, look, I don't know how long it will be before my employer doesn't like me, or I don't like them, but what I know is that if I get to that point later on and then I decide I want to do this, it will be too late.
+So my theory was that if I was to start to carve out a bit of an online identity, and there was something there that other people could then look at and say, Hey, this is, this is troy. Look, Troy's got this history, he's done all of these things is what he's been up to. Then that would, That would hold me in high regard later on. And, at the time when I wrote the blog post, I sort of said, look, I don't know how long it will be before my employer doesn't like me, or I don't like them, but what I know is that if I get to that point later on and then I decide I want to do this, it will be too late.
 
 You know? It just takes a long time to do. And I think it worked out to be about four, four years after I wrote that, that I was pretty sick of the job. And by that time I had that identity and I was able to go out and do independence. So that I think that the big sort of suggestions for people here is you've got to start planning this way, way, way in advance.
 
-And one of the things that's really struck me, particularly over the last year for various reasons, is that to have great success at a lot of these things really, really requires a lot of, a lot of hard work with little return in the immediate term in order to get the longterm gain, and there's not a lot of people that actually want to go through that and put up with a lot of the things that I'll put up with, especially lately in order to try and get that good outcome.
+And one of the things that's really struck me, particularly over the last year for various reasons, is that to, to have great success at a lot of these things really, really requires a lot of, a lot of hard work with little return in the immediate term in order to get the longterm gain, and there's not a lot of people that actually want to go through that and put up with a lot of the things that I'll put up with, especially lately in order to try and get that good outcome.
 
-**Michaela:** [00:41:51] Yeah, I totally agree. And I think also, for example, when I did my PhD, I was blogging, but I was blogging on the university website. And in hindsight I'm like, yeah, this was super stupid because I didn't own the content. And now that I'm gone for several years, they completely scratched the website. There isn't any blog post of me anymore.
+**Michaela:** [00:41:51] Yeah, I totally agree. And I think also, for example, when I did my PhD, I was blogging, but I was blogging on the university website. And in hindsight I'm like, yeah, this was super stupid because I didn't own the content. And now that I'm gone for several years, they completely scratched the website. There isn't any blogpost of me anymore.
 
 There is no information about the tools that I have developed and, um, the things that I've written just don't exist anymore. So I should have owned that content and I should have put that on my own website. But yeah, it was a lack of awareness. I wasn't completely aware that I should do that. And so, yeah, I think that for many people.
 
-Even if you do just a little bit as you said, it takes a lot of time, but maybe you don't have to produce each month as a blockbuster, but maybe you write something every half a year, and if you do that over a long time, it will compound to a substantial portfolio that people can look at it and say, well, you did that.
+Even if you do test a little bit as you're sad, it takes a lot of time, but maybe you don't have to produce each month a blogpost, but maybe you write something every half a year, and if you do that over a long time, it will come bound to a substantial portfolio that people can look at it and say, well, you did that.
 
 What do you think about that? 
 
-**Troy:** [00:42:47] I think that the real key thing here is to, to have autonomy from your organization. Now this doesn't have to be in conflict with your organization, whether it be a university or job you go to day in and day out, certainly doesn't have to be in conflict. It can be very complementary, but you've got to think of yourself as an independent individual and an identity who's going to a job and one day it might be a different job, and if you can't do that, I think you really, you really carry forward a big risk. An interesting story about this is that when Pfizer made these roles redundant, the, the way they did it is a week after Christmas in 2015.
+**Troy:** [00:42:47] I think that the real key thing here is to, to have autonomy from your organization. Now that this doesn't have to be in conflict with your organization, whether it be a university or job you go to day in and day out, certainly doesn't have to be in conflict. It can be very complimentary, but you've got to think of yourself as an independent individual and an identity who's going to a job and one day it might be a different job, and if he can't do that, I think you really, you really carry forward, too big risk. An interesting story about this is that when Pfizer made these roles redundant, the, the way they did it is a week after Christmas in 2015.
+
+There was a meeting scheduled and there must've been about 12 or 14 of us in the room in the technology department, and it was just a meeting with a really interesting mix of people that just didn't make sense to have them all in the one room at the same time. And then the topic of the meeting was something like, updates, and when I got it, I was like, I wonder, I wonder if you know, and because by this I was so keen to leave and I was just waiting for that redundancy.
+
+Yeah. I went to the room and the most senior person, there was a lady who'd been with the company for more than 20 years and she was crying and I thought, ah, this isn't going to be very good.
 
 There was a meeting scheduled and there must've been about 12 or 14 of us in the room in the technology department, and it was just a meeting with a really interesting mix of people that just didn't make sense to have them all in the one room at the same time. And then the topic of the meeting was something like "Updates", and when I got it, I was like, I wonder, I wonder if you know, and because by this I was so keen to leave and I was just waiting for that redundancy. Yeah. I went to the room and the most senior person, there was a lady who'd been with the company for more than 20 years and she was crying and I thought, ah, this isn't going to be very good.
 
 You know, when you go to a meeting already crying, the outcome's probably not going to be favorable for that person. And then as the penny dropped and it became clearer for people, there are just many ashen faces, many people very worried about what was going to happen to them. And, and I remember me at one stage, I literally said, can we just... because it was the way they were doing.... they were saying "here's the org chart now", and there's all these names right in, in the boxes. And then they're like, here's the org chart in the future and there's just titles and there's less boxes than there are names. And they weren't really saying it. And, and I was getting quite excited cause I'm like, Oh this is it.
 
-I'm going to get out. And I remember saying like, can we just stop the bullshit and someone just say clearly are you making jobs redundant. Cause I'm quite okay with that. You know, I just want you to be honest about it. But I'll always remember how worried most of that room was because they didn't have that plan B, their job was their life, and that to me, that just taught me a massively valuable lesson.
+I'm going to get up. And I remember saying like, can we just stop the bullshit and someone just psych? Clearly are you making jobs are done. Cause I'm quite okay with that. You know, I just want you to be honest about it. But I'll always remember how worried most of that room was because they didn't have that plan B. Their job was their life, and that to me, that Dutch has taught me a massively valuable lesson.
 
-**Michaela:** [00:45:06] Yeah, yeah. I was definitely that person. You know, that just very, very focused and dedicated to one thing and somehow blindsided. Right on one end, because I don't think that this dedication is from *unintelligible*. Especially for larger organizations. Right. So, yeah, I think that's a very valuable lesson.
-
-Yeah. 
+**Michaela:** [00:45:06] Yeah, yeah. I was definitely that person. You know, they're just very, very focused and dedicated to one thing and somehow blindsided. Right? On one end, because I don't think that this dedication is from Marshall sites. Especially for lateral organization. Right. So, yeah, I think that's a very valuable obsession. Yeah. 
 
 **Troy:** [00:45:26] No, you're, you're, you're right. And, and look at it, it might be that your boss loves you, right? Like the, you could have a fantastic relationship, but your boss is another individual within a larger organization that in certainly in a case like Pfizer might be making decisions multiple levels up the chain on the other side of the world, based on numbers in a spreadsheet.
 
 And it doesn't matter how much you love the place or how much you think your boss loves you. That is not going to save you when an accountant does the numbers and decides that they need to cut heads. 
 
-**Michaela:** [00:45:53] Yeah, and it also doesn't, you know, you have no influence over what your boss is going to do. Right. Maybe your ad manager is leaving, going some Burrell's being pre placed their reorg.
+**Michaela:** [00:45:53] Yeah, and it also doesn't, you know, you have no influence over what your boss is going to do. Right? Maybe your manager is leaving, going some Burrell's being pre placed their reorgs.
 
 There is so little control that you have over what's actually happening, but I think people should be more prepared for that. I see so many, I mean, even in my very. Close, you know, a network. I see people really dedicated to their job and not, you know, putting enough effort also to really care and prepare them for themselves.
 
-So I think that's really a really good, really good lesson. So are you, you're still doing a Pluralsight courses. There are many other platforms, course platforms out there. How would you make a choice. If you are a new trainer, a new teacher, how would you make the choice nowadays to think about where should I put my courses?
+So I think that's really a really good, really good lesson. So are you, you're still doing a Pluralsight courses. There are many other platforms, course platforms out there. How would you make a choice, if you are a new trainer, a new teacher, how would you make the choice nowadays to think about where should I put my courses?
 
-How did you make your choice back then. 
+How did you make your choice back then? 
 
 **Troy:** [00:46:47] Well, I made that choice back in 2012 and the way I might it was was pretty simple. I read a news article about another author who was doing exceptionally well. He was making like $1 million a year out of Pluralsight courses, and I saw that and I went, Oh, that might, that sounds good.
 
-I'd love to do that. Like I'd love to make $1 million a year out of total site closes. And I had a friend who was an author, so I asked him for an introduction and, and the rest is history. But you're right, it's a landscape that changes quite a bit. And certainly even within Perl site, it's changed. And, and I haven't actually done many courses lately.
+I'd love to do that. Like I'd love to make $1 million a year out of Pluralsight courses. And I had a friend who was an author, so I asked him for an introduction and, and the rest is history. But you're right, it's a landscape that changes quite a bit. And certainly even within Perl site, it's changed. And, and I haven't actually done many courses lately.
 
-I haven't done any courses for at least a year. And in fact, I had a meeting with them just the other day and we were chatting about more and, and what I'm trying to do is sort of find where the, the highest and best use of my time is. And one of the discussions I had with them as well, what's really different for me now as compared to 2012.
+I haven't done any courses for at least a year. And in fact, I had a meeting with them just the other day and we were chatting about more and, and what I'm trying to do is sort of find where the, the highest and best use of my time is. And one of the discussions I had with them as well, what's really different for me now as compared to 2012?
 
-Is that a lot of my value now sits in, in the fact that people know me and I have by some miracle of the universe, a profile and, and some fame. And that is actually more valuable than just the technical knowledge on its own. So for me. That has sort of changed over time in, in terms of it making less sense for me to sit there for hours and hours and hours editing content with Eastern, it makes more sense to do things that are much more visible, but there are a lot of different other platforms that are popped up that have different mechanisms of the way they recruit authors.
+Is that a lot of my value now sits in, in the fact that people know me and I have by some miracle of the universe, a profile and, and some fame. And that is actually more valuable than just the technical knowledge on its own. So for me, that has sort of changed over time in, in terms of it making less sense for me to sit there for hours and hours and hours editing content with Eastern, it makes more sense to do things that are much more visible, but there are a lot of different other platforms that are popped up that have different mechanisms of the way they recruit authors.
 
-The way they publish content, the way they monetize a Pluralsight worked well for me because they've paid royalties based on how much your content is watched. Turns out my content was popular so that that kind of worked well there. A lot of other situations where you'll be paid or say a one off payment for your content or where it might be a different monetization strategy.
+The way they publish content, the way they monetize a Pluralsight worked well for me because they've paid royalties based on how much your content is watched. Turns out my content was popular so that that kind of worked well. There are a lot of other situations where you'll be paid or say a one off payment for your content or where it might be a different monetization strategy.
 
 You've got to sort of think about, do you want to be on a tech platform or do you want to be on just a, just a massive e-learning platform of which tech is one thing . So there are lots of different decisions for someone to make. And of course there's always the route of self publishing and then there's all sorts of other things you can do independently of courses and videos as well.
 
@@ -344,43 +348,41 @@ You've got to sort of think about, do you want to be on a tech platform or do yo
 
 So it even, for me, I think, I think it'd be hard if, if I was, yeah, let's say I was eight years younger and I was just starting this now as opposed to in 2012 I think it'd be much, much more difficult for my content to rise above everyone else's, which is what's kind of needed in a royalty based model.
 
-And the, I guess the only reason I sort of hesitate is that no matter what the industry is as one opportunity declines, there are always others that emerge and there are lots of other ways of making money online, becoming independent, getting your content out there. There are a lot of other ways today than what they were before.
+And the, I guess the only reason I sort of hesitate is that no matter what the industry is as one opportunity declines, there are always others that emerge and there are lots of other ways of making money online, becoming independent, getting your content out there. There are a lot of other ways today than what there were before.
 
 There's probably lots of things that I haven't even thought of as well. So I don't think that the way I did it in 2012 is the way to do it today. But that's not to say that there's not still great opportunities. 
 
-**Michaela:** [00:49:55] And do you have some idea of what are the, in your mind, the best opportunities that are right now there for people.
+**Michaela:** [00:49:55] And do you have some idea of what are the, in your mind, the best opportunities that are right now there for people?
 
 **Troy:** [00:50:03] Well, that would be giving my secrets away.
 
-It does really depend. So obviously I think a lot about what makes sense for me. Uh, you know, one of the biggest opportunities for me in terms of a combination of the effort required and then the exposure, and then the return on the effort is the workshops. Because I've just. I've created the content. I don't do any preparation.
+It does really depend. So obviously I think a lot about what makes sense for me. Uh, you know, one of the biggest opportunities for me in terms of a combination of the effort required and then the exposure, and then the return on the effort is the workshops. Because I've just, I've created the content, I don't do any preparation,I turn up in a bank for two days. I talk, I leave, I send a bill job done. 
 
-I turn up in a bank for two days. I talk, I leave, I send a bill job done. It's actually super, super easy, but that's something which is going to be a lot harder for some other people to do the conference speech. I do a lot of commercial conference talks these days because there are companies that run events that.
+It's actually super, super easy, but that's something which is going to be a lot harder for some other people to do the conference speech. I do a lot of commercial conference talks these days because there are companies that run events that, That a commercial in nature and they want someone who can keynote and scare people about cyber things. 
 
-That a commercial in nature and they want someone who can keynote and scare people about cyber things and that, you know, that seems to be something I can do these days. So everyone's got to sort of find, not so much what, what the thing is that that works across the board, but what's the thing that leverages.
+And that, you know, that seems to be something I can do these days. So everyone's got to sort of find, not so much what, what the thing is that that works across the board, but what's the thing that leverages their expertise. 
 
-Their expertise. I found that, that my expertise was around how I communicate and present, and that's worked really well for me. Other people's expertise might be around the, the depth of their technical knowledge, you know, like find the thing that works for you. 
+I found that, that my expertise was around how I communicate and present, and that's worked really well for me. Other people's expertise might be around the, the depth of their technical knowledge, you know, like find the thing that works for you. 
 
 **Michaela:** [00:51:18] Yeah. I think also you are in really different place right now because I'm being, you know, a thought leader already.
 
-I don't think a paid speaking gigs are a big opportunity for others. Right? So very often I even read online on and Twitter's that people have to, you know, pay for going to conferences, having to pay their accommodation there or things like that. Right? So I think there, there are really worlds between you and others right 
+I don't think a paid speaking gigs are a big opportunity for others. Right? So very often I even read online on and Twitter's that people have to, you know, pay for going to conferences, having to pay their accommodation there or things like that. Right? So I think there, there are really worlds between you and others right now.
 
-**Troy:** [00:51:46] now.
-
-And let, let's be clear, cause you, you've used that term a couple of times now, the thought leader thing, like I didn't sit there, uh, 10, 11 years ago and I started blogging and getting out. I want to do, I want to be a thought leader, you know, like I started doing other things and then this followed. So I think if people sort of sit there and they master plan this whole thing out too much and they have this end goal in mind, I, I, I suspect that that is probably going to lead to a lot of disappointment as well.
+**Troy:** [00:51:46] And let, let's be clear, cause you, you've used that term a couple of times now, the thought leader thing, like I didn't sit there, uh, 10, 11 years ago and I started blogging and getting out. I want to do, I want to be a thought leader, you know, like I started doing other things and then this followed. So I think if people sort of sit there and they master plan this whole thing out too much and they have this end goal in mind, I, I, I suspect that that is probably going to lead to a lot of disappointment as well.
 
 So that I strongly believe the reason it all worked out so well for me is that I started doing this at a point where I didn't have to do it, and then I just adapted and I did what felt right and I changed on a very, very regular basis. And I still do that today. In fact, I was just thinking the other day, look, I've actually got to sit down and plan things out a little bit because the only thing that I've ever done is just reacted to the environment at the time.
 
-**Michaela:** [00:52:38] And I think that's a very good strategy. So because you said thought leader, do you feel, do you feel that you are a solid leader? Is that something that when you think about yourself, do you think about a thought
+**Michaela:** [00:52:38] And I think that's a very good strategy. So because you said thought leader, do you feel, do you feel that you are a thought leader? Is that something that when you think about yourself, do you think about a thought leader?
 
-**Troy:** [00:52:48] leader. It's not sort of a front of mind thing. I mean, I'm, I'm conscious of it in so far as if I put messaging out there positively about something negatively about something that influences people's perceptions.
+**Troy:** [00:52:48] It's not sort of a front of mind thing. I mean, I'm, I'm conscious of it in so far as if I put messaging out there positively about something, negatively about something that influences people's perceptions.
 
-Uh, I'm conscious that I've got, uh, a platform and a bit of a megaphone now. So. For example, if an organization does a bad security thing, I know that I can, I can sort of shame them a little bit and usually get results. And that's, that's something which, uh, it's, it's almost like with, with great power and responsibility, so on, I'm very, very aware of that.
+Uh, I'm conscious that I've got, uh, a platform and a bit of a megaphone now. So, for example, if an organization does a bad security thing, I know that I can, I can sort of shame them a little bit and usually get results. And that's, that's something which, uh, it's, it's almost like with, with great power and responsibility, so on, I'm very, very aware of that.
 
-Uh, some people are very unhappy actually, that I, that I have the ability to do that, that they get upset with for shame. But, uh, I've got a blog person that I don't really care about that 
+Uh, some people are very unhappy actually, that I, that I have the ability to do that, that they get upset with for shame. But, uh, I've got a blogpost that I don't really care about that .
 
-**Michaela:** [00:53:33] I will link all the progress. You mentioned 
+**Michaela:** [00:53:33] I will link all the progress you mentioned in the show notes. 
 
-**Troy:** [00:53:35] the show notes. So I actually think that having a platform and a voice and then being in an influencer position, it can really allow you to do some pretty awesome things.
+**Troy:** [00:53:35] So I actually think that having a platform and a voice and then being in an influencer position, it can really allow you to do some pretty awesome things.
 
 So I think about examples where organizations have been doing some fairly woeful security things, and I've been able to write about it or tweet about it. And get it changed in ways where someone who didn't have that following or profile wouldn't simply because the organization gets shamed, they get negative press, and then they're like, Oh yeah, we better not do that anymore.
 
@@ -394,17 +396,17 @@ So I thought it would be worthwhile having an included, never been paid. And thi
 
 **Michaela:** [00:55:15] Okay. And then do you pointed to a server where you can, for example, download the data or how does that work? 
 
-**Troy:** [00:55:20] Yeah, so very often, and as I've done a number of talks where I explain and show this, but very often people will do things like put it on mega trends, EDS, so mega trends. It is a really great file sharing platform though.
+**Troy:** [00:55:20] Yeah, so very often, and as I've done a number of talks where I explain and show this, but very often people will do things like put it on Mega.nz. So, Mega.nz is a really great file sharing platform though.
 
 They'll drop the data in there and then they'll send me a link and then I'd download it and verify it. And if it's all legit, load it up. 
 
-**Michaela:** [00:55:39] Okay. Yeah, that sounds, sounds interesting. Process. So there's also a lot of manual actually work involved from your side too, to have that website running. Is there, do you have any plans for that backside point of future?
+**Michaela:** [00:55:39] Okay. Yeah, that sounds, sounds interesting process. So there's also a lot of manual actually work involved from your side too, to have that website running. Is there, do you have any plans for that backside point of future?
 
 **Troy:** [00:55:54] Yeah. You know, the, the biggest day of head was about a year ago, had 10 million people in a day come to the website. So, yeah, that was popular. I actually announced in, in April, I was going to look at, uh, finding another organization to acquire it. And I started, in fact, I announced it in June. I started the process in April.
 
 And, uh, I wrote about that at the time, and literally today have been writing the blog posts, which will announce the outcome of that. So I really hope in the next week or two I can get that out there. And that is, yeah, it's just been an interesting year.
 
-**Michaela:** [00:56:33] And it's true. So, um, I think for my side, especially because we are running out of time, we, uh, I would like to wrap up the interview. Is there something from your side that I haven't, you know, haven't asked you, where you think that's an important message that you have and that you want to share with my listeners?
+**Michaela:** [00:56:33] Yeah it's true. So, um, I think for my side, especially because we are running out of time, we, uh, I would like to wrap up the interview. Is there something from your side that I haven't, you know, haven't asked you, where you think that's an important message that you have and that you want to share with my listeners?
 
 **Troy:** [00:56:51] Oh, look, I just think it's been a really interesting set of questions around both of the security side and the career side of things. And I guess if, if nothing else, I'd just suggest that people really sort of think about where they want to go with their career and, and take control of it. There's, it's just such an amazing industry.
 
@@ -414,11 +416,11 @@ So maybe there's a lesson there for me. Um, so I would encourage people to read 
 
 **Michaela:** [00:57:37] Yeah. Yeah. That's, I think that's a very good, clear thing. Things. Um, I read that blog post, it was amazing. I will also link it down there.
 
-So thank you. Try for being on my show today. 
+So thank you Troy for being on my show today. It was really a pleasure.
 
-**Troy:** [00:57:47] It was really a pleasure. My pleasure to be here. Thank you. Yeah, thank you. 
+**Troy:** [00:57:47] My pleasure to be here. Thank you.  
 
-**Michaela:** [00:57:51] I hope you enjoyed another episode after stuff engineering unlocked podcast. Don't forget to subscribe and I talk to you again in two weeks. 
+**Michaela:** [00:57:51] Yeah, thank you. I hope you enjoyed another episode after stuff engineering unlocked podcast. Don't forget to subscribe and I talk to you again in two weeks. 
 
 **Troy:** [00:58:01] Bye.
 
