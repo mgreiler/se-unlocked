@@ -269,7 +269,7 @@ share the interview in advance.
 We give them an actual problem and, uh, often we'll give them a real problem 
 that the team is trying to solve something we're actively working on that way. 
 They don't feel like it's some like, Hey, we're going to make a tic TAC toe 
-program in C++. We'll also give them some data, you know, give them some 
+program in C#. We'll also give them some data, you know, give them some 
 customer research, some mockups and stuff.
 And we want them to understand that it's not, we're asking you questions. It's 
 we want to work with you because we're going to work with you for years, right? 
@@ -553,5 +553,4 @@ Yeah, that would be great.
 **Michaela:** [00:35:51] Thank you so much. Have a good day. Bye bye Scott. I hope 
 you enjoyed another episode of Software Engineering Unlocked podcast. Don't 
 forget to subscribe. And I talked to you again. Bye.
-
 
