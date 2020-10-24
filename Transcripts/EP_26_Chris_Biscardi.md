@@ -1,27 +1,27 @@
 # Transcript Episode 26 with Chris Biscardi
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering
-Unlocked podcast. I'm your host, Doctor McKayla, and today I the pleasure to
+Unlocked podcast. I'm your host, Doctor McKayla, and today I have the pleasure to
 talk to Chris Biscardi. Chris has an independent consultant that works with
 startups built on open source. He's also a blogger, streamer, and the creator
-of the awesome Party Corgi community. Before he worked for Dropbox.
-And now he builds cool new frameworks such as Toast. But before I welcome 
+of the awesome Party Corgi community. Before, he worked for Dropbox.
+And now he builds cool new frameworks, such as Toast. But before I welcome 
 Chris, let me tell you about my awesome code review workshops. Yeah, in my 
 code review workshops you, and if you want, your whole team, can learn how to
 get the most out of code reviews. Because if we are honest, code reviews are
-very time consuming and therefore also a very expensive engineering practice.
+very time consuming, and therefore also a very expensive engineering practice.
 Well, that's where I come into play. I help teams to make code reviews 
 their super power instead of an expensive bottleneck. And to make it easier for
 you to find my workshop I got a brand new domain called AwesomeCodeReviews.com. 
 So don't hesitate to hop over to AwesomeCodeReviews.com. Now it's a great time 
-to book a workshop before the year closes or to propose it to your manager.
+to book a workshop before the year closes, or to propose it to your manager.
 But now let's go back to Chris. Chris, welcome to my show. 
 
 **Chris:** [00:01:09] Hey, thanks for having me. 
 
 **Michaela:** [00:01:10] Yeah, I'm really glad. So, Chris, uh, one of the
-things that I think I'm very interested in, I think a lot of my listeners are
+things that I think I'm very interested in, and I think a lot of my listeners are
 interested in is how come that you are now an independent consultant? What do
-you do? And especially I see that you have picked somehow a niche, right?
+you do? And especially, I see that you have picked somehow a niche, right?
 You're not a general, independent software engineer, you know, taking on any 
 project, but somehow you make specifically clear that you're taking on projects 
 that are, has a startup culture behind them, right? So they are having this new 
@@ -39,7 +39,7 @@ have very, very large open source presences. So I started out in open source. I
 continued in open source. And then when I went back to freelancing and then 
 eventually consulting, it was something that I just kind of like already had an 
 expertise in, right?
-I guess we'll talk about Party Corgi later, but like the whole like open 
+I guess we'll talk about Party Corgi later, but like the whole, like, open 
 source community and how do you deal with PRs and how do you deal with the 
 community at large and, what do you decide to work on and how do, what do you 
 tell to what people to get everything to move forward in a way that is 
@@ -67,7 +67,7 @@ specific.
 Um, but I have taken contracts from places that are sort of like just using open 
 source and they have a specific project they need me to work with and whatnot. 
 
-**Michaela:** [00:04:09] Okay. Yeah. I see. Yeah, but this is, as you say, it's 
+**Michaela:** [00:04:11] Okay. Yeah, Yeah I see. Yeah, but this is, as you say, it's 
 quite the difference, right? Also the things that you mentioned that these are 
 large projects, right?
 So, um, when you were saying startups, I was thinking this, you know, three 
@@ -76,7 +76,7 @@ they may be outsourced their, their development or something like that. But it
 seems that it's a complete different, different way of consultancy, which is 
 really focused on understanding community.
 As you said, understanding how open source works. So they are not only using 
-open source, but they are producing open source. So they have to believe and
+open source, but they are producing open source. So they have to breathe and
 know their the way in and out, right? That's really cool. Um, and when you're 
 looking at these different clients that you worked with, right? You said Docker, 
 you said Gatsby, and they're all open source.
@@ -113,14 +113,14 @@ space in the pie for everybody to take a slice and continue forward. Um, and
 realistically, I think that's the better option in the long-term. Because the 
 companies that I've seen take the competitive approach with their ecosystem 
 itself, in which case I wouldn't consider it so much of as much of a community.
-Um, they end up sort of like not doing as well because people are worried about, 
+Um, they end up sort of like, not doing as well because people are worried about, 
 "Oh, if we do this, what will they do, right? If we build this, will they launch 
 their own? And then what do we do at that point?" Whereas like, if you're more 
 collaborative, as you generate these software projects and work with your 
 ecosystem, you end up having a community that reinforces itself and grows,
 right? 
 
-**Michaela:** [00:07:18] And I mean, I don't know if this is, um, too 
+**Michaela:** [00:07:18] Mhm, and I mean, I don't know if this is, um, too 
 confidential or you don't want you to talk about it, but could you give some 
 examples of open source projects that are more community driven versus some
 that don't have a community or that are more ecosystem driven?
@@ -143,11 +143,11 @@ succeeding.
 **Michaela:** [00:08:31] Okay. And so how do you think that what's, what's the, 
 what's the core to that? That you know, if we have, if you build something, 
 how can we make sure that if one succeeds everybody succeeds, I mean, this is 
-such a nice, um, way a mindset, right?
+such a nice, um, way, a mindset, right?
 That we can strive for, but what are some of the things that we can do actively 
 do to get to that point? 
 
-**Chris:** [00:08:54] Yeah, I think that falls back onto the idea of, are you 
+**Chris:** [00:08:56] Yeah, I think that falls back onto the idea of, are you 
 going to be cooperative with people or are you going to be competitive with 
 people? And there's a lot there, there's a very interesting dynamic that we
 will probably get really, really deep into.
@@ -155,26 +155,26 @@ Um, but I won't get too deep into that is like the VC funding and open source
 startup dynamic. And that kind of like forces you into this competitive nature 
 because you often feel like, um, as somebody who has taken this money that you 
 need to win, right? Uh, and sometimes that crosses over or often that crosses 
-over into, I need to win at the cost of other people.
+over into, "I need to win at the cost of other people".
 And when, in reality we think of software. And if you, if you've read books like 
 working in public and whatnot, you understand that like, if you were taking milk 
-from a cow or like trees from a forest or something like. Sometimes those are 
+from a cow or like trees from a forest or something. like, sometimes those are 
 renewable, but they're kind of finite, right? Like there aren't infinite amounts 
 of trees and there aren't infinite amounts of cows.
 Um, but there's almost infinite amounts of like the ability to download a copy 
-of the software, right? Like if I download the software, it doesn't prevent you 
+of the software, right? Like, if I download the software, it doesn't prevent you 
 from downloading the software. So there's a sense of where this like competitive 
 versus community, uh, dynamic plays out on almost every level. Um, and it's 
 fundamentally informed by the way that software works and like software 
 distribution works.
 
-**Michaela:** [00:10:12] Okay. Yeah. Well, this brings me somehow also to your 
+**Michaela:** [00:10:14] Okay. Yeah. Well, this brings me somehow also to your 
 community, because I feel that your community is really awesome place to be in. 
 Um, it's called Party Corgi. Yeah. It's a platform. It's a community for 
 creators. That's how I would describe it. But, um, maybe you can go into more 
 detail. What's your vision with it?
 And what's, you know, what's the heart of this community and, why do you think 
-what's, what seeds did you plant and what are people doing in this community 
+what, what seeds did you plant and what are people doing in this community 
 that, you know, people are feeling so welcome there? 
 
 **Chris:** [00:10:46] Um, I think it comes down to a number of different things. 
@@ -208,7 +208,7 @@ of what Party Corgi network is to me today.
 Um, it is a housing that creates shared infrastructure that supports these kinds 
 of, uh, communities inside of it. 
 
-**Michaela:** [00:12:43] Yeah. One of the things that I'm just, I'm writing a 
+**Michaela:** [00:12:44] Yeah. One of the things that I'm just, I'm writing a 
 book about code reviews, and one of the things that I really stress in my 
 code review workshops for example, is that if we are interacting, collaborating
 with each other, that somehow we have a framework of rules.
@@ -221,12 +221,12 @@ that we have such a very stable framework that we know, you know, this is how we
 are expecting to behave with each other.
 And this is also the consequences if you are not, if you are not following the 
 rules, right? Because rules without any consequences, are somehow just air. Um, 
-what's your vision for the that? Do you have, do you have like community roles, 
+what's your vision for the that? Do you have, do you have like community rules, 
 uh, for your Party Corgi, Corgi community? How do they look like, have you 
 thought a lot about that?
 Um, what's your take on that? 
 
-**Chris:** [00:13:47] Uh, so we do have a code of conduct and it's enforced, uh, 
+**Chris:** [00:13:48] Uh, so we do have a code of conduct and it's enforced, uh, 
 very firmly when it needs to be. A lot of the wording and the mechanisms through 
 which the code of conduct, uh, was drafted up, comes from the community 
 covenant. Um, and I believe the domain is lgbtq.tech has another code of conduct 
@@ -263,7 +263,7 @@ firm about, "Hey, this is the community, this is what we want here. Um, if you
 don't want this and you don't want to participate with these rules, then you can 
 go somewhere else, then that's, that's fine."
 
-**Michaela:** [00:16:18] Okay, so if we feed that back into software development and 
+**Michaela:** [00:16:19] Okay, so if we feed that back into software development and 
 collaboration, right?
 So writing software together now you're very experienced in the open source, so
 maybe having also some open source perspective here, but how can we feed back 
@@ -271,18 +271,18 @@ those learnings how we actually build a healthy community? How can we feed that
 back into, you know, software collaboration? How can we feed that back in our 
 interactions that we have when we are building software because somehow I feel,
 especially for community, somehow it's much more explicit, right? Every
-Facebook community that you are entering into, or a lot not every unfortunately,
+Facebook community that you are entering into, or a lot, not every unfortunately,
 but a lot have at least some, you know, some rules of how to behave that you
 have to, you know, adhere to.
 But now in software development, even, um, starting at the new company, it's I 
-think less direct. Yeah, definitely have something. And maybe you have an 
+think less direct. Yeah, I'ts less direct. definitely have something. And maybe you have an 
 employee handbook, but who reads it? Who enforces it? How do we behave? Right? 
 There are, I think there are a lot of power struggles happening daily in all of 
 the offices and places and remote work and whatnot, right?
 All over the place. So how can we take those learnings from community 
 building and to bring them into our day to day work life?
 
-**Chris:** [00:17:31] Yeah. I mean, I think that, um, when it comes down 
+**Chris:** [00:17:35] Yeah. I mean, I think that, um, when it comes down 
 to it and you talk about open source and community and like the Party Corgi 
 network, uh, community, those are basically the same thing, right?
 Um, and if you look at the way that Rust runs their community, uh, is a 
@@ -293,7 +293,7 @@ goes over like, uh, how different groups are set up to own different pieces
 of the Rust of community, for example.
 And it's very similar to the way that Party Corgi has different people owning 
 different channels and responsible for different sub areas of the community, 
-right? And like Rust is far, far, far bigger, so they're further along and
+right? And like Rust is far, far, far bigger, so they're far further along and
 developed. Um, but I truly believe that, like if you're trying to build a group
 of humans together, uh, working towards common purposes that this approach of
 that I took with Party Corgi and whatnot is the same approach that you need to
@@ -301,8 +301,8 @@ take with open source is the same approach that you needed to take with your
 business. Uh, if you want this to be a positive thing going forward and
 self-reinforcing, right?
 
-**Michaela:** [00:18:42] Okay. And so if you could summarize it, what is that 
-approach? So what can we take and how can we take it then? You know, what's the 
+**Michaela:** [00:18:45] Okay. And so if you could summarize it, what is that 
+approach? So what can we take and how can we take it then, you know, what's the 
 ingredient for that? What's the recipe?
 
 **Chris:** [00:18:55] Sure, um, so, I guess in the early days, like show up and
@@ -325,7 +325,7 @@ would, I would to take away is that the things that you do as the person who
 found the community or the company or the project will influence how people act
 for the rest of the existence of the community?
 
-**Michaela:** [00:20:16] Okay. And so do you have also some, this is somehow if 
+**Michaela:** [00:20:18] Okay. And so do you have also some, this is somehow if 
 you are really in a position of power, right? We are the creator. We are maybe 
 the startup founder or early employees or something. How can we do that as an 
 employee in a larger organization, in something that we know has already its
@@ -337,7 +337,7 @@ different communities that you are not a leader of, but that you're entering in
 and you're, you're thinking, well, how can we, you know, change maybe a little
 bit or put it in the right direction?
 
-**Chris:** [00:21:05] The answer to that is that, uh, if you don't have any 
+**Chris:** [00:21:07] The answer to that is that, uh, if you don't have any 
 power in a situation, like a company or whatnot, you probably aren't going to 
 affect much change. Um, so if you're going to try to affect change, you either 
 need like collective action. There have been, uh, things like petitions at 
@@ -352,20 +352,20 @@ leave and go somewhere else or you will spend your entire time there fighting
 this fight or fighting this fight and you will burn out and I've seen plenty of 
 people be like, "No, I'm going to fix this from the inside." Um, and then that 
 results in burnout because they care so much, they put so much of their energy 
-into it, tt takes over their life. And then a change doesn't happen because the
+into it, it takes over their life. And then a change doesn't happen because the
 people with the power don't want it. 
 
-**Michaela:** [00:22:14] Yeah. Yeah. Oh, um, that's very depressing, but yeah. 
-Yeah. I agree. I also think that it's a, yeah, it's really hard if, if you are 
+**Michaela:** [00:22:15] Mhm, yeah. Yeah. Oh, um, that's very depressing, but yeah. 
+I agree. I also think that it's a, yeah, it's really hard if, if you are 
 not having any power to do anything, but I also think that maybe in the little 
 we can change and influence a little bit, the people surrounding us, right?
 It could be our colleagues or our, our inner. Maybe our manager that manages 
 us, we have some conversation and we change it a little bit, the perspective 
 of, of the people. Um...
 
-**Chris:** [00:22:52] Yeah, for sure. 
+**Chris:** [00:22:54] Yeah, for sure. 
 
-**Michaela:** [00:22:54] So, what I wanted to talk with you about also is so for 
+**Michaela:** [00:22:55] So, what I wanted to talk with you about also is so for 
 engineering practices, and I started a little bit with that.
 Um, so when you coming into this project, right in these startups, what about 
 the software engineering practices that you see? What are some of the things 
@@ -375,10 +375,10 @@ influence and what can you just, you know, except as, as it is, right. If
 you're going into, you know, a new work arrangement, um, and you see that some
 of the practices are not done in the way that you would like them to, to be
 done, uh, can you, do you feel that you can change that? Do you try to change
-that? Um, do you adopt to the processes over there and in general, how diverse
+that? Um, do you adopt to the processes over there and, in general, how diverse
 are the processes that you are seeing?
 
-**Chris:** [00:23:46] Uh, it depends a lot, right? Like, um, for example, if 
+**Chris:** [00:23:47] Uh, it depends a lot, right? Like, um, for example, if 
 somebody is using, I'm not going to name any video production software, but like 
 if somebody is using some video software to have their meetings that is awful 
 and preventing their teams from communicating effectively and whatnot, um, uh, 
@@ -405,7 +405,7 @@ employee says something and I'm like, that is the right thing to do, I can
 repeat that and sort of like raise their voice to the level of the people who
 are listening, right?
 
-**Michaela:** [00:25:43] Amplifying that. Yeah. And so how do your contracts 
+**Michaela:** [00:25:45] Amplifying that. Yeah. And so how do your contracts 
 look like? Are they like long term or you're just going in, you know, for a 
 couple of hours consulting on one specific topic, or do you, you know, are you 
 with the company for several months and help them on an ongoing project or 
@@ -433,7 +433,7 @@ Um, and then there's a longer term contracts, right? So the work I did with say
 Gatsby, for example, uh, they wanted me to actually do work on their community 
 and their, um, uh, open source project and things like that.
 So I was writing code and doing, and doing user research and working with the 
-community to, uh, bring Gatsby Themes to life. And some other things like
+community to, uh, bring Gatsby Themes to life. And some other things like///
 gatsby-plugin-mdx, um, and that is a longer term R&D project. Uh, so that was 
 framed more as a retainer than a, um, like short term project. 
 
