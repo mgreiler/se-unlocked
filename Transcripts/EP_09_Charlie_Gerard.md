@@ -1,339 +1,339 @@
-Charlie-Gerard-9-Ready
-**Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
-podcast. 
-I'm your host, dr. McKayla. And today I have the pleasure to talk to Charlie 
-Jarrett. Charlie is a software engineer and creative technologies she currently 
-works for at  the company behind developing known software products, such as 
+**Michaela:** [00:00:00] Hello, and welcome to the _Software Engineering Unlocked_ podcast. 
+I'm your host, Dr. Michaela. And today I have the pleasure to talk to Charlie Gerard.
+Charlie is a software engineer and creative technologist. She currently 
+works at Atlassian, the company behind the well-known software products such as 
 JIRA, Bitbucket, or Trello.
-Charlie works on the planning and backtracking software JIRA in her free time. 
-Charlie tinkers with electronics and build spring control interfaces. I'm super 
-thrilled. You have to know her and to learn more about your work today. Charlie, 
+
+Charlie works on the planning and backtracking software JIRA. In her free time.,
+Charlie tinkers with electronics and build brain-control interfaces. I'm super 
+thrilled to get to know her and to learn more about her work today. Charlie, 
 thank you for being on my show. 
 
 **Charlie:** [00:00:34] Thank you so much for having me.
-I'm really, I'm really excited for this chat. 
+I'm really, excited for this chat. 
 
-**Michaela:** [00:00:38] Yeah, me too, Charlie. So let's start at the beginning 
-a little bit over half a year ago, you started working at Atlassian. What 
-exactly entails your role? What are you responsible 
+**Michaela:** [00:00:38] Yeah, me too. Well, Charlie, so let's start at the beginning.
+A little bit over half a year ago, you started working at Atlassian. What 
+exactly entails your role? What are you responsible for?
 
-**Charlie:** [00:00:48] for? Um, sure. So I'm a front end developer on, uh, the 
-GBR product. And, uh, my team is more focused on is around the navigation and 
-what we call the, where like the findability teams.
-So what that means is we're in charge of trying to make information more easily 
-findable by, by our users. Cause we, uh, we know that it's sometimes a bit hard 
-for our users to find what they're looking for inside JIRA. So my team is in 
-charge of trying to. Improve the experience and building features around the 
-navigation and homepage to allow people to find what they're looking for more 
-easily is that 
+**Charlie:** [00:00:48] Sure. So I'm a front-end developer on the JIRA product,
+and, uh, my team is more focused on is around the navigation and 
+what we call the — we're like the "findability" team,
+so what that means is we're in charge of trying to make information more easily 
+findable by our users. Cause we know that it's sometimes a bit hard for our users
+to find what they're looking for inside JIRA. So my team is in charge of trying to
+improve that experience and building features around the navigation and homepage to
+allow people to find what they're looking for more easily. 
 
-**Michaela:** [00:01:27] also has to do with search.
-So how you're searching JIRA or is it mainly, really about how you display 
-different informations? 
-**Charlie:** [00:01:35] So at the moment, um, what I know that I'm gonna be 
-working on very soon is, uh, when you look at it, the first page of JIRA, 
-there's like a, you, your work tab. And, uh, what we want is, uh, depending on 
-your last activity in Shira, we want to organize the homepage in a way that it 
-will show you what you've worked on in the, in the last few days or what you've 
-searched.
-So I'm not. I'm going to be working on specifically on, on a search bar, but we 
+**Michaela:** [00:01:27] Is it also, has it to do with search? So, how you're
+searching JIRA? Or is it mainly, really about how you display different informations?
+
+**Charlie:** [00:01:35] So at the moment, what I know that I'm gonna be 
+working on very soon is, when you load the first page of JIRA, 
+there's like a "Your Work" tab. And what we want is, depending on 
+your last activity in JIRA, we want to organize the homepage in a way that it 
+will show you what you've worked on in the last few days or what you've searched.
+So I'm not going to be working on specifically on a search bar, but we 
 want to display the last information that you've been looking for, or the last 
 projects that you've been looking at to help you remember what you've been doing 
-in the last few days, because in general, we assume that, uh, if you have been 
-visiting some, um, some boards or some projects in the last few days, it is 
-probably relating to what you're working on right now.
-So we want to make that easy to find when you load a, the, you know, the 
-homepage. 
+in the last few days, because in general, we assume that if you have been 
+visiting some some boards or some projects in the last few days, it is 
+probably related to what you're working on right now.
+So we want to make that easy to find when you load JIRA, the, you know, the homepage. 
 
 **Michaela:** [00:02:22] Yeah, I understand. So it's really about the context 
-that you have been in last time, and then you display information that's helpful 
-**Charlie:** [00:02:30] for things like displaying. Yes. Building, building 
-features in a way that is easy to find for, for people.
-Yeah. 
-**Michaela:** [00:02:37] God. It's really cool. So I know that, um, we didn't 
-six months, a little bit over six months that you have been at Atlassian right 
-now. You already switched teams once. Um, have you seen differences between 
+that you have been in last time, and then you display information that's helpful for that.
+
+**Charlie:** [00:02:30] Yes. Building features in a way that is easy to find for people, yeah.
+
+**Michaela:** [00:02:37] That is really cool. So I know that within the six months,
+a little bit over six months that you have been at Atlassian right now,
+you already switched teams once. Um, have you seen differences between 
 those two teams? How do you work? How they operate? What they, yeah. What 
 software engineering practices do they have or has it been very streamlined?
 Is it very streamlined at Atlassian? 
-**Charlie:** [00:03:01] Um, so in terms of where the tech stack was, um, the 
+
+**Charlie:** [00:03:01] So, in terms of... well, the tech stack was the 
 same and the process was the same because I was still on JIRA and I was still a 
-front end developer, but my previous team was supposed to be in charge of the 
-analytics around the way people navigate JIRA. So. Where people come from, where 
+front-end developer, but my previous team was supposed to be in charge of the 
+analytics around the way people navigate JIRA, so understanding where people come from, where 
 they go and to try and actually help redesign the navigation.
 That was the purpose of the team. But then when I actually was in that team, we 
-worked on something that was a little bit different too. Sometimes it felt like 
+worked on something that was a little bit different. Sometimes it felt like 
 we didn't really own a particular part of JIRA. So I think that's the main 
-difference. Whereas now, My work is a bit more clear, at least, at least for me.
-And so in the, in the, the team itself, my previous team was a lot smaller. We 
-were around four people and we were only all developers. Whereas now my team is 
-a bit bigger about maybe eight, nine people. And, uh, we have a designer with us 
-as well that we didn't have before. Uh, so we still the majority of developers, 
-but, uh, now we have a designer.
-So we, I feel like we have more of a proper vision of where we're going. So I 
-think in terms of context of the team, uh, it would be different, but in the 
-process of using software, we're all kind of doing the same way. So that hasn't 
+difference, whereas now, my work is a bit more clear, at least for me.
+And so in the the team itself, my previous team was a lot smaller. We 
+were around four people and we were only all developers, whereas now my team is 
+a bit bigger. We're about maybe eight, nine people. And we have a designer with us 
+as well that we didn't have before. So we're still a majority of developers, 
+but, uh, now we have a designer, so I feel like we have more of a proper vision
+of where we're going. So I think in terms of context of the team, it's a bit different,
+but in the process of building software, we're all kind of doing it the same way. So that hasn't 
 really changed. 
+
 **Michaela:** [00:04:20] Okay. So it's interesting that you say that because you 
-have a different roles on your team.
-So for example, the designer, you have a more clear vision of where you go is 
-that because this other person brings on a different set of expertise that you 
-normally lack. And now that you have access to that, Expertise or have input. 
-Um, you feel that that's making your journey more clearly or? 
+have different roles on your team—so for example, the designer—you have a more clear vision of where you go.
+Is that because this other person brings on a different set of expertise that you 
+normally lack, and now that you have access to that expertise or that input, 
+you feel that that's making your journey more clearly, or...? 
+
 **Charlie:** [00:04:46] Yes, definitely.
-Because, well, now that we have a designer and maybe more a product focused 
-people, we actually have a better idea of what we need to build or what the, 
-what our users, um, would. Benefit from, I feel like when you have a team that's 
-only developers. People might focus only on how to build the features, how to 
+Because, well, now that we have a designer and maybe more product-focused 
+people, we actually have a better idea of what we need to build or what 
+our users would benefit from. I feel like when you have a team that's 
+only developers, people might focus only on how to build the features, how to 
 write the best code, not always how to actually write or build the right 
-features for, for the, the user.
-So I usually like really to have people from different places cleans because I 
-feel like it brings different ideas. So having, having a designer is really 
-important to me, because then we can, uh, we can have this person really think 
-about the experience of the user. Maybe get feedback before we actually build 
+features for the end user.
+So I usually like really to have people from different facilities because I 
+feel like it brings different ideas. So having a designer is really 
+important to me, because then we can have this person really think 
+about the experience of the user, maybe get feedback before we actually build 
 something.
 So it is different in that way, meaning that I know that what we're building has 
 been eventually tested with users, or we've actually been trying to think about 
 what the users wants before going into building a feature. 
-**Michaela:** [00:05:44] And do you also have, like you said, product people, so 
-do you have like a product managers or product owners on your team?
-**Charlie:** [00:05:52] So I think our team lead has like a product mindset. So 
+
+**Michaela:** [00:05:44] Mmhmm. And do you also have, like you said, product people, so 
+do you have like product managers or product owners on your team as well?
+
+**Charlie:** [00:05:52] So, I think our team lead has like a product mindset. So 
 I feel like he's doing a bit of both. So we have proper tech leads in our team 
 as well, but I feel like our team lead is more of the product person. So he's 
 really focused on trying to figure out what we should build, what the roadmap 
-should be. So I feel like it's a good mix of, uh, of skills and, uh, of ideas as 
+should be. So I feel like it's a good mix of skills and of ideas as 
 well.
-**Michaela:** [00:06:14] And so you said that the tech stack and the processes 
+
+**Michaela:** [00:06:14] Mmhmm. And so you said that the tech stack and the processes 
 were the same because you have been on JIRA. So what is the tech stack that JIRA 
-is building? 
-**Charlie:** [00:06:23] So the, at the moment our tech stack is pretty modern 
-actually. So we have, uh, react and Redux, uh, like, you know, a lot of 
-different parts, like a lot of other products, but yeah, so it's mainly a react 
-and Redux.
-We are using, uh, flow for the type system, but in some parts of the 
-application, we also have a TypeScript. For our design system. So sometimes we 
-have to switch between both protesting. We use a, we use Cyprus, we push 
-everything to Bitbucket because we use our own products and that's mainly it. 
-Oh, we used the story books to make sure that our fishers, you know, we can see 
+is built on? 
+
+**Charlie:** [00:06:23] So, at the moment our tech stack is pretty modern 
+actually, so we have React and Redux, like a lot of other products, but yeah,
+so it's mainly React and Redux.
+We are using Flow for the type system, but in some parts of the 
+application, we also have TypeScript for our design system, so sometimes we 
+have to switch between both. For testing, we use Cypress. We push 
+everything to Bitbucket because we use our own products. And that's mainly it. 
+Oh, we use Storybooks to make sure that our features, you know, we can see 
 what they're supposed to look like.
-Oh, and in terms of CSS, uh, we use a bit of CSS ingest as well to organize our 
-things into modules. And I think that's pretty, like we have a pretty standard 
-textile, but it's quite modern, so that's nice. 
-**Michaela:** [00:07:16] Okay. And so what about the processes and engineering 
+Oh, and in terms of CSS, we use a bit of CSS-in-JS as well to organize our 
+things into modules. And I think that's pretty much it. Like, we have a pretty standard 
+tech stack, but it's quite modern, so that's nice. 
+
+**Michaela:** [00:07:16] Okay. And so what about the processeses and engineering 
 practices? So you talked about testing, so apparently you do automate the tasks.
 Is there some rules about, you know, how much you should test your system? 
-Should every unit have a unit test? 
-**Charlie:** [00:07:30] What 
-**Michaela:** [00:07:30] is, what is going on 
-**Charlie:** [00:07:31] there at lesson? Sure. I think it's more about what you 
-think is right to, um, to desks. Obviously we don't, we want absolutely every 
-right function in your coupon and to be tested.
-It's more about what is, what is critical? What has a risk to a break? For 
-example, sometimes for some components, we have some snapshots test as well, but 
-not all of them. Um, have it, cause sometimes it's not really even official. But 
-it's more up to the developer, developing the feature to figure out what they 
-think is right to test personally, I like to this because it gives me a bit more 
-confidence, but there is parts of the, of the code base that don't have that 
-much test either because we had to deliver faster because of the, of a pro 
+Should every unit have a unit test? What is going on there at Atlassian?
+
+**Charlie:** [00:07:31] Sure. I think it's more about what you 
+think is right to test. So, obviously we don't really want absolutely every 
+function in your component to be tested.
+It's more about what what is critical, what has a risk to break for example. 
+Sometimes, for some components, we have some snapshots tests as well, but 
+not all of them have it, cause sometimes it's not really beneficial. But 
+it's more up to the developer developing the feature to figure out what they 
+think is right to test. Personally, I like to test because it gives me a bit more 
+confidence, but there is parts of the code base that don't have that 
+much tests either because we had to deliver fast or because of the developer 
 didn't think it was necessary.
 I think it's more up to the developer. It's always better to have tests because 
-we have people, we all review each other's code. So if I see that somebody's. I 
-did a few shows, but they didn't test. Then usually I comment on that PR and ask 
-them, uh, you know, maybe like, did you forget to add test or maybe do you need 
+we all review each other's code. So if I see that somebody added a feature
+but they didn't test, then usually I comment on that PR and ask 
+them, you know, maybe like, did you forget to add tests or maybe do you need 
 some help to write some?
-Because it's important to me, but I, I trust my colleagues to make the right 
-decisions. Okay. 
-**Michaela:** [00:08:41] So you said already code review. So culture, is it 
-something that's standard in your development process? Is, does this mean that 
-every code change has to be reviewed? I guess some rules about how many people 
-have to review that, or, you know, how many thumbs up you have to have things 
+Because it's important to me, but I trust my colleagues to make the right 
+decisions. 
+
+**Michaela:** [00:08:41] Okay. So you said already code review. So code reviews is 
+something that's standard in your development processes? Does this mean that 
+every code change has to be reviewed? Are there some rules about how many people 
+have to review that, or, you know, how many thumbs up you have to have, things 
 like that?
-**Charlie:** [00:09:02] Um, so I believe that every piece of code that we're 
-about to merge, um, has to be reviewed, uh, from, from what I know of from what 
-I've done so far, at least. Um, and in terms of who gets to review it, 
-personally, what I do is that if I am modifying a certain piece of code, um, Uh, 
-I look at who was involved in the previous version of, of that component or in 
-that part of the code.
-And I try to add them in the pull request, because if they've been working on 
-that feature before they might be the right person to understand what has been 
-modifying or what I've been trying to do. But also, um, I'm always going to try 
-to add somebody from my team, because if we're building a new teacher, people 
-inside my team have the context about what I'm trying to change.
-Usually I don't, I try not to, I do many people, so I might need to add two or 
+
+**Charlie:** [00:09:02] So, I believe that every piece of code that we're 
+about to merge has to be reviewed, from what I know of from what 
+I've done so far, at least. And in terms of who gets to review it, 
+personally, what I do is that if I am modifying a certain piece of code, 
+I look at who was involved in the previous version of that component or in 
+that part of the code and I'll try to add them in the pull request, because if
+they've been working on that feature before, they might be the right person 
+to understand what I've been modifying or what I've been trying to do.
+But also, I'm always going to try to add somebody from my team, because if we're building
+a new feature, people inside my team have the context about what I'm trying to change.
+Usually, I try not add too many people, so I might need to add two or 
 three, but then sometimes automatically Bitbucket is gonna assign more people to 
-the PR depending on who modified the codes before me. So sometimes I can add two 
-of my team members and we'll see that I forgot somebody who modified the code 
-before that might not be in my current team.
-And it will automatically add, um, add these people, but in terms of approval, 
-Uh, you need at least one person, if you have more food, but it's not necessary, 
-you need to, you need one person to approve, to be able to then merge the PR. 
-**Michaela:** [00:10:24] And so I noted at  and you embrace his principles like 
+the PR depending on who modified the code before me. So sometimes I can add two 
+of my team members and Bitbucket will see that I forgot somebody who modified the code 
+before that might not be in my current team 
+and it will automatically add these people. But in terms of approval, 
+you need at least one person. If you have more, good, but it's not necessary, 
+You need one person to approve to be able to then merge the PR. 
+
+**Michaela:** [00:10:24] Mmhmm. And so I noted at Atlassian, you embrace Agile principles like 
 continuous improvement and iterations and things like that.
-Do you also strive for continuous integration and continuous deployment? And 
-**Charlie:** [00:10:37] how long does a 
-**Michaela:** [00:10:38] code. Usually take from, you know, when you develop it, 
-let's say you develop and test it on your machine. How long does it take that 
-it's really deployed in production and 
-**Charlie:** [00:10:48] which steps are involved 
-**Michaela:** [00:10:50] during that, that continuous integration or deployment 
-process?
-**Charlie:** [00:10:54] Sure. So we, we definitely do have a continuous 
-integration, a deployment we deploy to production. I'd say at least once a day, 
-I wouldn't be here. Exactly sure. About how frequent, but I think we do it as 
-frequent as. Possible because JIRA is a very, a big application. I think we have 
-more than a a hundred Dave working on the front end of JIRA.
+Do you also strive for continuous integration and continuous deployment? And how long does 
+code usually take from, you know, when you develop it—let's say you develop and test it on your machine—
+how long does it take that it's really deployed in production and which steps are involved 
+during that continuous integration or deployment process?
+
+
+**Charlie:** [00:10:54] Sure. So we, we definitely do have continuous 
+integration and deployment. We deploy to production, I'd say, at least once a day, 
+I wouldn't be exactly sure about how frequent, but I think we do it as 
+frequent as possible because JIRA is a very, a big application. I think we have 
+more than a hundred devs working on the front end of JIRA.
 So it means that every time I work on my features, I actually have a lot of 
-other developers working on their own brunches. So it means that if, when I try 
-to pull from master before I actually write, uh, create my new branch, actually 
-have I see all the other branches and pull requests that other developers have 
-created while I've been working on, um, on my, on my parts.
+other developers working on their own brunches. So it means that when I try 
+to pull from master before I actually create my new branch, I actually 
+see all the other branches and pull requests that other developers have 
+created while I've been working on my parts.
 So we tried to actually deploy and merge as often as possible, because that will 
-reduce the, the risk of breaking, uh, something. And if it breaks, then it means 
-that we don't have to many changes that we have to look at if we break 
+reduce the risk of us breaking something. And if it breaks, then it means 
+that we don't have too many changes that we have to look at if we break 
 something. So we're definitely trying to deploy as often as possible. And in 
-terms of how long it takes for a feature to go to a production, it really 
-depends on what your working on.
-So for example, in my previous team, um, when I was working on adding, um, 
+terms of how long it takes for a feature to go to production, it really 
+depends on what you're working on.
+So for example, in my previous team, when I was working on adding 
 profile counts in the front end of JIRA. So what that was is when you hover over 
-the name of a user, you can see a profile cards being displayed with the avatar 
-and the name of the person in the email. If you want to get in contact with them 
+the name of a user, you can see a profile card being displayed with the avatar 
+and the name of the person and the email if you want to get in contact with them 
 or something like that.
-And that actually took us a few months because we had to, uh, there was so many 
-guests he could, that was there that we had to clean up. And, uh, we wanted to 
+And that actually took us a few months because we had there was some 
+legacy code that was there that we had to clean up, and we wanted to 
 create this package in a way that it would be easily reusable across the 
-application. And we wanted to provide an API that was easy for other developers 
+application, and we wanted to provide an API that was easy for other developers 
 to add it to that part of JIRA or later on.
-So it was a bigger restructure then, then the features that we can work on. So 
-that took a few. Months for us from start to finish because we ran into a few 
+So it was a bigger restructure than other features that we can work on. So 
+that took a few months for us from start to finish, because we ran into a few 
 issues as well, but more recently there's been some tasks that I've had to do 
-that we're just cleaning up some feature flags that hadn't been cleaned up in a 
-while.
-And that can be much to production. Yeah. Mean in a day. Uh, it, depending on, 
-um, if the feature flag and on another feature or something, if it's, uh, if 
-it's quite isolated, um, it's pretty. Easy to clean up and you can get it 
+that were just cleaning up some feature flags that hadn't been cleaned up in a 
+while, and that can be merged to production in a day, depending on 
+if the feature flag is dependent on another feature or something. 
+If it's quite isolated, it's pretty easy to clean up and you can get it 
 approved in just a few minutes and you can then merge that and it could be 
 deployed by the end of the day.
-So depending on the size of the feature, the cycle can be quite fast. Uh, 
-otherwise it doesn't, even if you have quite a lot of review on your PR or even 
-if it ends up being a change, that's longer, nothing stops you from actually 
-starting another ticket while the build is running. For example. Cause that can 
+So depending on the size of the feature, the cycle can be quite fast. 
+Otherwise it doesn't, even if you have quite a lot of review on your PR or even 
+if it ends up being a change that's longer, nothing stops you from actually 
+starting another ticket while the build is running, for example, 'cause that can 
 take quite a bit of time.
-So it's sometimes up to you to try to close as many tickets as you can. And 
+So it's sometimes up to you to try to close as many tickets as you can, and 
 maybe while one is building and is taking more time, you can pick up a smaller 
-one just to try to get things rolling. Basically. 
-**Michaela:** [00:13:58] And so you said the build takes a little bit of time. 
-Um, do you have an idea of how long it takes?
-**Charlie:** [00:14:05] Yeah, sometimes it is quite frustrating. I have to say. 
-Um, so I think, I would say at least. 40 minutes sometimes. Um, I think it's 
-quite long, so I don't know if maybe in other companies it's actually not long, 
+one just to try to get things rolling, basically. 
+
+**Michaela:** [00:13:58] Mmhmm, mmhmm. And so, you said the build takes a little bit of time. 
+Do you have an idea of how long it takes?
+
+**Charlie:** [00:14:05] Yeah, sometimes it is quite frustrating, I have to say. 
+So I think... I would say at least 40 minutes sometimes, which I think it's 
+quite long, so I don't know if, maybe in other companies, it's actually not long, 
 but it can be sometimes quite frustrating because as the application is pretty 
-big, You rarely run all the tests locally.
+big, you rarely run all the tests locally.
 So you might run the test of your little package that you've modified and you 
 check that these tests are, you know, passing, but then when you actually push 
-and it goes through the, the pipeline and you know, you're running the build. 
-Um, sometimes you only realize that at the end of the build that you broke 
+and it goes through the pipeline and, you know, you're running the build, 
+sometimes you only realize that at the end of the build that you broke 
 something in another component.
-So it means that you only know eventually 40 minutes later. That you actually 
-have to go back and modify something. So sometimes yeah, it can be quite 
-frustrating when you're almost sure that you know, that you're ready to open 
-your, your PR or, or that you think that you're done. You actually only know the 
+So it means that you only know, eventually, 40 minutes later that you actually 
+have to go back and modify something. So sometimes it can be quite 
+frustrating when you're almost sure that you're ready to open 
+your PR or that you think that you're done, you actually only know the 
 issue 40 minutes later.
-Um, so I guess it's part of, you know, I love the work, but that's why sometimes 
-I'm I said that while the building is running, you can pick up another small 
-tickets if you want, just so you can keep going instead of just, you know, 
-watching the fields. For 40 minutes. Yeah. 
-**Michaela:** [00:15:21] Yeah, sure. Yeah. I think it really depends on the size 
-of the software.
-So Microsoft, it has quite some substantial, 
-**Charlie:** [00:15:28] uh, software systems and 
-**Michaela:** [00:15:30] the bill can take also quite long. So yeah, I know that 
-problem. Well, um, something that I want to talk about, which I think Plex into 
-that as well is manual 
-**Charlie:** [00:15:40] testing. Do you know if they are. 
-**Michaela:** [00:15:42] Are men will testers or are people manually testing the 
-Atlassian software as well?
-**Charlie:** [00:15:49] Or is that something that's really replaced 
-**Michaela:** [00:15:51] by automated tests 
-**Charlie:** [00:15:53] right now? Um, so I haven't worked yet with somebody who 
-was on like a tester or a QA person. Yeah. But so far, what I, what we've been 
-doing is that every time that we're about to merge a pull request, we actually 
+So I guess it's part of the work, but that's why sometimes, 
+I said that while the build is running, you can pick up another small 
+ticket if you want, just so you can keep going instead of just, you know, 
+watching the builds for 40 minutes. 
+
+**Michaela:** [00:15:21] Yeah, yeah. Sure. Yeah. I think it really depends on the size 
+of the software. So Microsoft also quite some substantial software systems and 
+the build can take also quite long. So yeah, I know that 
+problem. Well, something that I want to talk about, which I think plucks into 
+that as well is manual testing. Do you know if they are manual testers
+or are people manually testing the Atlassian software as well?
+Or is that something that's really replaced by automated tests right now?
+
+**Charlie:** [00:16:00] So, I haven't worked yet with somebody who 
+was only, like, a tester or a QA person, but so far, what we've been 
+doing is that, every time that we're about to merge a pull request, we actually 
 have a little QA session with somebody else in the team where we go manually 
-through the feature.
-And, um, and we look at the change that we've been doing. So, uh, on top of 
-having a review of just the code in Bitbucket, we actually do a manual QA face 
-to face with somebody from the team, because I, you know, if I work on 
-something, I would have built something a certain way. But I need a colleague of 
-mine to maybe come up with an idea of like, Oh, have you tried this?
-Or would it break if you do this? And things like that. So I haven't yet I 
-worked with somebody who's a dedicated role was to do that. But I think we all 
-are responsible. Yeah. Wait for the QA before we much something. 
-**Michaela:** [00:16:48] Okay. Yeah, that turns, it sounds reasonable. Um, at 
-Alessia and I heard that you have something called the team playbook and it's 
-sort of the best practices of Atlassian for building high performing teams.
-Have you heard of the playbook at Lucien? And do you know that some of your 
-colleagues or your team is putting some of those plays it's called, um, In, uh, 
-in 
-**Charlie:** [00:17:16] there to make you work better. And so I have sort of the 
-team playbook, but right now, actually I actually forgot. So the rules that are 
-inside, um, so I feel like the team playbook would be more of, um, a guideline 
-rather than like practices that you have to follow.
-Uh, so I wouldn't remember exactly, um, what we have in the playbook, but I feel 
-like team by team. Uh, we would kind of pick our own, um, practices, I think 
-maybe in the team playbook. Um, I don't remember if it mentions, uh, some retro 
-retrospective meetings where we talk about, um, How we've been feeling in the 
-team only about the work, but the, you know, as people have, how we've been 
+through the feature, and we look at the change that we've been doing. So, on top of 
+having a review of just the code in Bitbucket, we actually do a manual QA face-to-face
+with somebody from the team, because if I work on 
+something, I would have built something a certain way, but I need a colleague of 
+mine to maybe come up with an idea of, like, "Oh, have you tried this?," or
+"Would it break if you do this?," and things like that. So I haven't 
+worked with somebody whose dedicated role was to do that. But I think we all 
+are responsible in a way for the QA before we merge something. 
+
+**Michaela:** [00:16:48] Okay. Yeah, that sounds reasonable. 
+At Atlassian, I heard that you have something called the Team Playbook and it's 
+sort of the best practices of Atlassian for building high-performing teams.
+Have you heard of the Playbook at Atlassian, and do you know that some of your 
+colleagues or your team is putting some of those plays, it's called in there, 
+to make you work better?
+
+**Charlie:** [00:17:21] So, I have heard of the Team Playbook, but right now,
+actually, I actually forgot the rules that are inside, 
+so I feel like the Team Playbook would be more of a guideline 
+rather than, like, practices that you have to follow.
+So I wouldn't remember exactly what we have in the Playbook, but I feel 
+like, team-by-team, we would kind of pick our own practices. I think, 
+maybe in the Team Playbook—I don't remember if it mentions some 
+retrospective meetings where we talk about how we've been feeling in the 
+team, not only about the work, but how we've been 
 feeling, how we can do things better in the next sprint or, you know, is there 
-any concerns?
-Um, so I think team by team, usually the team lead decides the practices that 
-we're going to have and, uh, team members can also, um, propose things. So we. 
-Often have sessions where every week we, um, we kind of have like, um, a tech 
-meeting where we show what we've been working on because as we don't really pair 
-program, sometimes, uh, we don't have the time to see what other people in the 
+any concerns? So I think team by team, usually the team lead decides the practices that 
+we're going to have and team members can also propose things. So we 
+often have sessions where every week we kind of have, like, a tech 
+meeting where we show what we've been working on, because, as we don't really pair 
+program, sometimes we don't have the time to see what other people in the 
 team have been working on.
 So every week we have a session where people are able to showcase what they've 
-been doing to share knowledge within the team. Uh, so I wouldn't really 
-remember, this is part of the, of the team playbook, but I feel like, um, every 
-team would be picking whatever practices. They feel more comfortable with those 
-if they feel would be beneficial.
-**Michaela:** [00:18:52] So you worked before joining a Atlantean, you've worked 
-actually at smaller companies first. What do you think are the differences. 
-Experience in joining this larger enterprise. Um, do you see some differences 
-how the organization operates on how teams work together and things like that? 
+been doing to share knowledge within the team. So I wouldn't really 
+remember if this is part of the Team Playbook, but I feel like every 
+team would be picking whatever practices they feel more comfortable with, 
+or they feel would be beneficial.
+
+
+**Michaela:** [00:18:52] Mmhmm. So you worked, before joining Atlassian, you've worked 
+actually at smaller companies first. What do you think are the differences you 
+experienced in joining this larger enterprise? Do you see some differences 
+how the organization operates, on how teams work together and things like that? 
+
 **Charlie:** [00:19:09] There's definitely differences.
-It's been, it's been really interesting to explore different environments 
-because before a lesbian, I was working for a consultancy. So the nature of the 
-work was quite different because, um, instead of being really involved in one. 
-Product. Um, I basically was assigned to a team every few months. Sometimes it 
-was, uh, uh, on your three months project.
-Sometimes it was six sometimes a year means that when you join a company to help 
-them for a few months, you're not sure really part of their team. Like you ended 
-up being responsible for a part of. A company's product, but you're not really, 
-really part of the team. Like you help them on the, on the small parts.
-So usually I worked on code bases that were way smaller. Um, a lot of the time 
-they were sometimes starting something from scratch, which is very different 
-from working on it could base that has been there, you know, for more than 10 
-years. And I, um, you know, as a consultant, we were building teams that had, 
-uh, sometimes more diversity in terms of roles.
-So. With the consultancy I was in before we, it was rare that we only had one 
-designer. We usually had a couple of UX designers. We definitely had testers. We 
-definitely had a product managers and the team was really diverse in terms of 
-disciplines. Whereas that lesson is very often more technical. But the, the 
-main, the main difference and the main challenge for me has been the size of the 
-code base.
-JIRA has more than a million blends of code. So it's been quite different to go 
-from monolith front-end in JIRA or coming from more microservices when I was in 
-a, in a consultancy. So it's been really interesting to navigate these different 
-spaces. But I liked the fact that in a product, I get to dive deeper into the 
-code base and be part of decisions that are, it's supposed to be long lasting, 
-whereas consultancy, you try to help a company and you try to help them make it 
-long lasting decisions.
-When men, they, they decide what they want to do. You're just here to advise 
-them and do your best. But in the end as well, you leave to go and help another 
-company. They. Kind of decides what to do in, and sometimes it feels like you 
-don't really see the end of what you're building, because you're only here.
-Whereas, uh, at the last, you know, on a product, you know, you're supposed to 
-make every decision knowing that you wanted to last and you don't want it to be 
+It's been really interesting to explore different environments 
+because before Atlassian, I was working for a consultancy, so the nature of the 
+work was quite different because instead of being really involved in one product,
+I basically was assigned to a team every few months. Sometimes it was on a three-months project,
+sometimes it was six, sometimes a year. It means that when you join a company to help 
+them for a few months, you're not really part of their team. Like, you ended 
+up being responsible for a part of a company's product, but you're not really, 
+really part of the team. Like you help them only on the small parts.
+So usually I worked on codebases that were way smaller. A lot of the time, 
+we were sometimes starting something from scratch, which is very different 
+from working on a codebase that has been there, you know, for more than 10 
+years. And as a consultant, we were building teams that had 
+sometimes more diversity in terms of roles.
+So with the consultancy I was in before, it was rare that we only had one designer.
+We usually had a couple of UX designers, we definitely had testers, we 
+definitely had a product managers, and the team was really diverse in terms of 
+disciplines, whereas Atlassian is very often more technical.
+But the main difference and the main challenge for me has been the size of the 
+codebase.
+JIRA has more than a million lines of code. So it's been quite different to go 
+from a monolith front-end in JIRA or coming from more microservices when I was in 
+a consultancy. So it's been really interesting to navigate these different 
+spaces. But I like the fact that, in a product, I get to dive deeper into the 
+codebase and be part of decisions that are supposed to be long-lasting, 
+whereas consultancy, you try to help a company and you try to help them make 
+long-lasting decisions when, in the end, they decide what they want to do. You're just here to advise 
+them and do your best. But in the end, when you leave to go and help another 
+company, theyk ind of decides what to do, and sometimes it feels like you 
+don't really see the end of what you're building, because you're only here temporarily.
+Whereas, at Atlassian, on a product, you know, you're supposed to 
+make every decision knowing that you want it to last and you want it to be 
 performant and helpful because it's going to impact the product in the longterm. 
+
 **Michaela:** [00:21:42] And so when you consulted those companies where you're 
 sitting with the teams, would you go to company a for example, and then really 
 sit with their team for a stretch of several 
