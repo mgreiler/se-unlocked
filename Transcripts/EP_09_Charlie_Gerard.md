@@ -304,19 +304,19 @@ how the organization operates, on how teams work together and things like that?
 It's been really interesting to explore different environments 
 because before Atlassian, I was working for a consultancy, so the nature of the 
 work was quite different because instead of being really involved in one product,
-I basically was assigned to a team every few months. Sometimes it was on a three-months project,
+I basically was assigned to a team every few months. Sometimes it was only a three-months project,
 sometimes it was six, sometimes a year. It means that when you join a company to help 
 them for a few months, you're not really part of their team. Like, you ended 
 up being responsible for a part of a company's product, but you're not really, 
 really part of the team. Like you help them only on the small parts.
-So usually I worked on codebases that were way smaller. A lot of the time, 
+So usually I worked on codebases that were way smaller. A lot of the times, 
 we were sometimes starting something from scratch, which is very different 
 from working on a codebase that has been there, you know, for more than 10 
 years. And as a consultant, we were building teams that had 
 sometimes more diversity in terms of roles.
 So with the consultancy I was in before, it was rare that we only had one designer.
 We usually had a couple of UX designers, we definitely had testers, we 
-definitely had a product managers, and the team was really diverse in terms of 
+definitely had product managers, and the team was really diverse in terms of 
 disciplines, whereas Atlassian is very often more technical.
 But the main difference and the main challenge for me has been the size of the 
 codebase.
@@ -328,162 +328,160 @@ codebase and be part of decisions that are supposed to be long-lasting,
 whereas consultancy, you try to help a company and you try to help them make 
 long-lasting decisions when, in the end, they decide what they want to do. You're just here to advise 
 them and do your best. But in the end, when you leave to go and help another 
-company, theyk ind of decides what to do, and sometimes it feels like you 
+company, they kind of decide what to do, and sometimes it feels like you 
 don't really see the end of what you're building, because you're only here temporarily.
 Whereas, at Atlassian, on a product, you know, you're supposed to 
 make every decision knowing that you want it to last and you want it to be 
-performant and helpful because it's going to impact the product in the longterm. 
+performant and helpful because it's going to impact the product in the long term. 
 
 **Michaela:** [00:21:42] And so when you consulted those companies where you're 
-sitting with the teams, would you go to company a for example, and then really 
-sit with their team for a stretch of several 
-**Charlie:** [00:21:50] months?
-**Michaela:** [00:21:50] Or would that be a remote consultancy gig that you have 
-there? 
-**Charlie:** [00:21:55] How does STEM? So we were usually going into the, um, 
+sitting with the teams, would you go to Company A, for example, and then really 
+sit with their team for a stretch of several months? Or would that be a remote consultancy
+gig that you have there? How does that work?
+
+**Charlie:** [00:21:55] So we were usually going into the 
 company's offices and we were working with their developers and their product 
-managers. So we were really with the team. So we were really trying to not only. 
-Build the software, but also understand their businesses and their, you know, 
+managers. So we were really with the team. So we were really trying to not only
+build the software, but also understand their businesses and their, you know, 
 their struggles and things like that.
-So I think it was really interesting because, um, it wasn't only coding. It was 
-really being a consultant. So really trying to understand what pinpoints a 
-company was having and how to solve that with software. Uh, so it's, uh, and I 
-feel like it is. Uh, it has helped me. I think it's really quite beneficial to 
+So I think it was really interesting because it wasn't only coding. It was 
+really being a consultant, so really trying to understand what pain points a 
+company was having and how to solve that with software. And I 
+feel like it has helped me. I think it's really quite beneficial to 
 change environment.
-Um, so that's why I like it because then it's, you really develop your 
-communication skills because, uh, you probably write code maybe only half the 
-time because the other time either you're. Upskilling, um, the companies 
+So that's why I like it because then you really develop your 
+communication skills because you probably write code maybe only half the 
+time because the other time either you're upskilling the company's 
 developers into a new tech stack that they haven't worked with before, or you're 
-really, um, trying to, you have to sometimes explain to people who are non 
-technical about why, you know, why maybe you're not shipping features as fast 
-because you're making long lasting changes or it's really, it's really been 
-interesting because you're not, yes, you're not only coding.
-You're also advising people on, uh, on their. Business and trying to make them 
-understand the challenges of technology. Um, whereas at Atlassian, most of the 
+really trying to, you have to sometimes explain to people who are non-technical about why
+maybe you're not shipping features as fast 
+because you're making long-lasting changes. It's really been 
+interesting because you're not only coding.
+You're also advising people on their business and trying to make them 
+understand the challenges of technology. Whereas at Atlassian, most of the 
 people I talk to are quite technical, so the conversations are a bit different, 
 but I do think that the background of having worked as a consultant is really 
-helpful because it pushes me to really make sure that I explained things in a 
-way that everybody can.
-I understand that you, you don't have to be technical to understand what I'm 
-trying to say. So I think that's very important skill. 
-**Michaela:** [00:23:40] Yeah, I think so too. So how, how come did you change 
-from this consultancy to Atlassian? Can you tell me a little bit about, uh, why 
-did you choose that company? How did you apply and how did that interview 
-process 
-**Charlie:** [00:23:54] go?
-Sure. Um, so to me, the main reason was that. I think it was because as a 
-consultant, I didn't really feel, I couldn't really know where my work and did 
+helpful because it pushes me to really make sure that I explain things in a 
+way that everybody can understand—that you don't have to be technical to understand what I'm 
+trying to say. So I think that's a very important skill. 
+
+**Michaela:** [00:23:40] Yeah, I think so too. So how come did you change 
+from this consultancy to Atlassian? Can you tell me a little bit about why 
+did you choose that company, about how did you apply and how did that interview 
+process go?
+
+**Charlie:** [00:23:54] Sure. So, to me, the main reason was that, I think it was because as a 
+consultant, I didn't really feel—I couldn't really know where my work ended 
 because you know what you're doing for a certain period of time while you are 
-with the company. But as soon as you go and help another company, you don't 
-actually know if the company decided to, um, rewrite the code base or if they 
+with the company, but as soon as you go and help another company, you don't 
+actually know if the company decided to rewrite the codebase or if they 
 gave up on the project you were working on.
-So I wasn't really able to say, you know, I built this or, or I helped these 
-people because once you're gone, They, you know, you don't always know when they 
-decide to do so in terms of knowledge, uh, it was quite broad. So I experimented 
+So I wasn't really able to say, you know, "I built this," or "I helped these 
+people" because once you're gone, you don't always know what they 
+decide to do. So in terms of knowledge, it was quite broad, so I experimented 
 with a lot of different environments, but in terms of depth, I didn't really 
 have the opportunity to go deep into a product and technology.
-So that was my main motivation for moving on and going to your product, because 
-I know I knew that it would be an environment that wouldn't change. I would, it 
-would be more stable for me to go deeper in, in a code base and try to refactor 
+So that was my main motivation for moving on and going to product, because 
+I know I knew that it would be an environment that wouldn't change. It 
+would be more stable for me to go deeper in a code base and try to refactor 
 or work with more legacy code and understand how to make more impactful changes.
-And then in terms of why Atlassian. Um, so it is one of the main tech company 
-in, in Sydney, uh, here. And I was interested in the fact that it is a product 
-that is used by millions of people. So, uh, every change that you do, even small 
-is going to have an impact. Um, it's quite big. Uh, it also means that in terms 
-of challenges, every time you, you know, even if it is a small change, if you 
+And in terms of why Atlassian, it is one of the main tech companies 
+in Sydney here, and I was interested in the fact that it is a product 
+that is used by millions of people. So every change that you do, even small, 
+is going to have an impact that is quite big. It also means that, in terms 
+of challenges, every time, even if it is a small change, if you 
 break something, it also has an impact.
-So there is quite a lot of challenges in terms of, uh, performance, making sure 
-that everything that you add on the code base is not going to make JIRA slower 
-than it is. And for example, so that was really something that I was quite 
-excited and about knowing that I would be really something that a lot of people 
-use and in terms of interview process.
-So there's, it wasn't actually, it wasn't super long. I think, um, they 
+So there is quite a lot of challenges in terms of performance, making sure 
+that everything that you add on the codebase is not going to make JIRA slower 
+than it is, for example. So that was really something that I was quite 
+excited about, knowing that I would be really something that a lot of people 
+use. And in terms of interview process, it wasn't super long. I think they 
 shortened the hiring process because they're hiring a lot. And I think in tech 
-at the moment, People, a lot of companies are trying to shorten to make sure 
+at the moment, a lot of companies are trying to shorten to make sure 
 that they don't lose the talents because, well, you know, you know how 
 interviews go.
-If, if a company is too slow, you might, you might pick another job. Uh, but in 
-terms of steps, um, it was a phone call with the recruiter. Um, I think that is 
-quite standard. Uh, but then instead of having a code test that you take home, 
+If a company is too slow, you might pick another job. But in 
+terms of steps, it was a phone call with the recruiter—I think that is 
+quite standard—but then instead of having a code test that you take home, 
 you actually have to go to the office and you were live coding in front of 
 somebody.
-So I didn't know what the test would be, um, before I went to the office, but so 
-I went to the office and I met the developer. That would be, um, pairing with 
-me. We're not really pairing, but he was available for four questions. And then 
-you, um, they show you the tests that you have to do. And you had to, you had an 
-hour to go through tasks in a read me and code it live in front of the person.
-And the, the developer that was with me was available to answer some of your 
-questions. If it wasn't really clear. And he was observing what I was doing, 
+So I didn't know what the test would be before I went to the office, but so 
+I went to the office and I met the developer that would be pairing with 
+me. We're not really pairing, but he was available for questions. And then 
+they show you the tests that you have to do, and you had an 
+hour to go through tasks in a readme and code it live in front of the person.
+And the developer that was with me was available to answer some of your 
+questions if it wasn't really clear, and he was observing what I was doing, 
 writing some notes and you have a few minutes at the end to explain what you 
-would have done better because obviously in an hour. You don't have the time to 
+would have done better because obviously in an hour you don't have the time to 
 write the best code.
-The goal of this, uh, interview was not to write the best code ever. It was just 
-to see how you would go about solving a problem. And if you're then able to 
+The goal of this interview was not to write the best code ever. It was just 
+to see how you would go about solving a problem, and if you're then able to 
 reflect on what you wrote and explain what you would have done better. So for 
-the, for the contest, that was, that was that. And then if that goes well, there 
-is a technical echo, another technical interview where you meet with two 
-developers.
-And it's more about talking about a project that you have worked on recently, 
-where you were really involved in. So you can explain it quite, you know, 
-deeply. Uh, so you, you spent quite a lot of time explaining, uh, what you were 
-saying, both in the tech stack, the decisions that you, that you made in that 
+the code test, that was that. And then if that goes well, there 
+is a another technical interview where you meet with two 
+developers, and it's more about talking about a project that you have worked on recently, 
+where you were really involved in, so you can explain it quite deeply. 
+So you spend quite a lot of time explaining what you were involved in,
+the tech stack, the decisions that you made in that 
 project, again, what you could have done better and things like that.
 And then there's some, uh, what, for me, it was frontend technical questions. 
-Uh, I think pretty, uh, pretty basic interview questions. They were a bit more 
-around react because they use react a lot. So the questions were react related 
-and there was also a very small white board exercise, not at all, uh, algorithms 
-and data structures.
-So it wasn't, you know, it wasn't the scary things. Uh, but it was a JavaScript 
-question where, um, you had to, uh, you know, write a certain function on the 
-white board and explain what, what you were writing. And then finally, if that 
-goes, well, you have an interview with two managers of teams who that are 
-looking for people where, you know, you can get to meet the, your potential 
-future manager.
-And it's more of a, a cultural interview where, you know, you get asked about. A 
+I think pretty basic interview questions. They were a bit more 
+around React because they use React a lot, so the questions were React-related 
+and there was also a very small whiteboard exercise, not at all algorithms 
+and data structures, so it wasn't the scary things. But it was a JavaScript 
+question where, you had to write a certain function on the 
+whiteboard and explain what you were writing. And then finally, if that 
+goes well, you have an interview with two managers of teams that are 
+looking for people where you can get to meet your potential 
+future manager, and it's more of a cultural interview where you get asked about a 
 time where you had negative feedback and how you reacted or a time where you had 
-to give, um, you know, constructive feedback and, and how you went about that 
-and what you liked about technology, where you're interested in, uh, and things 
+to give constructive feedback and how you went about that, 
+and what you like about technology, what you're interested in, and things 
 like that.
 And then you get to ask your questions as well about the different products or 
-the parts of the teams that are hiring basically. And that was it. So it's gonna 
-like four, four steps 
-**Michaela:** [00:29:09] and they are all in 
-**Charlie:** [00:29:10] one day. No, no, no, no. I mean, or maybe you can do 
-them in one day. I, I haven't tried that, but it was brilliant.
-It was it's pretty short. So I think I did them over a month. So maybe once a 
-week, because at the time when I went through the interviews, I had to work in 
-another city. So I couldn't always physically be in Sydney, but I like to do 
-interviews face to face. So I just ask them to sometimes delay some of the 
-interviews so I could be.
-In Sydney, some of you I'm sure that you could do the interviews remotely. I 
-think they're hiring a lot of people in other countries that they then sponsored 
-to come to Australia. So I think a lot of people do the interviews, um, probably 
-on, on zoom or on Skype or something, but they're pretty flexible and they, they 
-go quiet.
-Fastest, because I think they want to make sure that they don't miss out on, on 
-talent. 
+the parts of the teams that are hiring basically. And that was it. So it's kind 
+like four steps.
+
+**Michaela:** [00:29:09] And they are all in one day??
+
+**Charlie:** [00:29:10] No, no, no, no. I mean, maybe you can do 
+them in one day. I haven't tried that. It was pretty short. So I think I did them over a month,
+so maybe once a week, because at the time when I went through the interviews, I had to work in 
+another city, so I couldn't always physically be in Sydney, but I like to do 
+interviews face to face. So I just asked them to sometimes delay some of the 
+interviews so I could be in Sydney.
+So I'm sure that you could do the interviews remotely—
+I think they're hiring a lot of people in other countries that they then sponsor 
+to come to Australia, so I think a lot of people do the interviews probably 
+on Zoom or on Skype or something, but they're pretty flexible and they
+go quite fast because I think they want to make sure that they don't miss out on talent.
+
 **Michaela:** [00:29:56] Okay. So when you tell me about the live coding event, 
-I get all kinds of anxieties,
-computer, and then somebody's looking 
-**Charlie:** [00:30:07] over my shoulder with this, you know, I would 
-**Michaela:** [00:30:09] probably forget where the different keys are on my, um, 
-So how was that for you? 
-**Charlie:** [00:30:18] So I think I, so I'm, I'm very nervous as well when that 
-happens, because I feel watched and judged and you know, I'm like nervous, but I 
-tried, I tried to switch my, um, The way I was seeing it.
-And I tried to see it as a challenge for myself. I tried to forget that the 
-developer was what you need. And I tried to, you know, calm down and I tried to 
-tell myself if, you know, if I don't get the job, it's fine. You know, there's 
+I get all kinds of anxieties, to be honest.
+
+_[laughing]_
+
+**Michaela:** [00:30:06] _[unintelligible]_ ...computer, and then somebody's looking 
+over my shoulder with this, you know, I would probably forget where the different keys are on my
+keyboard. So how was that for you?
+
+**Charlie:** [00:30:18] So I'm very nervous as well when that 
+happens, because I feel watched and judged and, you know, I'm like nervous, but I 
+tried to switch the way I was seeing it,
+and I tried to see it as a challenge for myself. I tried to forget that the 
+developer was watching me, and I tried to calm down, and I tried to 
+tell myself "If I don't get the job, it's fine. There's 
 other companies and there's other jobs. It's not the end of the world. And if I 
-can't do this contest, then it doesn't matter that I can't reapply later.
-Like I tried to really not. Uh, I tried to really downplay how important it was 
-for me, the impact. Yeah, that's fine. Because then I could then focus on the 
-code rather than focusing on how nervous I was. Um, but also the, the developer 
-who was with me, um, was really a nice and, uh, you know, quite. Chill. So he 
-didn't make me stress at all.
-I think he even told me like, it's okay, take your time. If you have questions 
-I'm here. He didn't make me stress out at all. So I think that definitely 
-helped. 
+can't do this contest, then it doesn't mean that I can't reapply later."
+I tried to really downplay how important it was 
+for me, the impact. Yeah, so I was fine, because then I could then focus on the 
+code rather than focusing on how nervous I was. But also the developer 
+who was with me was really nice and quite chill, so he didn't make me stress at all.
+I think he even told me, like, "It's okay, take your time. If you have questions 
+I'm here." He didn't make me stress out at all, so I think that definitely 
+helped as well.
+
 **Michaela:** [00:31:28] And so when you recording that, would you 
 **Charlie:** [00:31:30] be able to open Google 
 **Michaela:** [00:31:33] and look something up or 
