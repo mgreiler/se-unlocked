@@ -482,132 +482,114 @@ I think he even told me, like, "It's okay, take your time. If you have questions
 I'm here." He didn't make me stress out at all, so I think that definitely 
 helped as well.
 
-**Michaela:** [00:31:28] And so when you recording that, would you 
-**Charlie:** [00:31:30] be able to open Google 
-**Michaela:** [00:31:33] and look something up or 
-**Charlie:** [00:31:34] didn't you dare to do that or was it so clear? I think 
-it's actually stay in your IDE.
-Um, I think I did, I did Google, um, something because I think I forgot how to, 
-there was something quite basic that I forgot. Uh, I don't remember right now 
-what it was, but, uh, he, I think the, I think the developer who was with me 
-told me that I was allowed to Google. I think it was more about. If you Google 
-something, maybe, you know, um, say out loud what you're Googling and why you're 
-Googling it.
-Um, because they know that you, I mean, Google is something that we use a lot in 
-our job, you know, we CA we convince them that we, I don't think I spend a day 
-with that looking at Google, you know, I probably look at Google. Yeah. So, 
-yeah. You know, it's, um, it's more of a understanding how you, how you work. I 
-wouldn't want to pretend that I know everything because it's not true.
-So I, you know, I, yeah, I wouldn't pretend that I just. Rural everything 
-without looking anything up in a real world scenario, um, I would do that, 
-right? Yeah. Yeah, definitely. And I think it's more about, well, if you want to 
-solve a certain problem, what would you Google? Um, and it's about, you know, 
-seeing if you can efficiently Google maybe as well.
-Um, but yeah, no, I did use Google. 
+**Michaela:** [00:31:28] And so when you were coding that, would you be able to open Google 
+and look something up or didn't you dare to do that or was it so clear that you could 
+actually stay in your IDE?
+
+**Charlie:** [00:31:43] I think I did Google something because I think I forgot how to, 
+there was something quite basic that I forgot. I don't remember right now 
+what it was, but I think the developer who was with me 
+told me that I was allowed to Google. I think it was more about, if you Google 
+something, maybe say out loud what you're Googling and why you're 
+Googling it, because they know that, I mean, Google is something that we use a lot in 
+our job. We can't pretend that we—I don't think I spend a day 
+without looking at Google. You know, I probably look at Google every ten minutes. 
+It's more of a understanding how you work. And I 
+wouldn't want to pretend that I know everything because it's not true,
+so I wouldn't pretend that I just wrote everything 
+without looking anything up in a real-world scenario...
+
+**Michaela:** [00:32:41] You also would do that, right?
+
+**Charlie:** [00:32:44] Yeah, yeah, definitely. And I think it's more about, well, if you want to 
+solve a certain problem, what would you Google? And it's about, you know, 
+seeing if you can efficiently Google maybe as well. But yeah, no, I did use Google.
+
 **Michaela:** [00:32:56] Yeah. Okay. So, um, I know that besides the things that 
 you do at the company, you also have quite a few side projects and they are in 
-**Charlie:** [00:33:07] very interesting areas. 
-**Michaela:** [00:33:08] I call them 
-**Charlie:** [00:33:09] brain controlled interfaces. I think you call them the 
-same 
-**Michaela:** [00:33:12] and you're also thinking of it various electronic 
-devices.
-Right. So why do you do that? Why do you invest your free time? Um, In looking 
-at something that's actually not one to one related to your current job and your 
-career. 
-**Charlie:** [00:33:28] Um, well, so I think, well, first of all, I think it's 
-because, uh, it gets me really excited. Um, I am definitely very passionate 
-about the way people interact with, uh, energy and brain.
-Computer interfaces is one way of doing that. But also, because I feel like I'm 
-learning a lot while I build these side projects. And, uh, when I'm at work, I, 
-you know, I learn about a certain, yeah. You know, certain frameworks or certain 
-tech stacks or certain ways of building a website. But I feel like technology 
-is.
-So much more than that. And in a way you don't really know where it's going. So 
-I like it spring different, different parts of the tech industry, because, well, 
+very interesting areas. I call them brain-controlled interfaces. I think you call them the 
+same. And you're also tinker with various electronic devices, right?
+So why do you do that? Why do you invest your free time in looking 
+at something that's actually not one-to-one related to your current job and your 
+career?
+
+**Charlie:** [00:33:28] Well, first of all, I think it's 
+because it gets me really excited. I am definitely very passionate 
+about the way people interact with technology, and brain–computer interfaces is one way of doing that. 
+But also, because I feel like I'm learning a lot while I build these side projects, and when I'm at work, 
+I learn about certain frameworks or certain tech stacks or certain ways of building a website.
+But I feel like technology is so much more than that, and in a way you don't really know where it's going. 
+So I like exploring different parts of the tech industry, because, well, 
 right now I'm building JIRA, but I don't know what's next. It gives me a better 
-idea of what what's going on or what the future might be as well.
-And it's a field that is well to me, so, so interesting. Uh, when we look at the 
-way we usually interact, we, uh, like the keyboard and the phone is so 
-restrictive. It's that we've learned. To type on buttons to do something, but 
-there's probably, there's probably so many different ways that we could interact 
-with things that that could, um, you know, maybe be faster or be more intuitive.
-And I feel like a lot of the times we we've had to learn how to use the 
-keyboard. Whereas technology could actually adapt to people in the natural 
-environment and it would almost, you know, do things for you, but you would, 
-there is a, you know, a way that you would forget that the tech is here, but it 
-would just do things for you and make your life, uh, you know, eventually 
-better.
-**Michaela:** [00:35:05] So I just said 
-**Charlie:** [00:35:07] brain controlled 
-**Michaela:** [00:35:09] interfaces, but, um, I looked at, I watched some of 
-your YouTube videos and, 
-**Charlie:** [00:35:16] um, 
-**Michaela:** [00:35:16] I read some of your articles and what's actually 
-happening. Is that based on sensors that on your. Had right. You can 
-**Charlie:** [00:35:23] move for example, the mouse, or you 
-**Michaela:** [00:35:25] could navigate a 
-**Charlie:** [00:35:27] cube 
-**Michaela:** [00:35:27] yes. Space somehow.
-Right? How would you, how would you describe that brand controlled interfaces? 
+idea of what's going on or what the future might be as well.
+And it's a field that is, well, to me so, so interesting. When we look at the 
+way we usually interact, like the keyboard and the phone is so 
+restrictive. It's like we've learned to type on buttons to do something, but 
+there's probably so many different ways that we could interact 
+with things that that could maybe be faster or be more intuitive.
+And I feel like a lot of the times, we've had to learn how to use the 
+keyboard, whereas technology could actually adapt to people in the natural 
+environment and it would almost, you know, do things for you, 
+but there is a way that you would forget that the tech is here, but it 
+would just do things for you and make your life eventually better.
+
+**Michaela:** [00:35:05] So I just said brain-controlled interfaces, but I watched some of 
+your YouTube videos and I read some of your articles and what's actually 
+happening is that based on sensors that are on your head, right, you can 
+move for example, the mouse, or you could navigate a cube in space somehow, right?
+How would you describe that, brain-controlled interfaces? 
 What are those for you and where do you see them going? 
-**Charlie:** [00:35:37] Well, I'm not actually sure where it's going, but I'm. 
-What I think is that it is going to get a lot better than it is now. And I don't 
-know, I think it will take that much longer, but what I mean by that is, as I've 
+
+**Charlie:** [00:35:37] Well, I'm not actually sure where it's going, 
+but what I think is that it is going to get a lot better than it is now. And I don't 
+think it will take that much longer, but what I mean by that is, as I've 
 been working on building some prototypes, I have a better idea of what is 
-foreseeable and what is not possible.
-And at the moment, uh, you can train some machine learning algorithms to 
+possible and what is not possible.
+And at the moment, you can train some machine learning algorithms to 
 identify patterns in your brain activity that you can then match to a certain 
-thoughts. And then using that thought, it's really up to you to build whatever 
+thought. And then, using that thought, it's really up to you to build whatever 
 interaction that you want. Like, if you train an algorithm with your own 
-thoughts, then you can use that as triggers, but it could be, um, moving a 
-mouse.
-It could be playing a game. Uh, it could be instead of using, you know, a voice 
-control, you would use like thought control to start a playlist or pose a 
+thoughts, then you can use that as triggers, but it could be moving a mouse,
+it could be playing a game, it could be instead of using voice 
+control, you would use thought control to start a playlist or post a 
 YouTube video or anything. But at the moment, most of the experiments that I've 
-seen have been using thoughts of a body movement. Um, I feel like this is maybe 
-where it's to identify patterns in info.
-So the one that I've been playing with personally, like how to train an 
-algorithm to, I recognize maybe a direction. So I was thinking about moving 
-right or left. And then I was matching that with a motion on the screen as well, 
-but recently, um, actually last week, um, I went to. Uh, mountain view for a 
-Google developer expert summit.
-And I could have with a friend who, who is the co founder of a startup called 
-neuro city, and they're building their own brain sensor as well. So it's a new 
-one that will be available soon. And I tried it and it was really, really 
-exciting. And I saw that the, what I trained with it as well was also a body 
-movement.
-So I had to think about. Punching my fingers or tapping my left foot on the 
-floor, or, and, um, as I was just thinking about these movements, I could then 
-find patterns in the data and map that to, to something on the screen as well. 
-So, so far I feel like what is doable is thinking about a body movement or.
-Or an emotion in space, and that is easier to find patterns than in the data. 
-But what is, I think not possible yet is to think about random things like a 
-bottle of water or, or the beach. I think that these kinds of foods are not 
-precise enough. To be able to detect any kind of patterns I might be wrong, but 
-what I've seen so far, it's easier with thoughts of movements.
-But I feel like as the technology is going to get, um, better in terms of 
-hardware and software, I don't think we are that far from being able to interact 
-with, um, with interfaces using brain sensors. But I think that we have to be a 
-little bit. Patient that we're not going to be able to detect everything.
+seen have been using thoughts of a body movement. I feel like this is maybe 
+where it's easier to identify patterns in info.
+So the one that I've been playing with personally, like, I have to train an 
+algorithm to recognize maybe a direction. So I was thinking about moving 
+right or left, and then I was matching that with a motion on the screen as well, 
+but recently, actually last week, I went to Mountain View for a 
+Google Developer Experts Summit and I caught up with a friend who is the co-founder
+of a startup called Neurosity, and they're building their own brain sensor as well. So it's a new 
+one that will be available soon, and I tried it and it was really, really 
+exciting. And I saw that what I trained with it as well was also body movement.
+So I had to think about pinching my fingers or tapping my left foot on the 
+floor, and as I was just thinking about these movements, I could then 
+find patterns in the data and map that to something on the screen as well. 
+So, so far I feel like what is doable is thinking about a body movement or
+a motion in space, and that is easier to find patterns then, in the data. 
+But what is, I think, not possible yet is to think about random things like a 
+bottle of water or the beach. I think that these kinds of thoughts are not 
+precise enough to be able to detect any kind of patterns. I might be wrong, though. 
+What I've seen so far, it's easier with thoughts of movements,
+but I feel like as the technology is going to get better in terms of 
+hardware _and_ software, I don't think we are that far from being able to interact 
+with interfaces using brain sensors. But I think that we have to be a 
+little bit patient that we're not going to be able to detect everything.
+
 **Michaela:** [00:38:30] It's really, really interesting. And the funny thing is 
-that when you said, okay, you're thinking about something a thought, and then 
-you're mapped out right. To an activity and that will be 
-**Charlie:** [00:38:41] come your trigger. 
-**Michaela:** [00:38:42] The first thing that came to my mind is thinking about. 
-Mice 
-**Charlie:** [00:38:46] or 
-**Michaela:** [00:38:47] elephants, you know, and then you say, well, actually 
-it has to do more with 
-**Charlie:** [00:38:52] motions.
-**Michaela:** [00:38:52] Right. So I found that really, really interesting. I 
-would like to learn more about that. 
+that when you said, okay, you're thinking about something, a thought, and then 
+you map that, right, to an activity and that will become your trigger. 
+The first thing that came to _my_ mind is thinking about mice or elephants, you know?
+And then you say, well, actually it has to do more with motions, right?
+So I found that really, really interesting. I would like to learn more about that.
+
 **Charlie:** [00:38:56] Yeah. 
+
 **Michaela:** [00:38:57] I wonder if it has to do with the region of 
-**Charlie:** [00:38:59] the brain that thinks, you know, That you trigger 
-because maybe a mouse 
-**Michaela:** [00:39:05] thought is somewhere else located, then they're moving 
-your hands or something. 
+the brain that you trigger because maybe a mouse thought is somewhere else located,
+than you're moving your hands or something. 
+
 **Charlie:** [00:39:09] I think, yeah. I think it has to do with the amount of 
 focus that you need as well for a certain thoughts.
 Definitely the part of the brain that, um, let's say, you know, lights up when 
