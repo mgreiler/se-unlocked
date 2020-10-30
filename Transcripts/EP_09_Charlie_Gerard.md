@@ -719,65 +719,74 @@ Telegram channel, you know, the app on your phone. And we get to
 chat quite often. And so the process was a bit different. It wasn't 
 truly interviews. It was more chats. So yeah, basically that was it. 
 
-**Michaela:** [00:47:50] Yeah. So one of the things I wanted to process if 
-you're now in Sydney, but I know that you have been living in Paris as well. So 
-how comes that you are 
-**Charlie:** [00:48:00] in Sydney? Um, it's much better. It's
-so well, I moved to Sydney about eight years ago. Um, so that that's been quite 
-a while now. Um, but I think so at the, at the time I was not in tech, I was in 
-marketing. I was finishing my master's degree. And as part of, um, as part of 
+**Michaela:** [00:47:50] Yeah. So one of the things I wanted to ask you is, 
+you're now in Sydney but I know that you have been living in Paris as well. So 
+how comes that you are in Sydney?
+
+**Charlie:** [00:48:00] It's much better.
+
+**Michaela:** [00:48:07] Smaller, or better, or...? 
+
+**Charlie:** [00:48:09] Well, I moved to Sydney about eight years ago,
+so that that's been quite a while now. At the time I was not in tech. I was in 
+marketing. I was finishing my master's degree, and as part of 
 that degree, I had to either do an internship in an agency in Paris or a 
 semester abroad in a university that was partnering with my school at the time.
-And I had done internships before because, um, In France. I didn't really do 
-uni, but I did more of a school that was, um, like we had to do internships 
-quite, uh, quite often to build that kind of like a professional, um, portfolio 
-kind of thing too, then get hired 
-**Michaela:** [00:48:53] dead, like a Polytechnical. 
-**Charlie:** [00:48:54] Um, so it was. It's I think it works differently between 
-different countries.
-So I wouldn't really know the equivalent in other countries, but it was a mix of 
-lectures and a mix of actual professional, um, experience. So, so I had done, 
-yeah, I had done internships before, so I was thinking, well, if my school is 
-willing to send me somewhere, then yeah, I think that opportunity. Yeah. So, um, 
-I totally get it.
-So I decided to, um, to pick Sydney because it was really far, uh, and I wanted 
-to go quite far
-it's on songs like that, but, uh, I, I just, yeah. See the other side of the 
-book. I just mean it. I might not have the opportunity, you know, to go. Um, to 
-Australia every day. Um, so I picked that and then I love, and I basically 
-started working here and yeah. 
+And I had done internships before because in France, I didn't really do 
+uni, but I did more of a school that was, like, we had to do internships 
+quite often to build that kind of like a professional portfolio kind of thing too,
+then get hired. 
+
+**Michaela:** [00:48:53] Is that like a polytechnical?
+
+**Charlie:** [00:48:54] I think it works differently between different countries,
+so I wouldn't really know the equivalent in other countries,
+but it was a mix of lectures and a mix of actual professional experience.
+So I had done internships before, so I was thinking, well, if my school is 
+willing to send me somewhere, then, yeah, I'll take that opportunity.
+
+**Michaela:** [00:49:22] I totally get that.
+
+**Charlie:** [00:49:24] So I decided to pick Sydney because it was really far, 
+and I wanted to go quite far. It sounds bad like that, but I just...
+
+**Michaela:** [00:49:41] Yeah, see the other side of the world, right?
+
+**Charlie:** [00:49:42] Yeah, I just mean I might not have the opportunity 
+to go to Australia every day. So I picked that and then I loved it, and I basically 
+started working here and yeah.
+
 **Michaela:** [00:49:52] Yeah. That's really interesting. Yeah. I can see it. I 
-mean, I did, um, during my masters, I also did.
-Yeah. An Erasmus was called Erasmus term. So I went to London and based on that 
-I had experience, I traveled the world because I also want 
-**Charlie:** [00:50:07] to see everything 
-**Michaela:** [00:50:09] that's out there so I can see. And so now you're 
-feeling that you are, that you are going to stay in Sydney or are you going to 
-come back 
-**Charlie:** [00:50:16] to Europe at one point?
-Yeah. At the moment, I'm not. I'm not sure because you know, after eight years, 
-sometimes things. Uh, like, you know, what you want in, you know, in your life 
-or things like that change. So I'm, I'm actually not quite sure at the moment. 
+mean, during my masters, I also did what was called an Erasmus term.
+So I went to London and based on that experience, I traveled the world because I also wanted 
+to see everything that's out there so I can see. And so now you're 
+feeling that you're going to stay in Sydney, or are you going to 
+come back to Europe at one point?
+
+**Charlie:** [00:50:19] Yeah. At the moment, I'm not sure because after eight years, 
+sometimes things, you know, what you want in your life 
+for things like that change. So I'm, I'm actually not quite sure at the moment. 
 I'm actually thinking about what I want to do with my life, you know? 
-**Michaela:** [00:50:34] Yeah.
-It's a constant Todd 
-**Charlie:** [00:50:38] that I have 
-**Michaela:** [00:50:38] every morning that I wake up. 
-**Charlie:** [00:50:40] It's like, Oh yeah. 
-**Michaela:** [00:50:43] Yeah. 
-**Charlie:** [00:50:44] Well, so. 
-**Michaela:** [00:50:46] Charlie. I think we covered a lot. Is there something 
+
+**Michaela:** [00:50:34] Yeah. It's a constant thought that I have every morning that I wake up. 
+
+**Charlie:** [00:50:43] Yeah. 
+
+**Michaela:** [00:50:46] Well, so, Charlie. I think we covered a lot. Is there something 
 you want to talk about that we haven't covered yet? 
+
 **Charlie:** [00:50:53] I don't think so. I think we did cover a broad range of 
 topics. It was, it was really cool. It was really interesting.
-Yeah. 
+
 **Michaela:** [00:50:59] Yeah. I really enjoy talking to you. Thank you so much 
 for being on my show. 
-**Charlie:** [00:51:03] Thank you so much for having me. 
-**Michaela:** [00:51:04] Yeah. Thank you. Bye bye. 
-**Charlie:** [00:51:06] Bye. Bye. 
-**Michaela:** [00:51:08] I hope you enjoyed another episode after sup 
-engineering unlocked podcast. Don't forget to subscribe and I talk to you again 
-in two weeks. Bye.
 
+**Charlie:** [00:51:03] Thank you so much for having me. 
+
+**Michaela:** [00:51:04] Yeah. Thank you. Bye bye. 
+
+**Charlie:** [00:51:06] Bye. Bye. 
+
+**Michaela:** [00:51:08] I hope you enjoyed another episode of the _Software Engineering Unlocked_ 
+podcast. Don't forget to subscribe, and I'll talk to you again in two weeks. Bye!
 
