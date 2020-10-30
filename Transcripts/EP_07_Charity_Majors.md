@@ -27,18 +27,18 @@ years then. And I was there from before, like pre beta till there was well over
 a million apps. And I left Facebook fully intending to go be an engineering 
 manager at Slack or Stripe or something.
 And instead kind of settling went, I had had this experience at Parse where
-, um, You know, it was, it was down all the time. We were doing all of 
+, um, you know, it was, it was down all the time. We were doing all of 
 these exciting things that we now have names for, like, you know, microservices
 and stuff. We didn't have names for it. And we just knew that everything was 
 breaking all the time and we had to do terrible rewrites, et cetera.
 And I had, like, I had come, I was coming to this horrified conclusion that we 
-had built a system that was basically undebuggable. By some of the best engineers 
+had built a system that was basically undebuggable by some of the best engineers 
 in the world, some of the best I've ever worked with all doing the quote 
 unquote, the right things. And yet it was down constantly. Like every day it was 
 going down and, and, and not just, it wasn't just reliability, even if it was 
 up, we just didn't understand it.
 You know, like a user would write in and be like, you know, complaining that 
-parcels was down or complaining about the performance or something. And it would 
+Parse was down or complaining about the performance or something. And it would 
 take us. You know, hours, if not days to track down, was it a real problem? Was 
 it, you know, for the imagining things, did they not plug their network in?
 It's just about impossible to reason about, and we'd have triggered that by 
@@ -52,7 +52,7 @@ questions. The problem is figuring out what. The question was like, by the time
 I knew what the question was, I usually knew what the answer was. Like. The 
 answer usually comes before and the question is distributed systems problems.
 And at some point we start to get some of our data sets flowing into this tool 
-at Facebook called scuba. And that was when like, The sun started to come out 
+at Facebook called Scuba. And that was when like, The sun started to come out 
 because the time it took us to understand these complex systems problems 
 dropped, just dropped like a rock, like from, you know, days to two seconds or 
 minutes, you know, and like reliably.
@@ -89,11 +89,11 @@ experience that was really, really powerful.
 And we didn't even know why. 
 So 
 
-**Michaela:** [00:05:23] you said it really started from a problem 
+**Michaela:** [00:05:23] You said it really started from a problem 
 
-**Charity:** [00:05:26] problem space. Okay, 
+**Charity:** [00:05:26] Problem space. Okay, 
 
-**Michaela:** [00:05:27] cool. And so then you went and you found different 
+**Michaela:** [00:05:27] Cool. And so then you went and you found different 
 customers or not even customer users. Right. And do you want to see if they have 
 the same problem? 
 
