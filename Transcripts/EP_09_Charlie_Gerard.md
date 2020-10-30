@@ -590,111 +590,101 @@ So I found that really, really interesting. I would like to learn more about tha
 the brain that you trigger because maybe a mouse thought is somewhere else located,
 than you're moving your hands or something. 
 
-**Charlie:** [00:39:09] I think, yeah. I think it has to do with the amount of 
-focus that you need as well for a certain thoughts.
-Definitely the part of the brain that, um, let's say, you know, lights up when 
-you think about when you think about movement, but it's, um, I read something a 
+**Charlie:** [00:39:09] I think, yeah, I think it has to do with the amount of 
+focus that you need as well for a certain thought.
+Definitely the part of the brain that, let's say, you know, lights up when 
+you think about when you think about movement, but it's—I read something a 
 while ago, but I wouldn't be a hundred percent sure, but I think that it's 
 because the region of the brain that is in charge of thinking about movement 
-creates patterns or activity that is more similar between people than, than our 
-random thoughts.
-Because maybe if you think about an elephant or a mice, you might be attaching 
-some kind of feeling or, or memory or experience to that particular thing that 
-you're thinking about. Whereas a movement. I think is, um, more like you're only 
-thinking about that movement. There's I don't think there's any other thoughts 
-that you are doing at the same time when I tried the, the notion, so the neuro 
-city headset, it was quite difficult for me to focus in to train it because we 
-were in a room where people were having lunch.
-And I had two people on my side who were having some of my friends were having a 
-conversation while I was trying to train, uh, the, the patterns like the, the 
-thoughts. And he was actually quite difficult. So I think. Even if I was 
-thinking about motions that are quite, you know, specific and selective, I still 
-had all these noise because I was listening to conversations from my friends.
-So it was very hard for me to focus. So I think that's also one of the 
-limitations that we have at the moment with brain sensors is that when you train 
+creates patterns or activity that is more similar between people than our random thoughts,
+because maybe if you think about an elephant or a mouse, you might be attaching 
+some kind of feeling or memory or experience to that particular thing that 
+you're thinking about. Whereas a movement, I think is more selective, like you're only 
+thinking about that movement. I don't think there's any other thoughts 
+that you are doing at the same time. When I tried the Notion—so, the Neurosity headset—
+it was quite difficult for me to focus and to train it because we 
+were in a room where people were having lunch,
+and I had two people on my side who were having—so, my friends were having a 
+conversation while I was trying to train the patterns, the thoughts,
+and it was actually quite difficult. So I think, even if I was 
+thinking about motions that are quite specific and selective, I still 
+had all this noise because I was listening to conversations from my friends,
+so it was very hard for me to focus. So I think that's also one of the 
+limitations that we have at the moment with brain sensors, is that when you train 
 them, usually you have to be in a quiet environment when you can focus on that 
-particular. Um, force of movement. Um, that's why sometimes when I was moving, 
-uh, things on stage, it's very different than when I'm at home, because when I'm 
+particular thought of movement. That's why sometimes when I was demoing
+things on stage, it's very different than when I'm at home, because when I'm 
 at home, no one is watching me and I can just focus on that.
-Whereas on stage, I have other folks that go through my mind, like everybody's 
-watching me and yeah. And you know, this is like every time you have only one 
-second of silence, it just feels like forever. So yeah. 
-**Michaela:** [00:41:10] Yeah, I can, I can see that. I also, um, read dad, for 
-example, the 
-**Charlie:** [00:41:16] brain part, right. That's 
-**Michaela:** [00:41:19] responsible for emotions is actually one of the 
-**Charlie:** [00:41:22] most powerful 
-**Michaela:** [00:41:23] ones.
-So for example, the genius is that, uh, how can, you know, calculate and count 
-up or, you 
-**Charlie:** [00:41:29] know, have a square off 
-**Michaela:** [00:41:30] an unbelievable large number in their head. They 
-actually calculate with the different part of their brain. Then. 
-**Charlie:** [00:41:37] Be normal people do. Right. And 
-**Michaela:** [00:41:39] it's 
-**Charlie:** [00:41:39] connected to 
-**Michaela:** [00:41:41] right. So they can, yeah. They can calculate with that 
-part of the brain.
-Yeah. Um, yeah. Anyway, so that's why I find 
-**Charlie:** [00:41:49] that really, 
-**Michaela:** [00:41:49] really interesting. I have to 
-**Charlie:** [00:41:50] look that up, read more about it. 
-**Michaela:** [00:41:53] Yeah. I really see why you. Yeah. Why you deep dive 
-into that into, during your free time? So, one thing that you also said that I 
-wanted to pick your brain, um, you talked 
-**Charlie:** [00:42:04] about the 
-**Michaela:** [00:42:05] Google Def submit, and I know that you are a Google 
-developer expert and you also, and Mozilla speaker.
-And I would love if you could share with me and also our 
-**Charlie:** [00:42:14] listeners, obviously 
-**Michaela:** [00:42:15] what it takes to become one or the other. Right. I know 
-there are two different processes, so maybe let's start with the Google dev. 
-**Charlie:** [00:42:22] Expert. 
-**Michaela:** [00:42:23] How, how can 
-**Charlie:** [00:42:24] someone become a Google deaf expert? What does it take? 
-Right. So, um, to become a Google expert, you first have to be referred by 
-somebody who is already, um, an expert.
-So there's, there's kind of no way to get any, if nobody referees you. Um, but 
-no one wants to reference. So if you go to an event and you meet another Google 
-dev expert and you can ask them to refer, you. But what it, what it takes to 
-become one is that you have to be able to show a certain activities that you've 
-done for the community.
-So that could be the number of blog, blog posts that you've written or a, you 
-know, it could be that you're running a podcast. That's a community activity. Oh 
-yeah. Yeah.
-It could be the talks that you've given or. If you ran workshops or if you're a 
-coding teacher or, or something. So any, any way that you can show that you've 
+Whereas on stage, I have other thoughts that go through my mind, like "Everybody's 
+watching me." And every time you have only one 
+second of silence, it just feels like forever. So yeah.
+
+**Michaela:** [00:41:10] Yeah, I can, I can see that. I also read that, for 
+example, the brain part that's responsible for the motions is actually one of the 
+most powerful ones. So for example, the geniuses that can calculate and count up or
+have a square of an unbelievably large number and do that in their head, they 
+actually calculate with a different part of their brain than we normal people do, right? And 
+it's connected to the movement part.
+
+**Charlie:** [00:41:41] Oh, wow!
+
+**Michaela:** [00:41:43] So they can calculate with that part of the brain.
+Yeah. Anyway, so that's why I find that really, really interesting. I have to 
+look that up more, read more about it. Yeah, I really see why you deep dive 
+into that during your free time.
+
+So, one thing that you also said that I wanted to pick your brain. You talked 
+about the Google Dev Summit, and I know that you are a Google Developer Expert
+and you're also a Mozilla speaker.
+And I would love if you could share with me and also our listeners, obviously, 
+what it takes to become one or the other. I know there are two different processes,
+so maybe let's start with the Google Dev Expert. How can someone become a Google Dev Expert?
+What does it take?
+
+**Charlie:** [00:42:24] Right. So, to become a Google Dev Expert,
+you first have to be referred by somebody who is already an expert.
+So there's kind of no way to get in it if nobody refers you. But once you are referred—
+so if you go to an event and you meet another Google Dev Expert and you can ask them to refer, you. But what it takes to become one is that you have to be able to show certain activities that you've done for the community.
+So that could be the number of blog posts that you've written 
+or it could be that you're running a podcast. That's a community activity.
+
+**Michaela:** [00:43:03] Oh, yeah! Good for me! Yay!
+
+**Charlie:** [00:43:09] It could be the talks that you've given, or if you ran workshops
+or if you're a coding teacher or something. So any way that you can show that you've 
 shared knowledge with the community counts as activity that they can take into 
-consideration to, um, to know if you're going to be a dev expert or not.
+consideration to know if you're going to be a Dev Expert or not.
 So, yeah. So you'll have a first interview where you talk about your activity 
-and you have to kind of feel the forum when you, when you, um, kind of like add 
-and you've done. And the second step is an interview with a Google employee 
+and you have to kind of fill a form where you add everything that you've done.
+And the second step is an interview with a Google employee 
 where they ask you a bit more questions about your activity and also some 
-technical questions related to the field that you picked.
-As a Google developer expert. So my field is web technologies, but there are 
-experts in Android, IOT, machine learning, um, angular specifically. Uh, so when 
-you apply and you can pick, um, the field that you want and your interview will 
-have questions related to that field. So there's only two steps of interviews.
-One more related to your activity and one with questions related to the topic 
-that you picked, and once that's done, then yeah. You joined the program and 
-you're going to be part of mailing list and yeah. Things like that. Okay. Cool. 
-And then also a Google 
-**Michaela:** [00:44:25] developer submit where people get together. Is that per 
-continent or per city, or how, how frequent auto submits and 
-**Charlie:** [00:44:33] where are they looking?
-So the summit, I just went to, I think it's a yearly one. Um, and I think it is 
-always in mountain view cause it's in the, uh, Google. Um, and it was people 
-from around the world, but I don't think it is, um, every expert, I think this 
-time we were about 450 people and I think people get, um, so everybody gets an 
-invite, but then, you know, people can't come that weekend.
-Um, so you know, not everybody will be there. Uh, but it is experts from 
-different disciplines as well. So this time, you know, it was, uh, there was a 
-lot of Android experts. There was quite a few, uh, web technology experts. I 
-don't think there was any IOT experts, but there were some machine learning 
+technical questions related to the field that you picked as a Google Developer Expert.
+So my field is web technologies, but there are 
+experts in Android, IoT, machine learning, Angular specifically. So, when 
+you apply, you can pick the field that you want and your interview will 
+have questions related to that field. So there's only two steps of interviews:
+one more related to your activity and one with questions related to the topic 
+that you picked, and once that's done, then you join the program and 
+you're going to be part of mailing lists and yeah. Things like that.
+
+**Michaela:** [00:44:23] Okay. Cool. And then also a Google  Developer Summit
+where people get together. Is that per continent or per city, or how frequent
+are those summits and where are they located?
+
+**Charlie:** [00:44:33] So the summit I just went to, I think it's a yearly one,
+and I think it is always in Mountain View cause it's in the Google offices. 
+And it was people from around the world, but I don't think it is every expert.
+I think this time we were about 450 people and I think everybody gets an 
+invite, but then, you know, people can't come that weekend, so you know,
+not everybody will be there. But it is experts from 
+different disciplines as well. So this time, there was a 
+lot of Android experts. There was quite a few web technology experts. I 
+don't think there was any IoT experts, but there were some machine learning 
 experts.
-And, uh, in this summit you have talks from both Google employees and also other 
+And, in this summit you have talks from both Google employees and also other 
 experts. So as an expert, you have a chance to actually share your knowledge 
-with, uh, other people from around the world as well. 
+with other people from around the world as well. 
+
 **Michaela:** [00:45:33] Yeah, that sounds really nice. And what's about the 
 Mozilla speaker that you are. 
 **Charlie:** [00:45:40] Yeah. If you will.
