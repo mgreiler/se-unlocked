@@ -1,37 +1,38 @@
 # Transcript Episode 7 with Charity Majors
 
-**Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
-podcast. I'm your host, dr. McKayla. And today I have to pleasure to talk to 
-charity majors, charities, CTO, and founder of a startup called honeycomb 
-honeycomb, perhaps modern development dev ops insight, reliability engineering 
-teams operate more efficiently.
-String ailing, observability and monitoring of their systems before starting it. 
-The start up journey charity worked for a company that was acquired by Facebook. 
-Then I'm super thrilled that I can ask her today what observability means to 
-her, how she assesses a generic. Excellent. And how she decided to start her own 
-business.
-Thank you charity for being on my show. 
+**Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked
+podcast. I'm your host, Doctor McKayla and today I have the pleasure to talk to
+Charity Majors. Charity is the CTO and founder of the startup called Honeycomb. 
+Honeycomb helps modern development dev ops and site reliability engineering 
+teams operate more efficiently, string ableing, observability and monitoring 
+of their systems. Before starting her start up journey, Charity worked for 
+Parse, a company that was acquired by Facebook. 
+Well I'm super thrilled that I can ask her today what observability means to 
+her, how she assesses engineering excellence and how she decided to start her 
+own business.
+Thank you Charity for being on my show. 
 
 **Charity:** [00:00:42] Thanks for having me. 
 
-**Michaela:** [00:00:43] Yeah, I'm really thrilled. So charity, can you tell me 
-a little bit about your startup? How long does it already exist and why, and how 
-did you start that company? 
+**Michaela:** [00:00:43] Yeah, I'm really thrilled. So Charity, can you tell me
+a little bit about your startup? How long does it already exist and why, 
+and how did you start that company? 
 
-**Charity:** [00:00:53] Yeah, totally. Um, we have been around for it'll be four 
-years on January 1st. And, and I started at cutting right out of Facebook.
-Um, I was at parse right before this mobile backend as a service. I was the 
+**Charity:** [00:00:53] Yeah, totally. Um, we have been around for, 
+it'll be four years on January 1st. And, and I started it cutting right out 
+of Facebook.
+Um, I was at Parse right before this mobile backend as a service. I was the 
 first infrastructure engineer there. We were acquired by Facebook a couple of 
-years then. And I was there from before. Like pre beta till there was well over 
+years then. And I was there from before, like pre beta till there was well over
 a million apps. And I left Facebook fully intending to go be an engineering 
-manager at slacker Stripe or something.
-And instead kind of settling went, I had had this experience parse where, um, 
-You know, it was, it was down all the time. We were doing all of these exciting 
-things that we now have names for, like, you know, microservices and stuff. We 
-didn't have names for it. And we just knew that everything was breaking all the 
-time and we had to do terrible rewrites, et cetera.
+manager at Slack or Stripe or something.
+And instead kind of settling went, I had had this experience at Parse where
+, um, You know, it was, it was down all the time. We were doing all of 
+these exciting things that we now have names for, like, you know, microservices
+and stuff. We didn't have names for it. And we just knew that everything was 
+breaking all the time and we had to do terrible rewrites, et cetera.
 And I had, like, I had come, I was coming to this horrified conclusion that we 
-had built a system that was basically undruggable. By some of the best engineers 
+had built a system that was basically undebuggable. By some of the best engineers 
 in the world, some of the best I've ever worked with all doing the quote 
 unquote, the right things. And yet it was down constantly. Like every day it was 
 going down and, and, and not just, it wasn't just reliability, even if it was 
