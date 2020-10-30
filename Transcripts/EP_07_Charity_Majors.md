@@ -1,21 +1,26 @@
 # Transcript Episode 7 with Charity Majors
 
-**Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
-podcast. I'm your host, dr. Michaela and today I have to pleasure to talk to 
-Charity Majors. Charity is the CTO and founder of a startup called Honeycomb. 
+
+**Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked
+podcast. I'm your host, Doctor McKayla and today I have the pleasure to talk to
+Charity Majors. Charity is the CTO and founder of the startup called Honeycomb. 
 Honeycomb helps modern development dev ops and site reliability engineering 
-teams operate more efficiently through enabling observability and monitoring
-of their systems. Before starting her start-up journey Charity worked for
-Parse, a company that was acquired by Facebook. But I'm super thrilled that 
-I can ask her today what observability means to her, how she assesses
-engineering excellence and how she decided to start her own business.
+teams operate more efficiently, string ableing, observability and monitoring 
+of their systems. Before starting her start up journey, Charity worked for 
+Parse, a company that was acquired by Facebook. 
+Well I'm super thrilled that I can ask her today what observability means to 
+her, how she assesses engineering excellence and how she decided to start her 
+own business.
+
 Thank you Charity for being on my show. 
 
 **Charity:** [00:00:42] Thanks for having me. 
 
+
 **Michaela:** [00:00:43] Yeah, I'm really thrilled. So Charity, can you tell me 
 a little bit about your startup? How long does it already exist and why, and how 
 did you start that company? 
+
 
 **Charity:** [00:00:53] Yeah, totally. Um, we have been around for, it'll be 
 four years on January 1st. And I started at coming right out of Facebook.
@@ -50,7 +55,7 @@ questions. The problem was figuring out what the question was! Like, by the
 time I knew what the question was, I usually knew what the answer was. The 
 answer usually comes before the question in these distributed systems problems.
 And at some point we started to get some of our data sets flowing into this tool 
-at Facebook called scuba. And that was when like, The sun started to come out 
+at Facebook called Scuba. And that was when like, The sun started to come out 
 because the time it took us to understand these complex systems problems 
 dropped, just dropped like a rock from days to two seconds or 
 minutes, you know, and reliably so like predictably so. I wasn't even an
@@ -76,14 +81,17 @@ enormous, like we started talking about the things that we were doing
 that were different and it really resonated with a lot of people very 
 quickly, which was, which was a surprise.
 
+
 **Michaela:** [00:05:02] And so the first step with starting your company was 
 actually talking to users, or did you have already a prototype? What was the 
 first thing that you did. 
+
 
 **Charity:** [00:05:11] Oh, no, we had nothing. We had four slides and we didn't 
 even really know what we were building. We just knew that we had had this 
 experience that was really, really powerful.
 And we didn't even know why. 
+
 
 **Michaela:** [00:05:23] So it really started from a problem space. Okay, 
 cool. And so then you went and you found different customers or not 
