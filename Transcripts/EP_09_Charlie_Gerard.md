@@ -685,41 +685,40 @@ And, in this summit you have talks from both Google employees and also other
 experts. So as an expert, you have a chance to actually share your knowledge 
 with other people from around the world as well. 
 
-**Michaela:** [00:45:33] Yeah, that sounds really nice. And what's about the 
-Mozilla speaker that you are. 
-**Charlie:** [00:45:40] Yeah. If you will.
-That I'm part of both, but I actually went through the process at the same time, 
+**Michaela:** [00:45:33] Yeah, that sounds really nice. And what about the 
+Mozilla speaker that you are? 
+
+**Charlie:** [00:45:40] Yeah, it feels weird that I'm part of both,
+but I actually went through the process at the same time, 
 so I didn't actually plan on doing both. I mean, I'll probably get one of them 
-and I got both, so yeah. Uh, but the, the process for the Monday Lantech 
-speakers is there is actually an application. So you don't need to be, um, 
-referred.
-I think once a year they opened up aggregation. I think usually they tweet about 
-it. They say, Oh, if you want to be part of the program, you know, feel it, feel 
-that form. Um, and then they select people again, based on your activities. So 
-you have to, I think you have to also report what you've been doing and also why 
-you want to be a, an expert because it's, you know, it's not a, it's not a job.
-You're not. Paid. It's really just about if you are passionate about being with 
-a group of people who love the same, the same things as you, and who are as 
+and I got both, so yeah. But the process for the Mozilla Tech Speakers is,
+there is actually an application. So you don't need to be referred.
+I think once a year they open up applications. I think usually they tweet about 
+it. They say, "Oh, if you want to be part of the program, fill that form," 
+and then they select people, again based on your activities. So 
+I think you have to also report what you've been doing and also why 
+you want to be an expert because it's not a job, you're not paid.
+It's really just about if you are passionate about being with 
+a group of people who love the same things as you, and who are as 
 passionate about sharing knowledge as you are, then, you know, this is a good 
-group for you when you fill a form and then you either get. You know, selected 
-or not.
+group for you. So you fill a form and then you either get selected or not.
 And if you do get selected, there is a little training program with people from 
-the same region. So when I got selected a few people in Australia and Asia as 
-well, uh, we were on the same call where you had. Um, current you tech speakers 
-telling you what the program is about. And you had a few, a bit of homework 
-where you had to write a draft of that you might give, and then everybody gave 
+the same region. So when I got selected, we had a few people in Australia and Asia as 
+well. We were on the same call where you had current Mozilla Tech Speakers 
+telling you what the program is about, and you had a bit of homework 
+where you had to write a draft of a talk that you might give, and then everybody gives 
 feedback to each other.
-So that was really nice because it was just kind of like. Showing you how to 
-write a proposal for a talk and then you get feedback by different people. And I 
-think it was over a few weeks. I forgot how many weeks exactly. But you just had 
-to make sure that you could join that call. And if you couldn't, you know, it 
-was fine and you were not kicked out of the program.
-Uh, but it is better if you, if you join the coast and you get to meet people 
-already and you get to share ideas, and then we know we're all part of a, like a 
-telegram. Channel, you know, the app on your phone. And, um, we get to, we get 
-to chat quite often. And so the, the process was a bit different. It wasn't 
-really, you know, it wasn't truly interviews.
-It was more, um, chats. So yeah, basically that was it. 
+So that was really nice because it was just kind of, like, showing you how to 
+write a proposal for a talk, and then you get feedback by different people. And I 
+think it was over a few weeks—I forgot how many weeks exactly. But you just had 
+to make sure that you could join that call. And if you couldn't, it was fine
+and you were not kicked out of the program.
+But it is better if you join the call so you get to meet people 
+already and you get to share ideas, and then we know we're all part of a 
+Telegram channel, you know, the app on your phone. And we get to 
+chat quite often. And so the process was a bit different. It wasn't 
+truly interviews. It was more chats. So yeah, basically that was it. 
+
 **Michaela:** [00:47:50] Yeah. So one of the things I wanted to process if 
 you're now in Sydney, but I know that you have been living in Paris as well. So 
 how comes that you are 
