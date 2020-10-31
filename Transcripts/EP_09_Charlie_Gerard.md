@@ -304,19 +304,19 @@ how the organization operates, on how teams work together and things like that?
 It's been really interesting to explore different environments 
 because before Atlassian, I was working for a consultancy, so the nature of the 
 work was quite different because instead of being really involved in one product,
-I basically was assigned to a team every few months. Sometimes it was on a three-months project,
+I basically was assigned to a team every few months. Sometimes it was only a three-months project,
 sometimes it was six, sometimes a year. It means that when you join a company to help 
 them for a few months, you're not really part of their team. Like, you ended 
 up being responsible for a part of a company's product, but you're not really, 
 really part of the team. Like you help them only on the small parts.
-So usually I worked on codebases that were way smaller. A lot of the time, 
+So usually I worked on codebases that were way smaller. A lot of the times, 
 we were sometimes starting something from scratch, which is very different 
 from working on a codebase that has been there, you know, for more than 10 
 years. And as a consultant, we were building teams that had 
 sometimes more diversity in terms of roles.
 So with the consultancy I was in before, it was rare that we only had one designer.
 We usually had a couple of UX designers, we definitely had testers, we 
-definitely had a product managers, and the team was really diverse in terms of 
+definitely had product managers, and the team was really diverse in terms of 
 disciplines, whereas Atlassian is very often more technical.
 But the main difference and the main challenge for me has been the size of the 
 codebase.
@@ -328,487 +328,465 @@ codebase and be part of decisions that are supposed to be long-lasting,
 whereas consultancy, you try to help a company and you try to help them make 
 long-lasting decisions when, in the end, they decide what they want to do. You're just here to advise 
 them and do your best. But in the end, when you leave to go and help another 
-company, theyk ind of decides what to do, and sometimes it feels like you 
+company, they kind of decide what to do, and sometimes it feels like you 
 don't really see the end of what you're building, because you're only here temporarily.
 Whereas, at Atlassian, on a product, you know, you're supposed to 
 make every decision knowing that you want it to last and you want it to be 
-performant and helpful because it's going to impact the product in the longterm. 
+performant and helpful because it's going to impact the product in the long term. 
 
 **Michaela:** [00:21:42] And so when you consulted those companies where you're 
-sitting with the teams, would you go to company a for example, and then really 
-sit with their team for a stretch of several 
-**Charlie:** [00:21:50] months?
-**Michaela:** [00:21:50] Or would that be a remote consultancy gig that you have 
-there? 
-**Charlie:** [00:21:55] How does STEM? So we were usually going into the, um, 
+sitting with the teams, would you go to Company A, for example, and then really 
+sit with their team for a stretch of several months? Or would that be a remote consultancy
+gig that you have there? How does that work?
+
+**Charlie:** [00:21:55] So we were usually going into the 
 company's offices and we were working with their developers and their product 
-managers. So we were really with the team. So we were really trying to not only. 
-Build the software, but also understand their businesses and their, you know, 
+managers. So we were really with the team. So we were really trying to not only
+build the software, but also understand their businesses and their, you know, 
 their struggles and things like that.
-So I think it was really interesting because, um, it wasn't only coding. It was 
-really being a consultant. So really trying to understand what pinpoints a 
-company was having and how to solve that with software. Uh, so it's, uh, and I 
-feel like it is. Uh, it has helped me. I think it's really quite beneficial to 
+So I think it was really interesting because it wasn't only coding. It was 
+really being a consultant, so really trying to understand what pain points a 
+company was having and how to solve that with software. And I 
+feel like it has helped me. I think it's really quite beneficial to 
 change environment.
-Um, so that's why I like it because then it's, you really develop your 
-communication skills because, uh, you probably write code maybe only half the 
-time because the other time either you're. Upskilling, um, the companies 
+So that's why I like it because then you really develop your 
+communication skills because you probably write code maybe only half the 
+time because the other time either you're upskilling the company's 
 developers into a new tech stack that they haven't worked with before, or you're 
-really, um, trying to, you have to sometimes explain to people who are non 
-technical about why, you know, why maybe you're not shipping features as fast 
-because you're making long lasting changes or it's really, it's really been 
-interesting because you're not, yes, you're not only coding.
-You're also advising people on, uh, on their. Business and trying to make them 
-understand the challenges of technology. Um, whereas at Atlassian, most of the 
+really trying to, you have to sometimes explain to people who are non-technical about why
+maybe you're not shipping features as fast 
+because you're making long-lasting changes. It's really been 
+interesting because you're not only coding.
+You're also advising people on their business and trying to make them 
+understand the challenges of technology. Whereas at Atlassian, most of the 
 people I talk to are quite technical, so the conversations are a bit different, 
 but I do think that the background of having worked as a consultant is really 
-helpful because it pushes me to really make sure that I explained things in a 
-way that everybody can.
-I understand that you, you don't have to be technical to understand what I'm 
-trying to say. So I think that's very important skill. 
-**Michaela:** [00:23:40] Yeah, I think so too. So how, how come did you change 
-from this consultancy to Atlassian? Can you tell me a little bit about, uh, why 
-did you choose that company? How did you apply and how did that interview 
-process 
-**Charlie:** [00:23:54] go?
-Sure. Um, so to me, the main reason was that. I think it was because as a 
-consultant, I didn't really feel, I couldn't really know where my work and did 
+helpful because it pushes me to really make sure that I explain things in a 
+way that everybody can understand—that you don't have to be technical to understand what I'm 
+trying to say. So I think that's a very important skill. 
+
+**Michaela:** [00:23:40] Yeah, I think so too. So how come did you change 
+from this consultancy to Atlassian? Can you tell me a little bit about why 
+did you choose that company, about how did you apply and how did that interview 
+process go?
+
+**Charlie:** [00:23:54] Sure. So, to me, the main reason was that, I think it was because as a 
+consultant, I didn't really feel—I couldn't really know where my work ended 
 because you know what you're doing for a certain period of time while you are 
-with the company. But as soon as you go and help another company, you don't 
-actually know if the company decided to, um, rewrite the code base or if they 
+with the company, but as soon as you go and help another company, you don't 
+actually know if the company decided to rewrite the codebase or if they 
 gave up on the project you were working on.
-So I wasn't really able to say, you know, I built this or, or I helped these 
-people because once you're gone, They, you know, you don't always know when they 
-decide to do so in terms of knowledge, uh, it was quite broad. So I experimented 
+So I wasn't really able to say, you know, "I built this," or "I helped these 
+people" because once you're gone, you don't always know what they 
+decide to do. So in terms of knowledge, it was quite broad, so I experimented 
 with a lot of different environments, but in terms of depth, I didn't really 
 have the opportunity to go deep into a product and technology.
-So that was my main motivation for moving on and going to your product, because 
-I know I knew that it would be an environment that wouldn't change. I would, it 
-would be more stable for me to go deeper in, in a code base and try to refactor 
+So that was my main motivation for moving on and going to product, because 
+I know I knew that it would be an environment that wouldn't change. It 
+would be more stable for me to go deeper in a code base and try to refactor 
 or work with more legacy code and understand how to make more impactful changes.
-And then in terms of why Atlassian. Um, so it is one of the main tech company 
-in, in Sydney, uh, here. And I was interested in the fact that it is a product 
-that is used by millions of people. So, uh, every change that you do, even small 
-is going to have an impact. Um, it's quite big. Uh, it also means that in terms 
-of challenges, every time you, you know, even if it is a small change, if you 
+And in terms of why Atlassian, it is one of the main tech companies 
+in Sydney here, and I was interested in the fact that it is a product 
+that is used by millions of people. So every change that you do, even small, 
+is going to have an impact that is quite big. It also means that, in terms 
+of challenges, every time, even if it is a small change, if you 
 break something, it also has an impact.
-So there is quite a lot of challenges in terms of, uh, performance, making sure 
-that everything that you add on the code base is not going to make JIRA slower 
-than it is. And for example, so that was really something that I was quite 
-excited and about knowing that I would be really something that a lot of people 
-use and in terms of interview process.
-So there's, it wasn't actually, it wasn't super long. I think, um, they 
+So there is quite a lot of challenges in terms of performance, making sure 
+that everything that you add on the codebase is not going to make JIRA slower 
+than it is, for example. So that was really something that I was quite 
+excited about, knowing that I would be really something that a lot of people 
+use. And in terms of interview process, it wasn't super long. I think they 
 shortened the hiring process because they're hiring a lot. And I think in tech 
-at the moment, People, a lot of companies are trying to shorten to make sure 
+at the moment, a lot of companies are trying to shorten to make sure 
 that they don't lose the talents because, well, you know, you know how 
 interviews go.
-If, if a company is too slow, you might, you might pick another job. Uh, but in 
-terms of steps, um, it was a phone call with the recruiter. Um, I think that is 
-quite standard. Uh, but then instead of having a code test that you take home, 
+If a company is too slow, you might pick another job. But in 
+terms of steps, it was a phone call with the recruiter—I think that is 
+quite standard—but then instead of having a code test that you take home, 
 you actually have to go to the office and you were live coding in front of 
 somebody.
-So I didn't know what the test would be, um, before I went to the office, but so 
-I went to the office and I met the developer. That would be, um, pairing with 
-me. We're not really pairing, but he was available for four questions. And then 
-you, um, they show you the tests that you have to do. And you had to, you had an 
-hour to go through tasks in a read me and code it live in front of the person.
-And the, the developer that was with me was available to answer some of your 
-questions. If it wasn't really clear. And he was observing what I was doing, 
+So I didn't know what the test would be before I went to the office, but so 
+I went to the office and I met the developer that would be pairing with 
+me. We're not really pairing, but he was available for questions. And then 
+they show you the tests that you have to do, and you had an 
+hour to go through tasks in a readme and code it live in front of the person.
+And the developer that was with me was available to answer some of your 
+questions if it wasn't really clear, and he was observing what I was doing, 
 writing some notes and you have a few minutes at the end to explain what you 
-would have done better because obviously in an hour. You don't have the time to 
+would have done better because obviously in an hour you don't have the time to 
 write the best code.
-The goal of this, uh, interview was not to write the best code ever. It was just 
-to see how you would go about solving a problem. And if you're then able to 
+The goal of this interview was not to write the best code ever. It was just 
+to see how you would go about solving a problem, and if you're then able to 
 reflect on what you wrote and explain what you would have done better. So for 
-the, for the contest, that was, that was that. And then if that goes well, there 
-is a technical echo, another technical interview where you meet with two 
-developers.
-And it's more about talking about a project that you have worked on recently, 
-where you were really involved in. So you can explain it quite, you know, 
-deeply. Uh, so you, you spent quite a lot of time explaining, uh, what you were 
-saying, both in the tech stack, the decisions that you, that you made in that 
+the code test, that was that. And then if that goes well, there 
+is a another technical interview where you meet with two 
+developers, and it's more about talking about a project that you have worked on recently, 
+where you were really involved in, so you can explain it quite deeply. 
+So you spend quite a lot of time explaining what you were involved in,
+the tech stack, the decisions that you made in that 
 project, again, what you could have done better and things like that.
 And then there's some, uh, what, for me, it was frontend technical questions. 
-Uh, I think pretty, uh, pretty basic interview questions. They were a bit more 
-around react because they use react a lot. So the questions were react related 
-and there was also a very small white board exercise, not at all, uh, algorithms 
-and data structures.
-So it wasn't, you know, it wasn't the scary things. Uh, but it was a JavaScript 
-question where, um, you had to, uh, you know, write a certain function on the 
-white board and explain what, what you were writing. And then finally, if that 
-goes, well, you have an interview with two managers of teams who that are 
-looking for people where, you know, you can get to meet the, your potential 
-future manager.
-And it's more of a, a cultural interview where, you know, you get asked about. A 
+I think pretty basic interview questions. They were a bit more 
+around React because they use React a lot, so the questions were React-related 
+and there was also a very small whiteboard exercise, not at all algorithms 
+and data structures, so it wasn't the scary things. But it was a JavaScript 
+question where, you had to write a certain function on the 
+whiteboard and explain what you were writing. And then finally, if that 
+goes well, you have an interview with two managers of teams that are 
+looking for people where you can get to meet your potential 
+future manager, and it's more of a cultural interview where you get asked about a 
 time where you had negative feedback and how you reacted or a time where you had 
-to give, um, you know, constructive feedback and, and how you went about that 
-and what you liked about technology, where you're interested in, uh, and things 
+to give constructive feedback and how you went about that, 
+and what you like about technology, what you're interested in, and things 
 like that.
 And then you get to ask your questions as well about the different products or 
-the parts of the teams that are hiring basically. And that was it. So it's gonna 
-like four, four steps 
-**Michaela:** [00:29:09] and they are all in 
-**Charlie:** [00:29:10] one day. No, no, no, no. I mean, or maybe you can do 
-them in one day. I, I haven't tried that, but it was brilliant.
-It was it's pretty short. So I think I did them over a month. So maybe once a 
-week, because at the time when I went through the interviews, I had to work in 
-another city. So I couldn't always physically be in Sydney, but I like to do 
-interviews face to face. So I just ask them to sometimes delay some of the 
-interviews so I could be.
-In Sydney, some of you I'm sure that you could do the interviews remotely. I 
-think they're hiring a lot of people in other countries that they then sponsored 
-to come to Australia. So I think a lot of people do the interviews, um, probably 
-on, on zoom or on Skype or something, but they're pretty flexible and they, they 
-go quiet.
-Fastest, because I think they want to make sure that they don't miss out on, on 
-talent. 
+the parts of the teams that are hiring basically. And that was it. So it's kind 
+like four steps.
+
+**Michaela:** [00:29:09] And they are all in one day??
+
+**Charlie:** [00:29:10] No, no, no, no. I mean, maybe you can do 
+them in one day. I haven't tried that. It was pretty short. So I think I did them over a month,
+so maybe once a week, because at the time when I went through the interviews, I had to work in 
+another city, so I couldn't always physically be in Sydney, but I like to do 
+interviews face to face. So I just asked them to sometimes delay some of the 
+interviews so I could be in Sydney.
+So I'm sure that you could do the interviews remotely—
+I think they're hiring a lot of people in other countries that they then sponsor 
+to come to Australia, so I think a lot of people do the interviews probably 
+on Zoom or on Skype or something, but they're pretty flexible and they
+go quite fast because I think they want to make sure that they don't miss out on talent.
+
 **Michaela:** [00:29:56] Okay. So when you tell me about the live coding event, 
-I get all kinds of anxieties,
-computer, and then somebody's looking 
-**Charlie:** [00:30:07] over my shoulder with this, you know, I would 
-**Michaela:** [00:30:09] probably forget where the different keys are on my, um, 
-So how was that for you? 
-**Charlie:** [00:30:18] So I think I, so I'm, I'm very nervous as well when that 
-happens, because I feel watched and judged and you know, I'm like nervous, but I 
-tried, I tried to switch my, um, The way I was seeing it.
-And I tried to see it as a challenge for myself. I tried to forget that the 
-developer was what you need. And I tried to, you know, calm down and I tried to 
-tell myself if, you know, if I don't get the job, it's fine. You know, there's 
+I get all kinds of anxieties, to be honest.
+
+_[laughing]_
+
+**Michaela:** [00:30:06] _[unintelligible]_ ...computer, and then somebody's looking 
+over my shoulder with this, you know, I would probably forget where the different keys are on my
+keyboard. So how was that for you?
+
+**Charlie:** [00:30:18] So I'm very nervous as well when that 
+happens, because I feel watched and judged and, you know, I'm like nervous, but I 
+tried to switch the way I was seeing it,
+and I tried to see it as a challenge for myself. I tried to forget that the 
+developer was watching me, and I tried to calm down, and I tried to 
+tell myself "If I don't get the job, it's fine. There's 
 other companies and there's other jobs. It's not the end of the world. And if I 
-can't do this contest, then it doesn't matter that I can't reapply later.
-Like I tried to really not. Uh, I tried to really downplay how important it was 
-for me, the impact. Yeah, that's fine. Because then I could then focus on the 
-code rather than focusing on how nervous I was. Um, but also the, the developer 
-who was with me, um, was really a nice and, uh, you know, quite. Chill. So he 
-didn't make me stress at all.
-I think he even told me like, it's okay, take your time. If you have questions 
-I'm here. He didn't make me stress out at all. So I think that definitely 
-helped. 
-**Michaela:** [00:31:28] And so when you recording that, would you 
-**Charlie:** [00:31:30] be able to open Google 
-**Michaela:** [00:31:33] and look something up or 
-**Charlie:** [00:31:34] didn't you dare to do that or was it so clear? I think 
-it's actually stay in your IDE.
-Um, I think I did, I did Google, um, something because I think I forgot how to, 
-there was something quite basic that I forgot. Uh, I don't remember right now 
-what it was, but, uh, he, I think the, I think the developer who was with me 
-told me that I was allowed to Google. I think it was more about. If you Google 
-something, maybe, you know, um, say out loud what you're Googling and why you're 
-Googling it.
-Um, because they know that you, I mean, Google is something that we use a lot in 
-our job, you know, we CA we convince them that we, I don't think I spend a day 
-with that looking at Google, you know, I probably look at Google. Yeah. So, 
-yeah. You know, it's, um, it's more of a understanding how you, how you work. I 
-wouldn't want to pretend that I know everything because it's not true.
-So I, you know, I, yeah, I wouldn't pretend that I just. Rural everything 
-without looking anything up in a real world scenario, um, I would do that, 
-right? Yeah. Yeah, definitely. And I think it's more about, well, if you want to 
-solve a certain problem, what would you Google? Um, and it's about, you know, 
-seeing if you can efficiently Google maybe as well.
-Um, but yeah, no, I did use Google. 
+can't do this contest, then it doesn't mean that I can't reapply later."
+I tried to really downplay how important it was 
+for me, the impact. Yeah, so I was fine, because then I could then focus on the 
+code rather than focusing on how nervous I was. But also the developer 
+who was with me was really nice and quite chill, so he didn't make me stress at all.
+I think he even told me, like, "It's okay, take your time. If you have questions 
+I'm here." He didn't make me stress out at all, so I think that definitely 
+helped as well.
+
+**Michaela:** [00:31:28] And so when you were coding that, would you be able to open Google 
+and look something up or didn't you dare to do that or was it so clear that you could 
+actually stay in your IDE?
+
+**Charlie:** [00:31:43] I think I did Google something because I think I forgot how to, 
+there was something quite basic that I forgot. I don't remember right now 
+what it was, but I think the developer who was with me 
+told me that I was allowed to Google. I think it was more about, if you Google 
+something, maybe say out loud what you're Googling and why you're 
+Googling it, because they know that, I mean, Google is something that we use a lot in 
+our job. We can't pretend that we—I don't think I spend a day 
+without looking at Google. You know, I probably look at Google every ten minutes. 
+It's more of a understanding how you work. And I 
+wouldn't want to pretend that I know everything because it's not true,
+so I wouldn't pretend that I just wrote everything 
+without looking anything up in a real-world scenario...
+
+**Michaela:** [00:32:41] You also would do that, right?
+
+**Charlie:** [00:32:44] Yeah, yeah, definitely. And I think it's more about, well, if you want to 
+solve a certain problem, what would you Google? And it's about, you know, 
+seeing if you can efficiently Google maybe as well. But yeah, no, I did use Google.
+
 **Michaela:** [00:32:56] Yeah. Okay. So, um, I know that besides the things that 
 you do at the company, you also have quite a few side projects and they are in 
-**Charlie:** [00:33:07] very interesting areas. 
-**Michaela:** [00:33:08] I call them 
-**Charlie:** [00:33:09] brain controlled interfaces. I think you call them the 
-same 
-**Michaela:** [00:33:12] and you're also thinking of it various electronic 
-devices.
-Right. So why do you do that? Why do you invest your free time? Um, In looking 
-at something that's actually not one to one related to your current job and your 
-career. 
-**Charlie:** [00:33:28] Um, well, so I think, well, first of all, I think it's 
-because, uh, it gets me really excited. Um, I am definitely very passionate 
-about the way people interact with, uh, energy and brain.
-Computer interfaces is one way of doing that. But also, because I feel like I'm 
-learning a lot while I build these side projects. And, uh, when I'm at work, I, 
-you know, I learn about a certain, yeah. You know, certain frameworks or certain 
-tech stacks or certain ways of building a website. But I feel like technology 
-is.
-So much more than that. And in a way you don't really know where it's going. So 
-I like it spring different, different parts of the tech industry, because, well, 
+very interesting areas. I call them brain-controlled interfaces. I think you call them the 
+same. And you're also tinker with various electronic devices, right?
+So why do you do that? Why do you invest your free time in looking 
+at something that's actually not one-to-one related to your current job and your 
+career?
+
+**Charlie:** [00:33:28] Well, first of all, I think it's 
+because it gets me really excited. I am definitely very passionate 
+about the way people interact with technology, and brain–computer interfaces is one way of doing that. 
+But also, because I feel like I'm learning a lot while I build these side projects, and when I'm at work, 
+I learn about certain frameworks or certain tech stacks or certain ways of building a website.
+But I feel like technology is so much more than that, and in a way you don't really know where it's going. 
+So I like exploring different parts of the tech industry, because, well, 
 right now I'm building JIRA, but I don't know what's next. It gives me a better 
-idea of what what's going on or what the future might be as well.
-And it's a field that is well to me, so, so interesting. Uh, when we look at the 
-way we usually interact, we, uh, like the keyboard and the phone is so 
-restrictive. It's that we've learned. To type on buttons to do something, but 
-there's probably, there's probably so many different ways that we could interact 
-with things that that could, um, you know, maybe be faster or be more intuitive.
-And I feel like a lot of the times we we've had to learn how to use the 
-keyboard. Whereas technology could actually adapt to people in the natural 
-environment and it would almost, you know, do things for you, but you would, 
-there is a, you know, a way that you would forget that the tech is here, but it 
-would just do things for you and make your life, uh, you know, eventually 
-better.
-**Michaela:** [00:35:05] So I just said 
-**Charlie:** [00:35:07] brain controlled 
-**Michaela:** [00:35:09] interfaces, but, um, I looked at, I watched some of 
-your YouTube videos and, 
-**Charlie:** [00:35:16] um, 
-**Michaela:** [00:35:16] I read some of your articles and what's actually 
-happening. Is that based on sensors that on your. Had right. You can 
-**Charlie:** [00:35:23] move for example, the mouse, or you 
-**Michaela:** [00:35:25] could navigate a 
-**Charlie:** [00:35:27] cube 
-**Michaela:** [00:35:27] yes. Space somehow.
-Right? How would you, how would you describe that brand controlled interfaces? 
+idea of what's going on or what the future might be as well.
+And it's a field that is, well, to me so, so interesting. When we look at the 
+way we usually interact, like the keyboard and the phone is so 
+restrictive. It's like we've learned to type on buttons to do something, but 
+there's probably so many different ways that we could interact 
+with things that that could maybe be faster or be more intuitive.
+And I feel like a lot of the times, we've had to learn how to use the 
+keyboard, whereas technology could actually adapt to people in the natural 
+environment and it would almost, you know, do things for you, 
+but there is a way that you would forget that the tech is here, but it 
+would just do things for you and make your life eventually better.
+
+**Michaela:** [00:35:05] So I just said brain-controlled interfaces, but I watched some of 
+your YouTube videos and I read some of your articles and what's actually 
+happening is that based on sensors that are on your head, right, you can 
+move for example, the mouse, or you could navigate a cube in space somehow, right?
+How would you describe that, brain-controlled interfaces? 
 What are those for you and where do you see them going? 
-**Charlie:** [00:35:37] Well, I'm not actually sure where it's going, but I'm. 
-What I think is that it is going to get a lot better than it is now. And I don't 
-know, I think it will take that much longer, but what I mean by that is, as I've 
+
+**Charlie:** [00:35:37] Well, I'm not actually sure where it's going, 
+but what I think is that it is going to get a lot better than it is now. And I don't 
+think it will take that much longer, but what I mean by that is, as I've 
 been working on building some prototypes, I have a better idea of what is 
-foreseeable and what is not possible.
-And at the moment, uh, you can train some machine learning algorithms to 
+possible and what is not possible.
+And at the moment, you can train some machine learning algorithms to 
 identify patterns in your brain activity that you can then match to a certain 
-thoughts. And then using that thought, it's really up to you to build whatever 
+thought. And then, using that thought, it's really up to you to build whatever 
 interaction that you want. Like, if you train an algorithm with your own 
-thoughts, then you can use that as triggers, but it could be, um, moving a 
-mouse.
-It could be playing a game. Uh, it could be instead of using, you know, a voice 
-control, you would use like thought control to start a playlist or pose a 
+thoughts, then you can use that as triggers, but it could be moving a mouse,
+it could be playing a game, it could be instead of using voice 
+control, you would use thought control to start a playlist or post a 
 YouTube video or anything. But at the moment, most of the experiments that I've 
-seen have been using thoughts of a body movement. Um, I feel like this is maybe 
-where it's to identify patterns in info.
-So the one that I've been playing with personally, like how to train an 
-algorithm to, I recognize maybe a direction. So I was thinking about moving 
-right or left. And then I was matching that with a motion on the screen as well, 
-but recently, um, actually last week, um, I went to. Uh, mountain view for a 
-Google developer expert summit.
-And I could have with a friend who, who is the co founder of a startup called 
-neuro city, and they're building their own brain sensor as well. So it's a new 
-one that will be available soon. And I tried it and it was really, really 
-exciting. And I saw that the, what I trained with it as well was also a body 
-movement.
-So I had to think about. Punching my fingers or tapping my left foot on the 
-floor, or, and, um, as I was just thinking about these movements, I could then 
-find patterns in the data and map that to, to something on the screen as well. 
-So, so far I feel like what is doable is thinking about a body movement or.
-Or an emotion in space, and that is easier to find patterns than in the data. 
-But what is, I think not possible yet is to think about random things like a 
-bottle of water or, or the beach. I think that these kinds of foods are not 
-precise enough. To be able to detect any kind of patterns I might be wrong, but 
-what I've seen so far, it's easier with thoughts of movements.
-But I feel like as the technology is going to get, um, better in terms of 
-hardware and software, I don't think we are that far from being able to interact 
-with, um, with interfaces using brain sensors. But I think that we have to be a 
-little bit. Patient that we're not going to be able to detect everything.
+seen have been using thoughts of a body movement. I feel like this is maybe 
+where it's easier to identify patterns in info.
+So the one that I've been playing with personally, like, I have to train an 
+algorithm to recognize maybe a direction. So I was thinking about moving 
+right or left, and then I was matching that with a motion on the screen as well, 
+but recently, actually last week, I went to Mountain View for a 
+Google Developer Experts Summit and I caught up with a friend who is the co-founder
+of a startup called Neurosity, and they're building their own brain sensor as well. So it's a new 
+one that will be available soon, and I tried it and it was really, really 
+exciting. And I saw that what I trained with it as well was also body movement.
+So I had to think about pinching my fingers or tapping my left foot on the 
+floor, and as I was just thinking about these movements, I could then 
+find patterns in the data and map that to something on the screen as well. 
+So, so far I feel like what is doable is thinking about a body movement or
+a motion in space, and that is easier to find patterns then, in the data. 
+But what is, I think, not possible yet is to think about random things like a 
+bottle of water or the beach. I think that these kinds of thoughts are not 
+precise enough to be able to detect any kind of patterns. I might be wrong, though. 
+What I've seen so far, it's easier with thoughts of movements,
+but I feel like as the technology is going to get better in terms of 
+hardware _and_ software, I don't think we are that far from being able to interact 
+with interfaces using brain sensors. But I think that we have to be a 
+little bit patient that we're not going to be able to detect everything.
+
 **Michaela:** [00:38:30] It's really, really interesting. And the funny thing is 
-that when you said, okay, you're thinking about something a thought, and then 
-you're mapped out right. To an activity and that will be 
-**Charlie:** [00:38:41] come your trigger. 
-**Michaela:** [00:38:42] The first thing that came to my mind is thinking about. 
-Mice 
-**Charlie:** [00:38:46] or 
-**Michaela:** [00:38:47] elephants, you know, and then you say, well, actually 
-it has to do more with 
-**Charlie:** [00:38:52] motions.
-**Michaela:** [00:38:52] Right. So I found that really, really interesting. I 
-would like to learn more about that. 
+that when you said, okay, you're thinking about something, a thought, and then 
+you map that, right, to an activity and that will become your trigger. 
+The first thing that came to _my_ mind is thinking about mice or elephants, you know?
+And then you say, well, actually it has to do more with motions, right?
+So I found that really, really interesting. I would like to learn more about that.
+
 **Charlie:** [00:38:56] Yeah. 
+
 **Michaela:** [00:38:57] I wonder if it has to do with the region of 
-**Charlie:** [00:38:59] the brain that thinks, you know, That you trigger 
-because maybe a mouse 
-**Michaela:** [00:39:05] thought is somewhere else located, then they're moving 
-your hands or something. 
-**Charlie:** [00:39:09] I think, yeah. I think it has to do with the amount of 
-focus that you need as well for a certain thoughts.
-Definitely the part of the brain that, um, let's say, you know, lights up when 
-you think about when you think about movement, but it's, um, I read something a 
+the brain that you trigger because maybe a mouse thought is somewhere else located,
+than you're moving your hands or something. 
+
+**Charlie:** [00:39:09] I think, yeah, I think it has to do with the amount of 
+focus that you need as well for a certain thought.
+Definitely the part of the brain that, let's say, you know, lights up when 
+you think about when you think about movement, but it's—I read something a 
 while ago, but I wouldn't be a hundred percent sure, but I think that it's 
 because the region of the brain that is in charge of thinking about movement 
-creates patterns or activity that is more similar between people than, than our 
-random thoughts.
-Because maybe if you think about an elephant or a mice, you might be attaching 
-some kind of feeling or, or memory or experience to that particular thing that 
-you're thinking about. Whereas a movement. I think is, um, more like you're only 
-thinking about that movement. There's I don't think there's any other thoughts 
-that you are doing at the same time when I tried the, the notion, so the neuro 
-city headset, it was quite difficult for me to focus in to train it because we 
-were in a room where people were having lunch.
-And I had two people on my side who were having some of my friends were having a 
-conversation while I was trying to train, uh, the, the patterns like the, the 
-thoughts. And he was actually quite difficult. So I think. Even if I was 
-thinking about motions that are quite, you know, specific and selective, I still 
-had all these noise because I was listening to conversations from my friends.
-So it was very hard for me to focus. So I think that's also one of the 
-limitations that we have at the moment with brain sensors is that when you train 
+creates patterns or activity that is more similar between people than our random thoughts,
+because maybe if you think about an elephant or a mouse, you might be attaching 
+some kind of feeling or memory or experience to that particular thing that 
+you're thinking about. Whereas a movement, I think is more selective, like you're only 
+thinking about that movement. I don't think there's any other thoughts 
+that you are doing at the same time. When I tried the Notion—so, the Neurosity headset—
+it was quite difficult for me to focus and to train it because we 
+were in a room where people were having lunch,
+and I had two people on my side who were having—so, my friends were having a 
+conversation while I was trying to train the patterns, the thoughts,
+and it was actually quite difficult. So I think, even if I was 
+thinking about motions that are quite specific and selective, I still 
+had all this noise because I was listening to conversations from my friends,
+so it was very hard for me to focus. So I think that's also one of the 
+limitations that we have at the moment with brain sensors, is that when you train 
 them, usually you have to be in a quiet environment when you can focus on that 
-particular. Um, force of movement. Um, that's why sometimes when I was moving, 
-uh, things on stage, it's very different than when I'm at home, because when I'm 
+particular thought of movement. That's why sometimes when I was demoing
+things on stage, it's very different than when I'm at home, because when I'm 
 at home, no one is watching me and I can just focus on that.
-Whereas on stage, I have other folks that go through my mind, like everybody's 
-watching me and yeah. And you know, this is like every time you have only one 
-second of silence, it just feels like forever. So yeah. 
-**Michaela:** [00:41:10] Yeah, I can, I can see that. I also, um, read dad, for 
-example, the 
-**Charlie:** [00:41:16] brain part, right. That's 
-**Michaela:** [00:41:19] responsible for emotions is actually one of the 
-**Charlie:** [00:41:22] most powerful 
-**Michaela:** [00:41:23] ones.
-So for example, the genius is that, uh, how can, you know, calculate and count 
-up or, you 
-**Charlie:** [00:41:29] know, have a square off 
-**Michaela:** [00:41:30] an unbelievable large number in their head. They 
-actually calculate with the different part of their brain. Then. 
-**Charlie:** [00:41:37] Be normal people do. Right. And 
-**Michaela:** [00:41:39] it's 
-**Charlie:** [00:41:39] connected to 
-**Michaela:** [00:41:41] right. So they can, yeah. They can calculate with that 
-part of the brain.
-Yeah. Um, yeah. Anyway, so that's why I find 
-**Charlie:** [00:41:49] that really, 
-**Michaela:** [00:41:49] really interesting. I have to 
-**Charlie:** [00:41:50] look that up, read more about it. 
-**Michaela:** [00:41:53] Yeah. I really see why you. Yeah. Why you deep dive 
-into that into, during your free time? So, one thing that you also said that I 
-wanted to pick your brain, um, you talked 
-**Charlie:** [00:42:04] about the 
-**Michaela:** [00:42:05] Google Def submit, and I know that you are a Google 
-developer expert and you also, and Mozilla speaker.
-And I would love if you could share with me and also our 
-**Charlie:** [00:42:14] listeners, obviously 
-**Michaela:** [00:42:15] what it takes to become one or the other. Right. I know 
-there are two different processes, so maybe let's start with the Google dev. 
-**Charlie:** [00:42:22] Expert. 
-**Michaela:** [00:42:23] How, how can 
-**Charlie:** [00:42:24] someone become a Google deaf expert? What does it take? 
-Right. So, um, to become a Google expert, you first have to be referred by 
-somebody who is already, um, an expert.
-So there's, there's kind of no way to get any, if nobody referees you. Um, but 
-no one wants to reference. So if you go to an event and you meet another Google 
-dev expert and you can ask them to refer, you. But what it, what it takes to 
-become one is that you have to be able to show a certain activities that you've 
-done for the community.
-So that could be the number of blog, blog posts that you've written or a, you 
-know, it could be that you're running a podcast. That's a community activity. Oh 
-yeah. Yeah.
-It could be the talks that you've given or. If you ran workshops or if you're a 
-coding teacher or, or something. So any, any way that you can show that you've 
+Whereas on stage, I have other thoughts that go through my mind, like "Everybody's 
+watching me." And every time you have only one 
+second of silence, it just feels like forever. So yeah.
+
+**Michaela:** [00:41:10] Yeah, I can, I can see that. I also read that, for 
+example, the brain part that's responsible for the motions is actually one of the 
+most powerful ones. So for example, the geniuses that can calculate and count up or
+have a square of an unbelievably large number and do that in their head, they 
+actually calculate with a different part of their brain than we normal people do, right? And 
+it's connected to the movement part.
+
+**Charlie:** [00:41:41] Oh, wow!
+
+**Michaela:** [00:41:43] So they can calculate with that part of the brain.
+Yeah. Anyway, so that's why I find that really, really interesting. I have to 
+look that up more, read more about it. Yeah, I really see why you deep dive 
+into that during your free time.
+
+So, one thing that you also said that I wanted to pick your brain. You talked 
+about the Google Dev Summit, and I know that you are a Google Developer Expert
+and you're also a Mozilla speaker.
+And I would love if you could share with me and also our listeners, obviously, 
+what it takes to become one or the other. I know there are two different processes,
+so maybe let's start with the Google Dev Expert. How can someone become a Google Dev Expert?
+What does it take?
+
+**Charlie:** [00:42:24] Right. So, to become a Google Dev Expert,
+you first have to be referred by somebody who is already an expert.
+So there's kind of no way to get in it if nobody refers you. But once you are referred—
+so if you go to an event and you meet another Google Dev Expert and you can ask them to refer, you. But what it takes to become one is that you have to be able to show certain activities that you've done for the community.
+So that could be the number of blog posts that you've written 
+or it could be that you're running a podcast. That's a community activity.
+
+**Michaela:** [00:43:03] Oh, yeah! Good for me! Yay!
+
+**Charlie:** [00:43:09] It could be the talks that you've given, or if you ran workshops
+or if you're a coding teacher or something. So any way that you can show that you've 
 shared knowledge with the community counts as activity that they can take into 
-consideration to, um, to know if you're going to be a dev expert or not.
+consideration to know if you're going to be a Dev Expert or not.
 So, yeah. So you'll have a first interview where you talk about your activity 
-and you have to kind of feel the forum when you, when you, um, kind of like add 
-and you've done. And the second step is an interview with a Google employee 
+and you have to kind of fill a form where you add everything that you've done.
+And the second step is an interview with a Google employee 
 where they ask you a bit more questions about your activity and also some 
-technical questions related to the field that you picked.
-As a Google developer expert. So my field is web technologies, but there are 
-experts in Android, IOT, machine learning, um, angular specifically. Uh, so when 
-you apply and you can pick, um, the field that you want and your interview will 
-have questions related to that field. So there's only two steps of interviews.
-One more related to your activity and one with questions related to the topic 
-that you picked, and once that's done, then yeah. You joined the program and 
-you're going to be part of mailing list and yeah. Things like that. Okay. Cool. 
-And then also a Google 
-**Michaela:** [00:44:25] developer submit where people get together. Is that per 
-continent or per city, or how, how frequent auto submits and 
-**Charlie:** [00:44:33] where are they looking?
-So the summit, I just went to, I think it's a yearly one. Um, and I think it is 
-always in mountain view cause it's in the, uh, Google. Um, and it was people 
-from around the world, but I don't think it is, um, every expert, I think this 
-time we were about 450 people and I think people get, um, so everybody gets an 
-invite, but then, you know, people can't come that weekend.
-Um, so you know, not everybody will be there. Uh, but it is experts from 
-different disciplines as well. So this time, you know, it was, uh, there was a 
-lot of Android experts. There was quite a few, uh, web technology experts. I 
-don't think there was any IOT experts, but there were some machine learning 
+technical questions related to the field that you picked as a Google Developer Expert.
+So my field is web technologies, but there are 
+experts in Android, IoT, machine learning, Angular specifically. So, when 
+you apply, you can pick the field that you want and your interview will 
+have questions related to that field. So there's only two steps of interviews:
+one more related to your activity and one with questions related to the topic 
+that you picked, and once that's done, then you join the program and 
+you're going to be part of mailing lists and yeah. Things like that.
+
+**Michaela:** [00:44:23] Okay. Cool. And then also a Google  Developer Summit
+where people get together. Is that per continent or per city, or how frequent
+are those summits and where are they located?
+
+**Charlie:** [00:44:33] So the summit I just went to, I think it's a yearly one,
+and I think it is always in Mountain View cause it's in the Google offices. 
+And it was people from around the world, but I don't think it is every expert.
+I think this time we were about 450 people and I think everybody gets an 
+invite, but then, you know, people can't come that weekend, so you know,
+not everybody will be there. But it is experts from 
+different disciplines as well. So this time, there was a 
+lot of Android experts. There was quite a few web technology experts. I 
+don't think there was any IoT experts, but there were some machine learning 
 experts.
-And, uh, in this summit you have talks from both Google employees and also other 
+And, in this summit you have talks from both Google employees and also other 
 experts. So as an expert, you have a chance to actually share your knowledge 
-with, uh, other people from around the world as well. 
-**Michaela:** [00:45:33] Yeah, that sounds really nice. And what's about the 
-Mozilla speaker that you are. 
-**Charlie:** [00:45:40] Yeah. If you will.
-That I'm part of both, but I actually went through the process at the same time, 
+with other people from around the world as well. 
+
+**Michaela:** [00:45:33] Yeah, that sounds really nice. And what about the 
+Mozilla speaker that you are? 
+
+**Charlie:** [00:45:40] Yeah, it feels weird that I'm part of both,
+but I actually went through the process at the same time, 
 so I didn't actually plan on doing both. I mean, I'll probably get one of them 
-and I got both, so yeah. Uh, but the, the process for the Monday Lantech 
-speakers is there is actually an application. So you don't need to be, um, 
-referred.
-I think once a year they opened up aggregation. I think usually they tweet about 
-it. They say, Oh, if you want to be part of the program, you know, feel it, feel 
-that form. Um, and then they select people again, based on your activities. So 
-you have to, I think you have to also report what you've been doing and also why 
-you want to be a, an expert because it's, you know, it's not a, it's not a job.
-You're not. Paid. It's really just about if you are passionate about being with 
-a group of people who love the same, the same things as you, and who are as 
+and I got both, so yeah. But the process for the Mozilla Tech Speakers is,
+there is actually an application. So you don't need to be referred.
+I think once a year they open up applications. I think usually they tweet about 
+it. They say, "Oh, if you want to be part of the program, fill that form," 
+and then they select people, again based on your activities. So 
+I think you have to also report what you've been doing and also why 
+you want to be an expert because it's not a job, you're not paid.
+It's really just about if you are passionate about being with 
+a group of people who love the same things as you, and who are as 
 passionate about sharing knowledge as you are, then, you know, this is a good 
-group for you when you fill a form and then you either get. You know, selected 
-or not.
+group for you. So you fill a form and then you either get selected or not.
 And if you do get selected, there is a little training program with people from 
-the same region. So when I got selected a few people in Australia and Asia as 
-well, uh, we were on the same call where you had. Um, current you tech speakers 
-telling you what the program is about. And you had a few, a bit of homework 
-where you had to write a draft of that you might give, and then everybody gave 
+the same region. So when I got selected, we had a few people in Australia and Asia as 
+well. We were on the same call where you had current Mozilla Tech Speakers 
+telling you what the program is about, and you had a bit of homework 
+where you had to write a draft of a talk that you might give, and then everybody gives 
 feedback to each other.
-So that was really nice because it was just kind of like. Showing you how to 
-write a proposal for a talk and then you get feedback by different people. And I 
-think it was over a few weeks. I forgot how many weeks exactly. But you just had 
-to make sure that you could join that call. And if you couldn't, you know, it 
-was fine and you were not kicked out of the program.
-Uh, but it is better if you, if you join the coast and you get to meet people 
-already and you get to share ideas, and then we know we're all part of a, like a 
-telegram. Channel, you know, the app on your phone. And, um, we get to, we get 
-to chat quite often. And so the, the process was a bit different. It wasn't 
-really, you know, it wasn't truly interviews.
-It was more, um, chats. So yeah, basically that was it. 
-**Michaela:** [00:47:50] Yeah. So one of the things I wanted to process if 
-you're now in Sydney, but I know that you have been living in Paris as well. So 
-how comes that you are 
-**Charlie:** [00:48:00] in Sydney? Um, it's much better. It's
-so well, I moved to Sydney about eight years ago. Um, so that that's been quite 
-a while now. Um, but I think so at the, at the time I was not in tech, I was in 
-marketing. I was finishing my master's degree. And as part of, um, as part of 
+So that was really nice because it was just kind of, like, showing you how to 
+write a proposal for a talk, and then you get feedback by different people. And I 
+think it was over a few weeks—I forgot how many weeks exactly. But you just had 
+to make sure that you could join that call. And if you couldn't, it was fine
+and you were not kicked out of the program.
+But it is better if you join the call so you get to meet people 
+already and you get to share ideas, and then we know we're all part of a 
+Telegram channel, you know, the app on your phone. And we get to 
+chat quite often. And so the process was a bit different. It wasn't 
+truly interviews. It was more chats. So yeah, basically that was it. 
+
+**Michaela:** [00:47:50] Yeah. So one of the things I wanted to ask you is, 
+you're now in Sydney but I know that you have been living in Paris as well. So 
+how comes that you are in Sydney?
+
+**Charlie:** [00:48:00] It's much better.
+
+**Michaela:** [00:48:07] Smaller, or better, or...? 
+
+**Charlie:** [00:48:09] Well, I moved to Sydney about eight years ago,
+so that that's been quite a while now. At the time I was not in tech. I was in 
+marketing. I was finishing my master's degree, and as part of 
 that degree, I had to either do an internship in an agency in Paris or a 
 semester abroad in a university that was partnering with my school at the time.
-And I had done internships before because, um, In France. I didn't really do 
-uni, but I did more of a school that was, um, like we had to do internships 
-quite, uh, quite often to build that kind of like a professional, um, portfolio 
-kind of thing too, then get hired 
-**Michaela:** [00:48:53] dead, like a Polytechnical. 
-**Charlie:** [00:48:54] Um, so it was. It's I think it works differently between 
-different countries.
-So I wouldn't really know the equivalent in other countries, but it was a mix of 
-lectures and a mix of actual professional, um, experience. So, so I had done, 
-yeah, I had done internships before, so I was thinking, well, if my school is 
-willing to send me somewhere, then yeah, I think that opportunity. Yeah. So, um, 
-I totally get it.
-So I decided to, um, to pick Sydney because it was really far, uh, and I wanted 
-to go quite far
-it's on songs like that, but, uh, I, I just, yeah. See the other side of the 
-book. I just mean it. I might not have the opportunity, you know, to go. Um, to 
-Australia every day. Um, so I picked that and then I love, and I basically 
-started working here and yeah. 
+And I had done internships before because in France, I didn't really do 
+uni, but I did more of a school that was, like, we had to do internships 
+quite often to build that kind of like a professional portfolio kind of thing too,
+then get hired. 
+
+**Michaela:** [00:48:53] Is that like a polytechnical?
+
+**Charlie:** [00:48:54] I think it works differently between different countries,
+so I wouldn't really know the equivalent in other countries,
+but it was a mix of lectures and a mix of actual professional experience.
+So I had done internships before, so I was thinking, well, if my school is 
+willing to send me somewhere, then, yeah, I'll take that opportunity.
+
+**Michaela:** [00:49:22] I totally get that.
+
+**Charlie:** [00:49:24] So I decided to pick Sydney because it was really far, 
+and I wanted to go quite far. It sounds bad like that, but I just...
+
+**Michaela:** [00:49:41] Yeah, see the other side of the world, right?
+
+**Charlie:** [00:49:42] Yeah, I just mean I might not have the opportunity 
+to go to Australia every day. So I picked that and then I loved it, and I basically 
+started working here and yeah.
+
 **Michaela:** [00:49:52] Yeah. That's really interesting. Yeah. I can see it. I 
-mean, I did, um, during my masters, I also did.
-Yeah. An Erasmus was called Erasmus term. So I went to London and based on that 
-I had experience, I traveled the world because I also want 
-**Charlie:** [00:50:07] to see everything 
-**Michaela:** [00:50:09] that's out there so I can see. And so now you're 
-feeling that you are, that you are going to stay in Sydney or are you going to 
-come back 
-**Charlie:** [00:50:16] to Europe at one point?
-Yeah. At the moment, I'm not. I'm not sure because you know, after eight years, 
-sometimes things. Uh, like, you know, what you want in, you know, in your life 
-or things like that change. So I'm, I'm actually not quite sure at the moment. 
+mean, during my masters, I also did what was called an Erasmus term.
+So I went to London and based on that experience, I traveled the world because I also wanted 
+to see everything that's out there so I can see. And so now you're 
+feeling that you're going to stay in Sydney, or are you going to 
+come back to Europe at one point?
+
+**Charlie:** [00:50:19] Yeah. At the moment, I'm not sure because after eight years, 
+sometimes things, you know, what you want in your life 
+for things like that change. So I'm, I'm actually not quite sure at the moment. 
 I'm actually thinking about what I want to do with my life, you know? 
-**Michaela:** [00:50:34] Yeah.
-It's a constant Todd 
-**Charlie:** [00:50:38] that I have 
-**Michaela:** [00:50:38] every morning that I wake up. 
-**Charlie:** [00:50:40] It's like, Oh yeah. 
-**Michaela:** [00:50:43] Yeah. 
-**Charlie:** [00:50:44] Well, so. 
-**Michaela:** [00:50:46] Charlie. I think we covered a lot. Is there something 
+
+**Michaela:** [00:50:34] Yeah. It's a constant thought that I have every morning that I wake up. 
+
+**Charlie:** [00:50:43] Yeah. 
+
+**Michaela:** [00:50:46] Well, so, Charlie. I think we covered a lot. Is there something 
 you want to talk about that we haven't covered yet? 
+
 **Charlie:** [00:50:53] I don't think so. I think we did cover a broad range of 
 topics. It was, it was really cool. It was really interesting.
-Yeah. 
+
 **Michaela:** [00:50:59] Yeah. I really enjoy talking to you. Thank you so much 
 for being on my show. 
-**Charlie:** [00:51:03] Thank you so much for having me. 
-**Michaela:** [00:51:04] Yeah. Thank you. Bye bye. 
-**Charlie:** [00:51:06] Bye. Bye. 
-**Michaela:** [00:51:08] I hope you enjoyed another episode after sup 
-engineering unlocked podcast. Don't forget to subscribe and I talk to you again 
-in two weeks. Bye.
 
+**Charlie:** [00:51:03] Thank you so much for having me. 
+
+**Michaela:** [00:51:04] Yeah. Thank you. Bye bye. 
+
+**Charlie:** [00:51:06] Bye. Bye. 
+
+**Michaela:** [00:51:08] I hope you enjoyed another episode of the _Software Engineering Unlocked_ 
+podcast. Don't forget to subscribe, and I'll talk to you again in two weeks. Bye!
 
