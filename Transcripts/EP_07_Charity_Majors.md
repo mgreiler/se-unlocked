@@ -60,7 +60,7 @@ because the time it took us to understand these complex systems problems
 dropped, just dropped like a rock from days to two seconds or 
 minutes, you know, and reliably so like predictably so. I wasn't even an
 engineering problem. It was like a support category problem. This made a 
-huge impression on me, obviously, you know, like when I was leaning Facebook,
+huge impression on me, obviously, you know, like when I was leaving Facebook,
 I suddenly realized, you know, I no 
 longer knew how to engineer without this stuff that we had built. Like it 
 had become so fundamental.
@@ -68,13 +68,13 @@ So core to this, like my five senses, you know, for understanding systems and
 my, my friend, Christine, who was also at Parse, she had had a different, but 
 similar experience. I mean, we decided to build this. And it was only over the 
 course of that first year, 2016. When we started talking to users that we 
-started to realize just how much anger there was out there at tools that you know, 
+started to realize just how much anger there was out there at the tools that you know, 
 and these tools that they're great tools.
 I'm not trying to shit talk them, you know, they're great tools. And when they 
 started shelling out a lot of money for them, they genuinely solved their 
 problems. It was, it was like magic. You know, um, that was mostly like all of 
 these tools were started back in the days of the monolith and now like we've 
-blown up the monoloth, and now it hops to network and, and so we can't use 
+blown up the monolith, and now it hops to network and, and so we can't use 
 the debuggers anymore. And yet. The tools that we use to try and understand 
 it and monitor it really hadn't changed. And there's, there was just this 
 enormous, like we started talking about the things that we were doing 
@@ -203,10 +203,10 @@ ship it. Right? The, the time that actually, you know, passes from writing the
 piece of code that it's actually in production. That's also one of those 
 measurements that's a very good indicator for well, for high-performing teams.
 Right? One of the things that I thought about is how do you think that, for 
-example, QA departments or manual testing. How does that fit into this dev ops 
+example, QA departments or manual testing. How does that fit into this devOps 
 life cycle? Where we, you know, we write the code and we ship it. When is the 
 right time that, you know, manual testing takes place when are QA departments
-involved, or are they actually all obsolete?
+involved, or are they actually all obsolete, right?
 
 **Charity:** [00:12:33] Yeah, they're not obsolete any more than, you know, 
 people are always proclaiming that QA is dead or ops is dead and any 
@@ -231,15 +231,15 @@ true of QA, where, you know, they're experts in testing.
 There's a lot of depth there that the average software engineer just has no 
 clue even exists. And so for systems that have super high quality needs, um, 
 you know, testers can come in and consult with engineers to help them test 
-better. A manual testing and so 
+better. As for the stuff like, manual testing and so 
 forth I feel pretty strongly that it can't be allowed to bring up this virtuous 
-cycle and there are a lot of ways to get code into production fast, um, without 
+cycle and there are a lot of ways to get code into production first, um, without 
 necessarily turning it on for all users, you know, there's feature 
 flags, there's, you know, progressive deployments. There's, you know, there are 
 lots of ways to do this, that don't break that up and make it so that you can't 
 actually like complete the loop.
 I don't think that most people have started really fixing 
-the organizations, but, but they're going to have to, because the companies 
+the organizations, but, but they gonna have to, because the companies 
 that do move a lot faster, experiment a lot faster, make better 
 progress and they will out-compete the people who don't.
 
@@ -247,7 +247,7 @@ progress and they will out-compete the people who don't.
 that as staging areas, right? You would have maybe staging areas and then before 
 it goes to production, or as you said, you have like switches that you only turn 
 the code on for, you know, a subgroup of your users. How would you, as an expert 
-in that field define what would be an optimal way to do that? 
+in that field define what would be an optimal way to do that? Is there an optimal way for to
 
 **Charity:** [00:15:28] Oh I hate staging. I tell people: do you really need 
 staging? Can you turn it off? Like really? And I'm not actually that much of a 
@@ -274,7 +274,7 @@ The senior engineer is like "*gasp* I have a really bad
 feeling about this. I will stop the presses and we'll figure out why."
 Right? You only get that kind of intuition and instinct by spending a lot of 
 time in production. You do not get it by spending time in staging. And in fact,
-your internal, like machine learning brain, um, Learning on staging environments 
+your learn, like internal machine learning brain, um, Learning on staging environments 
 learns the wrong corpus of data.
 It learns the wrong instincts about what's going to be slow versus fast. What's 
 going to be hard to do. What's going to be easy to do it. It incorrectly learns 
@@ -357,7 +357,7 @@ to be around them. I know them, you know, I can tell them having a bad day. Um,
 and it's very personal. Um, and at Facebook it was just like, you 
 know, I was there for three years and I would still be walking down the hallway 
 and recognizing almost nobody and yeah.
-You know Facebook is he only place in my entire career, the only time that 
+You know Facebook is the only place in my entire career, the only time that 
 I've ever like walked into a meeting room and had people like, look me up and 
 down and go: "How technical are you again?" I was just like, fuck you. Like, I'm 
 here representing a developer tool. I'm the only person from my company.
@@ -422,7 +422,7 @@ to figure out, but it's a lot of, it's just like trying to figure out how to
 explain or convince or convey or break down or, or customize you know, advice or 
 like how to, you know, how to roll the red carpet right up to a team's front door 
 so that it, so that they don't have to do a lot of work to try and figure out how 
-to incorporate us beause we have kind of done that work for them. 
+to incorporate us coz we have kind of done that work for them. 
 You know, I really do think that not every senior engineer, but most every 
 senior engineer should try management. Um, doesn't mean you have to manage a team,
 but you know, management is just a collection of skills and experiences and, you 
@@ -477,7 +477,7 @@ Um, we use GoLang for all of our backend services and the distributed column
 store that we wrote. Um, we use a lot of React on the front end. We have beelines, 
 we have integration libraries for Ruby, Python,  pretty much all 
 the main languages that you would suspect. Uh, we run on AWS. I use RDS for 
-our SQL stuff, which is where we store the user data.
+our mySQL stuff, which is where we store the user data.
 Um, when events come in, they get dropped into the API, obviously, which is 
 pretty dumb, thin layer. It takes them in and drops them into Kafka and 
 Kafka delivers them to the right partitions and 
@@ -500,7 +500,7 @@ it in the next day and spend like 30, 40 minutes, just talking through it with
 a couple of your peers, like, and just telling us like why you made the 
 decisions that you made, you know, what, what you kind of have earmarked as left 
 to do, um, what are the trade offs between this versus that choice?
-You know, because we figure that anybody who can talk through the problem can 
+You know, because we figured that anybody who can talk through the problem can 
 definitely solve it and the reverse is not necessarily true. There are a lot of 
 great engineers out there who do not value and prioritize communication that we 
 do the way that we do. Uh, and, and it's just, we don't think less of them.
@@ -528,7 +528,7 @@ And people shouldn't get woken up more than like once a year. Cause it's so
 expensive for you in terms of your burnout, your 
 motivation, your energy, and your ability to be a human being. 
 
-**Michaela:** [00:33:31] So one of the things that I ask on Twitter is what 
+**Michaela:** [00:33:31] So one of the things that I asked on Twitter is what 
 people would like to ask me to ask you. And I had a really great question.
 And that question was: what do you think about managing incident communication 
 publicly versus only internally? 
@@ -596,7 +596,7 @@ process? You know, how, how do we go about that?
 one. And then I am also interested in the recent one. Yes.
 
 **Charity:** [00:37:45] Honestly, it kind of makes me angry. 
-leaving Facebook was the first and only time in my life that I have had 
+leaving Facebook is the first and only time in my life that I have had 
 investors just basically pursuing me saying, would you like some money to
 do something? I've never really had a pedigree, you know, I didn't go to 
 MIT. I didn't go to Google. I don't like big companies. Um, and so it kind 
@@ -607,7 +607,7 @@ that is what gave me the nod that people are just like, Oh, maybe you would like
 millions of dollars now. You know, I think it's really unfair and unwise. 
 Um, but I also felt like, well, this is never going to happen again. So I kind
 of have a moral obligation to take the money and do something with this. 
-But you know, but, but we had nothing, we had three sides and it was all bullshit.
+But you know, but, but we had nothing, we had three slides and it was all bullshit.
 Right. Um, and, and then we did an extension round and that time, you know, we were
 out of money, so we had to raise, but. We had had to spend that first year and a
 half writing a storage engine, not talking to users and working on the UI and UX
@@ -630,7 +630,7 @@ You know, it's much like CICD you know, we're  at square one. Uh, but
 we figured out where square one is. Um, and I'm really happy with the investor 
 we got this round because he used to be a director of engineering at Netflix.
 There are videos of him out there giving talks about 
-observability at Velocityconf. You know, he really, anytime that you've been 
+observability at Velocity conf. You know, he really, anytime that you've been 
 around as a company for four years, and you haven't like reached like meteoric 
 growth, you know, everybody's excuses or reasons start to sound the same. And I 
 remember telling Christina a year ago, I'm like: "if we raise this round, It's 
