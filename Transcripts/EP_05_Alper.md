@@ -4,7 +4,7 @@
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked
 podcast. I'm your host, Dr. Michaela, and today I have the pleasure to be talking
-to Alper Kemmal Koc, who is a software engineer at a startup in Turkey called
+to Alper Kemal Koc, who is a software engineer at a startup in Turkey called
 Kuika. Kuika helps users to be more efficient in building mobile apps. It's a
 low code solution so that users can build mobile apps based on already
 implemented building blocks.
@@ -47,7 +47,7 @@ going to do and what your requirements are for that project.
 **Alper:** [00:02:23] Yes, indeed. Our founder is much more experienced than me,
 so he knows the field. He had seen this opportunity every time they are building
 software projects. Most of the time you're repeating the same problems that every
-software engineer is solving most of the time, and did that thing a lot of times.
+software engineer is solving most of the time, and they are taking a lot of times.
 So, we thought like, yeah, why don't we just wrap those up in, in some ready
 components? And the engineer really focuses on the business requirements, but not
 the, all the hassle around it, so they can just focus on the requirements. They
@@ -93,7 +93,7 @@ business logic on the back with c# .net.
 But, and that was kind of slowing us down a little bit. And, and at some point
 you saw, okay, JavaScript is giving us a little bit more power and a little bit
 more opportunities. So just naturally all by itself, it kind of, we kind of
-switched our focus to the, to the JavaScript and front end site. That doesn't
+switched our focus to the, to the JavaScript and front end side. That doesn't
 mean we change architecture. Architecture has always been the way it is, but, um,
 I mean the, the, most of the business logic that's been implemented has shifted
 a little bit.
@@ -217,7 +217,7 @@ We can look through the, it shows us the changes. And we can either accept it or
 we catch, we catch the bug that we haven't noticed while we were writing the 
 code. It was a simple tool, but it has saved us a lot of time. And it has, it 
 has caught a lot of, uh, things that we hadn't thought while we were designing 
-the system did a new feature or the writing the cause.
+the system did a new feature or the writing the code.
 Uh, so that has been like pretty much the main, a backbone of our, of our 
 testing process. 
 **Michaela:** [00:14:50] How about code reviews, for example, is that something 
@@ -228,12 +228,12 @@ code reviews, maybe not very strict at some times, but we always did that.
 There's also like our second insurance platform. We have, we have tried two 
 methods on that. And one of them was like, okay, I will be doing the code 
 reviews because, um, the structure we had most of the time, it was me and I 
-found her seniors and we had either junior engineers or maybe with a couple of 
+found the seniors and we had either junior engineers or maybe with a couple of 
 years of experience.
-So we said, okay, let's, let's let the seniors do the college review. So we will 
+So we said, okay, let's, let's let the seniors do the code review. So we will 
 always do the coding. And that, that works fine, but that put a lot of, um, Uh, 
 obviously workload on us. And at sometimes we said, okay, everybody does the 
-code review. And we had this through that each feature or each change goes 
+code review. And we had this rule that each feature or each change goes 
 through three people, the developer, and that person is supposed to be doing the 
 development tests obviously.
 And the code or the, or the, or the changes goes to the person B who does the 
@@ -244,10 +244,10 @@ traditions of your own in the company.
 So we have our own, yeah, you cannot resist notation, but we have, we have some 
 rules on, on how we write the code on what are the patterns and stuff like that. 
 And once, once people get used to it, most people follow. And that also works 
-fine. So. So one 
-**Michaela:** [00:16:44] of the things that you just mentioned was like, after 
+fine. 
+**Michaela:** [00:16:44] So. So one of the things that you just mentioned was like, after 
 some time you get used to, and you also explained that at the beginning, you did 
-a lot of iterations and perspective.
+a lot of iterations and retrospective.
 Do you think that right now, you're still doing that enough, that you're still 
 looking with the same critical eye on your processes? Um, and, and tools and 
 things, how you do it, um, as at the beginning, or do you think that over time, 
@@ -278,11 +278,11 @@ And we said, okay, let's do that. And not everybody could contribute to it, not
 the area where they have ideas. People are really happy with, with the work that 
 they are cleansing to do. And they are not. Yeah. They just simply, don't like 
 to come up with something new and okay. If not everybody is benefiting from 
-that, and there is an imbalance in the team because we reserve some time for it 
+that, and there is an imbalance in the team because we reserved some time for it 
 and some people can do it.
 Some people can't. Yeah, we just. Drop it. And another thing we dropped was that 
-the actual culture reviews again. So, and we have a few junior, the engineers 
-right now, and I start doing the code reviews like, uh, with, with all of them. 
+the actual code reviews again. So, and we have a few junior engineers 
+right now, and I started doing the code reviews like, uh, with, with all of them. 
 So I said, okay, everybody is going to do. The rooms and it just didn't work out 
 for some of them.
 Maybe it was too early. Yeah. They, they simply didn't know what to do with it. 
@@ -290,7 +290,7 @@ So we dropped it. We will probably bring up the topic again, six months after a
 little bit more experienced, then maybe we will start doing it again. 
 **Michaela:** [00:19:58] So that's really interesting. And I like that it's so 
 well, so personally adjusted, but how do people address those issues?
-So I imagine if I'm a junior and I'm not comfortable with doing the coach 
+So I imagine if I'm a junior and I'm not comfortable with doing the code
 reviews, do you just see that those person doesn't contribute or are they 
 walking up to you and tell you that they are not comfortable with it? So how 
 does that actually work? 
@@ -302,7 +302,7 @@ want to have. And if, if some person says, yeah, I am not comfortable with doing
 this, or I don't know how to do this, we encourage them to say that one thing we 
 keep telling our new team members is.
 The most important thing that you should do is say. Tell us, if you can't do it, 
-if you don't understand something, just say that's the most value you can add 
+if you don't understand something, just say it that's the most value you can add 
 that I believe that are two things the engineers are hired for. One of them is 
 to say no. And the second thing is to say that they can't do it.
 That that's so valuable. That's really important because then we can change, 
@@ -313,7 +313,7 @@ contributes.
 So that's the kind of culture we impose. And also in the retrospectives, we do 
 round Robins. So everybody has to say at least one positive thing and one 
 negative thing about the last week or the last two weeks. That also encourages 
-people to say things aren't loud. So nobody is running the meeting, but, uh, 
+people to say things loud. So nobody is running the meeting, but, uh, 
 everybody is saying something about it.
 **Michaela:** [00:22:02] So you said that for example, this 20% rule didn't work 
 for all of the people, but it worked for some. So if you're, if your decision 
@@ -327,21 +327,21 @@ year, who was going to get married in a couple months. And, you know, I mean,
 well, in most of the countries, they, they, you know, they send out invitations 
 or his family was going to send out some invitations and the family was having 
 difficulties.
-Okay. W what's the lift list of people that are supposed to send those 
+Okay. What's the lift list of people that are supposed to send those 
 invitations to, and who is going to give to who and which ones have we delivered 
 already? And our friend here said, okay, I can, I'm working at this company that 
 I can build mobile apps with now. And it's really first. So he said, can I build 
 a app?
-Can I use my time on that? I said, yeah, sure. And had he built this small lab 
-in a couple of days and his family used it for those imitations data just said 
+Can I use my time on that? I said, yeah, sure. And had he built this small app 
+in a couple of days and his family used it for those invitations data just said 
 all the people they want to invite. So, so yeah, that person I was benefiting 
 from that thing. So he kept on doing it. Yeah. I can 
 **Michaela:** [00:23:34] imagine that if people can use somehow work time also 
 to learn, um, that can be beneficial for both sides from this project.
 He probably learned a lot about the use case of your product yourself. Right. 
 Because he was sort of like the customer and could give feedback. Was that the 
-reason why you decided that you can do 
-**Alper:** [00:23:55] that? Exactly. Yeah. We had like two reasons. One of them 
+reason why you decided that you can do that?
+**Alper:** [00:23:55] Exactly. Yeah. We had like two reasons. One of them 
 was like, Thanks to that thing here. He did hear experience how a person or a 
 company can approach for a project.
 So he had to collect his requirements. You need, he had to talk to his family. 
@@ -356,8 +356,8 @@ understand what we are doing if we are. The customer of our own product.
 That's, that's the thing that, that was real nice for him. He became our 
 customer. So he had a much better perspective on our tool. He had, he had a lot 
 of feedback and when he was building new features, he knew what it literally 
-would. Mean to, to our users. So in 
-**Michaela:** [00:25:18] general customer feedback, I think is something that's 
+would. Mean to, to our users.  
+**Michaela:** [00:25:18] So in general customer feedback, I think is something that's 
 really valuable and very, very important for, especially a startup that maybe 
 even has to find some product market fit first.
 How do you engage your customers? How do you communicate with them? How do you 
@@ -374,8 +374,8 @@ if you ask for it, the more you will get.
 But, but if you're building a new product and you're trying to find your way, 
 you really need to think through those requests because they can also easily 
 take you off your path because every customer will have their own needs and they 
-will be asking. So you should be, you should be searching for patterns.
-So let's see, we have this customer who is asking for a feature. Nobody else 
+will be asking specific thing. So you should be, you should be searching for patterns.
+So let's see, we have this customer A who is asking for a feature. Nobody else 
 wants. And, and that also comes with its own cost. So there's almost like doing 
 a custom development for that for the person. But if this customer B is asking 
 for something that also our customers C and D kind of needs it, that's that's, 
@@ -387,7 +387,7 @@ ask the user or ask the customer, why do you need this for, because we had this
 and that has to be a long conversation. You really need to, uh, dive deep.
 The reason for that is most of the time we have seen the customer needs 
 something and they are thinking, how can I implement this? And they come up with 
-this solution. That's not always the correct one. And for that solution, they 
+the solution. That's not always the correct one. And for that solution, they 
 are asking for a feature. If they, they had told us the initial reason why they 
 got into this loop.
 Maybe they already had a, had a feature for that, or it could be a lot simpler 
@@ -396,7 +396,7 @@ user is asking for that thing, because there is usually something else lying on
 there. 
 **Michaela:** [00:28:10] One of the things that for a startup also interests me 
 is the deployment process.
-How does that wag, is that a click of a button that deploys a new version of 
+How does that work, is that a click of a button that deploys a new version of 
 your system? Or is there more manual labor also involved who can do it? 
 **Alper:** [00:28:24] But unfortunately I cannot say it's fully automated, but 
 it's not a manual either. So it's kind of a mix. And then we have three stages. 
@@ -406,11 +406,11 @@ like every 24 hours. And there's also the environment that we run those, our
 testing tool on. And to our alpha and live environments, we, uh, we release like 
 once a week. Most of the process is automated, but it's supervised manually.
 I mean, it's like kind of a script. And then one of us sits in front of the 
-computer, runs a script. And, uh, just make sure everything's fine. So the test 
+computer, runs a script. And, uh, just make sure everything's fine. Also the test 
 environment to test with part, yeah. That that's kind of a manual. I mean, like 
 you click a button, right. And it gives you the results and you need to look 
 through them except the differences or, and, and or if something is awkward, 
-then that person raised it flag and say, okay, something is wrong in dress in 
+then that person raises a flag and say, okay, something is wrong in dress in 
 yesterday's it changes.
 So, yeah. So it's kind of a mix. 
 **Michaela:** [00:29:38] You're employee number one. What were your biggest, um, 
@@ -420,7 +420,7 @@ was your North star or what was your, your fuel for learning? Is it books?
 Is it bought cars? Is it other people. 
 **Alper:** [00:29:58] Well, I would say Google most of the time and, and yeah, 
 we do have a small library of books here and, and we thought, okay, we can go 
-through the books, but yeah, the books at this, we had give us more information 
+through the books, but yeah, the books at least, we had would give us more information 
 for a specific technology, but just like you said, at the very beginning, the 
 initial questions we had was like, okay, what should the architecture be?
 And what should the technologies we should be using. So we get the first pick 
@@ -428,15 +428,15 @@ dose and then dive into the books. That, that was one thing we were lucky about
 and, and our experiences are, uh, from our previous previous jobs. And. Uh, 
 software development experiences. Uh, we had been exposed to a couple of 
 architectures like software oriented architectures or multi-tiered, uh, setups.
-And obviously we were first talking about the things we all didn't know about, 
+And obviously we were first talking about the things we already know about, 
 and that already sounded like a click. So we didn't really dive very deep into 
 alternatives. We of course search through them. Like, we'd be the be Google. We 
-ask our friends who have, uh, you know, software architecture experience and 
-I've already, already solved it.
+asked our friends who have, uh, you know, software architecture experience and 
+We kind of already, already solved it.
 What we are already good at is a good click for, for this product. So. There's 
-this how we started, although we didn't, she didn't spend a lot of time on that 
+this how we started, although we didn't, didn't spend a lot of time on that 
 one thing we had to spend some time on it, though. That was the language, the 
-technologies we had to pay. And for those VPs, we looked into a couple of 
+technologies we had to pick. And for those, we looked into a couple of 
 alternatives.
 Yeah. Back then. It was not a very difficult decision either. Yeah. Or our 
 opinion was also, so the best architecture, the best technology for the product 
@@ -459,11 +459,11 @@ If I am, if I want to add a new component is as easy as possible. So we usually
 need new features. You can just plug them in. And some of them are not used as 
 much. Some of them are used a lot. If it's not used a lot, sometimes you just 
 look into it. Okay, nobody's using this or this is useless and, and we drop it.
-So, I mean, they don't really have to change, but we removed stuff. 
+So, I mean, they didn't really have to change, but we removed stuff. 
 **Michaela:** [00:33:26] Do you have sometimes the feeling that you have a lot 
 of pressure from outside schedule pressure from your customers, or is the 
 product in a way that you don't experience that? 
-**Alper:** [00:33:38] It is a lot of pressure. Well, I think we had our first 
+**Alper:** [00:33:38] There is a lot of pressure. Well, I think we had our first 
 customers at, um, the end of the second year and it's almost fourth year now.
 So it's literally like two equal phases of the company. The first two years was 
 especially from a perspective of a software engineer. It was really fun because 
@@ -473,7 +473,7 @@ real, the real world hits us.
 There were deadlines that were customers calling in our customers, usually one 
 to build the first project together with us. So they buy the platform and they 
 can use it, but they want to do the first project. So we also do some projects 
-using our own tool that comes up with deadlines. That comes up with maintenance 
+using our own tool that comes up with datelines. That comes up with maintenance 
 that comes with, uh, support that, that puts us some pressure.
 And yeah, we were, we were rookie on that as well at the beginning. Yeah. People 
 were not great on it and we kept iterating and yeah, after that, after some time 
@@ -482,12 +482,12 @@ better every day
 **Michaela:** [00:34:49] in these first two years were basically doing research 
 and you're building out the platform.
 Did you somehow contact potential customers? Did you talk with them? Did you, 
-yeah. Did you reach out to dam or did you just think you have a good idea of 
+yeah. Did you reach out to them or did you just think you have a good idea of 
 your previous experiences of what software should look like? 
 **Alper:** [00:35:12] That's a real nice question. And I'm going to, to be very 
-honest on that via did some talks with some potential customers.
+honest on that we did some talks with some potential customers.
 We did talk to some people, but right now, when I, when I look back and think 
-about it, I would say it was not enough that that's a dilemma for most of the, 
+about it, I would say it was not enough that there's a dilemma for most of the, 
 uh, some of the technology companies I would say, or software engineers. You 
 think your tool is awesome and you build it, you lose it. Is it, the real world 
 can be different sometimes.
@@ -506,15 +506,15 @@ Right. So it's a little bit the fussy, fussy road that you have to.
 in the development phase and you want to get feedback from people and they are 
 not, your customer was yes. Right? So you ask people, okay, this is what they're 
 building. Do you like it?
-And they say, Oh, it's great. I worked there from the back and it would solve 
-all my debt and debt and debt problem. And I would build that and that, and that 
+And they say, Oh, it's great. I would definately buy it and it would solve 
+all my that and that and that problem. And I would build that and that, and that 
 project. And those are the features I would expect from it. Most of the time 
 that list chains once they are really the customers, because then the whole 
 company is involved or a lot of stakeholders is involved and the real project is 
 always different than an imaginary project.
 So yeah, that's, that's the challenge that you can get feedback, but the real 
 feedback is always going to be from the real initial customers. 
-**Michaela:** [00:37:24] Well, you're saying that at the beginning, you had 
+**Michaela:** [00:37:24] So, you're saying that at the beginning, you had 
 those two years that you're were building the backbone of your company, and then 
 you're going out to the customer and you showed them and they like parts and 
 they don't like some of the parts or they don't use those, those parts.
@@ -522,7 +522,7 @@ But how did you get the first customers and how did you acquire those, those
 feedback? Um, On the different parts. 
 **Alper:** [00:37:48] First customers were difficult. The thing that we were 
 lucky about is we had a good network. And, and our founder is quite experienced 
-in Turkey and a lot of projects with Microsoft. So he already did some, some 
+in Turkey and did a lot of projects with Microsoft. So he already did some, some 
 networks, so he can, he could talk to people.
 He could, we could do some demos and yeah, we, yeah, I don't remember number two 
 kind of convinced a couple of people, but, uh, it, it was thanks to our, our 
@@ -531,20 +531,19 @@ was the people that, that we already knew. Okay.
 **Michaela:** [00:38:25] And I know that your company is actually funded, right?
 So you got some initials seeding. How did that happen? And when did that happen? 
 When did you feel. That it's right to ask for external funds. And how did that 
-help you in developing your vision and 
-**Alper:** [00:38:40] your company? It was around the second year or something. 
+help you in developing your vision and your company?
+**Alper:** [00:38:40] It was around the second year or something. 
 We got investment from, uh, from two people. I think you can call it seed 
 investment.
-Actually. It's not really a series a, but, um, we got investments from, uh, . 
-Those are two big names in Turkey. Actually one of them were not as Lamar was 
-the founder of. The second biggest software company in Turkey. And he sold his 
-company to the first biggest one. And then there, they are building the 
-enterprise ERP software and he did his exit.
-Right. And Henny became an investor and it was looking it up. Yeah. And he, he 
-also knew  was, was the CEO of Turkcell the biggest GSM operator in Turkey. They 
-heard about us that they look into the product. They thought it was promising. 
-They came in as investors. They also want to be involved on the day to day, uh, 
-operations.
+Actually. It's not really a series a, but, um, we got investments from, Murat 
+Ihlamur, and Süreyya Ciliv uh,. Those are two big names in Turkey. Actually one 
+of them were not as Lamar was the founder of. The second biggest software company
+in Turkey. And he sold his company to the first biggest one. And then there, they
+are building the enterprise ERP software and he did his exit.Right. And became an
+investor and it was looking it up. Yeah. And he, he also knew  was, was the CEO of
+Turkcell the biggest GSM operator in Turkey. They heard about us that they look
+into the product. They thought it was promising. They came in as investors. 
+They also want to be involved on the day to day, uh, operations.
 So they, they are like our board. And they attend all our meetings like weekly 
 meetings. And they are literally in the, in the process of running the company. 
 So they're not like just investors and checking on us like every six months or 
@@ -553,13 +552,13 @@ our daily work.
 **Michaela:** [00:39:56] And did that change somehow? Did you feel that that 
 changes how you develop the software? Did that change your, your course or your 
 North star? 
-**Alper:** [00:40:04] Well, it didn't really change the, the, the, the, the 
+**Alper:** [00:40:04] Well, it didn't really change the, the, the, the, software 
 development part. Yeah. They already trusted us and they just kept completing 
 what we were doing, but it obviously helped a lot with finding customers.
 Yeah. As I said are thankful to our network and it's also, it's also them. They 
 are network and their names that got a lot of attention to the company. And 
-yeah. When people heard that they are the masters, they were more 
-**Michaela:** [00:40:28] interested. Okay. That's really interesting because I 
+yeah. When people heard that they are the masters, they were more interested.
+**Michaela:** [00:40:28] Okay. That's really interesting because I 
 had another guest recently on my podcast and his experience was quite similar 
 that with the funding that came also a lot of advice and a lot of knowledge, a 
 lot of network as well that the company can profit from.
@@ -571,20 +570,21 @@ actually exactly what I wanted to say.
 It's not that much about the funds and money it's it's experience and 
 perspective they are bringing, bring, bring in. And that, that changes a lot 
 that has a very high value. 
-**Michaela:** [00:41:12] And when you talked about Dom, you said day actually 
+**Michaela:** [00:41:12] And when you talked about them, you said day actually 
 came across your company. So were you approached by the investors or was it the 
 other way round that you approached investors?
-**Alper:** [00:41:23] Our founder, uh, used to work with, uh, Marotta Lamar, so 
+**Alper:** [00:41:23] Our founder, uh, used to work with, uh, Murat Ihlamur, so 
 they already knew each other. So did they, they had the first contact, I guess
-new, uh,  other founders. So they brought each other in, I would say, but, uh, 
-yeah, our founder knew, uh, knew him that they worked together 
+Murat Ihlamur knew, uh, Süreyya Ciliv other founders. So they brought each other
+in, I would say, but, uh, yeah, our founder knew, uh, knew him that they worked
+together 
 **Michaela:** [00:41:46] before. So when maybe one thing that's related there 
 is, is what I said before is that I think there has to be a good fit between 
 people, um, be it, the company and the founders and the employees and the 
 investor, but also the employees themselves.
 So hiring can be quite challenging for a startup. I mean, it's, I think it's a 
 challenging topic per se, also for larger companies, but individual person, 
-obviously on a seven team. So in person team has much more impact then on a 700 
+obviously on a seven team person team has much more impact then on a 700 
 person team. Right. So how do you make sure to hire the right people?
 What's your approach there and yeah. How, how did you hire the first several, 
 uh, employees that you have at your habit company? 
@@ -604,8 +604,8 @@ raises eyebrows.
 So the desk difficult. So because of that, we had a smaller pool of people that 
 we could attract, luckily with, we could find people, but then another challenge 
 is again, also probably Turkey specific, but the average. Average time an 
-employee says that the company is quite short in Turkey. So, uh, I dunno how 
-that is in, in, in Europe for the States, but yeah, it's kind of also difficult 
+employee stays in the company is quite short in Turkey. So, uh, I dunno how 
+that is in, in, in Europe or the States, but yeah, it's kind of also difficult 
 to hold on to people.
 And especially if it's software. Yeah. First three, four, five months is still 
 your investment phase. You're still in, you're still investing in the person. 
@@ -616,11 +616,11 @@ One of the things that we valued the most during the interviews was the
 personality you want to make sure the person is a good fit and you want to make 
 sure that the person is going to like us and is more likely to stay longer. 
 **Michaela:** [00:44:41] So maybe to, to wrap everything up, what do you think 
-are the next big goals that you want to achieve with Quaker right now?
+are the next big goals that you want to achieve with Kuika right now?
 What are you heading towards and what brings the next year for you? 
 **Alper:** [00:44:53] Well, we have around 15 customers, but, uh, it's always 
 more, the more, the better, another challenge is the tool itself is it has been 
-for years, so we need to keep adding new features. And keep up with, with the 
+four years, so we need to keep adding new features. And keep up with, with the 
 news technology. So those are the things that are on our roadmap.
 **Michaela:** [00:45:14] Yeah. Sounds reasonable. Yeah. I'm from my side. I'm 
 really happy that you have been talking with me that long. Yeah. I learned a lot 
@@ -628,8 +628,8 @@ about your startup. It sounds amazing. It sounds very challenging and very
 diverse. And I think you're doing a great job. Thanks for being on my show. 
 **Alper:** [00:45:30] Yeah. Thank you. Thank you for your money.
 Thank 
-**Michaela:** [00:45:32] you. Bye. I hope you enjoyed another episode of the sup 
-engineering and luck podcast. Don't forget to subscribe. And I talked to you 
+**Michaela:** [00:45:32] you. Bye. I hope you enjoyed another episode of the Software 
+Engineering and Unlocked podcast. Don't forget to subscribe. And I talked to you 
 again. Bye.
 
 
