@@ -1,4 +1,5 @@
-# Transcript Episode 30 Ben Lesh
+Ben Lesh After Adobe
+
 
 **Michaela:** [00:00:00] Hello and Welcome to the Software Engineering unlocked 
 podcast. I'm your host, Dr. Mcayla. And today I have the pleasure to talk to Ben 
@@ -21,6 +22,7 @@ folks want to work as well. Do you want to share a little bit with us, how you
 kickstart your career?
 So can you walk me through  how you started, , and how, hi, you got the first 
 job in, in 
+
 
 **Ben:** [00:01:26] engineering. Okay. Okay. So, I've been doing this now for a 
 long time. It's been almost 23 years. And, when I started the, the environment 
@@ -146,6 +148,7 @@ bit known, right? It's easier. You're trusting people more as well.
 If you're seeing their work already out, out there, right. You can follow them. 
 You see what they're talking about? It seems that you know them, even though you 
 don't. Actually know them, 
+
 **Ben:** [00:09:26] right? Yeah. So I mean, the way I got into both Google and 
 Netflix were through recommendations. Right. and, Google in particular was from 
 a recommendation from a Googler.
@@ -195,6 +198,7 @@ out for it or whatever. But, The important bit is if you, if you hide in one
 spot and you're complacent, then that's where you'll stay. If, if you put 
 yourself out there, you increase your chances, a bit. And I mean, put yourself 
 out there socially in particular, like that's.
+
 **Michaela:** [00:12:37] I think our humans are really just incredible social 
 creatures. Right? So we, we like to relate to others who like to talk to others, 
 we need to trust. Right. And we feel more, more willing to work with somebody 
@@ -208,6 +212,7 @@ similar?
 Are people working in a very similar capacity at Google as they are doing it? 
 Netflix or the company that you work right now? Or, yeah, where there are large 
 differences. 
+
 **Ben:** [00:13:28] Sure. I mean, there's, there's different camps. for all of 
 these things, I have worked at like very small companies too. the, it depends a 
 little bit on what you're working on and it depends from company to company.
@@ -258,6 +263,7 @@ I feel like there's some similarities between say like Facebook and Google,
 maybe because they're large, companies at the same sort of structure internally, 
 but, Netflix is much smaller, much, much smaller company. So they're run quite a 
 bit different. 
+
 **Michaela:** [00:16:41] And also the software and dam developing is quite 
 specific.
 Right? So you have real time on demand media streaming, right? I think it's very 
@@ -267,6 +273,7 @@ I was wondering what, what does this company actually do and what are some of
 the.
 The programs and the software that you develop and what are you doing for the 
 internal things, right? 
+
 **Ben:** [00:17:09] They have, they have everything from, they have like 
 quantitative researchers trying to like analyze markets and come up with 
 algorithms for trading, to more like what I do, which is I work on internal 
@@ -299,6 +306,7 @@ it's kind of just it's like there there's there's how do I put it? There's large
 groups of people working on a product probably, but they're, they're in a 
 smaller silo than say the size of a Netflix and they're all kind of going one 
 direction. but yeah, so different company to company. 
+
 **Michaela:** [00:19:13] Yeah, true.
 So one of the things that strike me, where, when you said, well, you have all 
 seniors at Netflix, right? So, and there comes a different set of challenges. 
@@ -309,6 +317,7 @@ I still imagine even Netflix, if you have like senior developers, they will be
 like the senior and then they will be the senior senior, like maybe it's the 
 principal or the staff engineer or whatnot. Right. So you might have their a 
 levels as well, or was it like really, if you're senior year equal altogether.
+
 **Ben:** [00:19:46] So at Netflix, everything was equal. everybody's sr. to the 
 point where it's almost an internal joke about how everybody was senior, this 
 senior, that, and. There are people that fall into like tech leadership roles, 
@@ -342,8 +351,10 @@ And I don't know, it's, it's been, it's been years since I've been there. So
 maybe that stuff has, has changed, but that was the only complaint and it was a 
 very minor complaint, but it was the only complaint I had ever heard about the 
 flat structure at Netflix. 
+
 **Michaela:** [00:22:02] Okay. Okay. Yeah. And so is it more like, was it more 
 collaborative or was it more competing like, 
+
 **Ben:** [00:22:08] Oh no, it wasn't competing.
 it was definitely collaborative, but. You know, sometimes people just straight 
 up disagree. And when you both have the, when, when people, when, when two 
@@ -352,6 +363,7 @@ you're at a, you're at a stalemate, right? Like then that's a problem where if
 two people disagree and one of them is the tech lead, then.
 You know exactly wins. Like it's just how it is, whether it's right or wrong. 
 It's helpful in keeping things going in a particular direction 
+
 **Michaela:** [00:22:42] in, in one direction. Yeah. Yeah. Yeah. Well, so, one 
 of the things that, that came to my mind. As well is what about peer 
 programming, for example, are you familiar with that?
@@ -367,6 +379,7 @@ lot of things to say about that, but I don't want to talk about it.
 I want to know what you think about is, have you experienced pair programming? 
 What's your take on it and, what's your take on. Code reviews. And how can we 
 combine that? Or, you know, compliment, or I 
+
 **Ben:** [00:23:42] think that pair programming and code reviews serve different 
 purposes. so pair programming, I have taken part in it.
 I've been, but usually it's, it's almost like a mentorship thing when it 
@@ -430,6 +443,7 @@ that. To me personally, if someone suggested that I'd be like, you're crazy.
 That's the craziest thing. Should we do more pair programming? Yes. Should we 
 do, should we not do code reason now?
 Like we should still do code reviews. 
+
 **Michaela:** [00:27:46] Yeah. I also think that it's very complimentary. Right. 
 And, as you said, I mean, the fatigue is real, right. I think in general, I 
 can't imagine many people that would say they enjoy having another person like 
@@ -457,6 +471,7 @@ very last thing is like manual testing. Except for the manual testing that we do
 while we are developing the software. Right. but so how was that in Netflix? How 
 is that a T two Dell? how is that? Is, at Google, are people still testing the 
 software manually or, is that, you know, old school and not really done anymore?
+
 **Ben:** [00:29:31] No. I mean, people definitely are. All right. If all you do 
 is automated tests, then. I roughly guarantee you that you're missing stuff. 
 Like you have to manually test your stuff either by dogfooding it yourself like 
@@ -514,13 +529,16 @@ afford to do part of it, like, you know, are you a big wealthy company?
 great. You can afford to test everything, or are you a small company that needs 
 to work really fast? Well, then you need to in with you test what's important 
 and, you know, try not to worry too much about minutia. 
+
 **Michaela:** [00:33:29] Yeah, well, in general it's, I mean, the risks are 
 always a really an important part, right.
 That you have to consider, like, we want to be really sure that the payment 
 functionality works very well. Right. And we don't care so much if maybe, you 
 know, something visual on the website doesn't look that slick or something like 
 this. 
+
 **Ben:** [00:33:48] Right, right. 
+
 **Michaela:** [00:33:49] yeah. Yeah, very well. So, maybe the last thing that I 
 want to, you know, get some input from you because you're really the expert here 
 is, maybe a little bit, let's talk a little bit about .
@@ -539,6 +557,7 @@ around for a long time, but it's still, there's still, people have maybe heard
 about it, but maybe are like me like saying like our exchange sounds really 
 complicated.
 but we should actually look into that and, yeah. Well 
+
 **Ben:** [00:35:00] there's so there's two concepts it's inside of our stress. 
 And the most important one is, this type called an observable. it's a lot like a 
 promise, but a promise gives you one value, pasting asynchronously, and it's 
@@ -595,10 +614,13 @@ have a basket that was the operation performed.
 So it's, it's, that's the fundamental concept with our, yes, you have these 
 observables, which are the most important thing to understand. And then there's 
 all of these operators that can transform one observable into another one. 
+
 **Michaela:** [00:38:44] so we were talking about mouse clicks, but the first 
 thing that I had in mind when you were talking about observable is data 
 pipelines.
+
 **Ben:** [00:38:51] So this 
+
 **Michaela:** [00:38:52] comes, you know, right. but so how can we use it? Like, 
 do we use it only in the front end or can we use it in the backend, do we have 
 like data pipelines that we can use? Like these observables, this is how we 
@@ -610,6 +632,7 @@ things like this, but, Our XJS. Do you use it only on the front end or yeah, on
 the backend as well, or which languages can be combined it, I read on the 
 website with a lot of languages, but I'm just thinking, because it says GS it's 
 like JavaScript only.
+
 **Ben:** [00:39:26] So our XJS is the JavaScript version of reactive extensions. 
 and actually it was born at Microsoft, from, kind of as a clone of Microsoft, 
 our Microsoft's rx.net. So, And arcs JS can be used anywhere. JavaScript runs. 
@@ -622,8 +645,10 @@ used all over the place and it's very, very primitive. The observable observable
 type itself is extremely primitive.
 you could use it to develop a promise, for example, it's like lower level than 
 that. So, it can be run anywhere. Okay. 
+
 **Michaela:** [00:40:21] What are some of the, what are some of the use cases 
 where you say it's not a good option? You shouldn't use it. 
+
 **Ben:** [00:40:28] Oh, no. There's there's. I mean, yes and no. So the thing 
 about observable itself is it can re represent zero events or, you know, many 
 events, that are either totally synchronous or happen asynchronously.
@@ -664,12 +689,14 @@ And all this other stuff is it's complicated business, and there's a lot of
 places where you can shoot yourself in the foot. So. that use it where it 
 belongs, when possible, but it's not going to hurt you to use another place. 
 Yeah. 
+
 **Michaela:** [00:42:59] Yeah. So I have a couple of, so the question I actually 
 asked you already were from Twitter, from some of the people that I asked or 
 what they want me to ask you? And there are a couple of others. one question was 
 what, what is your best advice for new developers? I get it very often and I 
 think it's really interesting to see different answers from very accomplished 
 developers. So what do you think is the best advice for new developers?
+
 **Ben:** [00:43:22] I would say, you know, people that are new, I think a lot of 
 times when I get people that ask that, like, I'll have someone message me and be 
 like, Hey, how do I become a great developer? And I think they're expecting me 
@@ -695,6 +722,7 @@ learn new things. So, I would make sure to, to try to get out there and network
 and meet similar minded people. And, you know, it's risky though, because 
 there's some jerks out there for sure. but, you know, it's, it's worth the risk, 
 in my opinion.
+
 **Michaela:** [00:45:00] Yeah. Yeah, I think so. I mean, you can already start 
 with,  asking questions, right? You don't have to provide answers. You can 
 network and ask people like I'm now. I recently started my own business and so 
@@ -705,9 +733,11 @@ same as a developer, right? Asking questions. And I think asking questions, even
 if you're a very senior developer is the right thing to do, because there's so 
 much we can learn, right. on a daily basis that there are new staff and new 
 concepts and new frameworks and technologies and things like that.
+
 **Ben:** [00:45:36] Yeah, I was going to say there's the software engineers in 
 particular very much like to be asked questions because they like to feel smart. 
 So you can't go wrong in this group of people asking questions. 
+
 **Michaela:** [00:45:52] Yeah. So, maybe the, the last question that I asked you 
 just to wrap up this, this episode is what do you w where do you see the future 
 of our exchange?
@@ -723,6 +753,7 @@ no-code movement, where you have like lower building blocks that you put
 together.
 So, how do you see, how does, does this actually fit together? Because I think 
 there is a relation between those two, but, what do you think about this? 
+
 **Ben:** [00:46:46] Oh, sure. so there's two questions there. The first was 
 about the future of RCS. feature of RCS is primarily just focused on making the 
 library smaller, more efficient and kind of keeping up with changes and modern 
@@ -771,19 +802,24 @@ or, or libraries and things that people can build no code on top of it's the
 same concept.
 And in my mind, it's a win whether it's RX yes or not, like it's, it's reactive 
 for a programming is important for this sort of thing. It 
+
 **Michaela:** [00:50:03] could be very powerful. I think like just flexibility 
 that no coder had with, you know, having that under the hood, just 
+
 **Ben:** [00:50:12] that right. Yeah. 
+
 **Michaela:** [00:50:14] Well, thank you so much, Ben, for being on my show, we 
 talked about a lot of things and, I'm really happy that you took the time to be 
 here with me today.
 Is there something that you want my listeners to know? I will definitely link to 
 your Twitter profile. Is there something else that I should put in the show 
 notes or that you wanted to yeah. To say before we wrapping up this 
+
 **Ben:** [00:50:33] episode? No. No, but I'm, I'm happy to hear that you're 
 starting your own company.
 Good luck with that, dude. I don't know what your, your company is though. What 
 is your, can you tell us about your company really quick, 
+
 **Michaela:** [00:50:42] but my company, yeah, I actually started it already. so 
 I started, a year ago. so I left Microsoft in December, 2019 a little bit before 
 the pandemic. and yeah, I'm, I'm giving quadruple workshops.
@@ -809,11 +845,16 @@ different organizations, mainly focused on contribution. and yeah, and now I'm
 building my own tool to get that data.
 because now I don't have the data anymore, like at my fingertips. And so yeah, 
 this is what I'm, I'm doing. That 
+
 **Ben:** [00:52:10] sounds really cool. 
+
 **Michaela:** [00:52:11] Yeah. Thank you. Yeah. Okay. So thank you, Ben, for 
 taking the time. Thank you so much for being here and have a good day. 
+
 **Ben:** [00:52:19] All right. Thanks for having me. Yeah. 
+
 **Michaela:** [00:52:21] Thank you.
+
 **Ben:** [00:53:12] Oh, okay. So, I've been doing this now for a long time. It's 
 been almost 23 years. And, when I started the, the environment was quite a bit 
 different. It was during the first.com boom. and I was, I was actually a print 
