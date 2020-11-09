@@ -3,7 +3,22 @@
 
 **Michaela:** [00:00:00] Hello and Welcome to the Software Engineering unlocked 
 podcast. I'm your host, Dr. Mcayla. And today I have the pleasure to talk to Ben 
-Lesh. Ben is a senior software engineer at Citadel Securities, Citadel 
+Lesh. 
+
+But before we start, let me tell you a bit about what happened recently. Maybe 
+you remember when I told you I’m building a code review analytics tool. Well, 
+actually I spend the whole of October working hard on this tool, and I’m happy 
+to announce the MVP is ready. I actually streamed everyday on Twitch about the 
+so-called October Ship It Challenge.
+Now, I am uploading my very raw and honest videos on my YouTube channel.
+I’m not gonna stream every day anymore - that was quite too much and meant I had 
+no actual evenings with my family, but I plan on streaming approximately once a 
+week to keep you updated on my product building progress.
+So, if you want to follow my raw, unedited, and live journey, the best is to 
+follow me on Twitch, or on YouTube. Or both, which is obviously the best. I link 
+both in the description. But now, back to Ben.
+
+Ben is a senior software engineer at Citadel Securities, Citadel 
 Securities, a FinTech company in the market maker. They provide seamless trading 
 experiences and tools for asset management, bankers, brokers, and many more.
 Before that Ben worked amongst other companies at Google and Netflix, but it's 
