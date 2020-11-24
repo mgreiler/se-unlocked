@@ -821,13 +821,15 @@ And yeah. Thank you so much.
 
 **Tomasz:**   [00:52:40] Thank you very much for having me. 
 
-**Michaela:**  [00:52:42] Yeah, it was my pleasure. Okay. Bye-bye I hope you 
-enjoyed another episode of the stuffed engineering unlocked podcast, but before 
+**Michaela:**  [00:52:42] Yeah, it was my pleasure. Okay. Bye-bye 
+
+I hope you 
+enjoyed another episode of the software engineering unlocked podcast, but before 
 I let you go, let me tell you that this week black Friday, I have some special, 
 really amazing discounts on my code review workshops. So if you ever think of 
 the idea of booking one.
-I think now is the time. So hop over to awesome code reviews.com. And I hope to 
-see you in two weeks for another episode of the soft engineering and luck 
+I think now is the time. So hop over to https://awesomecodereviews.com. And I hope to 
+see you in two weeks for another episode of the software engineering unlocked 
 podcast. Bye.
 
 
