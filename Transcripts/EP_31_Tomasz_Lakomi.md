@@ -30,14 +30,16 @@ Commercial is also an ad hack instructor. He's certified for AWS and he's a
 speaker and blogger. So I'm really happy to have Thomasz here with me, Thomasz, 
 welcome to the show. 
 
-Tomasz: [00:01:46] Hello, everyone. I'm very happy to be here. 
+
+**Tomasz:**   [00:01:46] Hello, everyone. I'm very happy to be here. 
 
 **Michaela:**  [00:01:48] So, Thomas, maybe as a start, can you tell me a little 
 bit about your role at Alix group on the website?
 It says it's a platform for buying and selling cars, finding housing, getting 
 jobs, buying, and selling household goods. But what are your team's 
 responsibilities? What are your tasks at this company? 
-Tomasz: [00:02:05] Sure. So, as you've mentioned, like basically what we do at 
+
+**Tomasz:**   [00:02:05] Sure. So, as you've mentioned, like basically what we do at 
 Olin's group is, but we did a huge number of different websites for like buying 
 stuff, selling stuff.
 So as you mentioned, we have cars, we have real estate, we have goods, we have 
@@ -61,7 +63,8 @@ So we are kind of, kind of trying to find a better job for them.
 
 **Michaela:**  [00:03:34] Okay. So can I imagine it as like LinkedIn, but a 
 little bit different or is it very different? 
-Tomasz: [00:03:41] Is this somewhat different than LinkedIn? I think LinkedIn 
+
+**Tomasz:**   [00:03:41] Is this somewhat different than LinkedIn? I think LinkedIn 
 has this very, very focused on like white collar jobs. So, you know, white 
 collar, basically what I mean by that is that, you know, you work in the office, 
 you probably have a product to probably have a, you know, a title that is in 
@@ -102,7 +105,8 @@ is on your team? You know, do you have like testers on your team? Do you have
 like designers on your team and, and then you're working with data scientists.
 How does the communication work like this? Can you tell me a little bit about 
 the structure and you know, how, how are teams collaborating at all X. 
-Tomasz: [00:06:13] Sure. So the way we kind of work at all X or X group is, but 
+
+**Tomasz:**   [00:06:13] Sure. So the way we kind of work at all X or X group is, but 
 each team is a park. So we are defined the divided into something that is called 
 a park and a park is this like self-contained unit of the organization that can 
 ship their staff to the production.
@@ -135,7 +139,8 @@ know, juggling Jason data, as some of buckets engineers are used to doing.
 
 **Michaela:**  [00:08:23] Okay. Yeah. And so how many front end engineers are, 
 for example, in your team, but 
-Tomasz: [00:08:29] those themes, they don't have to be very large. So in my 
+
+**Tomasz:**   [00:08:29] those themes, they don't have to be very large. So in my 
 thing currently, we have two trumpet engineers.
 There's two backend engineers. We have a dedicated contact in the data science 
 team. So he's not technically in our team, but we are working very closely 
@@ -148,7 +153,8 @@ like that.
 
 **Michaela:**  [00:09:07] But with 10 people and one pizza, I mean, everybody 
 gets a little slice. Really? 
-Tomasz: [00:09:14] Yeah. 
+
+**Tomasz:**   [00:09:14] Yeah. 
 
 **Michaela:**  [00:09:15] Yeah. And so one of the things that I love is code 
 reviews. And so if you have like two front end engineers, do you do code reviews 
@@ -156,7 +162,8 @@ for each other?
 Or do you have like the back end engineers also looking at your code? And are 
 you looking at the code off the back end engineers and visa versa? Or is that 
 like very dedicated, like for the roles? 
-Tomasz: [00:09:35] So there there's a couple of things here. First stop. We it's 
+
+**Tomasz:**   [00:09:35] So there there's a couple of things here. First stop. We it's 
 one of us. Tries to grow. So I am trying my best to kind of review 
 infrastructure changes.
 We are using several of the framework, something bucket the engineers are eager 
@@ -186,7 +193,8 @@ pegs that would review your code and would it be obviously the same, you know,
 like have you, do you have like two other bags that you are like, you know, 
 working together or do you randomly allocate people from different packs to look 
 at your code?
-Tomasz: [00:11:21] I would say it depends on the, on the scope of the changes, 
+
+**Tomasz:**   [00:11:21] I would say it depends on the, on the scope of the changes, 
 because I am working in a pocket that is, like I said, we are building products 
 for four jobs. So we are helping people find a better job. There are also other 
 parks that are also in this kind of like job ecosystem. So there are other 
@@ -219,7 +227,8 @@ proving that you're not a good human being. Right. And so. How do you handle
 that? Like how, how do you, how do you handle unkind commons and how do you 
 surface that at, as a company, as a team?
 You know, how do you deal with that? 
-Tomasz: [00:13:33] So, at the beginning, I w I would like to add, but if I were 
+
+**Tomasz:**   [00:13:33] So, at the beginning, I w I would like to add, but if I were 
 to write this part again, I would probably add some more new ones with. But that 
 was the, a bit of a, of a hot steak. And, you know, there were lots of comments 
 on Reddit, uh, regarding that part, because it seems to kind of cause a little 
@@ -264,7 +273,8 @@ beginning is like, well, I will definitely reach out, but do you see yourself
 reaching out as the person that gets this critique?
 Or is it like you're a senior engineer, right. So would you also reach out to 
 the person if you see they are leaving unkind comments from somebody else? 
-Tomasz: [00:16:36] I wouldn't be much more quicker to your child if it was, if 
+
+**Tomasz:**   [00:16:36] I wouldn't be much more quicker to your child if it was, if 
 it was somebody else for the code, because I have a feeling that. As a, as a 
 senior in the organization, that your job is not to only write code, but your 
 job is also make others more productive and also builds an environment in which 
@@ -309,7 +319,8 @@ organization is doing something a specific year. Can you tell me a little bit,
 how are you tackling technical dev and you know, how you're working on it? Do 
 you say well happens and we never look at it and close our eyes?
 Or what are the strategies that you, that you have here? 
-Tomasz: [00:19:24] Okay. So first of all, if any of that software organization 
+
+**Tomasz:**   [00:19:24] Okay. So first of all, if any of that software organization 
 is saying that they don't have technical depth, they're absolutely lying. 
 Everybody has technical that including, including us for record. So from my own 
 perspective, I'm very happy to be in a somewhat Greenfield project.
@@ -372,7 +383,8 @@ you're working at right now, but I also saw a list of things that you're doing.
 Outside of work or, you know, partially at work or whatnot. Right. So you are 
 also an egghead instructor. And I think I remember correctly, you said like you 
 have 150 videos or something, is that 
-Tomasz: [00:23:39] correct?
+
+**Tomasz:**   [00:23:39] correct?
 More than 170 at this point? 
 
 **Michaela:**  [00:23:41] Wow. 170. So how are you doing that? Like, this is 
@@ -381,7 +393,8 @@ all of those, you know, recordings. Staffing things like this, but this is
 definitely something that I aspire to do as well. How do you do this videos?
 You know, what, what motivates you to do them? How did you become a head 
 instructor? And yeah. Can you tell me a little bit about that? 
-Tomasz: [00:24:05] So, first of all, I was not aware they're recording videos 
+
+**Tomasz:**   [00:24:05] So, first of all, I was not aware they're recording videos 
 before I started in a bit as an insect or I was doing, I was trying to think on 
 my blog, I was doing contract talks.
 And that is basically how I got noticed, because people have basically noted 
@@ -407,7 +420,8 @@ a book process perspective. Do you write a blog post first and then you make the
 video or do you make a video first or you just make videos for things that you 
 think that are better covered in a video and you write a blog post for things 
 that you think better are covered in a blog post.
-Tomasz: [00:25:59] That's a good question. What I basically do when I want to 
+
+**Tomasz:**   [00:25:59] That's a good question. What I basically do when I want to 
 share something with others. I mostly tried to think, what would it be useful to 
 me? Because some concepts of amazingly well explained as a blog post, because, 
 because you can search through it and whatnot, some topics are better when it 
@@ -427,7 +441,8 @@ are AWS certified. What do you do there? How did you know, was it a requirement
 from your job, or why did you set out to do that certification? And I also 
 started, you're going to the next level from AWS certified and yeah. What 
 motivates you to do that?
-Tomasz: [00:27:18] So there are two things here. So first of all, all ex has 
+
+**Tomasz:**   [00:27:18] So there are two things here. So first of all, all ex has 
 been. Largely. I mean, all it's basically on the books, we have migrated 
 everything to AWS. I think like two years ago, my team we are working with , 
 which is based in AWS. So we have API gateways, we have Lambda functions. We are 
@@ -462,7 +477,8 @@ Can you tell me a little bit about your hiring experience? You know, and you
 know, what questions were you asked? How was that process going? And, yeah, that 
 would be interesting.
 So 
-Tomasz: [00:29:48] the fun thing is that I've joined two and a half years ago. 
+
+**Tomasz:**   [00:29:48] the fun thing is that I've joined two and a half years ago. 
 And I haven't been in that I've joined a somewhat different company because we 
 are, you know, changing and growing quite rapidly. So, I mean, I can talk about 
 the process that we have today because I am also kind of involved in the hiring 
@@ -493,7 +509,8 @@ was working at Microsoft, there was like this really set in stone, things that
 you have to accomplish to get to the next level, you know, what should be your, 
 you know, skills technically, you know, professionally and so on. How does that 
 work at all X.
-Tomasz: [00:31:57] So we do have a, we have a career lover that is by I'm Ching 
+
+**Tomasz:**   [00:31:57] So we do have a, we have a career lover that is by I'm Ching 
 at the end into somewhat like a tree. So there's junior there's mid-level slash 
 Aguilar engineer there, senior engineer and after a senior engineer. So 
 basically where I am there's this change is going to branch out. So there's a 
@@ -514,7 +531,8 @@ a completely different job than, you know, being a casino software engineer.
 this, you know, one step before, so when you're branching out, which direction 
 will you go, where are you going to the management route?
 Or will you go into the lead engineer? 
-Tomasz: [00:33:29] I would have to go into the lead engineer out because I'm the 
+
+**Tomasz:**   [00:33:29] I would have to go into the lead engineer out because I'm the 
 kind of person who likes to make, make an impact in the organization, but mostly 
 from like a technical perspective and mostly from the perspective of. How do we 
 that software, how do we think about fountain?
@@ -537,7 +555,8 @@ you know, how do we actually. Build our culture internally. How do we, and
 especially obviously also, uh, engineering, right? What role does caudry we have 
 for us? Is that something that you feel that you can actively change or is it 
 something that others are thinking about and your are adopting it?
-Tomasz: [00:35:03] So we have, we have a couple of confining values and two of 
+
+**Tomasz:**   [00:35:03] So we have, we have a couple of confining values and two of 
 them are my favorites. So the first one is be open. And the second one is to 
 take ownership. And I imagined the thing that the, because most kind of like 
 senior engineers in our organization, like we have this strong sense of 
@@ -565,7 +584,8 @@ You know, what people want me to ask you? And testing was one of the things and
 they said, well, yeah, you're doing testing. If your skills are not really good.
 Yeah, exactly. Yeah. Can you tell me a little bit more about your philosophy 
 here and. 
-Tomasz: [00:37:05] So my philosophy when it comes to testing is that I want to 
+
+**Tomasz:**   [00:37:05] So my philosophy when it comes to testing is that I want to 
 sleep better at night. I don't want to worry about my changes back in 
 production. I am not brave enough to push major features to productions that 
 they don't have pets basically.
@@ -606,7 +626,8 @@ the end, it amortize it itself over time.
 Very, very quickly. Yeah. So yeah, I definitely think that's true. So one of the 
 things that you also mentioned was product driven mindset. What is a product 
 driven mindset and you know, how can we get that? 
-Tomasz: [00:39:53] Sure. So the way I think about it is my job is not to push 
+
+**Tomasz:**   [00:39:53] Sure. So the way I think about it is my job is not to push 
 tickets in JIRA for 'em to do to them. My job is to build products, assault.
 The way I think about it is as an engineer, I think that the best part of our 
 ability by people who have this great understanding of what exactly are they 
@@ -662,7 +683,8 @@ Very often, very challenging and very de-motivating can also be very
 demotivating because I think, you know, there's, it's easy to fall in love with 
 your product, right? It's a little bit harder to fall in love with business 
 goal. 
-Tomasz: [00:43:43] Exactly. I know, I know definitively what you mean, uh, 
+
+**Tomasz:**   [00:43:43] Exactly. I know, I know definitively what you mean, uh, 
 because I, I can give you an example.
 So we are on running apps on all X. Every large website is running ads. We are 
 no exception and. Engineers are, you know, we, we don't like that. We don't 
@@ -691,7 +713,8 @@ session today of the interview.
 Is this something that you want to share with my listeners that we haven't 
 touched on that you think would be important or something that you want to tell 
 them? Some advice that you want to give them on their way? 
-Tomasz: [00:45:43] Um, okay. So I had this, I had this fault like yesterday, 
+
+**Tomasz:**   [00:45:43] Um, okay. So I had this, I had this fault like yesterday, 
 because I'm not sure whether you are listening.
 You know, you listen, if you're a student or if you're younger than me, 
 apologies, I've thrown them the 30 this year. And this is a major moment for me. 
@@ -756,7 +779,8 @@ Yeah. And don't let you know whatever happens right now. Define you. I think we
 are giving too much, much, too much weight to what's in the now. Right. Which is 
 important on one hand. But. You know it. Yeah. It, it, it becomes less and less 
 important over the years. So I totally agree. 
-Tomasz: [00:50:08] Yeah. Uh, also, I was still supposed to tell this story 
+
+**Tomasz:**   [00:50:08] Yeah. Uh, also, I was still supposed to tell this story 
 because this was requested on Twitter.
 And I think it plays very nicely to what we just talked about. I went skydiving 
 for the very first time this year, because as I mentioned, I've done 30, my wife 
@@ -794,7 +818,8 @@ that's definitely true. So, well, I think that's a perfect ending. Thank you so
 much, Thomas, for being on my show and spending the time with me and telling me 
 so much about, you know, how it is to be a software engineer at your company. 
 And yeah. Thank you so much.
-Tomasz: [00:52:40] Thank you very much for having me. 
+
+**Tomasz:**   [00:52:40] Thank you very much for having me. 
 
 **Michaela:**  [00:52:42] Yeah, it was my pleasure. Okay. Bye-bye I hope you 
 enjoyed another episode of the stuffed engineering unlocked podcast, but before 
