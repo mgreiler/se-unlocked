@@ -5,25 +5,25 @@ podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to
 Nader Dabit, a senior developer advocate at AWS. 
 But before I start, let me tell you something about coincidence. Sometimes the 
 right things come at the right time, I believe. Three weeks ago, the founders of 
-code submit a take home assignment platform reached out to me to sponsor the 
+CodeSubmit, a take-home assignment platform, reached out to me to sponsor the 
 podcast.
 They showed me the hiring tool and I was really impressed. So, we made the deal. 
 But do you know what happened at the same time? I started to work with a startup 
 where I need to hire a team of engineers. So, this week I used CodeSubmit to 
-create a custom made system design task. The best part - from my perspective - 
+create a custom-made system design task. The best part - from my perspective - 
 of the tool is that it natively integrates with Git, it's super intuitive, and 
 it allows you to give the candidates great flexibility for choosing when to work 
 on a task, but at the same time, you can specify a time limit for how long they 
 can actively work on it. The UI and the look and feel are so slick. And yeah, I 
 will report on the candidates experience in a bit.
-But for now, if you're also in need of a take home assignment platform to 
-streamline your hiring process, please have a look at https://codesubmit.io. 
+But for now, if you're also in need of a take-home assignment platform to 
+streamline your hiring process, please have a look at https://codesubmit.io  
 They also offer a free trial, but now back to Nader.
-Nader, is a web and mobile developer who specializes in building cross platform 
-and cloud enabled applications.
+Nader, is a web and mobile developer who specializes in building cross-platform 
+and cloud-enabled applications.
 Right now, he works at Amazon web services where he develops features in the 
 client team and improves developer experiences for client side SDKs. Before he 
-founded his own training company, specializing on react native and trained 
+founded his own training company, specializing on React Native and trained 
 engineers from organizations such as Microsoft, Amazon, the US Army, and many, 
 many more.
 If you work with technologies like AWS or serverless, you definitely came across 
@@ -34,79 +34,70 @@ Nader, welcome to the show.
 **Nader:** [00:02:00] Thank you. Thank you so much for the great introduction 
 and thank you for having me. I'm excited to be here.
 
-**Michaela:** [00:02:05] I'm really happy that you're here. So wherever I look 
-right, be it on Twitter, GitHub, YouTube, Dev.to, you are super active on all of 
+**Michaela:** [00:02:05] I'm really happy that you're here. So wherever I look, 
+be it on Twitter, GitHub, YouTube, Dev.to, you are super active on all of 
 those platforms and also you have a huge following of each of them. How did that 
-start? Were there also times that you were writing blog posts or making videos 
+start and were there also times that you were writing blog posts or making videos 
 or implementing some stuff and hardly anybody saw it, or how did you break out 
 of the unknown?
 How was that for you?
 
 **Nader:**[00:02:30] Yeah, absolutely. So, I mean, I really started my whole 
 social media and I guess outbound presence about four and a half years ago. I 
-think it would, I would say I was working at a company called school status and 
+think I would say. I was working at a company called SchoolStatus and 
 it's a small startup here in Mississippi where I still live at the moment.
-And I'm very, you know, I was. Starting to become very active in the community 
-in the sense that I was like following people, I wasn't really active myself, 
+I was starting to become very active in the community 
+in the sense that I was following people, I wasn't really active myself, 
 but I was getting to know the people in the community and I was starting to go 
 to conferences and I did run a meetup for a little bit. So, a lot of the people 
 that I was really admiring were often creating blog posts and videos and stuff 
 like that.
-And. No, I always wanted to kind of get into that. So I think the first blog 
-posts I ever wrote was a introduction to Webpack. And the reason that I wrote 
-it, I kind of was waiting to find something interesting to write about, but I 
-always felt like my ideas were like not interesting and that someone else knew 
-something more than me still get that feeling now.
-But anyway, that's a different subject, but basically, yeah. When I was trying 
-to build out a Webpack configuration, I couldn't find really good documentation 
-on how to do it. So I started piecing together things that I found, and I ended 
-up building out my Webpack configuration and building my app. And I thought, you 
-know what?
-This would be really helpful for people. I think, because if I had found this 
-exact writeup, it would have helped me a lot. So let me go ahead and create 
-that. So that was my first blog post ever. And it actually. You know, really 
-encouraged me to, to write a lot more after that, because it just happened to do 
-really well.
-I wrote on medium when medium was still like, you know, one of the most popular 
-places, I guess, for, uh, developers right now. I think people are, you know, 
+And I always wanted to get into that. So I think the first blog 
+post I ever wrote was a introduction to webpack. And the reason that I wrote 
+it, I was waiting to find something interesting to write about, but I 
+always felt like my ideas were not interesting and that someone else knew 
+something more than me, still get that feeling now.
+But anyway, that's a different subject. But basically, when I was trying to
+build out a webpack configuration, I couldn't find really good documentation on
+how to do it. So I started piecing together things that I found, and I ended up
+building out my webpack configuration and building my app. And I thought, you
+know what, this would be really helpful for people. I think, because if I had
+found this exact writeup, it would have helped me a lot. So let me go ahead and
+create that. So that was my first blog post ever. And it,
+really encouraged me to write a lot more after that, because it just
+happened to do really well.
+I wrote on Medium when Medium was still one of the most popular 
+places, I guess, for developers. Now I think people are, 
 all over the place, but it did pretty well. And it was very encouraging and yes, 
-after that, I've had. Posts that get like zero to a hundred views. So it's, 
-it's, it's hit or miss, you know, even if you have a massive following, you 
-know, if, you know, if you have 10 times as many followers as I do, or if you 
-have 10 followers, you know, a lot of times it doesn't really matter.
-I think the content itself matters the most and like, you know, if you're. 
-Creating something that is going to help people, of course, having like a lot of 
-people to share with helps boost that at first. But I think over time it will, 
-you know, do do well, regardless if you kind of create something that is, is 
-really unique and interesting and actually is helpful.
+after that, I've had posts that get zero to a hundred views. So it's 
+hit or miss, even if you have a massive following, if you have 10 times as many
+followers as I do, or if you have 10 followers, a lot of times it doesn't really
+matter.  I think the content itself matters the most if you're creating
+something that is going to help people. Of course, having like a lot of people
+to share with helps boost that at first. But I think over time do well,
+regardless if you kind of create something that is really unique and interesting
+and actually is helpful.
 
-**Michaela:** [00:04:47] Yeah. Yeah, I definitely think so. I mean, one of the 
-things that I I'm learning Peyton's since almost two years now, and I'm, I'm 
-coming from a job or a C-sharp background rights, a very object oriented and 
-just a different, I think, a different flavor and different style of thinking. 
-And. And I I'm, I'm actually really having a hard time finding resources for 
-Python that help me grow.
-Right. So either it's really basic and I'm like, okay, I know. And I noticed in 
-techs and they know how to do that, but I'm missing how, you know, how to do the 
-architecture off, you know, a patent application. And I built large patent 
-application already, but I'm still like, Oh, there must be better ways to do 
-this.
-Right. And so right now, for example, I'm thinking around with this idea, maybe 
-I should write it. Some of those resources, because I feel they are not there, 
-but it's really scary to ride that if there is nothing right, that you can fall 
-back and say, well, there is no, you know, there is no true or wrong, 
-especially.
-I mean, here we are going a little bit away from. Does it work or doesn't it 
-work because how you structure applications, right. Is a little bit up to you. 
-There's no like, Oh, this is how we have to do it. But how is that for you? If 
-you're developing something or writing something that's that, that hasn't been 
-done or hasn't been done in that way?
-I feel there's a little bit of risk. And for me, it holds me a little bit back 
-to, you know, Feel confident enough that, well, I know enough of Putin and I 
-made enough applications and architecture that I have something to say. And I'm 
-mainly thinking about, I have maybe something to say for people that came from a 
-Java background, right?
-Like this niche of people, but how is that for you? 
+**Michaela:** [00:04:47] Yeah. Yeah, I definitely think so. I'm learning Python 
+since almost two years now, and I'm coming from a java or a C-sharp background,
+so very object oriented and a different flavor and different style of thinking.
+And I'm actually really having a hard time finding resources for Python that
+help me grow. Either it's really basic and I know the syntax and know how to do
+that but I'm missing how to do the architecture of a Python application. And I've
+built large Python applications already, but there must be better ways to do this.
+And so, right now, for example, I'm tinkering around with this idea, maybe I
+should write some of those resources, because I feel they are not there. But
+it's really scary to write that if there is nothing that you can fall back
+and say there is no true or wrong. Here we are going a little bit away from
+"Does it work or doesn't it work?" because how you structure applications is a
+little bit up to you. There's no, "This is how we have to do it". But how is
+that for you? If you're developing something or writing something that hasn't
+been done or hasn't been done in that way? I feel there's a little bit of
+risk. And for me, it holds me a little bit back to, feel confident enough that,
+well, I know enough of Python and I made enough applications and architecture
+that I have something to say. And I have maybe
+something to say for people that came from a Java background, this niche of
+people. But how is that for you?
 
 **Nader:**[00:06:26] Yeah, absolutely. I mean, even today I still get that 
 feeling, but I think the interesting thing about technology is that there are, 
