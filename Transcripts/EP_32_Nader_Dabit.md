@@ -207,159 +207,139 @@ outside of that, because then you are almost taking money out of your own pocket
 and it starts becoming this whole psychological thing that messes with you. At
 least it did for me. So that was kind of my story, I guess.
 
-**Michaela:** [00:14:14] Okay. Yeah. That sounds really interesting. And so you 
-were saying some of the things that you really liked and some of the things that 
-you did not like so much. So what are some of the things that you, that you 
-thought you're not doing so well or that you didn't like?
-So so much, I mean, you were touching a little bit on it with this, you know, 
-overworking and chasing a little bit the money probably as well. Right. But what 
-are the things that you think if you would do it again, that you would have to, 
-you know, level up as a businessman, maybe 
+**Michaela:** [00:14:14] Okay. Yeah. That sounds really interesting. And so, you 
+were saying some of the things that you really liked and some of the things that
+you did not like so much. So what are some of the things that you thought you're
+not doing so well or that you didn't like so much? You were touching a little
+bit on it with overworking and chasing a little bit the money probably as
+well. But what are the things that you think if you would do it again, that you
+would have to level up as a businessman, maybe.
 
-**Nader:**[00:14:45] the number one thing I did not.
-Do well was scaled scaled the B the business and the number of leads coming in. 
+**Nader:**[00:14:45] Yeah, I think that the number one thing I did not
+do well was scaled the business and the number of leads coming in. 
 I think that when I first started, I had no idea around the demand that there 
-was for that type of work. And, and, and how, if you kind of positioned yourself 
+was for that type of work. And how, if you kind of positioned yourself 
 the right way that you can funnel almost all of the leads for people looking for 
-a certain thing, because, you know, with SEO and a combination of, you know, 
-writing, I read a book called react native in action.
-I was able to kind of get a lot of leads for this, you know, Specialty, but I 
-ended up, you know, I could only work so much and I w and I didn't really know 
-how to kind of like hire people and do stuff. I did work with a couple of 
-contractors, but I didn't, I didn't do it. Right. And I ended up not really 
+a certain thing, because, with SEO and a combination of, 
+writing, I read a book called "React Native in Action",
+I was able to kind of get a lot of leads for this, specialty. But I 
+ended up, I could only work so much and I didn't really know 
+how to hire people and do stuff. I did work with a couple of 
+contractors, but I didn't do it right. I ended up not really 
 having anyone that, that I could consistently rely on.
-So I ended up turning away, like a lot of business and, um, I was also not that 
-good at managing the different contracts that I had. So, so I would do a 
-training. I would do it. I would, I would also, you know, take on some hourly 
+So I ended up turning away a lot of business and, I was also not that 
+good at managing the different contracts that I had. So, I would do a 
+training. I would do it. I would, I would also take on some hourly 
 consulting and then sometimes one of those consulting contracts would just 
 completely drop.
 They would be finished and they wouldn't need me anymore. And then I would have 
-like a massive spike in income and then my income would go down a lot and that 
-would. That would kind of stress me out. But I think the main thing that I 
+a massive spike in income and then my income would go down a lot and that 
+would kind of stress me out. But I think the main thing that I 
 learned was that I needed to be more organized. I need to learn how to work 
 better with people.
 And I need to learn how to keep up with my paperwork better because I made a lot 
-of money, but I didn't pay my taxes. So the next year, I mean, I didn't. I 
-didn't like, like spend, uh, I still had it, but the next year I had a big tax 
-bill. So a lot of the money that I thought I'd made, I actually ended up going 
+of money, but I didn't pay my taxes. So the next year, I didn't spend it, 
+I still had it, but the next year I had a big tax 
+bill. So a lot of the money that I thought I'd made, I actually ended up owing
 in taxes.
-And, um, if I'd actually maybe expense my stuff better too. I understand now 
-that I could have written a lot of things off that didn't, didn't write off. So 
+And, if I'd actually maybe expensed my stuff better too. I understand now 
+that I could have written a lot of things off that I didn't write off. So 
 all types of stuff, I think you could probably look at every mistake in the book 
-that someone could possibly make. And I probably made that, made those mistakes.
+that someone could possibly make and I probably made that, made those mistakes.
 
 **Michaela:** [00:16:39] Yeah. And, you know, I started my own consultancy and 
-training businesses. It's also why I'm so interested in this, right? Like a year 
-ago I went full-time I did a little bit before also, as you did. Right. But I 
-was still employed at Microsoft, but. Year ago, I quit my job and, you know, 
-started doing this training and consulting business full-time and that was also 
-really afraid.
-Like I'm telling this story quite often, I was like, Oh, I can't do it. Right. I 
-have to do it MBA first to actually do it right. But then I don't have the time 
-to do that. So I just do it. And I'm struggling with really similar things. I'm 
-struggling with. I'm struggling with sales because I don't want to do sales.
-I don't know how to do sales. So there's really a lot of procrastination going 
-on. So everybody that finds me just finds me. Through organic staff. Right? So 
-recommendations maybe. Word of mouth, my blog and things like this, but I've 
-never really reached out to anybody and the, you know, try to sell them my 
-services and then the accounting part as well.
-Right. I have no idea about it. So I see a lot of similarities and I think a lot 
-of engineers that are thinking about, you know, making this tab to see those. 
-You know, maybe have the same, the same struggle. And yeah, it's really 
-interesting. I think in one point I have grown in the last year, I've got better 
-and better, but I also make hundreds of mistakes in all regards to the business 
-aspects and everything.
-Every mistake that you can do from the I, I also made. And so, so then AWS came 
-along and so do you want it to work with you? They also were. They also. Getting 
-to know you through your social presence and your presence on stack overflow, or 
-how did that connection happen here? 
+training businesses. It's also why I'm so interested in this. A year ago I went
+full-time, I did a little bit before also, as you did, but I was still employed
+at Microsoft. But a year ago, I quit my job and, started doing this training and
+consulting business full-time and I was also really afraid. I'm telling this
+story quite often, I was like "Oh, I can't do it". I have to do it MBA first to
+actually do it. But then I don't have the time to do that. So I just do it. And
+I'm struggling with really similar things.  I'm struggling with sales because I
+don't want to do sales.  I don't know how to do sales. So there's really a lot
+of procrastination going on. So everybody that finds me just finds me through
+organic stuff. So recommendations maybe, word of mouth, my blog and things like
+this, but I've never really reached out to anybody and tried to sell them my
+services. And then the accounting part as well, I have no idea about it. So I
+see a lot of similarities and I think a lot of engineers that are thinking
+about, making this start maybe have the same struggle. And yeah, it's really
+interesting. I think in one point I have grown in the last year, I've got
+better, but I also make hundreds of mistakes in all regards to the business
+aspects and everything. Every mistake that you can do probably I also made. And
+so then AWS came along and they wanted to work with work with you. They also
+were getting to know you through your social presence and your presence on Stack
+Overflow, or how did that connection happen here?
 
-**Nader:**[00:18:19] So I think connection happened on Twitter.
-I kind of connected or just met with, met someone based on a tweet that had gone 
-out that they were kind of engaging with another company. And, uh, it was having 
-to do with mobile development. And I was like, Oh, I wanna, I want to do this 
-thing, but do it with react native because you know, that was my thing.
-And, and somehow, you know, we ended up DM-ing each other and meeting, and then 
-a few months later I was going to be in Seattle. Doing a training at Amazon 
-anyway. So I'm the guy that reached out to me, worked at AWS. So I was like, 
-Hey, I'm going to be in town. And he was like, okay, there's this like meetups 
-or come hang out.
-So I decided to go to their, to the meetup. And I hung out with them at the 
-meetup. And I met who is now my manager. And they were telling me about the 
-project that I'm working on now. And they were saying that they were building 
-out some react native prototype, and it's going to be opensource and Hey, why 
-don't you check it out?
-So I was like, okay, cool. So I went back home a few days later, I checked it 
-out and I worked with the engineer on that team remotely and kind of just 
-contributed. Uh, to their open source for free really, but also kind of, you 
-know, it was learning the technology out there that they were going to be 
-building out.
-So during that. Process of, of helping them. We ended up, you know, building, I 
-ended up adding, you know, a pretty decent feature, I think, too, to what they 
-were building out. And based on that relationship, they then reached out to me a 
-few weeks later and they're like, Hey, we're hiring for this position. And we 
-think you'd be a good fit.
-And I actually was, I was like, okay, a hundred percent against it. I was like, 
-you know, I told my wife about it. I was like, yeah, I was like, this is cool, 
-but you know, I'm working for myself and it's a little less money. Believe it or 
-not, it was a lot of money, but it was less money that I was making. And I was 
-like, yeah, I don't think I'm going to take it.
-And then they were like, they were like, look, just fly out to Seattle, you 
-know, have an interview. We want to tell you more about, I think we think 
-you'll, you'll like it. So I gave it some thought and you know, I started 
-weighing everything and I was like, you know, thinking how it would be nice to 
-actually.
-Be not held accountable for myself to be able to have weekends off all the 
-things that I weren't doing and not be able to not have to rely on myself for a 
-little bit. So I was like, okay, let me, let me go out there. So I flew out to 
-Seattle and I met with the team and, and the things that they were working on 
-were like extremely, extremely interesting to me and, and, and really was.
-It was like a perfect fit for kind of where I think I wanted my career to go 
-anyway, because I was really focusing on front end and mobile development, but I 
-didn't know a lot about backend development and the things that they were 
-building were exactly for people like me that were kind of new to cloud 
-computing.
-And they just were really, really interesting to me. So I was like the 
-opportunity to actually be on this team. And I, and a lot of the people that I 
-met were just really, really smart and I'm always drawn to of course, like work 
-with those types of people. So I was like, You know. Okay, cool. So, um, they 
-gave me the offer and the offer was good.
-So I was like, you know what, let's just do this. So I took the job and it's 
-actually been probably one of the better decisions I've ever made. I think. 
+**Nader:**[00:18:19] So I think the first connection happened on Twitter.
+I kind of connected or just met with someone based on a tweet that had gone out
+that they were kind of engaging with another company. And it was having to do
+with mobile development. And I was like, "Oh, I wanna, I want to do this thing,
+but do it with React Native" because you know, that was my thing.  And somehow,
+we ended up DM-ing each other and meeting, and then a few months later I was
+going to be in Seattle, doing a training at Amazon anyway. So the guy that
+reached out to me worked at AWS. So I was like, "Hey, I'm going to be in town"
+And he was like, "Okay, there's meetups or come hang out".  So I decided to go
+to there, to the meetup. And I hung out with them at the meetup. And I met who
+is now my manager. And they were telling me about the project that I'm working
+on now. And they were saying that they were building out some React Native
+prototype, and it's going to be open source and "Hey, why don't you check it
+out?".  So I was like, "Okay, cool". So I went back home. A few days later, I
+checked it out and I worked with the engineer on that team remotely and kind of
+just contributed their open source for free really, but also learning the
+technology out there that they were going to be building out.  So during that
+process of helping them I ended up adding, a pretty decent feature, I think, to
+what they were building out. And based on that relationship, they then reached
+out to me a few weeks later and they're like, "Hey, we're hiring for this
+position and we think you'd be a good fit".  And I actually was almost a hundred
+percent against it.  I told my wife about it, I was like, "Yeah, this is cool,
+but I'm working for myself and it's a little less money". Believe it or not, it
+was a lot of money, but it was less money that I was making. And I was like,
+"Yeah, I don't think I'm going to take it".  And they were like "Look, just fly
+out to Seattle, have an interview. We want to tell you more, we think you'll
+like it". So I gave it some thought and I started weighing everything and I was
+thinking how it would be nice to actually be not held accountable for myself, to
+be able to have weekends off all the things that I weren't doing and not have to
+rely on myself for a little bit. So I was like, "Okay, let me go out there". So
+I flew out to Seattle and I met with the team and the things that they were
+working on were extremely, extremely interesting to me and really was a perfect
+fit for where I think I wanted my career to go anyway, because I was really
+focusing on front-end and mobile development, but I didn't know a lot about
+back-end development and the things that they were building were exactly for
+people like me that were new to cloud computing.  And they just were really,
+really interesting to me. So the opportunity to actually be on this team and a
+lot of the people that I met were just really, really smart and I'm always drawn
+to work with those types of people. So I was like, "Okay, cool". So they gave me
+the offer and the offer was good.  So I was like, "You know what, let's just do
+this". So I took the job and it's actually been probably one of the better
+decisions I've ever made. I think.
 
 **Michaela:** [00:21:17] Yeah, it sounds really cool. And so when you were 
-flying you in for this interview, was this more like it. Persuasion interview 
-where they try to convince you that you should start, or did you have until, you 
-know, after even writing, you know, some major contributions in open source and 
-your presence and the trainings, did you still have to prove yourself in the 
-interview process?
-Or how did that, that go. 
+flying you in for this interview, was this more like a persuasion interview
+where they try to convince you that you should start, or did you have until,
+after even writing, some major contributions in open source and your presence
+and the trainings, did you still have to prove yourself in the interview
+process?  Or how did that, go?
 
-**Nader:**[00:21:41] Yeah, it was a, it was a real interview process, but also 
-got to kind of see the office and meet a few of the people on the team. And 
-there was the typical five-step Amazon interview and there was a technical 
-interview and I didn't do that good on the technical interview from what I 
-understand, but I did do really well on all the other ones.
-And I did well enough, I guess, for them to kind of, you know, throw the dice on 
-me, but I did have the regular interview process. Yeah. 
+**Nader:**[00:21:41] Yeah, it was a real interview process, but I also
+got to see the office and meet a few of the people on the team. And there was
+the typical five-step Amazon interview and there was a technical interview and I
+didn't do that good on the technical interview from what I understand, but I did
+do really well on all the other ones.  And I did well enough, I guess, for them
+to throw the dice on me, but I did have the regular interview process. Yeah.
 
-**Michaela:** [00:22:05] Okay. Yeah, this is, I mean, this is really stunning 
-for me. Like if they really want the person and then they still send them 
-through this, well, probably very consolidated process.
-Right. So nobody can go around it, which, you know. Okay. So yeah. What's really 
-interesting to me as well is, uh, if you could tell me a little bit about 
-serverless because I mean, this is your specialty. I understand. And you thought 
-this is super interesting to you because you were not familiar with the backend 
-so much.
-You were really focusing on the front end. And so you said it's technology that 
-enables you or front end developers, right? To actually ride full-stack 
-applications. And this is also what I, I read some of your blog posts for this 
-interview today, right. To be ready. And this is also what I read in this blog 
-post about full stack serverless, right?
-Where you have, we have actually the infrastructure as code and you have like 
-the, the, the backend actually a services that people can just consume. But if 
-you have to explain it, what is serverless, who can use it and why is it so 
-powerful? 
+**Michaela:** [00:22:05] Okay. Yeah, this is really stunning for me. If they 
+really want a person and then they still send them through this, well, probably
+very consolidated process.  Right. So nobody can go around it. Okay. So yeah,
+what's really interesting to me as well is, if you could tell me a little bit
+about serverless because this is your specialty, I understand. And you thought
+this is super interesting to you because you were not familiar with the backend
+so much.  You were really focusing on the front end. And so you said it's
+technology that enables you or front end developers to actually ride full-stack
+applications. And this is also what I read some of your blog posts for this
+interview today, to be ready. And this is also what I read in this blog post
+about full stack serverless, right?  Where you have, we have actually the
+infrastructure as code and you have the backend actually as services that people
+can just consume. But if you have to explain it, what is serverless, who can use
+it and why is it so powerful?
 
 **Nader:**[00:23:11] Yeah, so serverless and, and, you know, the early days I 
 think was just basically the idea of functions as a service.
