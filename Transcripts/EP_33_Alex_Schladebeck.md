@@ -36,13 +36,9 @@ me. Alex, welcome to the show.
 
 **Alex:** [00:01:57] Thank you so much, Michaela. I'm really pleased to be here. 
 
-**Michaela:**[00:01:59] Yeah. So really happy. So Alex looking back 10 years 
-from 
-
-**Alex:** [00:02:03] today, or something like 10 years, what 
-
-**Michaela:**[00:02:05] do you have imagined that you are going to be the CEO of 
-products?
+**Michaela:**[00:01:59] Yeah. I'm also really happy. So Alex looking back 10 
+years from today, or something like 10 years, what do you have imagined that you 
+are going to be the CEO of products?
 
 **Alex:** [00:02:10] No 10, 10 years ago. Definitely not. Um, over, over the 
 last few years it became, when it became, I became a team leader and I knew 
@@ -51,15 +47,15 @@ have three and I knew one of them was leaving. And at that point I was like, Oh,
 is this may be a thing that I could be is that possible, but I think 10 years 
 ago, um, I'm, I'm not so great with the sorts of five-year plans for me 
 personally.
-Um, and so 10 years ago I would have probably be like, am I am this year is to 
+Um, and so 10 years ago I would have probably be like, my aim this year is to 
 go on a nice holiday and teach more people about testing. Um, that would have 
-been, that would have been it, so I, uh, 10 years ago now, and yeah, it kind of 
-started to get more concrete as the years went on. So more 
+been, that would have been it, so I, uh, 10 years ago no, and yeah, it kind of 
+started to get more concrete as the years went on. 
 
-**Michaela:**[00:02:57] or less it grow on you or in grew on you?
+**Michaela:**[00:02:57] So more or less it grow on you or in grew on you?
 
 **Alex:** [00:03:01] Yeah, much like software development itself. Uh, actually, 
-and, and, and it, um, I, um, I'm a great believer in exploring. Um, one of the, 
+and, and, and IT, um, I, um, I'm a great believer in exploring. Um, one of the, 
 one of the, um, my favorite approaches to testing is, is exploratory testing. 
 The idea that we find something out and we learned from that, um, what we've 
 learned, we put into practice in our next steps.
@@ -70,99 +66,82 @@ it. And that's, that's been basically every step of my way, just doing things
 and seeing what opportunities come up and saying, yeah, I think that I want that 
 and, and going forward.
 
-**Michaela:**[00:03:46] And so before you became the CEO, what was your largest. 
-You lost, um, title or role or what were your responsibilities? Were they 
+**Michaela:**[00:03:46] And so before you became the CEO, what was your last, 
+your last, um, title or role or what were your responsibilities? Were they 
 already like similar? You said like a project lead and things like this, very 
-similar to what you have 
-
-**Alex:** [00:03:59] or 
-
-**Michaela:**[00:03:59] the responsibilities that you have now, or very 
+similar to what you have or the responsibilities that you have now, or very 
 different. 
 
 **Alex:** [00:04:03] Say my last title and I've, and I've kept it because it was 
-important to me, um, is, uh, as head of quality.
+important to me, um, is, uh, is head of quality.
 Um, so I, in that role, I am still, obviously I'm delegating more, um, because I 
 have to, um, but in that role, I'm still responsible for what strategies we 
 have. How are we working in projects with customers? What things do customers 
-need? What. Uh, what things are coming up in the future in terms of testing and 
+need? What, uh, what things are coming up in the future in terms of testing and 
 quality that we need to be aware of and how are we making sure that quality 
 isn't just brought into teams via testers.
-And, but also that developers are, uh, working on that, um, whole team quality, 
-all these kinds of things. Um, and that was. Alongside that role. That's kind of 
+And, but also the developers are, uh, working on that, um, whole team quality, 
+all these kinds of things. Um, and that was alongside that role. That's kind of 
 the domain role that I had. And I was also a team lead, which meant that I had, 
-um, uh, I was responsible for, I was aligned manager for, for various people and 
+um, uh, I was responsible for, I was a line manager for, for various people and 
 that's something that's, that's stayed obviously.
-Um, over the last few years, the company has really been working towards. Making 
+Um, over the last few years, the company has really been working towards making 
 sure that we move decision-making capabilities closest to the people who are 
 affected by the decisions and who are able to actually make the better 
 decisions. So being a team lead in some ways was very, very similar to the 
-things I'm doing.
-Nope. Um, because a lot of the times time it's the group of team leads that 
-makes the decision and not somebody at the top, as it were saying, no, we're 
-going to do this. Um, what's changed though, is that. I still find myself doing 
-this. Um, if I have a question that I'm like, Oh, I don't know how we're going 
-to deal with this.
+things I'm doing now, um, because a lot of the time it's the group of team leads 
+that makes the decision and not somebody at the top, as it were saying, no, we're
+going to do this. Um, what's changed though, is that, (laughs) and I still find 
+myself doing this, um, if I have a question that I'm like, Oh, I don't know how 
+we're going to deal with this.
 And we're not, you know, we're not coming to a conclusion with all of the team 
-leads in my mind. I still go to one of the other CEOs to be like, Hey, what are 
+leads, in my mind I still go to one of the other CEOs to be like, Hey, what are 
 we going to do about this? And I'm trying to catch myself doing that now and be 
 like, wait a second, Alex. This might be something that you have to learn to 
-once.
+once. (laughs)
 So instead of kind of going off and being like, I have this question to think, 
 okay, what would I do about this right now? And then I can still go and test 
 that and see how, you know, see how someone else was more experienced with 
-react. Um, that's the big gap for me right now. I'm realizing that. Uh, there's 
+react. Um, that's the big gap for me right now: Realizing that. Uh, there's 
 not, it's not necessarily the case that somebody else is going to give me all of 
 the answers.
 I might be responsible for more of the answers now. 
 
-**Michaela:**[00:06:09] Yeah. Yeah. Um, so I think that. I think right now 
+**Michaela:**[00:06:09] Yeah. Yeah. Um, so I think, I think right now 
 they're, um, much, yeah, much more people with a non-traditional background in 
-Texas because the resources are there. I mean, I don't know how you experienced 
-it, but 15 years back, right when I started or even a little bit longer, um, w 
-the internet existed, but it was not that you just went on and you're learned.
-Whatever you need to know. Right. It was really, there was not a lot of 
+tech because the resources are there. I mean, I don't know how you experienced 
+it, but 15 years back, right when I started or even a little bit longer, um, 
+the internet existed, but it was not that you just went on and you learned
+whatever you need to know. Right. It was really, there was not a lot of 
 information and you had to go to, you know, um, libraries and get books and even 
-books where as cars, 
-
-**Alex:** [00:06:44] a resource, I think 
-
-**Michaela:**[00:06:46] information and knowledge wasn't there. Maybe you 
-needed, I mean, I hear it often, right? You needed less knowledge as you need 
-today.
-
-**Alex:** [00:06:54] But because of that, I think 
-
-**Michaela:**[00:06:55] there were not so many people that came from a 
-non-traditional background. So I think you really stood out at eclipse con at 
-that point when you were saying, well, actually, you know, I studied linguistics 
-and not computer science or, you know, R and did some, some background or have 
-some background education in this.
+books were as scarce resource, I think, information and knowledge wasn't there. 
+Maybe you needed, I mean, I hear it often, right? You needed less knowledge as 
+you need today. But because of that, I think there were not so many people that 
+came from a non-traditional background. So I think you really stood out at 
+eclipseCon at that point when you were saying, well, actually, you know, I 
+studied linguistics and not computer science or, you know, R and did some, some 
+background or have some background education in this.
 And, um, so, uh, What, and now I think there are more people, you know, with 
 this non-traditional background and I think they want to know, you know, how can 
-I move from varium because I think it's still hard. Right? It's still hard. You 
-have to know so much. So even though there is more information now available, 
+I move from where I am because I think it's still hard. Right? It's still hard. 
+You have to know so much. So even though there is more information now available, 
 you have to know more, right?
 So the bar somehow has been raised, I think. And it's still really hard, I 
-think, to start into tag and really be successful there. So if you think back, 
-um, Did you know how you came here from this non tech techie background into a 
-techie break grounds? Right? So I imagine it like this, right? You start by 
+think, to start into tech and really be successful there. So if you think back, 
+um, Did you know how you came from this non tech techie background into a 
+techie background? Right? So I imagine it like this, right? You start by 
 reading tech documentation to try to improve it.
 And so you have to learn about what you want to improve. And so somehow this 
 somehow transformed you into a techie from a non-techie, but I guess there were 
 different steps that you had to take, maybe learn something on the side, or you 
-do a workshop or whatnot. 
-
-**Alex:** [00:08:11] And so. 
-
-**Michaela:**[00:08:12] How did you do this? Transitioning into tech?
+do a workshop or whatnot. And so. How did you do this transition into tech?
 
 **Alex:** [00:08:15] Yeah, it was. I mean, the, the short answer is that it's a 
 long transition and it's still ongoing. Right? I mean, I am, I'm never going to 
-be done learning. Um, at the very beginning it was, it was incredibly. It was 
-incredibly difficult, but in a challenging way, um, I'm not the kind of person 
+be done learning. Um, at the very beginning it was, it was incredibly, it was 
+incredibly difficult, but in a challenging way. Um, I'm not the kind of person 
 that likes being in my comfort zone.
-I like being in my landing zone. I sometimes push myself into my panic zone, 
+I like being in my learning zone. I sometimes push myself into my panic zone, 
 which is maybe not ideal. Um, and I think I was looking at the time because I 
 went, when I started, it was basically a summer job. So the stakes were low. I 
 could, if I wanted to, I could, you know, I could move back home. That was the 
@@ -187,12 +166,12 @@ doing air quotes because there's this whole idea about people who are, and
 aren't technical.
 And I read a fantastic thing the other day in a book about language that says 
 that anyone who is capable of using any tool like the apes used to, to hit 
-things with, we are technical as humans, we are technical what I meant, what she 
-meant and what I. Well, I mean, with it is knowing more about the specific tools 
+things with, we are technical as humans, we are technical. What I meant, what she 
+meant and what I, well, I mean, with it is knowing more about the specific tools 
 and techniques and methods that we use in, um, in software development.
 And I basically, I think some of the things that I started doing deliberately, 
 where I would go to our company, uh, all hands meetings, listen to talks about 
-features in Java or. Frameworks or an I, I understood practically nothing to 
+features in Java or Frameworks or and I, I understood practically nothing to 
 just really sit there and go, if I'm lucky, I've understood the problem 
 statements.
 And this is something that I always look at now when I'm reviewing people's 
@@ -202,28 +181,28 @@ badly structured talk. And sometimes when I understood the problem and I'm like,
 okay, I think I understood this.
 Then I would go and ask someone afterwards, either the speaker or someone who I, 
 who I trusted to, to give me an answer that I would understand and be patient 
-with me and over many, many, many weeks and years. You start realizing that, Oh, 
-I knew this. And then I added on, you know, and then I went and put myself in 
-the situation where I'd be at conferences and listening to talks.
-I didn't understand, um, or I'd work closer with developers or other people. And 
+with me. And over many, many, many weeks and years you start realizing that, Oh, 
+I know this. And then I added on, you know, and then I went and put myself in 
+the situation where I'd be at conferences and listening to talks I didn't 
+understand. Um, or I'd work closer with developers or other people. And 
 I think it's just being comfortable with throwing yourself reasonably, 
-constantly. Into something where you're like, I do not know this and accepting 
-the pain of feeling stupid and not knowing something, especially if you've come 
+constantly into something where you're like, I do not know this and accepting 
+the pain of feeling stupid and not knowing something. Especially if you've come 
 from some of the kind of, uh, you know, I had, I got really good results for my 
 linguistics degree, like, um, and then, and then feeling, and then feeling kind 
 of stupid even sometimes because you just like, I just can't get this.
-Um, I took part in some courses, I did a. Java development course. Um, I've done 
+Um, I took part in some courses, I did a Java development course. Um, I've done 
 it a few times and I think the third time it finally stuck. And now I would say, 
-I understand actually a bit of Java. Uh, now no one uses it anymore. Right now. 
+I understand actually a bit of Java. Uh, now no one uses it anymore right now. 
 It's still, it's still very much used. Um, but the first time it was very much a 
 course for people who already spoke or spoke already used three languages and 
 just needed to figure out how Java works.
-And I was just like by day two, we were onto RAs and I swear to God. I spent so 
-much time learning about RAs. And then I found out that there's something called 
-lists, which make your life easy. I'm like, I feel really like, why would you do 
-this to me? Um, But, um, but doing all of that, I always got the feedback that 
-the things that I lend when I was then asking questions that people were like, 
-that's a good question.
+And I was just like by day two, we were onto arrays and I swear to God. I spent 
+so  much time learning about arrays. And then I found out that there's something 
+called lists, which make your life easy. I'm like, I feel really like, why would 
+you do this to me? Um, But, um, but doing all of that, I always got the feedback 
+that the things that I learned when I was then asking questions that people were 
+like, that's a good question.
 And I realized that fed into my testing and fed into my, uh, my exploration 
 around all the things and that the questions I was asking because of the things 
 I learned that they were good questions. So I always had that feedback of 
@@ -232,98 +211,92 @@ Um, yeah.
 
 **Michaela:**[00:13:02] And so did you, do you have the feeling I probably right 
 now you have, but when, when was the time that you felt you arrived, that you 
-belong in tested? Do you know? Or did you have this feeling very early on 
+belong in tech? Do you know? Or did you have this feeling very early on already? 
 
-**Alex:** [00:13:15] already? I think I can't remember exactly the dates of it, 
-but I think that the few, the few pivotal moments for me was, um, And this, this 
+**Alex:** [00:13:15] I think I can't remember exactly the dates of it, 
+but I think that the few, the few pivotal moments for me was, um, and this, this 
 must've only been about a year or two years, maybe after I joined the company, 
-but I was playing world of Warcraft.
-So first of all, I was playing world of Warcraft. Obviously I'm a techie now. 
+but I was playing World of Warcraft.
+So first of all, I was playing World of Warcraft. Obviously I'm a techie now. 
 Um, and something went wrong and I instinctively knew that probably what it was, 
-was just a UI problem. And I needed to refresh on that moment of, I understand 
-how things work and I have a Sumption and it turns out to be a correct one.
-But even if it wasn't correct, I have an assumption of what. What is going to 
-happen here and what I need to do, that was one of the moments, um, around about 
-that time. At some point I made a joke. Like a computer science joke. And I was 
+was just a UI problem. And I needed to refresh. And that moment of, I understand 
+how things work and I have an assumption and it turns out to be a correct one.
+But even if it wasn't correct, I have an assumption of what, what is going to 
+happen here and what I need to do, that was one of the moments. Um, around about 
+that time at some point I made a joke. Like a computer science joke. And I was 
 like, wow, I used to be cool. Actually, that's a lie. I never used to be cool.
 I'm just geeky in a lot of different ways now that's fine. Um, and then around 
 about the time, I think it was 2007, maybe 2008. When I started going to 
 conferences and talking about the things that I was learning and the things I 
 knew, um, I was like, wow, I am, I'm five years, three years out of uni. And I'm 
 speaking at a developer conference and I'm not even a developer.
-He, he, um, so I think those were the. Those were definitely the points. Um, and 
+He, he, um, so I think those were the, those were definitely the points. Um, and 
 I've, I've been so, so lucky to always be surrounded by people who, who 
 supported me and never made me feel like I was other, um, uh, and who've been 
-like, it's actually good to have your perspective in, on this. Uh, so it was 
+like, it's actually good to have your perspective in on this. Uh, so it was 
 pretty early on and I still definitely have my days when I'm like, Oh God, I'll 
 never understand all of this.
 And I still don't think I really knew what Kubernetes is, does. Like it's like 
-it keeps changing and it keeps being more things, but I'm, I'm. I'm good. I'm 
-good at buzzword bingo. And I think I'm better at, just than just buzzword. 
-Bingo. Um, so, uh, so I keep landing and I keep asking and I feel very much like 
+it keeps changing and it keeps being more things, but I'm, I'm, I'm good. I'm 
+good at buzzword bingo. And I think I'm better at, just than just buzzword 
+bingo. Um, so, uh, so I keep learning and I keep asking and I feel very much like 
 I belong here.
-Um, and it's nice to look around and see the, I am not the only person like me, 
+Um, and it's nice to look around and see that I am not the only person like me 
 who also belongs here. That definitely has changed like you were saying. 
 
 **Michaela:**[00:15:23] Okay. Yeah. So. Maybe to give also my listeners, a 
-little bit of background. Um, can you tell me a little bit about bread? Yeah. 
+little bit of background. Um, can you tell me a little bit about Bredex? Yeah. 
 And also how this company grew over the last years.
-Right. So what was products 10 years ago? I think 
-
-**Alex:** [00:15:37] companies also change, right? The identity of a company has 
-
-**Michaela:**[00:15:40] changed the direction, but do you think they were going 
-or what they're becoming, uh, changes or maybe it's the same? I don't know, but 
-I think there is some, you know, change, 
-
-**Alex:** [00:15:49] uh, in every aspect of our life 
-
-**Michaela:**[00:15:51] and also.
-You mentioned it really briefly that you came for the internship, but you are 
-actually from England. Right? And so Radix is actually a German based company. 
+Right. So what was Bredex 10 years ago? I think companies also change, right? 
+The identity of a company has changed the direction, but do you think they were
+going or what they're becoming, uh, changes or maybe it's the same? I don't know, 
+but I think there is some, you know, change, uh, in every aspect of our life. 
+And also you mentioned it really briefly that you came for the internship, but 
+you are actually from England. Right? And so Bredex is actually a German based 
+company. 
 So can you tell me as a little bit, like, you know, what are the roots of 
-products and where are you heading 
+Bredex and where are you heading towards?
 
-**Alex:** [00:16:07] towards? So when I, when I joined in 2005, uh, there were 
+**Alex:** [00:16:07]  So when I, when I joined in 2005, uh, there were 
 fewer than 30 people who worked at the company.
 I was, um, the only person who wasn't a developer. Uh, I mean, we had, so we had 
-to back office, um, and like a secretary, um, but I was the only person in teams 
+a back office, um, and like a secretary, um, but I was the only person in teams 
 that wasn't a developer. Um, and so I was the first, that was, that was a big, 
 and I think I was, I was the first, like people had come from different 
-backgrounds, like physics or the things, but they had all become developers and 
+backgrounds, like physics or other things, but they had all become developers and 
 I wasn't going to be that.
-So that was a big, I th. I didn't see it at the time, but that was probably a 
+So that was a big, I didn't see it at the time, but that was probably a 
 big moment for the company now that I can see it from the other perspective. And 
 they took a chance on me, which I thought was fantastic. Um, and now I'll 
 fast-forward and then I'll go to the bits in between. Now we have 150, um, 
 employees.
-Um, I. Do know most of all of the names and I have to practice because the 
+Um, I do know most of all of the names and I have to practice because the 
 difference between knowing 30 names and knowing 150 names is big. Um, so I do 
 practice because that's incredibly important to me to know who people are. And, 
-um, I'm making sure that I. I, I can, I can say hi to them and I know what 
+um, I'm making sure that I, I, I can, I can say hi to them and I know what 
 they're doing.
 Um, that has become something that's become just more efforts. Um, you know, it 
-used to be the case. I knew everybody on their husbands or wives name and, uh, 
+used to be the case I knew everybody on their husbands or wives name and, uh, 
 their dogs and their cats. And now I know that mostly for my team. Um, and yeah, 
-for all the things. For the people, you, you just have to go out and talk to 
-them and make sure that there are enough opportunities to talk out, you know, 
-outside of your room.
-Um, we have, we have grown and diverse, it's diversified a great deal. Um, and I 
+for, for other people, you, you just have to go out and talk to them and make 
+sure that there are enough opportunities to talk out, you know, outside of your 
+own team.
+Um, we have, we have grown and diversified a great deal. Um, and I 
 think one of the, one of the big changes is definitely in terms of how we are 
 structured as a company. So up until 2013, Uh, like I say, we've, we've always 
 had three CEO's and 2013, the original CEO left. Um, and I believe you might 
 have met him as well.
-His name was Adam leader, um, which is where the name comes from Redex. Um, he 
-retired and he he'd been the founder. Um, and. That that started a shift that 
+His name was AchimBrede, um, which is where the name comes from Bredex. Um, he 
+retired and he he'd been the founder. Um, and that that started a shift that 
 was necessary. Um, not because he'd done things wrong, but because we definitely 
 were growing. Um, so we could no longer have the one person, um, at the top who 
 knew everything and was making all of the decisions, um, that just even three 
 people, right.
 That just doesn't scale at some points. Um, and, and it's not agile, it's not a 
-good way of doing things. And we. We believe very much in having an agile 
+good way of doing things. And we, we believe very much in having an agile 
 mindset and being, and learning and adapting and being resilient. Um, one word 
 that I, I prefer not to talk about people or companies being strong, because 
-that sounds kind of bristle.
+that sounds kind of brittle.
 It sounds like a thing that you have, or you don't have, and it can break. I 
 like to talk about resilience because that means that it's something you can 
 practice. It's something elastic and it means I'm adapting to whatever this new 
@@ -333,43 +306,40 @@ work.
 And like I say, having this, yes, it's a hierarchy. So if we, I hope we're not 
 doing it wrong and I don't think we're doing it wrong. If it was bad, it 
 basically would be, Oh, it's just another level of management to get to the 
-management. But the focus has been on very much. Those people who are these team 
-leads are responsible for their own decisions in their own departments and ans 
+management. But the focus has been on very much, Those people who are these team 
+leads are responsible for their own decisions in their own departments and and 
 cross department.
-Then we have to work together. It can't just be this kind of I'm in my box. And 
-I don't care about your box mentality. So we do a lot of talking. We make sure 
+Then we have to work together. It can't just be this kind of "I'm in my box and 
+I don't care about your box" mentality. So we do a lot of talking. We make sure 
 that we're making decisions quickly and, or even delegating decisions back to 
 project leads or back to people themselves. Um, And obviously sometimes there's 
-things that we at the C level needs to say, okay, this is the direction we're 
+things that we at the C level need to say, okay, this is the direction we're 
 going in, or this is no, sorry, this is how we want to do it.
 That doesn't happen all of that often because we have good people who we've 
 trained to think, not like us. And it's still hard for me to talk about us 
 because I'm still getting used to being there instead of at the other level. Um, 
 Not everybody thinks the same, everybody brings in their own perspective.
-And then we, we worked through that. Um, and, uh, and that's, I think the big, 
+And then we, we work through that. Um, and, uh, and that's, I think the big, 
 big change that we've had, um, in terms of, in terms of culture and working 
-together, uh, and it's. Fascinating and interesting to see, and we still have 
+together, uh, and it's fascinating and interesting to see. And we still have 
 work to do, you know, there are some things that we notice, okay, that's still 
-maybe a vestige or a remnants of when we were a lot smaller than it used to work 
+maybe a vestige or a remnants of when we were a lot smaller and it used to work 
 like that.
 And we find those things and we find them painful and then we find a way of 
 dealing with them. And I think that that's normal. 
 
 **Michaela:**[00:20:44] Yeah. And so, um, the main focus of this company is this 
-tailored. Software development for other companies or what is, what are the core 
+tailored software development for other companies or what is, what are the core 
 functionality? I looked on the website and it definitely changes over time.
-Right? I mean, we typically are doing something different than with 150 
+Right? I mean, we typically are doing something different than with 150 people. 
+Um, but so what is the, what is the heart of what you offer at Bredex?
 
-**Alex:** [00:21:01] people. Um, 
-
-**Michaela:**[00:21:03] but so what is the, what is the heart of what you offer 
-
-**Alex:** [00:21:06] at Reddick's? Yeah, the hearts is that we offer software 
-solutions for things that need then you, where does things that need to be 
-digitalized, right. Um, but that's, that's just the web.
+**Alex:** [00:21:06]  Yeah, the heart is that we offer software 
+solutions for things that need, I mean the new word is, where does things need 
+to be digitalized, right. Um, but that's, that's just a word.
 If you have a process that is either being done manually or being done 
-partially, manually, or being done in. Yeah, let's say Xcel, um, and you need 
-know software for that for various reasons. Um, and so the, the heart of what we 
+partially, manually, or being done in, Yeah, let's say Excel, um, and you need 
+software for that for various reasons. Um, and so the, the heart of what we 
 really do is we say we can work with the people who need that software to find 
 out what they really need, get it to you, get it rolled out to you.
 And, um, that's been, that's been one of our most important things for a long 
