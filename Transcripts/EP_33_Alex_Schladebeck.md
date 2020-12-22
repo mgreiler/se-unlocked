@@ -1,5 +1,4 @@
-Alex_Schladebeck_Ready
-
+## Transcript Episode 33 Alex Schladebeck 
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
