@@ -343,13 +343,13 @@ software for that for various reasons. Um, and so the, the heart of what we
 really do is we say we can work with the people who need that software to find 
 out what they really need, get it to you, get it rolled out to you.
 And, um, that's been, that's been one of our most important things for a long 
-time. We don't just do that in the sense of. Okay. Here's the team of software 
-developers since I started, we've already all, so had quality assurance being 
+time, we don't just do that in the sense of "Okay. Here's the team of software 
+developers" Since I started, we've also had quality assurance being 
 embedded into teams for a few years now. Uh, we've also had UX. We also have 
 data protection.
 Um, so we, we say all of the things that really need to belong to a software 
-project. We put them in at the right time so that these things don't end up 
-being forgotten or done at the end. Um, And of course, then once you do have 
+project - we put them in at the right time so that these things don't end up 
+being forgotten or done at the end. Um, and of course, then once you do have 
 like domains, like quality assurance and UX and data protection, those are 
 things that, so sometimes we just go to customers just to do one of those 
 things.
@@ -359,28 +359,28 @@ partnering is important, um, that we are working in teams where we have all or
 most of these roles fulfilled. 
 
 **Michaela:**[00:22:41] And so can I imagine that the other companies that are 
-hiring you, do they normally have their own it department or are these companies 
-that don't have their it, or they don't have their programmers and 
+hiring you, do they normally have their own IT department or are these companies 
+that don't have their IT, or they don't have their programmers and developers yet?
 
-**Alex:** [00:22:53] developers yet?
-Sometimes yes. Sometimes. No. I mean, we're, we're active in some, some rather 
-large companies where they do have their own it. And we are one of many, many, 
+**Alex:** [00:22:53] 
+Sometimes yes. Sometimes no. I mean, we're, we're active in some, some rather 
+large companies where they do have their own IT. And we are one of many, many, 
 many people who are working for them. Um, that's and that's something that we're 
-very, very good at, like, Being able to do software for kind of a huge 
+very, very good at, like, being able to do software for kind of a huge 
 conglomeration or a concern, being able to make sure that you're delivering 
 value.
 I'm going to say despite a lot of the processes and hoops that you have to jump 
-through and things that you're like, but this makes no sense right now. Um, but 
+through and things that you're like "But this makes no sense right now" Um, but 
 still being able to have those conversations with customers and get, get things 
 through the door and make things, make sure that things happen.
-Um, that's it. A skill that I am very proud that we have. And I think that there 
+Um, that's a skill that I am very proud that we have. And I think that there 
 are a lot of people that don't do that as well as we can. Um, the other side is, 
-and this is something we're moving into more and more is yet going to customers 
-who don't have their own it department and saying, you know, what do you need?
+and this is something we're moving into more and more is yeah going to customers 
+who don't have their own IT department and saying, you know, what do you need?
 Um, That brings whole new, interesting challenges, because if you are very used 
-to working with customers who even if, sometimes you're like, okay, uh, this 
-processes maybe a bit weird, but sure. That's the process. If you're working 
-with customers, who've never done it before you actually have quite a lot of 
+to working with customers who even if, sometimes you're like "okay, uh, this 
+process is maybe a bit weird, but sure, that's the process" If you're working 
+with customers, who've never done IT before you actually have quite a lot of 
 work to do to teach them what it's about.
 And that's. Uh, it's, it's fascinating. It's um, because all of the things that 
 we know and just live and breathe, uh, they're going to not assume the same 
@@ -390,332 +390,270 @@ them as well.
 Um, and, uh, and that's the thing that we've been working on, um, in the last 
 couple of years as well. 
 
-**Michaela:**[00:24:36] Yeah. So, 
-
-**Alex:** [00:24:37] um, 
-
-**Michaela:**[00:24:37] what I ask, especially if I have people on my, on my 
-show 
-
-**Alex:** [00:24:41] that, um, run software projects 
-
-**Michaela:**[00:24:44] or develop software for others is how much of the 
-processes are you dictating? Or, you know, are you keeping on to and say, well, 
-we are not going to change that.
+**Michaela:**[00:24:36] Yeah. So, um, what I ask, especially if I have people 
+on my, on my show that, um, run software projects or develop software for 
+others is how much of the processes are you dictating? Or, you know, are you 
+keeping on to and say, well, we are not going to change that.
 Right? So even if you are developing software for you, these are the things like 
-how we are doing it. And we are not. Not super flexible 
-
-**Alex:** [00:24:59] on, you know, going around 
-
-**Michaela:**[00:25:01] here. And what are the things that you say, well, we 
-
-**Alex:** [00:25:03] can work with your process over 
-
-**Michaela:**[00:25:05] here or even, you know, with the good prices over here. 
+how we are doing it. And we are not, not super flexible on, you know, going 
+around here. And what are the things that you say, well, we can work with your 
+process over here or even, you know, with the good process over here. 
 
 **Alex:** [00:25:09] Yeah.
 So I think the, the easy way of saying that, that anything that's reasonably 
 internal to the development team, um, is, is something where we really say, 
 look, this is where we are the experts. Um, so we, we do work with customers who 
-have, um, they have an external testing departments that their test is, or 
-their.
+have, um, they have an external testing department, their tester or their
 Quality assurance processes have to have to, it's just, it's it's there in the 
 process. They have to do it. They have to take a look at the things and we're 
 like, okay, that's fine. We're not going to be able to convince you not to do 
 that. But we are still going to have an embedded tester in the team where we're 
 going to have lots of automation we're going to use.
-Even if the project itself is still reasonably waterfalls, which some of them 
+Even if the project itself is still reasonably waterfally, which some of them 
 are, especially for, especially for legacy systems that have been going on for 
-so long. They are so important for the customer that they are running and. To be 
-fair. There's no need to do them in an agile way because we know the technology 
+so long. They are so important for the customer that they are running and, to be 
+fair there's no need to do them in an agile way because we know the technology 
 and we know the scope and we know what we need to do, you know, but at the same 
-time, because we're developing were saying, okay, we need to have automated 
+time, because we're developing we're saying, okay, we need to have automated 
 tests at various levels.
-This is what we're doing. Your, your test team can look at at least a fine. And 
+This is what we're doing. Your, your test team can look at it later, fine. And 
 if they find anything we've missed, then we'll learn from that. But we kind of 
 assume that they're not going to find anything bad. So that's something where we 
-say, sorry, that's how we, that's how we do it professionally for other things, 
+say, sorry, that's how we, that's how we do it professionally. For other things, 
 in terms of like, We would really prefer to go through a different process of 
-how we get, uh, get the projects and how we get paid for it.
-Right. We can, we can request all we like, but the thought that probably, or if, 
-you know, I think everyone who works in software companies or any company when 
-those are, yeah. We we'd like to have a 14 day, uh, 14 days payment. And the big 
-concern is like, that's nice that you want that, but we're going to say no.
+how we get, uh, get the project and how we get paid for it.
+Right. We can, we can request all we like, but (laughs) that probably, or if, 
+you know, I think everyone who works in software companies or any company well 
+knows, yeah: "We we'd like to have a 14 day, uh, 14 days payment". And the big 
+concern is like, "That's nice that you want that, but we're going to say no".
 So, um, so there are always going to be those kinds of factors. And again, here, 
-a lot of it comes down to human communication. People can be very pragmatic and. 
-And follow that, follow the correct processes, but be pragmatic as well. But you 
+a lot of it comes down to human communication. People can be very pragmatic and, 
+and follow that, follow the correct processes, but be pragmatic as well. But you 
 have to have that trust. You have to be able to be having those conversations 
 with your direct customer contacts so that they know, okay, if I do this, which 
 is maybe not a hundred percent exactly how it should be, but it gets us close 
-enough.
-I need to know that. That that's going to be fine for me. And that's the trust 
+enough, I need to know that that's going to be fine for me. And that's the trust 
 that you've got to build up. 
-Okay. 
 
 **Michaela:**[00:27:20] Yeah. So, um, I think you are the right person on my 
-show to ask that question. I ask them quite often. Um, but I I'm really 
+show to ask that question. I ask that quite often. Um, but I I'm really 
 interested in your, in your answer and you've hinted a little bit to it.
-Um, here already is. So now everything is going like agile or, 
-
-**Alex:** [00:27:37] you know, well, um, 
-
-**Michaela:**[00:27:39] continuous deployment, continuous integration, I guess 
-you're doing that, uh, at products as well. Um, What is the role of testing. I'm 
-still battled with that. Right. I get different answers. And most of the answers 
+Um, here already is. So now everything is going like agile or you know, well, 
+um, continuous deployment, continuous integration, I guess 
+you're doing that, uh, at Bredex as well. Um, What is the role of testing. I'm 
+still baffled with that. Right. I get different answers. And most of the answers 
 that I got here on my podcast, I'm not super satisfied with them.
 Like they are like, Oh, but there's no concrete answer. So maybe I tried with, I 
-would say a tester. I think you are tested by heart. And, um, so 
+would say a tester. I think you are tester by heart.
 
-**Alex:** [00:28:04] how do you see that? 
+**Alex:** [00:27:57] Yeah, I am.
 
-**Michaela:**[00:28:05] What is the role? I mean, automated testing. I totally 
-understand. I mean, this is the backbone 
+**Michaela:** [00:28:00] And, um, so how do you see that? What is the role? I 
+mean, automated testing. I totally understand. I mean, this is the backbone 
+of a dev ops, right? And, and this, this, Continuous integration, continuous 
+deployment that you have your tests and they're running instantlyish, 
 
-**Alex:** [00:28:10] of a 
+**Alex:** [00:28:15] "ish" (laughs)
 
-**Michaela:**[00:28:12] dev ops, right? And, 
-
-**Alex:** [00:28:12] and this, this. 
-
-**Michaela:**[00:28:14] Continuous integration, continuous deployment that you 
-have your tests and they're running instantly 
-
-**Alex:** [00:28:18] ish, depending on 
-
-**Michaela:**[00:28:22] how large they are and how long ago they ran.
+**Michaela:** [00:28:16] Depending on how large they are and how long ago they ran.
 But let's say within minutes, hours, something like this, right. Uh, but what do 
 we do with manual testing? How does this black into, when are we, you know, When 
 are we activating our manual testers to test something new and are they testing 
-over and over again? The same thing or, you know, uh, what, how, how are you 
+over and over again the same thing or, you know, uh, what, how, how are you 
 handling that?
 
-**Alex:** [00:28:44] Yeah, so I have, I have very strong. What's the nice word, 
+**Alex:** [00:28:44] Yeah, so I have, I have very strong, What's the nice word, 
 uh, strongly held, loose opinions, um, or loose, no loosely held strong 
 opinions. That's the correct way. So I'm always willing to learn. I'm always 
-willing to learn more on this, but my experience on sorts of my crystal ball. 
-Really puts me in a very specific, uh, way, which is I, I believe family, and 
-this is never going to be a hundred percent situation.
-I have, I even have examples of teams that don't do it like this in the fine, 
-however, I believe family that's, um, having a tester role on a team instead of 
-just having testing competencies is a good idea. I have. And, and I have 
-multiple reasons for this festival. We said at the beginning, you said at the 
+willing to learn more on this, but my experience and sorts of my crystal ball 
+really puts me in a very specific, uh, way, which is I, I believe firmly, and 
+this is never going to be a hundred percent situation, 
+I have, I even have examples of teams that don't do it like this and they're fine, 
+however, I believe firmly that, um, having a tester role on a team instead of 
+just having testing competencies is a good idea. I have, and, and I have 
+multiple reasons for this first of all. We said at the beginning, you said at the 
 beginning, there was so, so much going on now, even developers say, come on, I'm 
 actually more front-ends or I'm more, I'm a backend.
-So even within development, we're seeing much more of a splits from this full 
-stack to there was too much, I cannot do everything. And I don't understand how 
-we can get into the idea that these people who were saying development itself is 
-too big. And I need to focus that they would also say, Oh, but sure.
-I can also be. In North of a specialist in testing and UX and data protection 
-and business analysis as well. That's ridiculous. Anyone. I believe that anyone 
-who understands the agile manifesto or scrum as the dev team is only developers 
-on, they all have to be able to do anything. I believe that they have may be 
-fundamentally misunderstood.
-It's cross-functional teams and diversity is good for us. So. And, and I, in 
+So even within development, we're seeing much more of a split from this "full 
+stack" to "there is too much, I cannot do everything". And I don't understand how 
+we can get into the idea that these people who were saying "development itself is 
+too big and I need to focus" that they would also say, "Oh, but sure.
+I can also be enough of a specialist in testing and UX and data protection 
+and business analysis as well." That's ridiculous. Anyone. I believe that anyone 
+who understands the agile manifesto or scrum as "The dev team is only developers 
+on, they all have to be able to do anything". I believe that they have may be 
+fundamentally misunderstood it.
+Cross-functional teams and diversity is good for us. So. And, and I, in 
 terms of what is the role? I, I see testers and it's very context dependent, but 
 I see them doing things like exploratory testing as soon as features are ready, 
-or even before I see them pairing with developers on things like unit tests and 
+or even before. I see them pairing with developers on things like unit tests and 
 TDD.
-Um, I see them. Doing organizing ensemble testing sessions or ensemble 
+Um, I see them doing organizing ensemble testing sessions or ensemble 
 programming sessions, because that's something that helps the quality above and 
-beyond. Did I find an error or did I not? I see them being involved in 
+beyond "Did I find an error or did I not?" I see them being involved in 
 conversations with product owners. I see them talking about risk. I see them 
-talking about, okay.
-When we are deploying, once it is deployed. Then doing exploratory testing and 
-production. One of my favorite buzzwords right now is observability. So what are 
+talking about, "okay.
+When we are deploying, once it is deployed. Then doing exploratory testing in 
+production". One of my favorite buzzwords right now is observability. So what are 
 my unknown unknowns that I only find in production hands-on testing. And I 
-believe so strongly the exploration is something that we will need. So, so much 
+believe so strongly the exploration is something that we will need so, so much 
 more in the future because the amount of unknown unknowns is increasing.
-So people with exactly that skill. I'm going to be in high demand and they will 
+So people with exactly that skill are going to be in high demand and they will 
 probably also need other skills as well, because there's just so much to do. 
 And, um, I forget where I heard it. It was agile testing days. I think it was 
-Damien sooner dos. Um, he talks instead above, uh, of T shaping people of having 
+Damian Synadinos. Um, he talks instead above, uh, of T shaping people of having 
 comb shaped people.
 So I have, I have, uh, I have a lot of things that I can do generally. And 
-instead of just having one or two. Things that go down where I have a special 
+instead of just having one or two things that go down where I have a special 
 specialty and I have multiple, and some of them are small. Right. I'm just 
-learning. I'm like, I don't have much of a specialty, but it's a bit more than 
+learning. I'm like "I don't have much of a specialty" but it's a bit more than 
 maybe that person and I can help, or I have a very, very deep specialty.
-Um, and I think getting teams together of cone-shaped people who still, and this 
-is the balance you have to get. No one person is the silo. It can't be the case 
-for testing for DCBS for whatever. No one person is the silo, and yet they are 
-the person that brings maybe the most specialty encourages the rest of the team 
-to always have.
-This has a certain degree of ownership and in an agile sense, not in a, this is 
-mine and I won't share my knowledge, but yeah. I am the one that cares the most 
-about this. I have the passion. This is one thing that I talked to about 
-developers about. I'm like, I want you all to do testing as well, but all of any 
-developer who says, Oh, we don't need a test during the team because we can do 
-anything.
-Then I often ask the question, okay, are you really, are you really willing to 
+Um, and I think getting teams together of comb-shaped people who still, and this 
+is the balance you have to get, no one person is the silo. It can't be the case 
+for testing, for database, for whatever. No one person is the silo, and yet they 
+are the person that brings maybe the most specialty, encourages the rest of the 
+team to always have this, has a certain degree of ownership and in an agile sense, 
+not in a, this is mine and I won't share my knowledge, but "I am the one that 
+cares the most about this. I have the passion." This is one thing that I talk 
+to about developers about. I'm like, "I want you all to do testing as well", but 
+all of any developer who says, "Oh, we don't need a tester in the team because 
+we can do anything."
+Then I often ask the question, "okay, are you really, are you really willing to 
 start going to testing conferences and talking about testing only in your team 
-and making sure that you stay up to date and often the answer is no, not really. 
-So my point is the people who want to specialize, who have the passion.
-I want those to be in those specialist roles, but not in the sense of I have 
-everything, but I am helping everywhere. I am bringing my perspective everywhere 
-and I'm teaching everyone on this team to know more about the thing I'm doing. 
+and making sure that you stay up to date?" and often the answer is "no, not really."
+So my point is the people who want to specialize, who have the passion,
+I want those to be in those specialist roles, but not in the sense of "I have 
+everything", but "I am helping everywhere. I am bringing my perspective everywhere 
+and I'm teaching everyone on this team to know more about the thing I'm doing". 
 And at the same time, I'm learning from everyone on this team about how I can 
 help them and how we can work together.
-And I think that's. That's a long way. I haven't found the simple word for that 
+And I think that's, that's a long way. I haven't found the simple word for that 
 yet, but that's how I see how I see the role evolving. And it does evolve five 
 years. Well, when we, when we met, I said, testers should not program. That was 
 a thing I believed. I now believe that it's very, very useful for testers to be 
 able to do some coding.
-Um, three years ago. I would've said testers, shouldn't also be involved in the 
-team in racing, maybe production code. I've got three examples of testers who do 
-that. Now that's fine. It, every team is going to find its way of who needs what 
-in different ways. Um, and that's, that's. That's great. Um, so I think, yes, we 
+Um, three years ago. I would've said testers shouldn't also be involved in the 
+team in writing maybe production code. I've got three examples of testers who do 
+that now. That's fine. It, every team is going to find its way of who needs what 
+in different ways. Um, and that's, that's,t hat's great. Um, so I think, yes, we 
 need people who have this testing specialty and we need them in teams and the 
 whole team always needs to be learning and growing together.
-So 
 
-**Michaela:**[00:33:54] if I understand correctly, it means that let's say we 
+**Michaela:**[00:33:54] So if I understand correctly, it means that let's say we 
 have a team, let's keep it really small just for our demonstration purposes. 
-Right. Let's say we have a team and there's like, A backend 
-developer, 
-
-**Alex:** [00:34:05] a front-end developer 
-
-**Michaela:**[00:34:06] and the tests tester. Right. Let's keep it small. And so 
-the best would be if the backend knows a little bit like in this cone shape 
-thing, and lo knows a little bit about front end so that they can communicate 
+Right. Let's say we have a team and there's like, a backend 
+developer, a front-end developer and the tester. Right. Let's keep it small. And 
+so the best would be if the backend knows a little bit like in this comb shape 
+thing, and knows a little bit about front end so that they can communicate 
 well with the front end developer, which has a very deep expertise in front end.
-Right. But the front end also knows a little bit. About backend and both of them 
+Right. But the front end also knows a little bit about backend and both of them 
 know a little bit about testing, but the main passion about, you know, staying 
 up to date and really knowing every thing about testing is the person that has 
-the 
-
-**Alex:** [00:34:33] testing specialty. 
-
-**Michaela:**[00:34:34] So they are overlapping. 
-
-**Alex:** [00:34:36] Um, 
-
-**Michaela:**[00:34:37] and that helps them to communicate in, in a better way 
-and also understanding their viewpoints a little bit better.
-Um, and so this is also how they are connecting, right? It's like possible 
+the testing specialty. So they are overlapping.  Um, and that helps them to 
+communicate in, in a better way and also understanding their viewpoints a little 
+bit better.
+Um, and so this is also how they are connecting, right? It's like a puzzle 
 somehow they are like having this, this, uh, dots where you can connect them 
 together. 
 
-**Alex:** [00:34:50] Yeah. That makes sense. 
+**Alex:** [00:34:45] Yeah, exactly.
 
-**Michaela:**[00:34:52] Another thing that you actually said was like, uh, 
-assemble, uh, software development. Can you tell me a little bit how, how you do 
-that and 
-
-**Alex:** [00:35:00] how does that influence, um, how, 
-
-**Michaela:**[00:35:02] how.
-How you structure your software 
-
-**Alex:** [00:35:04] development processes 
-
-**Michaela:**[00:35:06] and why is that so important? 
+**Michaela:**[00:34:48] That makes sense. Another thing that you actually said 
+was like, uh, ensemble, uh, software development. Can you tell me a little bit 
+how, how you do that and how does that influence, um, how, how, how you 
+structure your software development processes and why is that so important? 
 
 **Alex:** [00:35:07] Yeah. So the idea of, of, um, and it's been, it's well 
 known at the moment as mob programming and because of the connotations of the 
-word mob, uh, a few people in the community, moderate PRV is one of them, um, 
-have been saying, Hey, why don't we find a different name for this?
+word mob, uh, a few people in the community, Maaret Pyhäjärvi is one of them, um, 
+have been saying, "Hey, why don't we find a different name for this?"
 Um, and so then a new word that is going around is ensemble because that means 
 kind of together and as a group. And the idea is it's, it's very, very similar 
-to a strong style pairing. So you have somebody who is. Uh, who was driving, uh, 
+to a strong style pairing. So you have somebody who is, who is driving, uh, 
 and another person is navigating, uh, and the person who is driving is not 
-allowed to think they are not allowed to navigate the differences.
-That's with the ensemble. It's not just two people. It can be five or 10. Um, I 
+allowed to think they are not allowed to navigate. The difference is:
+With the ensemble it's not just two people. It can be five or 10. Um, I 
 don't know. I've never tried it in really huge groups apart from, uh, 
 conferences when it's a bit different. Um, but the idea is that all of the 
 people who are relevant to solving a problem, including testers and product 
 owners and the scrum master as well, like doc tech, technical documentation 
-writers, that everybody is involved in.
-Working on this thing at the same time. So you have all, you, you have no 
-friction anymore of, Oh, well, we're going to have to do a handover to that 
-person. We're going to have to ask this person. There is still friction because 
-of course there always is when we're developing and, but we have everyone that 
-we need there and everyone rotates.
+writers, that everybody is involved in working on this thing at the same time.
+So you have all, you, you have no friction anymore of, 
+"Oh, well, we're going to have to do a handover to that person." "We're going 
+to have to ask this person." There is still friction because of course there 
+always is when we're developing and, but we have everyone that we need there 
+and everyone rotates.
 So. Uh, a reasonably good way to start is to say maybe about five minutes. So 
 you don't want anyone to be the driver for too long. Um, and you rotate. And the 
-great thing about being the driver. I have, I have done this is you. You don't 
+great thing about being the driver, I have, I have done this, is you, you don't 
 need to know anything about how to, because if you have someone who's the 
-driver.
-Um, and they know nothing about working with an IDE, then you say to them, okay, 
-click on line five, type, this, this, and this. And if, of course, if you have 
-someone who is the driver, who is a developer, um, and does that full-time then 
-you might say something like, okay, create the classes that does this, but you 
-don't want to have it too big because then the drivers also going to start 
-thinking, and then of course, when you're part of the ensemble, um, regardless 
+driver, um, and they know nothing about working with an IDE, then you say to them, 
+okay, click on line five, type, this, this, and this. 
+And if, of course, if you have someone who is the driver, who is a developer, um, 
+and does that full-time then you might say something like, okay, create the 
+classes that does this, but you don't want to have it too big because then the 
+drivers also going to start thinking. 
+And then of course, when you're part of the ensemble, um, regardless 
 of what role you're in, you can be, even if I don't know how to do something, I 
-can be like, We need to think about the fact that this could be North, or we 
+can be like, "We need to think about the fact that this could be null", or "We 
 need to think about the fact that we said that multi selection has to work and I 
-don't see that happening yet.
+don't see that happening yet".
 So even without the knowledge of how to do that, I can be talking to people 
-about that. We need to do it. And then of course, if you have the test to there 
+about that we need to do it. And then of course, if you have the tester there 
 or the pro wait a second, I thought we said this. I understood it differently. 
-Wait, wait, wait. If we do it like this, how am I going to test it? Lisa also 
-doing, for example, TDD.
-As an ensemble. Right. Um, and we have, uh, we have qualities odors where people 
-practice just that, uh, outside of, outside of the project. So it saves to fail, 
+Wait, wait, wait. If we do it like this, how am I going to test it later? Also 
+doing, for example, TDD as an ensemble. Right. 
+Um, and we have, uh, we have qualities dojos where people 
+practice just that, uh, outside of, outside of the project. So it's safe to fail, 
 um, learning about test-driven development, learning about ensemble programming, 
 learning about design, um, Yeah, that's, that's how that works. And it's, it's a 
-cool way of getting new people on board, because it's great way of sharing 
+cool way of getting new people on board, because it'sa  great way of sharing 
 knowledge, because you have to talk about what you're doing.
 It's not just watching somebody and then, okay, well, that's the black box of 
 stuff I don't understand. And it's also a really good way of working on some 
 gnarly problems because you have everybody who's potentially going to help 
-they're in the room, instead of it just being one person going, I have no idea 
-how to solve this, 
+they're in the room, instead of it just being one person going (whispers)
+"I have no idea how to solve this" (laughs)
 
-**Michaela:**[00:38:14] but so as I understand it, it's.
-One thing that you can take out of your toolbox and you say, well, we do this 
+**Michaela:**[00:38:14] But so as I understand it, it's one thing that you can 
+take out of your toolbox and you say, well, we do this 
 right now for, let's say an hour, or, you know, like today and tomorrow, or is 
 it something that this is how we develop software. And every day when I'm coming 
 in my office in the morning, I'm going not into my office or on my desk, but I'm 
-going in this room.
-And I have all the other people in there doing that together 
+going in this room. And I have all the other people in there doing that together 
+day in and day out.
 
-**Alex:** [00:38:37] day in and day out. That's something that we definitely 
-have in our toolbox and we, and many projects use it. Uh, at times they see, you 
-know, we're going to do this once a sprint or for a specific thing or, or 
+**Alex:** [00:38:37] At Bredex that's something that we definitely 
+have in our toolbox and we, and many projects use it. Uh, at times they say, "you 
+know, we're going to do this once a sprint" or for a specific thing or, or 
 whatever I know of companies who, who do it for hours on end, that is their 
 preferred way of developing.
 Um, I think that that can take a bit of time to get used to. Um, and I, like I 
 say, I know examples of people who do that very, very, very frequently. Um, I 
 would, I would recommend trying it out. Um, it sounds very counterintuitive and 
-yes, at the beginning it can be a bit like. Um, we've had examples of this, 
-like, okay, I could have developed, you know, I could have written the code for 
-this in, in a lot less time.
+yes, at the beginning it can be a bit like, Um, we've had examples of this, 
+like, "Okay, I could have developed, you know, I could have written the code for 
+this in, in a lot less time."
 If it's something that's very trivial, trivial, then you can definitely feel the 
 pain. If it's something that's very difficult, you will feel the pain of getting 
 started. But what you're gaining isn't this, this is one of the nice things, 
-right? Um, Things TDD and ensemble testing will slow my team down.
+right? Um, "TDD and ensemble testing will slow my team down."
 Well maybe sometimes they need to be slowed down because we need to be thinking 
 of, are we doing this right? Is this what the customer needed? Is this a good 
 way of doing this? Are we making this testable? Those are questions that it's 
 best to ask while we're writing the code and not later on. And so sometimes that 
 slowing down and actually being more explicit about what we're doing can be 
 really, really helpful.
-Yeah. 
 
 **Michaela:**[00:39:56] Yeah. I, I see it definitely, as you know, in, in 
-certain instances and certain times and certain questions that'd 
-
-**Alex:** [00:40:04] be, or have to 
-
-**Michaela:**[00:40:04] ask, or, you know, certain times in a project, as you 
-say, the beginning of your not even. Sure, what is exactly what we are 
-developing. I think this is, uh, 
-
-**Alex:** [00:40:12] can be really 
-
-**Michaela:**[00:40:12] powerful.
-Um, maybe what's a little bit 
-
-**Alex:** [00:40:15] connected to that, and I would like to, to know how, 
-
-**Michaela:**[00:40:19] how you think about it and maybe how you practice it at, 
-at Predix is a contributes. Right? So, um, do you do code reviews? 
-
-**Alex:** [00:40:26] And, um, what 
-
-**Michaela:**[00:40:27] I would like to know is, are testers part of code 
+certain instances and certain times and certain questions that'd be, or have to 
+ask, or, you know, certain times in a project, as you 
+say, the beginning of your not even sure what it is exactly that we are 
+developing. I think this is, uh, can be really powerful.
+Um, maybe what's a little bit connected to that, and I would like to, to know how, 
+how you think about it and maybe how you practice it at, 
+at Bredex is a code reviews. Right? So, um, do you do code reviews? 
+And, um, what I would like to know is, are testers part of code 
 reviews, and if so, why or if not, why not?
 
 **Alex:** [00:40:34] So, yes, we do code reviews depending on the team. Yeah. 
