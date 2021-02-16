@@ -1,8 +1,22 @@
 # Episode Natalie Davis
 
-**Michaela:**  [00:00:00] Hello, and welcome to the soft engineering unlocked 
-podcast. I'm your host, Dr. McKayla. And today I have to pleasure to talk to 
-Natalie Davis. Natalie is a recent bootcamp graduate that managed to get hired 
+**Michaela:**  [00:00:00] Hello and welcome to the software engineering unlocked podcast. 
+I’m your host, Dr. McKayla and today I have the pleasure to talk to Natalie Davis. Natalie 
+just landed her first job as a software developer after recently graduating from a Bootcamp.
+ 
+But before I start, I want to tell you more about ConfigCat - who is sponsoring today’s episode.
+[ConfigCat](https://configcat.com) is a feature flag management tool, and last week I integrated it with my code review 
+analytics tool. Now, with the help of ConfigCat, I can seamlessly and effortlessly switch features 
+on and off in my application. They provide an intuitive user interface that allows me to set rules 
+that enable or disable the feature for example based on where the user is located, or other 
+characteristics that I know about the user, like the company that they work for, or the date of 
+their sign-up. The promise of ConfigCat is that everyone independent of their tech skills is up 
+and running within 10 minutes of training and that now everyone can tap into the sheer possibilities 
+of powerful feature flag management and A and B testing. Their tool is also GDPR compliant and 
+they offer a super-rich free plan, so, please check them out at configcat.com.
+ 
+But now, back to Natalie.
+Natalie is a recent bootcamp graduate that managed to get hired 
 really quickly after her graduation. She's vividly sharing her knowledge on 
 Twitter and started to make real waves in the deaf community within just one and 
 a half years in tech, I'm really excited to have her on the show and learn how 
