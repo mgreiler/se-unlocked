@@ -1,31 +1,37 @@
 # Episode 37: Jenn Creighton
 
 
-**Michaela:** [00:00:00] Hello, and welcome to the soft engineering unlocked 
-podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 
-Chen Creighton, a staff engineer at Apollo. But before I start, I wanted to 
-introduce you to a new company that sponsors today's episode barney.io. The 
-founders reached out to me to tell me about botany and veer to an assistant and 
+**Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
+podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
+Jenn Creighton, a staff engineer at Apollo. 
+
+But before I start, I wanted to introduce you to a new company that sponsors 
+today's episode Botany.io. 
+The founders reached out to me to tell me about botany and virtual assistant and 
 personal coach for engineers that helps you adopt better habits, improve your 
 skills or automate your workflow.
 You could, for example, set out to improve your code review skills, then botany 
-would ping you each time. A new code review is created that needs your 
-expertise. But tracing and tracking your interactions and even feeding back 
-information about the quality of your code Ruby feedback. It gives you a 
-data-driven and guided way to improve your skillset habits and level up your 
+would ping you each time a new code review is created that needs your 
+expertise. By tracing and tracking your interactions and even feeding back 
+information about the quality of your code review feedback, it gives you a 
+data-driven and guided way to improve your skillset, habits and level up your 
 career.
-You know, I'm a big advocate of data-driven insights and the same time, a big. 
-Kept it, because I know that data can easily be misused or misinterpreted. I 
-really liked Barton his approach of a personal coach for engineers, because if 
-this allows comparisons or stack ranks, but Reta focuses on the strengths and 
-personal growth path, each engineer, if this sounds interesting to you, please 
-hop over to botnet.io.
-To request access to the tool that is barney.io. But now back to Jen, Jen is a 
-senior staff engineer at Apollo graft UL focusing on open source. She's also a 
-frequent conference speaker and recently started her own podcast called single 
-strategy. So I'm super happy to have Jen here with me today. 
+You know, I'm a big advocate of data-driven insights and the same time, a big sceptic, 
+because I know that data can easily be misused or misinterpreted. 
 
-**Jenn:**  [00:01:36] Jen will come to the show.
+I really liked Botany's approach of a personal coach for engineers, because if 
+this disallows comparisons or stack ranks, but rather focuses on the strengths and 
+personal growth path of each engineer. 
+
+If this sounds interesting to you, please hop over to botany.io.
+To request access to the tool that is botany.io. 
+But now back to Jenn. 
+Jenn is a 
+senior staff engineer at Apollo graphQL, focusing on open source. She's also a 
+frequent conference speaker and recently started her own podcast called single 
+strategy. So I'm super happy to have Jenn here with me today. Jenn welcome to the show.
+
+**Jenn:**  [00:01:36] 
 Hi, thank you for having me super stoked. Hi there. 
 
 **Michaela:** [00:01:41] It's my pleasure. So Jen. When I look at your profile, 
