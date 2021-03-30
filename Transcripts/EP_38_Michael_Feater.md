@@ -1,17 +1,23 @@
 # Michael Feathers - (Legacy) code - A living organism
 
 
-**Michaela:** [00:00:00] Hello and welcome to the soft engineering unlocked 
-podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 
-Michael fetters. Michael is the author of the super popular book working 
-effectively with legacy code. He's also the founder and director of our seven K 
-research and conveyance, a company that helps engineering teams with the 
+**Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked 
+podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to 
+Michael Feathers. 
+
+Michael is the author of the super popular book "working 
+effectively with legacy code". He's also the founder and director of  
+7K Research & conveyance, a company that helps engineering teams with the 
 software on organization design.
-Recently, my clothes are joined global as a chief architect. Since I have been 
+
+Recently, Michael joined Global as a chief architect. Since I have been 
 at university reading his amazing book, I always wanted to pick his brain. So 
-I'm super sorted to have Michael here with me today. Michael, welcome to the 
+I'm super excited to have Michael here with me today. Michael, welcome to the 
 show.
-Yeah, it's my pleasure. I'm really, really excited. Michael, you have been 
+
+**Michael Feathers:** So glad to be here.
+
+**Michaela:** Yeah, it's my pleasure. I'm really, really excited. Michael, you have been 
 probably working more than 20 years with engineers,  with software companies 
 from all over the world. This is so, so fascinating to me. I'm super curious 
 about how different organizations develop software. I'm always asking the 
