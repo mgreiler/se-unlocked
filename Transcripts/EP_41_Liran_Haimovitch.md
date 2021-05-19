@@ -1,5 +1,12 @@
 # Episode Liran Haimovitch
 
+**Michaela:** Hello and welcome to the software engineering unlocked podcast. 
+I'm your host dr. Michaela and today I have a special episode for you. Two weeks 
+ago I talked with Liran haimovitch,the CTO of Rookout - an effortless debugging 
+tool. Our conversation was so much fun and somebody on Twitter asked me if I 
+could make it an episode on, and i thought, that's a brilliant idea. So, today 
+I'm sharing my talk with Liran on the challenges and strategies for getting 
+to high-quality software. Enjoy.
 
 **maror:**[00:00:00] Um, hi everyone. And welcome to our webinar today on the 
 secret to high quality code. We're really excited to have you all here with us. 
