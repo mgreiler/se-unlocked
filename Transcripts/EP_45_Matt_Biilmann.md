@@ -1,17 +1,29 @@
 # Episode 45 with Matt Biilmann
 
-**Michaela:** [00:00:00] Hello, and welcome to the self engineering unlocked 
-podcast. I'm your host, Dr.
-McKayla. And today I have the pleasure to talk to Matt Billman. Matt is the CEO 
-and co-founder of native guide, the modern platform for high-performance 
-websites and apps that defy has around 150 employees and more than double digit 
-dollar annual revenue. But that's not all Matt also coined the term JAMstack, 
-which stands for JavaScript, API APIs and markup today JAMstack is even more.
+**Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
+podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to Matt Billman. 
+
+But before I start, I want to tell you more about CodeSubmit - the best takehome assignment 
+platform to streamline your tech recruiting! Yes, exactly, this amazing start-up is 
+back sponsoring the podcast. And over the last months, they introduced a lot of exciting 
+new features such as live coding - within a full working IDE running directly in your browser. 
+Beginning of the year, when I was hiring engineers for a startup I work with, I used their 
+tool during the interview process for all the candidates and was extremely satisfied. 
+CodeSubmit made it really easy to create custom tasks that reflect the actual work 
+candidates would be assigned to on the job. Their missing: real tasks, not brainteasers, 
+resonance a lot with me. So, I cannot recommend CodeSubmit enough. Please check them 
+out at CodeSubmit.io. That is Codesubmit.io.
+
+But now, back to Matt. Matt is the CEO 
+and co-founder of Netlify, the modern platform for high-performance 
+websites and apps that defy has around 150 employees. But that's not 
+all: Matt also coined the term JAMstack, 
+which stands for JavaScript, API APIs and markup. Today, JAMstack is even more.
 It stands for collection of technologies and languages, including web oriented 
-databases, frameworks, like next and next year, and even framework less 
+databases, frameworks, like Nuxt and NextJS, and even framework less 
 approaches. So I'm super, super thrilled to have Matt here with me today to talk 
-about his experience founding and running Netlify and also jam stag and  
-self-insuring practices, admittedly fly. So yeah, I'm super surprised that 
+about his experience founding and running Netlify and also JAMstack and  
+software engineering practices at Netlify fly. So yeah, I'm super thriller that 
 you're here. Thank you so much for joining us. 
 
 **Matt:**  [00:00:57] Thank you for having me. 
