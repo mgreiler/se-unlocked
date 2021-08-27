@@ -1,3 +1,4 @@
+![se-unlocked-github-header](https://user-images.githubusercontent.com/318561/131165566-58cba05d-becc-4b90-bace-175edd99f519.jpg)
 # Software Engineering Unlocked Podcast
 
 To make the podcast [Software Engineering Unlocked](https://www.se-unlocked.com) more accessible, the podcast needs 
