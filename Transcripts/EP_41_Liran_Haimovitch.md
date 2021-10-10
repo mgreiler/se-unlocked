@@ -41,7 +41,7 @@ that, you know, are burning questions for ourselves or that we very often, you
 know, encounter. And, um, so I want to start with that theme and I want to ask
 you about the challenge that you see, or the challenges that you see that, uh,
 engineering teams face nowadays, with really moving fast. Right? So there's like
-this accelerate the book, for example, there, the Durham metrics, the many other
+this accelerate the book, for example, there, the DORA metrics, the many other
 metrics around code velocity. So it's apparently something that we want to do,
 right? We want to move fast. We want to be productive, but what are the
 challenges and how can we actually achieve that?
@@ -50,7 +50,7 @@ challenges and how can we actually achieve that?
 pretty much everything I read on the topic, the best way to move faster is to
 work in smaller units.
 
-You mentioned Durham, the Durham metrics and accelerate, and they're constantly
+You mentioned DORA, the DORA metrics and accelerate, and they're constantly
 about, you know, roundtrip time for new features and the amount of new features
 that are being released and how can we build in it? How can we work in smaller
 unit to work? And the reason for that is because smaller units of work allow for
@@ -78,7 +78,7 @@ happiness, their productivity, and what enables them to move fast, as you said,
 to be productive, to be their best selves.
 
 And, you know, there are some factors around obviously release, for example, is
-one that's also covered by the Durham metric. Um, how has the release
+one that's also covered by the DORA metric. Um, how has the release
 experienced? And here I'm not only talking about metrics because, I think on one
 hand, I'm extremely data-driven; whenever I was working with teams or am working
 with teams, also at Microsoft, we did a lot of the research that was very
