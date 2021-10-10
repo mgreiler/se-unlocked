@@ -8,7 +8,7 @@ could make it an episode, and I thought, well that's a brilliant idea. So, today
 I'm sharing my talk with Liran Haimovitch on the challenges and struggles for
 getting to high-quality software. Enjoy.
 
-**Michaela:**[00:00:00] Um, hi everyone. And welcome to our webinar today on the
+**Maror:**[00:00:00] Um, hi everyone. And welcome to our webinar today on the
 secret to high quality code. We're really excited to have you all here with us.
 Uh, so let me introduce you to Dr. McKayla and Liran Haimovitch, the stars of
 today's webinar. Dr. McKayla has been helping software teams build high quality
