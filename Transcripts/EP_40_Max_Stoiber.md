@@ -1,63 +1,63 @@
 # Episode 40 with Max Stoiber
 
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
-podcast. I’m your host dr. mckayla and today I have the pleasure to talk to Max 
+podcast. I’m your host Dr. Mckayla and today I have the pleasure to talk to Max 
 Stoiber.
 
 But before I start, I wanted to update you a bit on what I’ve been up to lately. 
 Over the last few months, I have been quite heads-down with some new exciting 
-productivity research. Mainly investigating what makes developers happy, 
+productivity research. I was mainly investigating what makes developers happy, 
 productive and successful. I’m planning on wrapping up this research soon, so I 
 hope I can share more about the findings in near future. 
 
-Another thing I have been up to is preparing a secure code review workshop. I 
+Another thing that I have been up to is preparing a secure code review workshop. I 
 plan to release this worksop this fall. It will focus on secure coding 
 practices, and shows you what to look out for when inspecting code for security 
-vulnerabilities. If this sounds interesting to you, hope over to 
-https://awesomecoderviews.com and either book a workshop or hop on my waiting 
+vulnerabilities. If this sounds interesting to you, hop over to 
+https://awesomecoderviews.com and either book a workshop or join my waiting 
 list. But now, back to Max. 
 
 Max is not only a JavaScript engineer that is in love with reactive note, but 
 also a fellow Austrian. He has a track record in the open source world and 
-worked for Gatsby and get up.
-And he's also a successful entrepreneur. Max built, for example, a community 
-platform called spectrum. It became so successful. It was a quiet, but GitHub. 
-And now he's again, working on a new startup idea. So I'm super excited to talk 
-with max about all of that. I'm super thrilled that he's here.
-Welcome to the show, 
+worked for Gatsby and GitHub and he's also a successful entrepreneur. 
+Max built, for example, a community platform called spectrum. 
+It became so successful. It was a quiet, but GitHub. And now he's again, 
+working on a new startup idea. So I'm super excited to talk 
+with Max about all of that. I'm super thrilled that he's here.
+Welcome to the show, Max
 
-**Max:** [00:00:39] max. I am super excited to be here as well. I'm a big fan. We've 
-obviously spoken before. I'm really happy that I get to be here too. Yeah, I'm 
+**Max:** [00:00:39] I am super excited to be here as well. I'm a big fan. We've 
+obviously spoken before. I'm really happy that I get to be here today.
 
-**Michaela:** [00:00:47] really, really excited. Thank you so much for joining. So I 
-want to start with something that I wanted to ask you a couple of times already, 
-and that is you build this really amazing community platform spectrum.
-And I recently looked on their website and I see that I'm in the forums. There 
-are several forums where people in communities where people are talking with 
+**Michaela:** [00:00:47] Yeah, I'm really, really excited. Thank you so much for 
+joining. So I want to start with something that I wanted to ask you a couple of 
+times already, and that is you build this really amazing community platform spectrum.
+And I recently looked on the website and I see there are forums, there 
+are several forums where are people in communities, where people are talking with 
 each other and it seems really lively. Like when I went there, they were like 50 
 people online in that community and 60 people in that community and so on.
 Right. So it really seems like a big success, but on the other hand, there is 
-the announcement that. It will be read only, right. It will not survive for me. 
-It looks like it's shut down. Is that, is that true? And if it's, so how do you 
+the announcement that. It will be read only, right. It will not survive. For me, 
+it looks like it's shut down. Is that, is that true? And if it's, so how do you 
 feel about that? 
 
-**Max:** [00:01:33] It makes me very sad to be honest. Whenever I build a product 
-that they're sort of like my, my babies, right?
+**Max:** [00:01:33] It makes me very sad to be honest. Whenever I build a product,
+they're sort of like my, my babies, right?
 I want them to be successful. I want them to succeed. I want people to like 
-them. And the spectrum no longer existing or, or only existing in an archive 
+them. And spectrum no longer existing or, or only existing in an archive 
 format is, is quite sad, honestly. But at the same time, the spirit lives on in 
-GitHub as gets up, discussions gets up originally bald spectrum with the 
-intention to eventually shut down the platform itself, integrated into, gets up.
+GitHub as GitHub discussions, GitHub originally bought spectrum with the 
+intention to eventually shut down the platform itself, integrated into GitHub.
 And that's what, that's what they've done. And so that was part of the plan. And 
 I'm, I'm happy that that plan is being followed so closely, but of course I 
 would much rather spectrum stayed around and lived on as its own thing, but 
 that's not the way it's going. And we've, we've actually, I talk, I've talked 
-quite frequently to my other co-founders Mike's, co-founders about doing the 
+quite frequently to my other co-founders Mike, co-founders about doing the 
 same thing again, because with the, with the benefit of hindsight, there's so 
 many things we would have done differently or we would like to do differently.
 We have so many ideas about how we could have built spectrum better, but of 
 course it's all just wishful thinking. We're very unlikely that we're going to 
-do that, but it isn't fun. A fun thing to dream about. 
+do that, but it is fun. A fun thing to dream about. 
 
 **Michaela:** [00:02:41] Yeah. I mean, community is such a interesting topic and I 
 mean, it's so powerful and it's so important and communities are, I mean, people 
@@ -73,32 +73,29 @@ So, but you were saying that when GitHub bought spectrum, you already knew that
 they are going to shut it down. So you, you knew that that could be one of the 
 paths or this could be leading towards that shut down off the platform.
 
-**Max:** [00:03:33] Yeah, absolutely. Spectrum itself, technically just wasn't 
-architected well enough to SU to sort of sustain get-ups load. And it was clear 
+**Max:** [00:03:33] Yeah, absolutely. Spectrum itself, technically, just wasn't 
+architected well enough to sort of sustain GitHub's load and it was clear 
 from the very beginning that it would be a lot more work to make spectrum work 
-at Kitsap, stay at scale, rather than trying to rebuild the parts of spectrum 
+at GitHub scale, rather than trying to rebuild the parts of spectrum 
 that we liked within GitHub.
 And so very quickly, we just arrived at the conclusion that we're going to have 
-to shut spectrum down as a platform. Sort of build that integration and gets up 
+to shut spectrum down as a platform and sort of build that integration and GitHUb 
 completely from scratch and separately because GitHub has so much tooling 
-internally. And that, that helps it handle the scale it's at, right.
+internally and that, that helps it handle the scale it's at, right.
 We're talking hundreds of millions of developers, which is very different from 
-scale. That spectrum is that spectrum as a couple of hundreds of thousands 
+scale that spectrum is at, spectrum has a couple of hundreds of thousands 
 monthly active users, which is a lot, but it's not by far, not as much as 
-schizopath. And so it was clear from the beginning that we would either need to 
+GitHub has and so it was clear from the beginning that we would either need to 
 rebuild spectrum.
 I mean, it was clear that we would have to rebuild spectrum. The question was 
-rested. We rebuild it as spectrum, or do we rebuild it in GitHub? And since we 
-were already rebuilding it, we might as well just rebuild and get up. And that's 
-what discussion came from eventually. 
-
-**Michaela:** [00:04:32] Which 
-
-**Max:** [00:04:32] again, makes me a little bit sad because I would like spectrum 
+we rebuild it as spectrum, or do we rebuild it in GitHub? And since we 
+were already rebuilding it, we might as well just rebuild in GitHub. And that's 
+where discussion came from eventually. 
+which again, makes me a little bit sad because I would like spectrum 
 to still exist, but that's the way it is.
 And discussions actually turned out really well. I'm really excited about it. 
 
-**Michaela:** [00:04:39] But so for our community, there are two parts to it, right? 
+**Michaela:** [00:04:39] But so for the community, there are two parts to it, right? 
 So there's the tech around, it enables people to meet in an online space and 
 talk and, you know, like, you know, write or have chat or whatnot. Right. So 
 there's the tech around, but then there are also the communities itself, which 
@@ -113,12 +110,12 @@ well, what's the difference here, but I can imagine that it's not that easy.
 Right? So there's like the tech around the community, but then the real heart of 
 the community is the people that choose to be there to go there every day and, 
 you know, provide benefit or value to other members.
-How is that what, what, what do you think about that? Spectrum 
+How is that what, what, what do you think about that? 
 
-**Max:** [00:05:43] was always mainly used by developers. A large percentage of our 
-users already authenticated with Kitsap even before we were bought by Gates. And 
-most of the communities were around open source projects, or we also had some 
-design communities.
+**Max:** [00:05:43] Spectrum was always mainly used by developers. A large 
+percentage of our users already authenticated with Kitsap even before we 
+were bought by Gates. And most of the communities were around open source 
+projects, or we also had some design communities.
 Those are gonna have a harder time migrating somewhere else. But most of them 
 were open source communities, definitely the most active ones. And so I think 
 those will migrate just fine. I think get up discussions is a great fit for that 
