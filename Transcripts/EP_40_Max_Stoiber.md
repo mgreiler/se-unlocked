@@ -113,14 +113,14 @@ you know, provide benefit or value to other members.
 How is that what, what, what do you think about that? 
 
 **Max:** [00:05:43] Spectrum was always mainly used by developers. A large 
-percentage of our users already authenticated with Kitsap even before we 
-were bought by Gates. And most of the communities were around open source 
+percentage of our users already authenticated with GitHub even before we 
+were bought by GitHub and most of the communities were around open source 
 projects, or we also had some design communities.
 Those are gonna have a harder time migrating somewhere else. But most of them 
 were open source communities, definitely the most active ones. And so I think 
-those will migrate just fine. I think get up discussions is a great fit for that 
-since it is based on a repository and GitHub and open source projects are just 
-repositories, don't get up.
+those will migrate just fine. I think GitHub discussions is a great fit for that 
+since it is based on a repository GitHub and open source projects are just 
+repositories on GitHub.
 Right. And so having that community right there will actually be huge for the 
 vibrancy for those communities and enable a lot more open source projects to 
 build communities around their projects. I actually think that part of our 
@@ -166,16 +166,16 @@ other than that, no, one's really figured out how to make the, how to scale
 online communities beyond a couple of hundred members of most.
 
 **Michaela:** [00:08:40] Yeah. And so when you build spectrum, was it mainly about 
-the task and then you were all thinking of, you know, how many people do you 
-want to allow in a student. Group and what interactions you're facilitating and 
+the tech and then you were all thinking of, you know, how many people do you 
+want to allow in a student group and what interactions you're facilitating and 
 all of that. But did you also see the community itself? So how did you get the 
 first people using your product?
-What were some of the strategies that you had there? Spectrum came to 
+What were some of the strategies that you had there?
 
-**Max:** [00:09:03] be because my two co-founders Brian Levin and Bryn Jackson have 
-a podcast called design details and they actually started a podcast network 
-around that podcast that at the end, I think contained eight or nine podcasts. 
-And it was all design and development focused podcast.
+**Max:** [00:09:03] Spectrum came to be because my two co-founders Brian Levin 
+and Bryn Jackson have a podcast called design details and they actually started 
+a podcast network around that podcast that at the end, I think contained eight 
+or nine podcasts and it was all design and development focused podcast.
 And they created a Slack community for this network and where they want it to 
 connect to all of the listeners together. They wanted to answer questions that 
 they want people to chat with each other, basically build a community around 
@@ -186,7 +186,7 @@ here, but either pay us or go leave somewhere else. And I think it's Slack costs
 $5 per member. So they were looking at a bill of $45,000 a month for a free 
 community that they were running, which is obviously not something they can pay.
 And so they looked around and they didn't find anything that would sort of. That 
-fit their niche, right? They, they wanted the community to Republic. They want 
+fit their niche, right? They, they wanted the community to public. They want 
 people to be able to read the content, even when they're not a member, but also 
 they wanted it to be real time chats. They wanted it to be, to feel like the 
 multiple people were there and talking at the same time with each other.
@@ -200,17 +200,17 @@ They found the bug and I knew of Brian Levin and Bryn Jackson, but I'd never met
 them in person. I talked to them before. So I, I was a big fan of their podcasts 
 and their work. And so I said, look, you have a problem. Don't worry. Just give 
 me access to the repo. And I'll, I'll take a look and fix it. And they gave me 
-access to the spectrum reap, and I looked at it and I told them, Hey, I need 
+access to the spectrum repo, and I looked at it and I told them, Hey, I need 
 this.
 Like, this is the platform I need for my open source projects. Right. I'd been 
 building communities around my open-source projects for a lot, for awhile, but 
 none of the platforms for that were very nice, like get like basically there 
-was, gets her or gets up issues, but get the issues there for problems.
-And it gets, there was just one massive chat room, which doesn't scale beyond 10 
+was, Gitter or GitHub issues, but GitHub issues there for problems.
+And for Gitter, there was just one massive chat room, which doesn't scale beyond 10 
 members. And so I said, look, forget about whatever I'm working on. I want to 
 work on this and I want to make it more general. And so that's where spectrum 
 was born. And that's also how we seeded it. We built the initial version and 
-then immediately onboard at the eight or 9,000 members at a time of spec of him 
+then immediately onboard at the eight or 9,000 members at a time of spec FM 
 onto the platform, and immediately had that first community there, which was 
 huge for us because that kicked up the flywheel of people joining over time.
 Because those people in those old spectrums, awesome. I'm going to create my own 
@@ -219,28 +219,30 @@ how it started growing and that's why it really grew in the design and the tech
 communities. And why there was so many open source projects using.
 Yeah. 
 
-**Michaela:** [00:11:39] Very, very cool. And so spectrum itself, is it open 
+**Michaela:** [00:11:39] Very, very cool. And so spectrum itself, is it open
+Spectrum came to
 
-**Max:** [00:11:42] source? Yes. Then we asked her about a year of working on it, 
-but we open source the entire copays. If he goes to getup.com/with spectrum you 
+**Max:** [00:11:42] Yes. Then after about a year of working on it, 
+but we open source the entire codebase. If he goes to GitHub.com/withspectrum you 
 can look at it. It's, it's one big Monterey pro basically that contains all of 
 our servers, all of our clients, everything we ever built.
 It's all completely open source. It's terrible code, please. Don't look at it 
 too, too closely. I love product what we did cause we did a lot of shipping and 
-not a lot of cleaning up, but it works and it's open social people to look at. 
-It's a, it's quite funny because I think spectrum is quite a messy copays 
+not a lot of cleaning up, but it works and it's open source for people to look 
+at. It's a, it's quite funny because I think spectrum is quite a messy codebase
 personally.
 Like it's not, it's not the nicest code I've ever written. I didn't have as much 
 experience then as I do now. And, and also we were just trying to ship as much 
 as possible. I'm trying to figure out, trying to find product market fit and 
 then eventually the business market fit And it's funny because sometimes I see 
 tweets of people saying, Oh, if you want to see a really well architect, the 
-copays, go look at spectrum.
+codebase, go look at spectrum.
 And every single time I see that I like please, please. Don't like, that's not, 
 it's not that well, I can think of, it's kind of a pain to work with. I don't 
-know. Yeah, 
+know.
 
-**Michaela:** [00:12:37] I know you cannot respond to every tweet like that. Like 
+**Michaela:** [00:12:37] Yeah, I know you cannot respond to every tweet like that. 
+Like 
 
 **Max:** [00:12:41] exactly. Yeah. I can't really be like, ah, hello. Yeah, please. 
 Don't look at my work.
@@ -248,7 +250,7 @@ It's really bad. That's not a good idea. I can't really do that. But it is, it
 was very interesting. I do think spectrum helped a lot of people think about how 
 they build apps, right. And it has a lot of people to learn and it was quite 
 fascinating to open source it and see how many people actually cared.
-Because there is so few food products out there that are open source, right? 
+Because there is so few full products out there that are open source, right? 
 Usually when something's open source is either a toy product, the toy project 
 that somebody builds, or it's a library that's very encapsulated, very small, 
 but very few people open source, entire apps, right. Century being one of the 
@@ -258,56 +260,56 @@ And so adding to that list was quite interesting how much people responded to
 that and how much they liked it. 
 
 **Michaela:** [00:13:27] Yeah, because I mean, I think so I'm a, for example, I'm 
-learning Peyton things two years now. And I'm also a little bit struggling with, 
-how should I actually go about learning Peyton. Right.
-And that, that has to do that while I'm not employed as a heightened developer 
+learning Python for two years now. And I'm also a little bit struggling with, 
+how should I actually go about learning Python. Right.
+And that, that has to do that while I'm not employed as a Python developer 
 right now. Right. Which also limits, you know, the. The amount that I can 
 actually spend on it or that I spend on it. It also means that I don't have like 
 a network of people around me that I can learn from, right. Like code reviews 
 that you have.
-If I would be a Putin developer right now, I would have like my colleagues also 
+If I would be a Python developer right now, I would have like my colleagues also 
 writing Python code and I can learn from them. Right. And so open source is 
 definitely something that I'm also sometimes doing. Right. I go and look at Ida 
-patent application to just understand, you know, how ID architecting something, 
+Python application to just understand, you know, how ID architecting something, 
 because these are the questions that I still have.
 Right. I don't have the question on which type to use or how to do it area or 
 how to do a list, sorta whatnot. Right. So I know those things already from my 
 other programming adventures that I did, but I'm more interested in, Oh, I'm 
 coming from the job are object oriented C-sharp world. Right. So how do you do 
-that in Piketon and, and how would you, you know, structured applications and 
+that in Python and, and how would you, you know, structured applications and 
 open source is something that sometimes helps me, but it's very hard to find 
 like either like a good application again, because sometimes you find 
 application and I'm looking at it.
 And even though I don't feel like I'm the expert for piping, I can say, Oh, I 
-shouldn't call it. What's going on here. Right. And then it's big enough that 
+should copy what going on here. Right. And then it's big enough that 
 it's interesting to look at and has, you know, good quality and you can learn 
 something from it. I think it's very, very valuable. I can totally see how 
 people are.
 Yeah. Interested in, in doing that and learning more about it. So, but now you, 
 you build spectrum and then it was actually acquired by GitHub. Right. And so 
-you'd done because it was acquired, you worked at guitar building, you know, 
-GitHub or spectrum into get-ups right. And get into YouTube. How did their view 
+you'd done because it was acquired, you worked at GitHub, building, you know, 
+GitHub or spectrum into GitHub right. And get into GitHub. How did their view 
 changed on software engineering practices on good code?
 Did you experience something like that that suddenly you were in a team and they 
 are all, you know, like working together and you can learn you know, you can 
 improve your skillset, sat there with, with the input of your peers or how, how 
 was that for you?
 
-**Max:** [00:15:36] Because we very quickly realized that spectrum just wasn't built 
-well enough to run a Kitsap scale. It was very fascinating to learn how Kitsap 
+**Max:** [00:16:27] Because we very quickly realized that spectrum just wasn't built 
+well enough to run a GitHub scale. It was very fascinating to learn how GitHub
 scaled itself, because obviously when they started building gets up 10 years ago 
 or however long that was, they also didn't build it to handle the amount of 
 traffic that it has now, because GitHub is massive.
 It's one of the, I think, 10 biggest websites on the planet, maybe 15 biggest 
 websites on the planet. It's, it's massive. It, it gets absurdly much traffic. 
-And so it was very fascinating to be at Kitsap and to see How careful they are 
+And so it was very fascinating to be at GitHub and to see How careful they are 
 about the code they write and how many conventions and constraints they built 
 into their systems, particularly for the developers.
 So that any code that that is that is written is good enough to run at that 
 scale because most people have never worked at that scale before, unless you've 
-worked at Kitsap before, or one of the other 15 companies, that's this big, you 
+worked at GitHub before, or one of the other 15 companies, that's this big, you 
 have no idea how to work with that scale. Right? And so a lot of the work that 
-many teams that get to did was building tools for other developers that gets hub 
+many teams at GitHub did was building tools for other developers at GitHUb 
 to guide them towards success and to avoid expensive database queries, to detect 
 them, to warn people when they were writing them, stuff like that, where they 
 built a lot of internal tooling to make sure that they could run at scale and 
@@ -335,13 +337,13 @@ went from 1000 to 10,000 people, we hit the next set of scaling problems.
 As soon as basically as soon as the 10,000 persons joined almost to the day we 
 started having server issues. And so we had to resolve those, then everything 
 went fine. We're going, we doubled, we tripled, we quadrupled. We went from 
-10,000 to 9,000 people. No problem. And then as soon as we hit the a hundred 
+10,000 to 90,000 people. No problem. And then as soon as we hit the a hundred 
 thousand monthly active users, the next set up problems, they didn't get in with 
 them releasing our server.
 Our servers were crashing constantly. And it was very fascinating how these, 
 this sort of order of magnitude step change of traffic really impacted our 
-stability. And so get ups really focused on making sure no one that gets up some 
-writes code that doesn't run it, their order of line of traffic, that no one, 
+stability. And so GitHub really focused on making sure no one at GitHub
+writes code that doesn't run their order of line of traffic, that no one, 
 there can even commit something to the code base, no matter how inexperienced 
 they are or how much they fork rails, for example, that could break their 
 systems.
@@ -356,9 +358,9 @@ be an Arizona. Right. See, I would throw an error. There would be a winter
 error. There will be a test error, right. Like somewhere, somebody somewhere 
 would catch my stupidity and tell me to do it differently.
 And so that was actually really fascinating. And they learned a lot about 
-scaling engineering and then organizations there. 
+scaling, engineering and then organizations there. 
 
-**Michaela:** [00:19:31] Yeah. And so it seems that this is also very specific. So 
+**Michaela:** [00:20:23] Yeah. And so it seems that this is also very specific. So 
 some of the engineering practices, some of the tools, some of the processes are 
 really made for the scale there. But now if you're going back and I know you're 
 now building a new startup, so what do you take away from that?
