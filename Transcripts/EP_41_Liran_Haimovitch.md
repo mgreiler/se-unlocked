@@ -632,7 +632,7 @@ review process, or at least by definition, it's the same workflow as if you're
 adding a big feature. So kind of how the companies go around managing the
 different kind of poll requests. 
 
-**McKayla:**[00:44:08] So I think this is really a part of, I cannot
+**Michaela:**[00:44:08] So I think this is really a part of, I cannot
 generalize, um, because for some organization it's definitely valuable to go.
 Through a pull request or a code review for every line of code that they're
 doing, even if it's a log line. Right. Um, but then this is a certain type of
