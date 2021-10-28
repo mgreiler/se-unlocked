@@ -493,7 +493,7 @@ you know, like a lot of the, the. Code becomes tech debt, because the knowledge
 is actually gone from the organization that, you know, wrote that that code or,
 you know, can maintainer or understand it. What's your perspective on that? 
 
-**Liran:**[00:34:07] So there's actually a truck out we've kind of we've wrote
+**Liran:**[00:34:07] So there's actually at Rookout we've kind of we've wrote
 and talked a lot about understandability. It's exactly what you mentioned. It's
 about knowledge it's about if you're able to understand the software, the code
 fairly well, then. You're the new C you can do a lot. I mean, you can get stuff
@@ -758,7 +758,7 @@ um, and it looks Michaela like it's for you. The question is, do we need
 additional manual reviews or testing if we have a study analysis tools or is 
 that enough?
 
-**McKayla:**[00:52:52] Okay. Um, I think I touched it a little bit
+**Michaela:**[00:52:52] Okay. Um, I think I touched it a little bit
 on that. So I definitely think it's complimentary again. Right. So if you have,
 like, I definitely recommend to have studying analysis, test tools, have static
 analysis tools, security tools, because they are much more systematic and they
@@ -783,7 +783,7 @@ Um, so thank you everyone for joining us, we will be sending a follow-up email
 with the recording and Michaela and Liran's contact information for whoever wants
 to get in touch with them. And thank you Michaela. And thank you again. 
 
-**McKayla:**[00:54:38] Yeah. Thank you so much. Let's refund. 
+**McKayla:**[00:54:38] Yeah. Thank you so much. It was really fun. 
 
 **Liran:**[00:54:41] Thank you. Thank you.
 
