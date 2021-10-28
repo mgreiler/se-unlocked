@@ -24,9 +24,9 @@ hiking, or writing a new Rookout blog. Um, and so before we get started, I just
 want to remind you all that we do have time for questions at the end of the
 webinar; So please don't hesitate to leave questions in the question box and
 this will be recorded and we will be sending you the recording at the end. So.
-You're on McKayla, please take it away.
+You're on Michaela, please take it away.
 
-**McKayla:** [00:01:02] Thank you so much for your really nice and kind
+**Michaela:** [00:01:02] Thank you so much for your really nice and kind
 introduction. I'm really excited to talk with Liren today about, um, high
 quality code and get his whole perspective on this topic and pick his brain. So
 yeah, I'm really thrilled to be here. 
@@ -34,7 +34,7 @@ yeah, I'm really thrilled to be here.
 **Liran:**[00:01:19] It's great to be here with you to discuss so many
 interesting topics.
 
-**McKayla:**[00:01:24] Yeah, really cool. So in, in the beginning we discussed a
+**Michaela:**[00:01:24] Yeah, really cool. So in, in the beginning we discussed a
 little bit, like what should this webinar be about? And we thought like, let's
 come up with this idea that we are asking each other a little bit questions
 that, you know, are burning questions for ourselves or that we very often, you
@@ -66,7 +66,7 @@ love to hear about that. What do you think about how best to build a better
 culture and how to promote a culture that deliver faster and deliver in smaller
 units of work? 
 
-**McKayla:**[00:03:34] Um, I'm a big advocate for, for great, uh, culture,
+**Michaela:**[00:03:34] Um, I'm a big advocate for, for great, uh, culture,
 right? Who isn't? Somehow everybody wants to work at the company that has a
 great culture, but unfortunately not everybody is. I'm currently actually doing
 a research project that's the one that I talked with you about a little bit is
@@ -150,7 +150,7 @@ important to the culture, to the experience, kind of, how do you go about
 creating that? How do you go about building that environment where you get
 continuous feedback and experience is good.
 
-**McKayla:**[00:09:23] Yeah. I mean, I'm thinking a lot about culture nowadays
+**Michaela:**[00:09:23] Yeah. I mean, I'm thinking a lot about culture nowadays
 and, you know, the common sense is always all countries so hard, right? It's so
 hard to change. And if I'm in a, in a bad place, you know, it's a bad place. Um,
 and I think on one hand, that's probably true, but I don't hand now that I'm
@@ -210,7 +210,7 @@ other side of it. And sometimes we kind of forget to act with empathy, with
 compassion, and while we may be factually, correct we're not creating a good
 experience for the person on the other side of that communication. 
 
-**McKayla:**[00:13:35] Yeah. And actually about the factually correct thing, I
+**Michaela:**[00:13:35] Yeah. And actually about the factually correct thing, I
 have learned over my, you know, my time in the industry that the seldom leader
 case, seldom leader are very, very active, you know? And I think sometimes you
 forget about that and, this is two perspectives. Cultural views are a place
@@ -527,8 +527,8 @@ day, nothing beats just debugging the code, stepping through it, see what, see
 the actual types and values of variables, seeing the inputs and outputs of the
 system and seeing it in action. That's the best way to understand the code. 
 
-**McKayla:**[00:36:45] Yeah. I think the too, when I was at the university of
-Victoria in Canada, um, I was doing a research as a bicycle there. And they,
+**Michaela:**[00:36:45] Yeah. I think the too, when I was at the university of
+Victoria in Canada, um, I was doing a research sabbatical there. And they,
 they developed a tool. I think at that point was called driver. You will not
 find it because it was a research tool, right. Not really popular and bad. The
 tool itself was really cool because it helped you understand cold. Um, my, my
@@ -576,7 +576,7 @@ place off the copies, or if somebody leaves, you have other engineers that are
 also familiar with. With that. And so I think there are other benefits that are
 really, really, um, really important here. Yeah. 
 
-**Liran:**[00:40:19] Yeah. I Mckayla, I'm hearing here speak, it's obvious. You're
+**Liran:**[00:40:19] Yeah. I Michaela, I'm hearing here speak, it's obvious. You're
 an advocate of code reviews and you're passionate about it and you're making
 great, great arguments about why it's so important and how the part, the value
 fit. But don't people ever come to you and say, I don't know, it's slowing me
@@ -584,7 +584,7 @@ down. It's making stuff complex. I mean, I don't want to do pull request. I don'
 want to do code reviews. I just want to skip the whole things and kind of what
 do you send them? 
 
-**McKayla:**[00:40:50] So, honestly, I don't, I don't have a lot of people that
+**Michaela:**[00:40:50] So, honestly, I don't, I don't have a lot of people that
 have this complete mindset. I have a lot of people that would say I really would
 like to skip code reviews because I don't have time to do them because my reward
 system around my recognition and what I'm expected to do is something completely
@@ -676,7 +676,7 @@ we're almost running out of time here. So maybe Mo join us, throwing a few
 questions from the audience?
 
 **Maror:**[00:47:17] Okay. So actually, a few questions did come up. If you
-guys are ready for it, um, McKayla, we'll start with you. Can peer programming,
+guys are ready for it, um, Michaela, we'll start with you. Can peer programming,
 replace code reviews?
 
 **Michaela:**[00:47:26] Okay. Um, pair programming. So I, yeah, this is
@@ -738,8 +738,8 @@ are articles where you see like how, um, You know, for example, the Google does
 code reviews, or how is, you know, VMware doing code reviews and other, um, 
 resources that I found really valuable as well. I also have like code review checklist
 there on my [github](https://github.com/mgreiler/all-about-code-review) profile. Um, 
-so it it's, uh, the github thing. And then my, my handle is M and then Kyla, 
-G R E I L E R. And so, yeah, there, you can find also quite some stuff, um, that, um, 
+so it it's, uh, the github thing. And then my, my handle is M G R E I L E R. 
+And so, yeah, there, you can find also quite some stuff, um, that, um, 
 that comes from everywhere that I found this valuable. 
 
 **Maror:**[00:52:03] That is a wealth of information that everyone should
@@ -783,8 +783,6 @@ Um, so thank you everyone for joining us, we will be sending a follow-up email
 with the recording and Michaela and Liran's contact information for whoever wants
 to get in touch with them. And thank you Michaela. And thank you again. 
 
-**McKayla:**[00:54:38] Yeah. Thank you so much. It was really fun. 
+**Michaela:**[00:54:38] Yeah. Thank you so much. It was really fun. 
 
 **Liran:**[00:54:41] Thank you. Thank you.
-
-
