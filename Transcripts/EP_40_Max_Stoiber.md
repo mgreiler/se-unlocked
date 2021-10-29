@@ -89,7 +89,7 @@ GitHub has and so it was clear from the beginning that we would either need to
 rebuild spectrum.
 I mean, it was clear that we would have to rebuild spectrum. The question was
 we rebuild it as spectrum, or do we rebuild it in GitHub? And since we
-were already rebuilding it, we might as well just rebuild in GitHub. And that's
+were already rebuilding it, we might as well just rebuild in GitHub. And that's  
 where discussion came from eventually.
 which again, makes me a little bit sad because I would like spectrum
 to still exist, but that's the way it is.
@@ -240,7 +240,7 @@ it's not that well, I can think of, it's kind of a pain to work with. I don't
 know.
 
 **Michaela:** [00:13:29] Yeah, I know you cannot respond to every tweet like that.
-Like
+Like  
 _laugh_
 
 **Max:** [00:13:33] exactly. Yeah. I can't really be like, ah, hello. Yeah, please.
@@ -272,10 +272,10 @@ definitely something that I'm also sometimes doing. Right. I go and look at Ida
 Python application to just understand, you know, how ID architecting something,
 because these are the questions that I still have.
 Right. I don't have the question on which type to use or how to do it area or
-how to do a list, sorta whatnot. Right. So I know those things already from my
+how to do a list, sorta whatnot. Right. So I know those things already from my  
 other programming adventures that I did, but I'm more interested in, Oh, I'm
 coming from the job are object oriented C-sharp world. Right. So how do you do
-that in Python and, and how would you, you know, structure applications and
+that in Python and, and how would you, you know, structure applications and  
 open source is something that sometimes helps me, but it's very hard to find
 like either like a good application again, because sometimes you find
 application and I'm looking at it.
@@ -361,7 +361,7 @@ scaling, engineering and then organizations there.
 
 **Michaela:** [00:20:23] Yeah. And so it seems that this is also very specific. So
 some of the engineering practices, some of the tools, some of the processes are
-really made for the scale there. But now if you're going back and I know you're
+really made for the scale there. But now if you're going back and I know you're  
 now building a new startup, so what do you take away from that?
 What do you say? Well, you know, this is overkill not needed for me right now in
 my next startup. Right. And what are some of the, the, the practices the
@@ -454,7 +454,7 @@ I know nothing about databases, so I should probably use my SQL and Postgres
 because I know that those are gonna work. And any problem I have, I can find a
 solution for, I know a lot about react. And so I can, I know I can, for example,
 use Preact instead of react, because I understand very deeply how react and
-Preact work and I can debug my own problems.
+Preact work and I can debug my own problems.  
 Right. And so a lot of this also has to do, like you said, with familiarity,
 right? If I'm familiar with, with a certain problem space, if I'm familiar with
 the tools within the problem space, I have a lot more leeway to use cutting-edge
@@ -498,7 +498,7 @@ basically all of my career building JavaScript tooling. I'm sort of, I would say
 mainly well known for making a bunch of open-source projects, like react
 boilerplate and style components that are cutting edge, new ways of doing things
 right.
-And I have a very deep understanding of react and JavaScript tooling and to have
+And I have a very deep understanding of react and JavaScript tooling and to have  
 a good overview of the ecosystem. And I know how things work at a very deep
 level. And particularly at Gatsby now over the past year, I really dove deep
 into that because Gatsby basically is just a bunch of open source 20 combined in
