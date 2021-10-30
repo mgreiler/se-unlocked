@@ -1,4 +1,6 @@
-# Episode 40 with Max Stoiber
+# Episode 40 with Max Stoiber 
+
+_Transcript is in great shape_
 
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked
 podcast. I’m your host Dr. Mckayla and today I have the pleasure to talk to Max
