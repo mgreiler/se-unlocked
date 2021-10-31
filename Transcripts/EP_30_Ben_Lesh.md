@@ -21,9 +21,9 @@ both in the description. But now, back to Ben.
 Ben is a senior software engineer at Citadel Securities, Citadel 
 Securities, a FinTech company in the market maker. They provide seamless trading 
 experiences and tools for asset management, bankers, brokers, and many more.
-Before that Ben worked amongst other companies at Google and Netflix, but it's 
-also the project lead for our RXJS. And RXJs is a library for composing  and 
-event-based programs by using observable sequences in general, Ben is active on 
+Before that Ben worked amongst other companies at Google and Netflix, Ben is 
+also the project lead for our RXJS. And RXJS is a library for composing asynchronous and 
+event-based programs by using observable sequences. In general, Ben is active on 
 Twitter and in the tech community and the big Edward kind of reactive 
 programming and observables.
 Well, I could go on and on, but let me just say to them Ben is on the show. So 
@@ -32,16 +32,16 @@ welcome Ben.
 **Ben:** [00:01:05] Thanks for having me. 
 
 **Michaela:** [00:01:07] Yeah, I'm really glad you're here. So Ben, you have 
-been working for some pretty large and precision corporation. There's a lot of 
+been working for some pretty large and prestigious corporation and a lot of 
 folks want to work as well. Do you want to share a little bit with us, how you 
 kickstart your career?
-So can you walk me through  how you started, , and how, hi, you got the first 
-job in, in 
+So can you walk me through how you started, , and how, hi, you got the first 
+job in, in engineering.
 
 
-**Ben:** [00:01:26] engineering. Okay. Okay. So, I've been doing this now for a 
+**Ben:** [00:01:26] Okay. Okay. So, I've been doing this now for a 
 long time. It's been almost 23 years. And, when I started the, the environment 
-was quite a bit different. It was during the first.com boom.
+was quite a bit different. It was during the first dot com boom.
 and I was, I was actually a print designer, so I had dropped out of art school 
 and I got a job as like a graphic designer doing like brochures and pamphlets 
 and that sort of thing. And I helped out a little bit with a website that they 
@@ -74,18 +74,18 @@ or whatever, and they gave me a nice recommendation. And then after that, there
 was such a demand at the time.
 But having some experience under your belt really helps you find another job. So 
 that's kind of how I got my first, job in tech. And from there I worked through 
-like a lot of consulting jobs and doing different types of, mostly front end 
-back end sort of web development. And at some point years into I was a dotnet 
+like a lot of consulting jobs and doing different types of, mostly frontend 
+backend sort of web development. And at some point years into I was a dotnet 
 developer.
-I did some, angular development and in order to learn angular because the 
+I did some, Angular development and in order to learn Angular because the 
 documents weren't documentation, wasn't very good. At the time, I answered a lot 
-of questions on stack overflow, because I felt like I was helping other people. 
+of questions on stackoverflow, because I felt like I was helping other people. 
 And I also felt like I was learning. I'd find questions. I didn't know the 
 answer to, and I'd try to figure out the answer.
 So that way I learned things. And I got into just the right time. And like a lot 
 of my answers tended to be more popular answers in stack overflow on that 
 subject. And some folks that were working at Netflix, started building an 
-angular app, which they ended up not making an angular app at all, but, they saw 
+Angular app, which they ended up not making an Angular app at all, but, they saw 
 my name repeatedly and they thought, well, maybe we should, we should, try to 
 get this guy to come in and.
 I got an email and I thought it was one of my friends spoofing an email, right. 
@@ -99,34 +99,33 @@ walking you to like a VP walking to the door and you're like, okay. So it sounds
 like there's going to be a job offer, but there's no way it's going to be enough 
 to move my family to the most expensive city in America.
 And then, and then it was, so, but the, the real point is like the way that I 
-got into like this Fang companies like Google and Netflix and those sorts of 
+got into like this FAANG companies like Google and Netflix and those sorts of 
 things really. a lot of my career has hinged on helping other people. Like if 
-you are doing things to help other people in stack overflow, I did stuff to 
-contribute on, get hub, and I, you know, tried to be as positive as I could.
-getting a foothold contributing and get hub on like large projects is very hard. 
+you are doing things to help other people in stackoverflow, I did stuff to 
+contribute on, Github, and I, you know, tried to be as positive as I could.
+getting a foothold contributing and Github on like large projects is very hard. 
 you have to be willing to, you're going to get, you're going to send something 
 in. It's going to get rejected. You're going to have to state your case as 
 clearly and plainly as possible and accept rejection. If it, if your PR doesn't 
 land or whatever, and then not give up and try again.
 And, but like people will see and remember positive interactions with you. and 
 then, you know, when you get a chance to network with some of these people, You 
-know, they, they remember that stuff. So a lot of like contributing to open 
-source and answering people's questions online and trying to be a good citizen, 
+know, they, they remember that stuff. So a lot of like contributing to open-source
+and answering people's questions online and trying to be a good citizen, 
 you know, outside of just my office, like in the web community, has done things 
 like it.
-It's the reason I work in an RX. Yes. Right now, like I was asked to work on a 
+It's the reason I work in an RXJs. Yes. Right now, like I was asked to work on a 
 rewrite of arcs. Yes. It's not something I just took upon myself. And I even 
 told them that I wasn't, wasn't qualified to do it. When they asked me to do 
 that. So, yeah, I would, I mean, people that want to get in at a company like 
-that first and foremost, the easiest way to get into the car Google is to go to 
-school, get a CS degree, and then, you know, study up on your algorithms and go 
-through their whole recruitment channels.
-but like, I don't have a CS degree, but I have a lot of experience. and. The 
-route that I took to get in there. It was probably, it's probably more that I'm 
-lucky. I'm lucky. That's probably a little bit more difficult, but like is, open 
-source contribution and community interaction and, you know, trying to be a 
-positive person and on the web, And those things can get you a long way, even, 
-even in just to like a smaller community too.
+that first and foremost, the easiest way to get into the company like Google is 
+to go to school, get a CS degree, and then, you know, study up on your algorithms
+and go through their whole recruitment channels.but like, I don't have a CS degree, 
+but I have a lot of experience. and. The route that I took to get in there. It was 
+probably, it's probably more that I'm lucky. I'm lucky. That's probably a little bit 
+more difficult, but like is, open-source contribution and community interaction and, 
+you know, trying to be a positive person and on the web, And those things can get you
+a long way, even, even in just to like a smaller community too.
 Like if in a smaller city or a less tech centric city than, like say the Silicon 
 Valley area or something like that. So I know I rambled there for quite a bit, 
 but, 
@@ -144,13 +143,13 @@ though, you know, he has a CS degree, for example, or, he knows algorithms and
 he studied a lot of algorithm because he wanted to make those, you know, yeah.
 Make those interviews. it was just really, really difficult to get your foot 
 into the door. Right. The people, even that, I mean, you're a, one of those 
-thousand CVS that they are getting daily and, and, they did just go through, 
+thousand CVs that they are getting daily and, and, they did just go through, 
 right. So he didn't even, he wasn't even, invited to make the first interview 
 round.
  So there was this, there was this first step that was just so difficult to get 
 in. that there was no, there was not even the chance to prove that, you know, 
-your stuff or something. So I think that what you're saying, being. Online being 
-not as well, having people remember you and know you, right, showing up in a 
+your stuff or something. So I think that what you're saying, being online being 
+noticable, having people remember you and know you, right, showing up in a 
 different way is really something that compliments your chances 
 
 **Ben:** [00:08:57] to, 
@@ -172,7 +171,7 @@ externally, th the truth of the matter is there are millions of people in this
 world that are smarter than I am, are better developers than I am. Like. I'm 
 sure of it. I'm totally sure of it. the difference is in some cases that, you 
 know, if, if I put my resume next to somebody else's, and there's a higher 
-probability that they've, if they use ArcGIS or anger or something, like there's 
+probability that they've, if they use RxJS or Angular or something, like there's 
 a higher probability, they've seen my name before.
 and that, but that doesn't mean I'm better than the other person. That's just, 
 it's just something that helps you out. But like that goes on a smaller scale. 
@@ -224,8 +223,8 @@ right? So you're Netflix, Google now, Citadel securities. when you look at how
 the software engineering, practices are, right, the methodologies that companies 
 are following, do you see that there's a big difference or is it all very 
 similar?
-Are people working in a very similar capacity at Google as they are doing it? 
-Netflix or the company that you work right now? Or, yeah, where there are large 
+Are people working in a very similar capacity at Google as they are doing at
+Netflix or the company that you work right now? Or, yeah, whether large 
 differences. 
 
 **Ben:** [00:13:28] Sure. I mean, there's, there's different camps. for all of 
@@ -269,17 +268,17 @@ and Citadel, again, like, right now I'm working on internal tooling.
 So the focus is on, you know, rapid development and that sort of thing. So 
 there's fewer tests than say, there might be for like, like Google would have 
 for Gmail or something like that. Like there's not like a massive battery of 
-thousands of tests. and of course there's like RSGS to which arcs. Yes.
-It's used by millions of Delilah developers. So we have thousands of tests that 
+thousands of tests. and of course there's like RxJS to which RxJS. Yes.
+It's used by millions of developers. So we have thousands of tests that 
 we run against that. And as a utility library. So like it's the testing thing. 
 It just depends like environment to environment, but the actual. Like what the 
-cultural is, is like, I think kind of varies from company to company.
+culture is, is like, I think kind of varies from company to company.
 I feel like there's some similarities between say like Facebook and Google, 
 maybe because they're large, companies at the same sort of structure internally, 
 but, Netflix is much smaller, much, much smaller company. So they're run quite a 
 bit different. 
 
-**Michaela:** [00:16:41] And also the software and dam developing is quite 
+**Michaela:** [00:16:41] And also the software and they're developing is quite 
 specific.
 Right? So you have real time on demand media streaming, right? I think it's very 
 different. Like if you have like an email program or, I don't know what exactly 
@@ -300,7 +299,7 @@ low or too low or whatever. Like there's, there's different alerts that can set
 up and run through the system. And it's actually very similar to stuff. I worked 
 on it at Netflix, but they're so Citadel, Citadel and Netflix have some 
 parallels in that.
-Said it all. they're dealing with, with, trading and securities and these sorts 
+Citadel they're dealing with, with, trading and securities and these sorts 
 of like stock market focused sort of things. So they've got like, laser-focus on 
 a product, like they're a set of products really, but they have all of this 
 other infrastructure built around it. And Netflix was the same way where.
@@ -326,14 +325,14 @@ direction. but yeah, so different company to company.
 So one of the things that strike me, where, when you said, well, you have all 
 seniors at Netflix, right? So, and there comes a different set of challenges. 
 Can you go into that a little bit? What are the challenges? If you have like 
-many senior developers and, you know, you said also, well, global, you have 
+mainy senior developers and, you know, you said also, well, at Google, you have 
 different levels.
 I still imagine even Netflix, if you have like senior developers, they will be 
 like the senior and then they will be the senior senior, like maybe it's the 
 principal or the staff engineer or whatnot. Right. So you might have their a 
 levels as well, or was it like really, if you're senior year equal altogether.
 
-**Ben:** [00:19:46] So at Netflix, everything was equal. everybody's sr. to the 
+**Ben:** [00:19:46] So at Netflix, everything was equal. everybody's senior. to the 
 point where it's almost an internal joke about how everybody was senior, this 
 senior, that, and. There are people that fall into like tech leadership roles, 
 but like, so on the, on the upside, all of the people that are senior very 
@@ -380,7 +379,7 @@ You know exactly wins. Like it's just how it is, whether it's right or wrong.
 It's helpful in keeping things going in a particular direction 
 
 **Michaela:** [00:22:42] in, in one direction. Yeah. Yeah. Yeah. Well, so, one 
-of the things that, that came to my mind. As well is what about peer 
+of the things that, that came to my mind. As well is what about pair 
 programming, for example, are you familiar with that?
 Has that been, practice at Google at Netflix, at the company that you are right 
 now at smaller companies? How do you think about it? How does it fit your style, 
@@ -389,7 +388,7 @@ asked. So I'm, I'm mainly working with engineers to make their quality is
 better.
 And I get this question really often, like, should we have like, and I just got 
 that yesterday again. Right? So, when, when client and their whole organization 
-wants to get rid of code reviews in favor of peer programming. Right. I have a 
+wants to get rid of code reviews in favor of pair programming. Right. I have a 
 lot of things to say about that, but I don't want to talk about it.
 I want to know what you think about is, have you experienced pair programming? 
 What's your take on it and, what's your take on. Code reviews. And how can we 
@@ -399,8 +398,8 @@ combine that? Or, you know, compliment, or I
 purposes. so pair programming, I have taken part in it.
 I've been, but usually it's, it's almost like a mentorship thing when it 
 happens. Right? Like, so I've, I've been the mentee and I've been the mentor. 
-and, so for example, when I joined the angular team, And this is, there's some 
-interesting side effects of this is like I joined the angular team.
+and, so for example, when I joined the Angular team, And this is, there's some 
+interesting side effects of this is like I joined the Angular team.
 I was working on some internal stuff and they're rendering engine Ivy. And I was 
 coming across things that I was like, man, this is really difficult. And my 
 manager at the time, I think just couldn't understand why it was so difficult. 
@@ -444,8 +443,8 @@ about it too much, but there it is. and, it's not really noticed until someone
 that never looks at that stuff.
 It looks through and says, Oh, this looks weird here. So, you know, I, I just 
 think they just serve different purposes. Now that said, I think that, code 
-reviews are generally less thorough than paraprogramming because usually code 
-reviews, people just will do it like on get hub or in Bitbucket or whatever, 
+reviews are generally less thorough than pair programming because usually code 
+reviews, people just will do it like on Github or in Bitbucket or whatever, 
 like on the web.
 And they don't actually pull the code down and run it. And. Step through it and 
 look at the diff and like try to figure out like, most people won't go through 
@@ -456,19 +455,19 @@ I don't think is worth making it. The only thing that you can do, like everyone
 pair programs, because we're not doing code reviews anymore or whatever like 
 that. To me personally, if someone suggested that I'd be like, you're crazy. 
 That's the craziest thing. Should we do more pair programming? Yes. Should we 
-do, should we not do code reason now?
+do, should we not do code reviews now?
 Like we should still do code reviews. 
 
 **Michaela:** [00:27:46] Yeah. I also think that it's very complimentary. Right. 
 And, as you said, I mean, the fatigue is real, right. I think in general, I 
 can't imagine many people that would say they enjoy having another person like 
-that clothes all over day and, and even the energy to do that.
+that close all over day and, and even the energy to do that.
 Right. Even a very extroverted person. I don't think this is really what's 
 happening here. and, and, you know, there's like the code improvement and, you 
-know, working through. Two problems, but there's for example, just the bareness 
+know, working through. Through problems, but there's for example, just the bareness 
 weed contribution, you have different purposes that you could have as well.
 Right? The awareness, for example, that is much easier for pair program. If 
-you're not doing more programming, there's one person that knows the staff as 
+you're not doing mob programming, there's one person that knows the staff as 
 well for contributes, you could have like a little bit lighter version of this 
 knowledge sharing, but a little bit more spread as well. but yeah, so yeah, it 
 was really interesting to hear, how you think about this.
@@ -484,7 +483,7 @@ thing that come to our mind is like, you need to test automated tests.
 and then maybe we were thinking about integrating tests and UI tests. And the 
 very last thing is like manual testing. Except for the manual testing that we do 
 while we are developing the software. Right. but so how was that in Netflix? How 
-is that a T two Dell? how is that? Is, at Google, are people still testing the 
+is that a CitaDel? how is that? Is, at Google, are people still testing the 
 software manually or, is that, you know, old school and not really done anymore?
 
 **Ben:** [00:29:31] No. I mean, people definitely are. All right. If all you do 
@@ -499,12 +498,12 @@ sees it, because they want to get, all the feedback on it.
 But like, it's so important to do manual testing. Like you have to, you 
 absolutely have to, now that the automated testing, the tolerance for like how 
 much automated testing should be in place is going to vary wildly on a lot of 
-different things. Right. if you, if you've got something like. A Netflix app 
+different things. Right. if you, if you've got something like a Netflix app 
 that you're going to deploy to a smart TV that is never going to be updated or 
 rarely going to be updated.
 Then you better be sure that there's not any bugs in it, which means you're 
 going to have to make sure there's a lot of automated tests and some manual 
-testing, obviously before it goes out. because once it goes out the ship sail, 
+testing, obviously before it goes out. because once it goes out the ship sale, 
 most of these things can be updated now. but like, You know, if, if you just, if 
 you just have apps that are very long lived, they go out any like, deployed like 
 Android app or whatever they go out.
@@ -527,7 +526,7 @@ to ensure that you don't break behaviors. You're trying to ensure good behavior
 with, testing.
 And it's the same thing with TypeScript and, you know, type checks. Those are 
 just, you know, safety checks at build time. And then you have safety checks at 
-testing time, safety checks from Lindt and all sorts of other things. safety 
+testing time, safety checks from Lint and all sorts of other things. safety 
 checks for manual testing and your ability to detect problems and, read of like 
 deploy a new version or roll back to a previous version is another thing for 
 safety.
@@ -557,50 +556,49 @@ this.
 **Michaela:** [00:33:49] yeah. Yeah, very well. So, maybe the last thing that I 
 want to, you know, get some input from you because you're really the expert here 
 is, maybe a little bit, let's talk a little bit about .
-RX JS. And I have to admit that, well, the framework name is already 
+RxJS. And I have to admit that, well, the framework name is already 
 complicated, right? So a lot of consultants and I always feel like this is 
 really hard. Right. You just look at the name of it. And I was like, Oh my God, 
 this is hard. I'm not going to learn this right. If it's called ponder or 
 something, like, I don't know, a Bunda framework or something.
 I'm like, Oh yeah, this is cozy. I can do it. so, and then I actually, announced 
-it by saying something that it, how itself describes itself. Right. So as soon 
-Kronos, you know, sequences with observables or something like this. Right. And 
-so in general, so. How can we understand as entrepreneurs, even based programs?
+it by saying something that it, how itself describes itself. Right. So asynchronous,
+you know, sequences with observables or something like this. Right. And 
+so in general, so. How can we understand as asynchronous, even based programs?
 Right. it sounds complicated, but what is it really? And what does it enable us 
 to who should look into that? And I mean, it's not that new right.  It's been 
 around for a long time, but it's still, there's still, people have maybe heard 
 about it, but maybe are like me like saying like our exchange sounds really 
-complicated.
-but we should actually look into that and, yeah. Well 
+complicated. but we should actually look into that and, yeah. Well use it.
 
 **Ben:** [00:35:00] there's so there's two concepts it's inside of our stress. 
 And the most important one is, this type called an observable. it's a lot like a 
-promise, but a promise gives you one value, pasting asynchronously, and it's 
-done. and a promise is eager.
+promise, but a promise gives you one value, asynchronously, and it's done. and a 
+promise is eager.
 Like you don't have to do anything to get that, to make the promise start doing 
 work or anything like that. Something else is doing work and it's delivering the 
 value through the promise. So that's, that's what a promise is. And I think a 
 lot of people are familiar with that concept, but, and observable on the other 
 hand is this type that is, it's a lot like a function it's it's, it doesn't do 
-anything until you subscribed to it.
+anything until you subscribe to it.
 And then it gives you three callbacks, one for each one for when you get a 
 value. And that's like the most important one. The second one for if there's an 
 error, delivering values and telling you that it's done with an error and the 
 third one for when it's complete, when it's, when it's done giving you values 
 and it's was successful, there were no problems.
 and it's just, it's just this really primitive type. And it exists all over the 
-place in many different shapes. Like it's not just our X that has this concept 
+place in many different shapes. Like it's not just our Rx that has this concept 
 of an observable. but the, I doesn't matter, I mean, many different shapes. 
 They're all roughly the same shape, but like the same concept. and the idea is 
 that if you have this, function that gets called with your values, whenever they 
 happen and they can happen anytime, asynchronously, then what you have is, and 
 you also know when it's done giving you this values.
-Then, what you have is a set of events. So when you first subscribed to it, 
+Then, what you have is a set of events. So when you first subscribe to it, 
 that's when the event set starts, and then it gives you events as it goes along. 
 And then eventually it says I'm complete. And you know that you're done getting 
 events. So you have events as a collection, as a, as a set or a collection of 
 things.
-And the thing that's interesting about it gets us to the second part of RCS, 
+And the thing that's interesting about it gets us to the second part of RxJS, 
 which is different operators and the operators are what I would tell most people 
 not to worry about too much like observable itself. The type is what I most 
 think everybody should understand. But the operators come from the fact that if 
@@ -617,7 +615,7 @@ baskets of apples or this way, the universe just works like this with sets. And
 so if you have a set of events, you can do the same thing.
 So you can take a set of events, say mouse clicks, and you can filter them down 
 to the mouse, clicks that happen on a certain spot, or the mouse clicks that 
-happen when you right. Clicked or whatever. you can take. A set of events from a 
+happen when you right-clicked or whatever. you can take. A set of events from a 
 WebSocket and filter it down to just the ones you care about, or you could count 
 them all or aggregate them over time or what, what, whatever.
 So that's what these operators are. The operators are these operations, you can 
@@ -626,7 +624,7 @@ observable, which is a different set of events. So it's the same thing with the
 basket analogy. So if I was give you the basket of apples and you filtered it 
 down to the good apples, now you have a basket of good apples, but you still 
 have a basket that was the operation performed.
-So it's, it's, that's the fundamental concept with our, yes, you have these 
+So it's, it's, that's the fundamental concept with RxJS, you have these 
 observables, which are the most important thing to understand. And then there's 
 all of these operators that can transform one observable into another one. 
 
@@ -637,22 +635,22 @@ pipelines.
 **Ben:** [00:38:51] So this 
 
 **Michaela:** [00:38:52] comes, you know, right. but so how can we use it? Like, 
-do we use it only in the front end or can we use it in the backend, do we have 
+do we use it only in the frontend or can we use it in the backend, do we have 
 like data pipelines that we can use? Like these observables, this is how we 
 build, for example, our data pipeline, right. In, at Microsoft also with like, 
 Observable.
 And event-based things where we have like these, these events that are 
 happening, if you're getting data right. And you're getting it real time and 
-things like this, but, Our XJS. Do you use it only on the front end or yeah, on 
+things like this, but, Our RxJS. Do you use it only on the front end or yeah, on 
 the backend as well, or which languages can be combined it, I read on the 
-website with a lot of languages, but I'm just thinking, because it says GS it's 
+website with a lot of languages, but I'm just thinking, because it says JS it's 
 like JavaScript only.
 
-**Ben:** [00:39:26] So our XJS is the JavaScript version of reactive extensions. 
+**Ben:** [00:39:26] So our RxJS is the JavaScript version of reactive extensions. 
 and actually it was born at Microsoft, from, kind of as a clone of Microsoft, 
-our Microsoft's rx.net. So, And arcs JS can be used anywhere. JavaScript runs. 
+our Microsoft's rx.net. So, And RxJS can be used anywhere. JavaScript runs. 
 when I originally worked on it at Netflix, it was being used in smart TVs and 
-weird, weird JavaScript run times that, you know, were not V8 based.
+weird, weird JavaScript run-times that, you know, were not V8 based.
 They're not Chrome based or anything like that. They were like their own little 
 custom JavaScript runtime. So it can be used in node. It can be used and it is 
 used in node quite a bit. It can be used in, browsers and electronic, like it's 
@@ -669,7 +667,7 @@ about observable itself is it can re represent zero events or, you know, many
 events, that are either totally synchronous or happen asynchronously.
 So you can use it to represent anything. Now that said, I recommend people ex 
 exercise, restraint and judgment when it comes to doing these things because, 
-our XJS as a library has all of these operators and they have operators named 
+our RxJS as a library has all of these operators and they have operators named 
 things like switch map, and merge map and concat map and all these things.
 And I don't know, I don't expect just any random person to walk up and know what 
 those things mean. And they're almost like a domain specific language on top of 
@@ -681,7 +679,7 @@ can on the team to make things as fast as possible and as small as possible. but
 also there's a burden on other people around you that have to know these things 
 in order to interact with this, you'll have to add a lot of comments, that sort 
 of thing.
-do you need arcs, Jess for loading an Ajax request after you hit a button? No, 
+do you need RxJS, for loading an Ajax request after you hit a button? No, 
 probably not. That's silly. You don't even need a framework for that. That's 
 just a button in a fetch, right? So, there's, there's a lot of places where I 
 would say you probably didn't need it. Could you use it? Sure. but is it really 
@@ -755,7 +753,7 @@ So you can't go wrong in this group of people asking questions.
 
 **Michaela:** [00:45:52] Yeah. So, maybe the, the last question that I asked you 
 just to wrap up this, this episode is what do you w where do you see the future 
-of our exchange?
+of RxJS?
 And I actually combine it with another question, which how does that actually, 
 how does it integrate with the no-code movement? Right. So on one hand, you are 
 the person, you know, that the driver is actually real. Hardcore libraries for 
@@ -770,16 +768,16 @@ So, how do you see, how does, does this actually fit together? Because I think
 there is a relation between those two, but, what do you think about this? 
 
 **Ben:** [00:46:46] Oh, sure. so there's two questions there. The first was 
-about the future of RCS. feature of RCS is primarily just focused on making the 
+about the future of RxJS. feature of RxJS is primarily just focused on making the 
 library smaller, more efficient and kind of keeping up with changes and modern 
 platform.
 So for example, abort controller is now going to become ubiquitous. So maybe we 
 don't need subscriptions anymore. We can use the abort controller and these 
-sorts of things. so that's the future of RCS and it's it's, it is what it is. 
+sorts of things. so that's the future of RxJS and it's it's, it is what it is. 
 It's a utility library. Now, as far as its relation to the no-code movement.
-I think that RCS is a solid fit for some of the internals of things that might 
+I think that RxJS is a solid fit for some of the internals of things that might 
 be, tools that might be used in no-code. and the reason I say this, or not even 
-just RCS, but reactive programming in general, the reason I say this is because 
+just RxJS, but reactive programming in general, the reason I say this is because 
 reactive programming is based off the principle that, you can kind of piece 
 things together like Legos.
 So you can say, okay, well, I've got a stream of data of this shape. you don't 
@@ -794,7 +792,7 @@ going to transform some streaming data. And then under the hood, it would build
 an array of operators in RX and just kind of apply them.
 and so reactive programming as it stands. Like I actually don't even know. How 
 you could go about developing something no-code without some form of reactive 
-programming, not necessarily arcs Jess, but, just some form of, I don't know 
+programming, not necessarily RxJS, but, just some form of, I don't know 
 where this piece came from. My job is to transform it in this way.
 cause I'm a blue Lego or whatever, and then I sent it onto the red Lego or 
 whatever I do. so I think that it's got a strong future in the back of that sort 
@@ -802,7 +800,7 @@ of thing. And I actually liked that idea because one of the. Struggles that
 people have with RCS is just learning all of these operators. and if I could 
 find a way to just abstract them stuff away from everybody, I absolutely would 
 do that because, they're the most, they're the single most powerful piece of, of 
-RCS.
+RxJS.
 not the most important observable, still the most important, but the most 
 powerful pieces, these operators, but they're also the thing that confuses 
 everybody. Because it is a bit mind bending to deal with this multidimensional 
@@ -813,12 +811,12 @@ so on and so forth and how it behaves.
 So I think that, you know, building some sort of no-code thing on top of it is, 
 is a fantastic idea. I don't really know that anyone's doing that, but. Or, or 
 even anything like it, there's plenty of other, reactive programming paradigms 
-or, or libraries and things that people can build no code on top of it's the 
+or, or libraries and things that people can build no-code on top of it's the 
 same concept.
 And in my mind, it's a win whether it's RX yes or not, like it's, it's reactive 
-for a programming is important for this sort of thing. It 
+for a programming is important for this sort of thing. 
 
-**Michaela:** [00:50:03] could be very powerful. I think like just flexibility 
+**Michaela:** [00:50:03] It could be very powerful. I think like just flexibility 
 that no coder had with, you know, having that under the hood, just 
 
 **Ben:** [00:50:12] that right. Yeah. 
@@ -835,9 +833,9 @@ starting your own company.
 Good luck with that, dude. I don't know what your, your company is though. What 
 is your, can you tell us about your company really quick, 
 
-**Michaela:** [00:50:42] but my company, yeah, I actually started it already. so 
+**Michaela:** [00:50:42] about my company, yeah, I actually started it already. so 
 I started, a year ago. so I left Microsoft in December, 2019 a little bit before 
-the pandemic. and yeah, I'm, I'm giving quadruple workshops.
+the pandemic. and yeah, I'm, I'm giving code review workshops.
 And I'm consulting with, with organizations that want to improve their 
 processes. And right now I'm actually writing a code reviewing tool. It's not 
 for code reviews, but it's for code review analytics. Right? So when I was at 
@@ -856,7 +854,7 @@ right.
 Or can we make the tests more rebel liable because we have some problems here or 
 can we make code review less painful for many reasons. Right. And so, um, so I'm 
 doing the same thing now outside of Microsoft for different corporations, for 
-different organizations, mainly focused on contribution. and yeah, and now I'm 
+different organizations, mainly focused on code reviews. and yeah, and now I'm 
 building my own tool to get that data.
 because now I don't have the data anymore, like at my fingertips. And so yeah, 
 this is what I'm, I'm doing. That 
