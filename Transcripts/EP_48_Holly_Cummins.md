@@ -20,9 +20,9 @@ a regular and vivid speaker.
 So what should I say? I'm super thrilled to have Dr. Holly Collins here with me 
 today. Holly, welcome to the show. 
 [00:00:56]
-**Holly:** Thank you so much. It's yeah, I'm really looking forward to our chat. 
+**Holly:** Thank you so much. Yeah, I'm really looking forward to our chat. 
 [00:01:00]  
-**Michaela:**  Yeah, me too. I mean, my introduction was really, really long 
+**Michaela:**  Yeah, me too. I mean, your introduction was really, really long 
 because yeah. You have so many accomplishments. It's really cool to talk with 
 you.
 So how does that work? Driving innovations for organizations? Can even one 
@@ -32,28 +32,28 @@ everybody is on board. How do you.
 **Holly:** I think one person can make a whole organization innovate, but one 
 person can help create an environment where innovation flourishes.
 I think we've certainly all seen the opposite as well. One person, if they do it 
-wrong, can really best innovation across the whole organization. And I think. 
-With innovation. It's about making this sorts of environments where ideas can 
+wrong, can really affect innovation across the whole organization. And I think 
+with innovation, It's about making this sort of environment where ideas can 
 grow and where there's the second, the logical safety for people to express 
 ideas, but then also the organizational tolerance for risk too, to be able to 
 invest in those ideas.
-But then also I think you need some methodology or, or some rigor to try and. 
-Manage your innovations, because I think a lot of us have as well have seen 
+But then also I think you need some methodology, or some rigor to try and
+manage your innovations, because I think a lot of us as well have seen 
 innovation labs where there's all these amazing ideas and then none of them 
-actually make it out the door of the innovation lab. And that's fun for 
-everybody, but it's not really moving things forward.
+actually make it out to the door of the innovation lab. And that's fun for 
+everybody, but it does not really move things forward.
 And really what you need is innovation that matters. 
 [00:02:29]  
 **Michaela:**  Yeah. . I'm currently working on a research project where we look 
 at cultures, especially for development teams. How do they have their cultures? 
 What makes them happy?
 What makes them productive? What makes them innovative and psychological safety 
-and, you know, being able to speak your mind. This is also important. And I 
+and, you know, being able to speak up your mind. This is also important. And I 
 conducted a couple of interviews. I also have worked in different organizations 
 and it's just really tricky, right? I mean, it's really tricky to be in a work 
 environment and being able to voice your opinion.
 And some people get really lucky, but a lot of people really struggle with that, 
-I think. And I don't know if it's, if it's bigger organization, I can't, can't 
+I think. And I don't know if it's, if it's a bigger organization, I can't, can't 
 even say like a bigger organization. It's more tricky than in, in smaller. I've 
 been in startups. So you think, well, innovation should really flourish down.
 There were like brilliant people on the team, but they're are also. They take 
@@ -64,11 +64,10 @@ get more psychological safety or do you know, be, be more self-aware if others
 even can speak their mind or, you know, like, how does that work?
 [00:03:40]
 **Holly:** Yeah, that, that that's yeah. Super interesting about the startups. I 
-I sometimes feel at a disadvantage talking about culture cause I've worked for 
+I sometimes feel a disadvantage talking about culture because I've worked for 
 IBM, my whole career. And IBM clearly is not a startup. It's about as opposite a 
 startup as, as you can get in terms of its history. But one of the things that 
-I.
-Like to talk about, which I think is probably quite related to your, to your 
+I like to talk about, which I think is probably quite related to your  
 research is the importance of fun in the workplace. And I deliberately talk 
 about fun because it's a little bit provocative because we all have this sort of 
 instinctive reaction that says work is a place for work. It's not a place to 
@@ -82,7 +81,7 @@ let's have achieved psychological safety by, you know, installing. Ping-pong or,
 you know, that kind of thing, but, and it's, you know, and I think what I mean 
 by fun as well, it's not those sort of that superficial layer of fun. It's that, 
 that deeper thing where you feel the connection to your colleagues and you feel 
-the work gives you joy.
+the work that gives you joy.
 [00:04:55]  
 **Michaela:**  Yeah. I also saw that coming up in my own research, but also 
 related research, right. That satisfaction, happiness and productivity. They are 
