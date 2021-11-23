@@ -1,7 +1,8 @@
 # Episode 49 with Florin Pop
-
+Florin Pop
 [00:00:00] 
-**Michaela:** hello and welcome to this soft engineering analog podcast. I'm 
+
+**Michaela:**   hello and welcome to this soft engineering analog podcast. I'm 
 your host, Dr. McKayla. And today I have the pleasure to talk to flooring, pop 
 florian is a web developer that started building websites in 2016 and worked 
 many years as a successful freelancer. I know Florin from his super popular 
@@ -10,10 +11,12 @@ grow and learn in public. And what fascinates me the most is this flooring
 always is humble, honest, and very, very kind.
 So I can't be happier to have flooring here with me flooring, like. 
 [00:00:34]
+
 **Florin:**  Thank you very much. And thank you very much for the kind words 
 that oh 
 [00:00:39] 
-**Michaela:**  yeah. I've been following for, for quite some time and I'm really 
+
+**Michaela:**    yeah. I've been following for, for quite some time and I'm really 
 always impressed , . It feels very authentic. If you do a YouTube channel, if 
 you do your challenges and how you share what you're learning.
 And also sometimes you're vulnerable, right? If people, you know, online can be 
@@ -26,6 +29,7 @@ very honest with your journey and not everything is like super fine. And, you
 know, I'm writing three blog posts and now I'm famous and make the most money or 
 something. Right. So yeah, I always say, give and take, 
 [00:01:29]
+
 **Florin:**  right? Yeah, exactly.
 So this is how life works. You have successes and failures and some days you're 
 doing great and other days it's not so great. And I like to share that and to, 
@@ -40,7 +44,8 @@ the time.
 It's just a continue grind of doing your best every day. And sometimes you mess 
 up things and that's okay because that's how we learn by messing things up and. 
 [00:02:34] 
-**Michaela:**  Yeah, it's true. Like, it's really easy to say for others always. 
+
+**Michaela:**    Yeah, it's true. Like, it's really easy to say for others always. 
 Oh, it's, it's totally fine. It, I think they are. They're also forgiving for 
 artists very much, but not so much for ourselves if you're messing up.
 Right. And you're afraid to, to show that things are not. Not going as well, or, 
@@ -49,6 +54,7 @@ you know, we made this big goal. You make this big goal, right? You said like
 list, but you know, like, can you fail with that? How would you say it? Would 
 you say, oh, it didn't work out or, you know, and actually.
 [00:03:09]
+
 **Florin:**  I like to create big goals for myself. This is probably the first 
 challenge where I didn't have a deadline for, for it. For example, 365 years 
 days of running everyday, I did 100 projects in 100 days. I did, when I started 
@@ -77,9 +83,11 @@ consistency aspect than having crazy, crazy, crazy goals. I might do that, but
 like with shorter, like 10 days or something, Yeah.
 So it's going 
 [00:05:31] 
-**Michaela:**  into the building. I have it building thing, right? So I say tiny 
+
+**Michaela:**    into the building. I have it building thing, right? So I say tiny 
 habits are actually better for, in the long run. 
 [00:05:37]
+
 **Florin:**  Right? Exactly. So it's not about doing super, extremely hard 
 things, but then just doing something which is relatively easy to do, it's just 
 a matter of being consistent with it.
@@ -88,13 +96,15 @@ running, I lost weight that period, then I felt much energized and yeah,
 building the projects have learned stuff along the way. So it's just being the 
 consistency. Yeah. 
 [00:06:08] 
-**Michaela:**  Yeah. And so, for example, we're coming back to the running 
+
+**Michaela:**    Yeah. And so, for example, we're coming back to the running 
 because I also follow that one.
 I'm following a lot of things, but so you lost weight and then after the 
 challenge, do you keep up with the things, do you still run daily or several 
 times a week? And did you know, did the, the way you go up again or, and you 
 share that as well? Like if it's setbacks, for example, 
 [00:06:31]
+
 **Florin:**  Yeah. So when it comes to weight, my weight journey II, it's kind 
 of rough because I did this like several times in my life so far, I would lost 
 the way doing a challenge.
@@ -114,7 +124,8 @@ keep it off for good. And it's still a challenge for me. It's been going on for
 a couple of years now.
 But yeah. Yeah, I think a little learning and 
 [00:07:55] 
-**Michaela:**  yeah, I think having a healthy lifestyle is a challenge for, for 
+
+**Michaela:**    yeah, I think having a healthy lifestyle is a challenge for, for 
 many, many, many people. Right. Be it sleeping enough, eating healthy, you know, 
 don't not gaining weight. I think also sport, like sport is something. I have a 
 lot of friends that don't do any sport and I'm like always, I'm always amazed.
@@ -132,6 +143,7 @@ completely.
 And ease and very unhappy. So yeah, maybe everybody is different. Right. But I 
 think a lot of, yeah, 
 [00:09:06]
+
 **Florin:**  yeah. He's like, so we are different and some people can just have 
 a great body and all of that without doing any exercises. With eating like junk 
 food and all that. For me, you can quickly see that.
@@ -148,7 +160,8 @@ it's okay. So if we mess up once it's okay. It's not the end of the world.
 It's just, the problem is when we do it through Peter Lee for weeks, that's one, 
 that's when sort of say that our lives. Yeah. 
 [00:10:24] 
-**Michaela:**  Yeah. I think can even, you know, mess up for several years and 
+
+**Michaela:**    Yeah. I think can even, you know, mess up for several years and 
 still start today and say, well, today's a different day. Right. So yeah, 
 exactly. Yeah. I have two little kids and I have to say it's so much more 
 challenging to do all those nice things with little kids, because like, for 
@@ -167,6 +180,7 @@ struggles in your life. And I think that's okay. Yeah. Whenever you wake up and
 you can try again and maybe you fail and you know, don't give up. I think this 
 is probably the most. 
 [00:11:32]
+
 **Florin:**  Yeah. Yeah. This is something I like about what I'm doing now is 
 that I'm okay with failing for me every day is a new day to do things.
 If I mess up, for example, last week for a couple of days, I felt unproductive 
@@ -177,7 +191,8 @@ this.
 Boost of all right. I messed up, but it's okay. I can start over and I can do it 
 right to this time. 
 [00:12:19] 
-**Michaela:**  Yeah. And so content creation, this is really the big thing now 
+
+**Michaela:**    Yeah. And so content creation, this is really the big thing now 
 in your life, right. It's also where you build your business around and how did 
 that come about and how do you, how does the monitorization work?
 Can you live from it or, you know, how long did it take you to live from it? I 
@@ -185,6 +200,7 @@ think content creation. A dream of, from many people. And then the question is,
 you know, is it really working out or is it not working out? Do you think that 
 you can sustainably do that for a long time? 
 [00:12:50]
+
 **Florin:**  Yeah, so I expected as a content creator on my blog writing 
 articles.
 This was in 2019, I think in February or March, I posted my, I restarted 
@@ -250,9 +266,11 @@ And they're just selling on their own, I guess that's your book, for example.
 Yeah, so I have my ebook and I have a course on you than me, and they're both 
 both doing this. Like 
 [00:18:27] 
-**Michaela:**  that's not counting them for the zero to 100 K. No that's so 
+
+**Michaela:**    that's not counting them for the zero to 100 K. No that's so 
 exactly. 
 [00:18:35]
+
 **Florin:**  Exactly. So those projects I bead last week last year, and I'm not 
 comping for challenge for, for this challenge, which has started.
 Two months ago or one and a half months ago. I started from zero. So everything 
@@ -265,12 +283,14 @@ the challenge because it kind of uses my audience before the challenge. Right.
 There's just some extra income which I have. And it's not for the challenge. The 
 challenge is something else in it. 
 [00:19:26] 
-**Michaela:**  Yeah. And so today I went on YouTube and to your profile, and 
+
+**Michaela:**    Yeah. And so today I went on YouTube and to your profile, and 
 then I saw that now you can not only subscribe, but it seems like there's a 
 membership thing on YouTube.
 Now, is that something that you offer and you see that it's working already? Or 
 how does that work? Yeah. 
 [00:19:42]
+
 **Florin:**  Yeah. I offered this for quite, I think over a year now. And it's. 
 It worked out well at the beginning, when I started to promote that I had, I 
 mean, well, I had several people who subscribed who became members, but it's.
@@ -282,10 +302,12 @@ So that's not like a high incentive to people. To become a member. Yeah. I still
 get one. She remembers every now and then, but it's not something you can at 
 least not for me because probably I haven't laboratories date to the maximum. 
 [00:20:35] 
-**Michaela:**  And so what do you do members get? Do they get something else or 
+
+**Michaela:**    And so what do you do members get? Do they get something else or 
 is it just really that, you know, they, they get the same public videos and it's 
 just like, they support you and they want to be.
 [00:20:46]
+
 **Florin:**  Yeah, so you can do like sky's the limit through that? For me right 
 now is you get the special badge and you get your name collar to the live 
 streams. You get some special emotes who can use. A lot, a lot of value there. 
@@ -308,24 +330,30 @@ videos, which are edited and all that it's nicely placed.
 So they're not that popular right now with streaming. So probably that's why. 
 People, at least in my niche, people are not. Likely to donate, 
 [00:22:36] 
-**Michaela:**  but how many people do have on your life? Coding streams onto it? 
+
+**Michaela:**    but how many people do have on your life? Coding streams onto it? 
 [00:22:40]
+
 **Florin:**  It depends on if I like, for example, last week I had a special 
 livestream where I announced it two days prior to the event and I had over a 
 hundred people joining me, but in the day day by day-by-day stream, I gets 30, 
 40.
 Tomorrow or less that 
 [00:22:59] 
-**Michaela:**  are, that are following you and your 
+
+**Michaela:**    are, that are following you and your 
 [00:23:02]
+
 **Florin:**  staff. Yeah, but I mean maybe some of them leave and others join, 
 but like an average of 30, 40 people tuning date. I mean, that's the number I 
 see of viewers at the moment, but who knows how many people show tonight? 
 [00:23:20] 
-**Michaela:**  And so you, do you use restream Dan too, or something like that, 
+
+**Michaela:**    And so you, do you use restream Dan too, or something like that, 
 the platform stream your Stritch video also on YouTube and the other way around 
 or?
 [00:23:28]
+
 **Florin:**  No. So right now I'm only streaming on YouTube. So I'm using just 
 OBS to stream directly to YouTube last year I streamed. So I started streaming 
 on YouTube last year, then I moved to Twitch and now I'm back on YouTube because 
@@ -347,7 +375,8 @@ which kind of describe what I did in the past week. And those should like push
 out the challenge idea to more people and get more people.
 To eventually join me. 
 [00:24:56] 
-**Michaela:**  Yeah. So I have been streaming on Twitch for, I was 2019 a long 
+
+**Michaela:**    Yeah. So I have been streaming on Twitch for, I was 2019 a long 
 time ago. I actually almost said, no, it wasn't. 2010 days, sorry, 2020 last 
 year for a month. And also for like my challenge of building, you know, building 
 a tool within 30 days. And I also went live every day was very, very nice.
@@ -361,6 +390,7 @@ something that you felt you grew into and you just got some more, you know, some
 muscle memory to do it better.
 Or do you prepare before the stream or how, how do you. 
 [00:25:58]
+
 **Florin:**  Yeah. So I have to agree, like it's very exhausting. For me, I 
 just, I kind of noticed that after two hours of going live, building, 
 researching, brainstorming, chatting with the people from the chat for two 
@@ -394,10 +424,12 @@ motivating for me and hopefully inspiring for others to get out of your comfort
 zone and money is just a return of the value you bring and grow to have. So it's 
 just a matter of time afterwards. 
 [00:28:35] 
-**Michaela:**  So it seems like you never suffer from analysis paralysis, right.
+
+**Michaela:**    So it seems like you never suffer from analysis paralysis, right.
 Where you're like, oh, what should I do? Oh, this or that? Or they say that, how 
 do you do, do you just do all of that? Or do you feel that 
 [00:28:47]
+
 **Florin:**  something. I feel that probably all the time is just the chat 
 helps. So whenever I don't know what to do, usually what I try to do is to set 
 the side tasks for tomorrow.
@@ -410,10 +442,12 @@ they give you feedback and their critique, your work is it's a great way to have
 something to do.
 But I, yeah, sorry, 
 [00:29:38] 
-**Michaela:**  man. Do you know how, how old. Audience is, or the background or 
+
+**Michaela:**    man. Do you know how, how old. Audience is, or the background or 
 the new developers or the senior people are they've maybe indie hackers as well, 
 or, 
 [00:29:54]
+
 **Florin:**  yeah, probably those who follow me along everyday are indie hackers 
 or at least want to be in the hackers. The reason why, like I have 115,000 
 subscribers, but.
@@ -428,7 +462,8 @@ now. You know? So most people who follow me day by day they are interested in
 this like building projects, monetizing them and work for themselves kind of.
 Entrepreneurial stuff. 
 [00:30:57] 
-**Michaela:**  So you have actually two, two sort of niches. One is the indie 
+
+**Michaela:**    So you have actually two, two sort of niches. One is the indie 
 hacker niche where you have, you're building a following and then you have that 
 mixed in with the, I want to be a developer niche. Right? So teaching niche, do 
 you want to have them separated more? Do you feel like. You started off it, for 
@@ -436,6 +471,7 @@ example, teaching development.
 And now you want to be more in the D you know, indie hacker space, or is that 
 both that represents you? How do you think about that? 
 [00:31:27]
+
 **Florin:**  So throughout my journey, as a content creator, I mostly shared 
 what I was doing. So I started off as a blog. Right. I was posting articles. 
 Then I moved on to YouTube creating YouTube tutorials, and now I'm moving on to 
@@ -459,7 +495,9 @@ learning.
 And building stuff, monetizing them, be your own boss. Yeah. Yeah. Kind of 
 thing. I think that 
 [00:33:23] 
-**Michaela:**  that thinking and those fears around those thinking are very, 
+
+
+**Michaela:**    that thinking and those fears around those thinking are very, 
 very similar to those fears that you have. Oh, I studied computer science and 
 now I want to be a writer. Oh my God. You know, my life will end. I'm even 
 allowed to do that.
@@ -477,14 +515,18 @@ monitorization, building an audience, and I will definitely follow you.
 I will link everything down in the show notes and yeah, with those words, thank 
 you so much, Lauren, for being on. 
 [00:34:31]
+
+
 **Florin:**  Thank you very much for having me was very nice step. Yeah. Thank 
 you, 
 [00:34:35] 
-**Michaela:**  flooring. Bye-bye 
+
+**Michaela:**    flooring. Bye-bye 
 [00:34:36]
 **Florin:** thanks. 
 [00:34:38] 
-**Michaela:**  I hope you enjoyed another episode of the sup engineering 
+
+**Michaela:**    I hope you enjoyed another episode of the sup engineering 
 unlocked podcast. Don't forget to subscribe and I'd talk to you again in two 
 weeks.
 Bye.
