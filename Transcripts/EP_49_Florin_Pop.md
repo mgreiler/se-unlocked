@@ -1,15 +1,35 @@
 # Episode 49 with Florin Pop
-Florin Pop
-[00:00:00] 
 
-**Michaela:**   hello and welcome to this soft engineering analog podcast. I'm 
-your host, Dr. McKayla. And today I have the pleasure to talk to flooring, pop 
-florian is a web developer that started building websites in 2016 and worked 
+[00:00:00] 
+**Michaela:**   Hello and welcome to the software engineering unlocked podcast. 
+I’m your host, dr. mackalya and today I have to pleasure to talk to Florin Pop.
+
+But before I start, let us talk about this extremly long, and very unexpected break. 
+You must have believed that I might never come back. But thankfully, that’s not 
+the case. 
+
+In fact, I actually came back bigger and multiplied… Yeah, from today on, I’m not 
+doing those interviews alone anymore, but I have a little intern for the next 
+couple of months - which is sitting right in my belly. So far, the intern has not 
+been very helpful I have to say - instead, I got horrible morning sickness, which 
+is also called hyperemesis. Well, that’s also the reason why there was this long, 
+unannounced and unexpected break. But I had a good talk with the intern and put it 
+right on a performance improvement plan, and yeah, it seems we are slowly getting better.
+
+So, we both started working on new episodes for you again.
+During this break, I also decided that it is time to shake things up a little bit. 
+I will start to experiment with the format and content of the podcast.
+
+I have a couple of ideas that I will try out and see how you like them. So, stay 
+tuned for new episodes! But now back to Florin and his insight into content creation.
+
+Florin is a web developer that started building websites in 2013 and worked 
 many years as a successful freelancer. I know Florin from his super popular 
-YouTube channel, and he's funny and inspiring to the stream. He's dedicated to 
-grow and learn in public. And what fascinates me the most is this flooring 
+YouTube channel, and he's funny and inspiring on the stream. He's dedicated to 
+grow and learn in public. And what fascinates me the most is this Florin 
 always is humble, honest, and very, very kind.
-So I can't be happier to have flooring here with me flooring, like. 
+So I can't be happier to have Florin here with me. Florin, welcome to the show.
+
 [00:00:34]
 
 **Florin:**  Thank you very much. And thank you very much for the kind words 
