@@ -82,51 +82,51 @@ you know, that kind of thing, but, and it's, you know, and I think what I mean
 by fun as well, it's not those sort of that superficial layer of fun. It's that, 
 that deeper thing where you feel the connection to your colleagues and you feel 
 the work that gives you joy.
-[00:04:55]  
+[00:05:19]  
 **Michaela:**  Yeah. I also saw that coming up in my own research, but also 
 related research, right. That satisfaction, happiness and productivity. They are 
-really concepts that are very intermingled. ? So engineers also having fun if 
-they are feeling productive and productivity also means connectiveness. ? So a 
+really concepts that are very intermingled. So engineers also having fun if 
+they are feeling productive and productivity also means connectiveness. So a 
 lot of developers that are interviewed, they talk about supportiveness and how 
-they have to know that there is another person that I can.
-Call or no call before we could walk up to them, but now we call them and they 
-are there and they're helping us. If you're stuck, we don't see the siloed. 
+they have to know that there is another person that I can just call or you know
+no call I know before we could walk up to them, but now we call them and they 
+are there and they're helping us. If you're stuck, we don't feel siloed. 
 Right. There's a friendship coming up as a concept. Right. People want 
-friendship in their workplace. Yeah. I can totally relate to that. I felt really 
+friendship in their workplace and yeah. I can totally relate to that. I felt really 
 lonely last year working as a solopreneur.
 And so that's also why I stepped a little bit away and was taking on more 
 customer work again, because now I'm in teams and I'm feeling, you know, I'm 
 talking to people more and this is really, I mean, it's also joy and yeah, so I 
-can totally relate to that. How, how do you engage with organizations? So you 
+can totally relate to that but how, how do you engage with organizations? So you 
 are at IBM, but you got into different other organizations or is that all 
 internally where you have like little labs that you, you know, that you try to 
 get to flourish?
-[00:06:09]
+[00:06:33]
 **Holly:** So my role at the moment it's somewhat internal and somewhat 
 external. We're always working with clients, but sometimes I'm working with an 
 IBM team who is working with a client, but in, in the garage we were, we were 
 very outward facing client facing. And, and I think there's, there's lots of 
 different answers for how do you engage with an organization?
-How do you change an organization? Right. The, the answer that we chose in the 
+How do you change an organization? and the, the answer that we chose in the 
 garage is really sort of support at the top and then making the change bottom 
-up. So we would try and get buy-in from the senior stakeholder. And the 
+up. So we would try and get buy-in from the senior stakeholder that the 
 organization wanted to try working in a new way that it wanted to try bringing 
 some of these, the psychological safety in the innovation.
 But then also some of the other things that we talk about a lot, like, I mean, 
-agility is an overused word, but that, you know, that ability to respond to 
-change that, that tolerance for risk. But I think sometimes know. If if we try 
+agility is an overused word, but that, that ability to respond to 
+change that, that tolerance for risk. But I think sometimes if if we try 
 and make that change only at the top level, then it just ends up being as a lot 
 of words on slides and so in.
 And, and there's a lot of resistance to these ideas as well because people work 
 in the way they work for a good reason. It's not like everybody's sort of set 
-out and said, I know we're going to make our organizational cut culture so that 
+out and said, I know we're going to make our organizational cult culture so that 
 it, you know, crushes the spirit and destroys productivity. You know, the 
 intention was always to, you know, to try and achieve something good.
-It's just that the side effects. Yeah. We're not good. So then what we do is we 
+It's just that the side effects sometimes were not good. So then what we do is we 
 work with a particular team on a particular project, and we say, we're going to, 
 we're going to do this particular thing and we're gonna get a result and we're 
 going to do it in this new way. And you can see that while we work in this way.
-Actually good things are happening, not bad things. And bringing in dev ops, for 
+Actually good things are happening, not bad things. And bringing in DevOps, for 
 example, hasn't increased the, the odds of something bad happening. Look, we can 
 show you it's reduced the odds of something bad happening, and look, it's 
 actually made the process more rigorous, even though the process is also more 
@@ -136,18 +136,18 @@ critical, let's try and now expand it to the next project that maybe is a bit
 more business critical. That, that ripple I would affect because I mean, I think 
 success is the best evidence. And so when you can do something and show the 
 results, then that makes people much more keen to try it for themselves.
-[00:08:32]  
+[00:08:56]  
 **Michaela:**  Yeah. So you are coming in and then you're working with one team. 
 And is it only you, or is it you and the team that's working with that other 
 team with that project? How does that work? 
-[00:08:41]
+[00:09:05]
 **Holly:** Usually we'd have a team. And I think the, sort of the, at that 
 teamwork aspect is, is so important.
 I think going back a bit to what you were saying about the lockdown that even 
-the most introverted developer, I think, you know, we, we get something. Team 
-and the, the effects are much better as well. So we try and have really diverse 
-teams in terms of the skills and the disciplines of the people. So normally what 
-we would have is we'd have a handful of developers.
+the most introverted developer, I think, you know, we, we get something out of 
+the team and the, the effects are much better as well. So we try and have really 
+diverse teams in terms of the skills and the disciplines of the people. So
+normally what we would have is we'd have a handful of developers.
 We'd have maybe some, some architecture support. But then we'd also have 
 designers who are really making sure that we're focusing on. The humans using 
 the technology rather than just look, it's a thing and it's shiny and I can 
@@ -155,7 +155,7 @@ install it and I can write code on it. And so I'm happy, you know, trying to
 sort of reel it back, but I'm glad you're having fun Holly, but how are we 
 making life better for someone else?
 And, you know, what's good. You know, cause success for any software project. 
-It's not just, I did code success is something is better somewhere either at a 
+It's not just, I did code. Success is something better somewhere either at a 
 business level or, you know, at a user level or that kind of thing. So on, on 
 our side, we try and have this really diverse team, but then we also want to 
 make sure that we're co-creating with the client.
@@ -167,11 +167,11 @@ we're doing a skills transfer.
 And so I when I was first working in the garage, one of our, the the IBM sellers 
 who we were working with got a bit grumpy because the, the sort of model that 
 they had done was that we would do a thing and then they would sell training for 
-the thing. And because we were. Co-creating that training just sort of happened 
+the thing. And because we were co-creating that training just sort of happened 
 on, on the job and it didn't slow anything down.
 So we would be pair programming and that knowledge transfer would happen. And it 
-would happen in both ways as well. So we, we know things about the carriage 
-method that we can share. We know things about test-driven development dev ops, 
+would happen in both ways as well. So we, we know things about the garage  
+method that we can share. We know things about test-driven development, DevOps, 
 but then, you know, they're going to know things. Or organizational context to 
 say, ah, yes.
 When you want to do this, you need to tell, talk to Bob on the second floor. And 
@@ -181,59 +181,58 @@ And then, you know, try and figure it out. And they know things about their,
 their business domain as well.
 And you know, the sort of the, some of these problems are really quite specific 
 and niche. And, you know, you couldn't have just a general consultant go in and 
-solve it without doing that. Co-creation. Yeah. 
-[00:11:24]  
-**Michaela:**  And how long are those engagements normally until there is some 
-transformation and some knowledge transfer, how long does it take 
-[00:11:31]
-**Holly:** for the license?
-I don't think the sweet spot is about six weeks, so that's, that's long enough 
+solve it without doing that co-creation.
+[00:11:48]  
+**Michaela:**  Yeah. And how long are those engagements normally until there is some 
+transformation and some knowledge transfer, how long does it take for the thing?  
+[00:11:56]
+**Holly:**
+I think the sweet spot is about six weeks, so that's, that's long enough 
 to do something that's really meaningful to get an MVP, but it's short enough. 
 That an organization will feel okay with the risk. Cause, you know, if we, if we 
 sort of say, and, and, and as well, you want to make sure that at the end of it, 
 those results are going out and are really visible.
 So having that short cycle and then say, okay, and if we've done it once and you 
 like it now, let's do it again because. You saw that result and it wasn't this 
-sort of really protracted process where it took 12 months to see any change. 
-Yeah. 
-[00:12:10]  
-**Michaela:**  So you are mentioning already a couple of development practices, 
-like Def ops test driven development, and you have, I mean, the development 
-practice lead for IBM garage.
-So. Do you think, what are some of the development practices that you recommend 
+sort of really protracted process where it took 12 months to see any change.  
+[00:12:33]  
+**Michaela:** Yeah. So you were mentioning already a couple of development practices, 
+like DevOps, test driven development, and you have been the development 
+practice lead for IBM Garage.
+So. What do you think, what are some of the development practices that you recommend 
 that really everybody should do? Is it like peer programming? You also mentioned 
 that or code reviews. What about testing? Do you think this is crucial? Do they 
 have to do it? Can we just do it a little bit? Or can we just skip some of those 
 things?
-[00:12:40]
+[00:13:04]
 **Holly:** Yeah. We sometimes have conversations about testing because. The 
 there's a trade-off I think between doing something quickly and failing fast and 
 getting that rapid feedback and not over-engineering while you're doing that and 
 the enormous benefits of testing. So sometimes if we're doing something that we 
 know is going to be throw away, and I think there's a lot of value in doing 
-something that you know, is going to be thrown away.
-That is that, you know, sort of lean startup , methodology, maybe testing 
-doesn't make sense. But I think in general, The, the benefits of testing are so 
+something that you know, is going to be throw away.
+That is that, you know, sort of lean startup methodology, maybe testing 
+doesn't make sense. But I think in general, the, the benefits of testing are so 
 great in terms of the quality of the code, but also automated testing is 
-absolutely necessary to support dev ops and dev ops is really. Necessary now in 
+absolutely necessary to support DevOps and DevOps is really necessary now in 
 order to support any kind of automation and efficiency and any, you know, that, 
 that ability to do those repeated deployments and the ability to respond, to 
 change and to manage risk.
 Sometimes, you know, you sort of hear these stories of something that goes wrong 
 and then an organization doesn't have any way to make a change to fix the 
-problem, except either to go through. Lengthy process or to completely short 
+problem, except either to go through this lengthy process or to completely short 
 circuit and bypass the process and, you know, have someone secure shell into the 
-effective machine.
-And then they change the things by hand, which is obviously not going to be 
-particularly robust in terms of the repeatability or the safety or anything. So 
-you sort of get this chain where you. Do dev ops, because I know it gives so 
-much better results in order to do DevOps. I need to have automated testing.
+effected machine and then they change the things by hand, which is obviously not 
+going to be particularly robust in terms of the repeatability or the safety or 
+anything. So you sort of get this chain where you do DevOps, because I know it 
+gives so much better results in order to do DevOps. I need to have automated 
+testing.
 If I'm going to do automated testing, I want to do it with test driven 
-development, because that gives so much better quality for the tests and it. 
+development, because that gives so much better quality for the tests and it 
 ensures the testability of the code and as well, I think one of the biggest 
 benefits of test driven development is really to refine our understanding of the 
 problem as well.
- Some people call it tested and design rather than test driven development 
+Some people call it test driven design rather than test driven development 
 because of that effect that when I sit down, I think we'll see, what am I really 
 trying to do? How will I really know what I'm successful? Let me write a test 
 for that. And usually what we look for with a test is something that we would 
@@ -241,27 +240,27 @@ have been looking for manually.
 Anyway, you know, I go to a web page and I see this, or it prints this. It's 
 always, you know, we're always looking for some evidence. We just try and encode 
 that, looking for the evidence in, code, which is efficient. Usually. 
-[00:15:09]  
+[00:15:33]  
 **Michaela:**  Yeah. So test driven development often is I see it a little bit 
 synonym to also unit tests instead of integration tests.
 But now you also mentioned something like a UI test, for example. So do you 
 have, like, do you make some distinction here and do you think one is better 
 than the other? Do you see that there's a shift nowadays in industry? I see a 
 shift and a little bit that, what is your perspective on that? 
-[00:15:33]
+[00:15:57]
 **Holly:** Yeah. I mean, I like to do test driven development at, at all levels.
 So I like to do test driven development for my integration tests. I like to do 
 test driven development for my unit tests. I think sometimes you do get a little 
 bit tangled where you can't have, you know, you sort of, you, you do your, you 
 write your unit test and then it passes. And then in doing that, you've done 
 enough that actually your integration tests is already passing.
-So then you're. Catching up with your integration test a bit, but sometimes we 
+So then you're kind of catching up with your integration test a bit, but sometimes we 
 do it the other way and we say, okay, I'm going to start with my integration 
 tests. I'm going to get those integration test passing. And then I'm going to 
-fill in a bit with the unit tests. But I think like, I don't think it's 
+fill in a bit with the unit tests. But I think, like I don't think it's 
 something that is just for one level.
 I think if it's an outcome that you care about and that you don't want to 
-regress, then there should be an automated test on it. I mean, I, I. I'm a huge 
+regress, then there should be an automated test on it. I mean, I, I'm a huge 
 fan of contract tests as sort of an intermediate layer between the integration 
 tests and the unit tests. Cause I think sometimes with unit tests, well, 
 integration tests are really expensive to run in any kind of complex 
@@ -273,50 +272,51 @@ tests and everything works great. And the system as a whole doesn't work.
 And so somebody has to care about that at some point, but then you sort of end 
 up playing this sort of. Sort of pass the parcel of responsibility, where 
 everybody goes more, my services working as designed. And so then an on all the 
-problems happened at the seams. 
-[00:17:13]  
+problems happen at the seams. 
+[00:17:37]  
 **Michaela:**  Yeah. 
-, my PhD thesis was about playing in testing our plugging systems and how you 
+, my PhD thesis was about plug and testing or plugging systems and how you 
 test them. It was more or less also services, service oriented architectures at 
 that point. Right. And it was pretty new. People were just jumping on that vegan 
 and so on. And I said, well, you know, you were going to get a little bit into 
 travel if you're, if it stayed the same with how we are doing testing and 
 nowadays but you're also an expert for cloud computing.
 Would you say that in the cloud world, somehow testing or in general engineering 
-practices change, is there, do we have an impact we should we or can be 
-developed in a different way, test, deploy everything. Why is said the same? 
-[00:17:54]
+practices change, is there, do we have an impact, do we? should we or can be 
+developed in a different way, test, deploy everything. Why is it the same? 
+[00:18:19]
 **Holly:** Yeah, I think it has to be different in order to take advantage of 
 the cloud.
 So one of the things that you're almost certainly going to want to be doing on 
-the cloud is, is that DevOps it's that more rapid deployment. And then if you. 
-Deploying rapidly. And you don't actually know if your code works, then either 
-you're going to have an enormous issue in production, or actually you're not 
-going to be deploying rapidly, you know?
+the cloud is, is that DevOps it's that more rapid deployment. And then if you 
+are deploying rapidly and you don't actually know if your code works, then 
+either you're going to have an enormous issue in production, or actually you're
+not going to be deploying rapidly, you know?
 So we still sometimes see these cycles where something is getting deployed to 
 the cloud, but then there's a three week UAT phase before anything can be 
-deployed. And so then. You know, that just doesn't work. It's a waste of the 
+deployed and so then. You know, that just doesn't work. It's a waste of the 
 cloudiness. It almost may as well be on-prem. So, so you sort of get this ripple 
 back from, again from the dev ops, which you want to be doing to the testing to 
 the TDD.
-[00:18:42]  
+[00:19:06]  
 **Michaela:**  I also think like we had, we had very strict roles back then. 
-Right. So whatever, like operations. Yeah. The engineers, the software engineers 
+Right. So we had, like operations. Yeah. The engineers, the software engineers 
 or developers. And we had like the testers, then there was like a time. Now we 
-have this dev ops for, you know, at one point for dev ops, I feel like every 
-engineer was supposed to be a dev ops engineer.
-And and then we had like the full stack. So you're not a front end or back end, 
-your full stack, your full stack from front end to back into dev ops to 
-everything. And now I feel people start to struggle with that concept again. No 
-everything because there's so much to know that there's not a single person that 
-can be like this end to end dev ops engineer to front end you know, genius.
+have this DevOps for, you know, at one point for DevOps, I feel like every 
+engineer was supposed to be a DevOps engineer.
+And and then we had like the full stack. So you're not a front-end or back-end, 
+your full stack, your full stack from front-end to back into DevOps to 
+everything. And now I feel people start to struggle with that concept again that 
+if you know everything because there's so much to know that there's not a single 
+person that can be like this end to end DevOps engineer to front-end you know, 
+genius.
 You see dad, like is there, is there again do you see that there are more roles 
-that are forming itself or a person is bringing more Def of engineer and then 
-more of backend, more front end, you know, cloud maybe, you know, even more 
-concepts that we have here. 
-[00:19:43]
+that are forming itself or a person is bringing more DevOp engineer and then 
+more of back-end, more front-end, you know, cloud maybe, you know, even more 
+concepts then we have here. 
+[00:20:07]
 **Holly:** Yeah, that one's a really tough one.
-And I, yeah, I sometimes sort of, and I think I sometimes talk to people who ha, 
+And I, yeah, I sometimes sort of, and I think I sometimes talk to people who, 
 who say exactly the same as you, that, that there are too many expectations on 
 me and actually trying to do all of these things means that not only will I not 
 be quite as good in all of them, actually, I'm going to be pretty inadequate in 
@@ -336,26 +336,26 @@ great for you either because you're really bored. So let's try and have
 everybody at least be able to do a few things and let's have people really 
 comfortable sharing their skills as well.
 Cause I think that comes back a bit to the pair programming and the 
-multidisciplinary teams that maybe I'm pretty sure. Pretty bad at front end, but 
-I know just enough front end that if I'm collaborating with a front end 
+multidisciplinary teams that maybe I'm pretty, pretty bad at front-end, but 
+I know just enough front-end that if I'm collaborating with a front-end 
 developer, I can bring my something else. And we're still going to do a better 
-job than if that front end developer was on their own.
-And we're going to do a way better job than if I was trying to be a front end 
+job than if that front-end developer was on their own.
+And we're going to do a way better job than if I was trying to be a front-end 
 developer on my own. And so then you get these sort of complimentary skills in, 
 in the pairs. 
-[00:21:37]  
+[00:22:01]  
 **Michaela:**  I think we are coming back again to the teams as well, or to the 
 concept of a team. And that people are really strong as a team.
-Maybe they are. And there was like, I did an interview with it, very senior 
-engineer. And what he said is like, , if you want to go fast, go alone. But if 
+Maybe they are. And there was like, I did an interview with a very senior 
+engineer. And what he said is like, if you want to go fast, go alone. But if 
 you want to go far, go with the team or with people. Right. And so this was 
 indeed in one of the interviews about productivity and happiness and so on.
-And I think. I was also talking to Alex from FedEx and she was on my podcast. 
-He's a testing expert. And she was also talking about these teams where you have 
+And I think, I was also talking to Alex from FedEx and she was on my podcast. 
+She's a testing expert. And she was also talking about these teams where you have 
 like a person that has a strong expertise, but then this expertise somehow 
 overlaps. Right? So you want to expand your expertise to other roles.
 Let's say you are a testing expert, but then you want also to understand 
-development a little bit, then you want to understand maybe dev ops a little 
+development a little bit, then you want to understand maybe DevOps a little 
 bit. Right? And so you're having this. These shapes that are overlapping. And 
 then in the same team, you have a person that is very similar to what you said, 
 right?
@@ -364,48 +364,46 @@ other quite a bit. Right. It's good. If you don't, if you're not solely
 responsible for everything and you can learn from each other, I think learning 
 is also such an important concept for happiness.
 Do you see that, that people want to learn?
-[00:22:47]
+[00:23:12]
 **Holly:** Yeah. A a hundred percent, I think it's, it is one of those things 
-that motivates you at work. Isn't it is, is that desire to learn and, and, you 
-know, if you just do the same thing every day, it, I mean, it's, it's awful. 
-Isn't it? There needs to be something coming in. And I think you're right.
+that motivates you at work. Isn't it? is, is that desire to learn and, and, you 
+know, if you just do the same thing everyday, it, I mean, it's, it's awful. 
+Isn't it? You sort of. There needs to be something coming in. And I think you're right.
 That, that does come back to that teaming that if you're working in a team and 
 people have different skills than you, then you're, you're automatically going 
 to be learning. And one of the things that I always said about pairing in 
 particular is, you know, there's sometimes we put sort of a hierarchy on pairing 
 doughy and we say, okay, so we've got the senior developer pairing with the 
-junior developer and they're teaching everything they know to.
+junior developer and they're teaching everything they know.
 It always, it always goes in both ways. So as a senior developer, if I'm pairing 
 with a junior developer, often they'll know a framework I've never heard of. And 
 so then they'll teach me about that and they'll know keyboard shortcuts. I've 
 never heard of. So they'll teach me about that. And so it's always that, that 
 two way knowledge transfer in, you know, independent of your position in the 
 hierarchy or how long you've been anywhere.
-Yeah. 
-[00:23:50]  
-**Michaela:**  So I hear you talk a lot about pair programming, so. I don't hear 
+[00:24:13]  
+**Michaela:** Yeah. So I hear you talk a lot about pair programming, so. I don't hear 
 you talk about code reviews. What do you think about them? Do you do them, are 
 they not that important? Do they compliment or do you don't need them, if you do 
-poor programming, how do you see 
-[00:24:03]
-**Holly:** that? So my, my, my personal take is that one of the great advantages 
+pair programming, how do you see them?
+[00:24:28]
+**Holly:** So my, my, my personal take is that one of the great advantages 
 of pair programming is that it eliminates the need for code reviews.
-And we sometimes talk about You know wait, isn't pair programming, more 
+And we sometimes talk about you know wait, isn't pair programming, more 
 expensive. I've got two people doing the work of one person and, and, you know, 
 there's all sorts of reasons why that's not true, but I think one of them is 
-that otherwise you have, usually you will have a para-pro code review process at 
-the end, otherwise, and that can be really expensive, so it can be expensive in 
-terms of people's time, but then it can also be expensive in terms of the sort 
-of thing.
-Bottleneck and the blocker that it creates, and it can be expensive as well in 
-terms of the, sort of the patterns that it encourages. Because if people know 
-that when you put something in for code review, it takes three days to get it 
-back and get it approved. You know, that's maybe a pathological case, but it's 
-not that pathological people.
-Aren't going to be putting things in every 10 minutes. You wait until you're 
-finished something and then you send it over and then you get this. Spiral where 
-the person who's doing the code review gets a mountain of code and they go, Ooh, 
-I'm not, I'm not looking at that until I've got a bit of room in my schedule, 
+that otherwise you have, usually you will have a para-programming code review 
+process at the end, otherwise, and that can be really expensive, so it can be 
+expensive in terms of people's time, but then it can also be expensive in terms 
+of the sort of the bottleneck and the blocker that it creates, and it can be 
+expensive as well in terms of the, sort of the patterns that it encourages. 
+Because if people know that when you put something in for code review, it takes 
+three days to get it back and get it approved. You know, that's maybe a 
+pathological case, but it's not that pathological.
+People aren't going to be putting things in every 10 minutes. You wait until you
+finished something and then you send it over and then you get this sort of spiral 
+where the person who's doing the code review gets a mountain of code and they go, 
+Ooh, I'm not, I'm not looking at that until I've got a bit of room in my schedule, 
 which is three days later.
 And then as well, when they look at it, usually. I see a couple of things 
 happen. One is that because it's so much work, if there's a really fundamental 
@@ -417,31 +415,30 @@ different or that they shouldn't even written any of this code. And so then the
 sort of the big problems don't get fixed and. But then you think, well, but I've 
 got to show that I did the review. I've got to show that I've got some value in 
 this process rather than just annoying them by waiting for three days.
-Let me find the position of the semi-colon line 36. Let me comment on that. Then 
-everybody knows I'm contributing. So you get this sort of bike shedding. And as 
-you can tell, if I find the whole, the process for us one of the patterns that I 
-really encouraged with the pair programming is that you rotate the pairs every 
-day.
+Let me find the position of the semi-colon on line 36. Let me comment on that. 
+Then everybody knows I'm contributing. So you get this sort of bike shedding. 
+And as you can tell, if I find the whole, the process frustrating, one of the 
+patterns that I really encourage with the pair programming is that you rotate 
+the pairs every day.
 So that gives you a much deeper code review. Cause I think otherwise you only, 
 you get like one person's code review, but then you sort of end up where two 
 people can be wrong just as easily as one person or two. Certainly, you know, 
-two people can be wrong. So then on the second day, A third person comes in and 
+two people can be wrong. So then on the second day, a third person comes in and 
 then there's already sort of another built-in code review where they, in order 
 to be able to contribute, they get walked through what was done the day before.
 And then they're able to say things like, oh, well, but why did we do this? And 
 here, why don't we just try this? And it it's, you know, it's not a formal 
 review. It's an interactive sort of getting them up to speed teaching 
 experience, but then it means that there's this second chance to catch errors 
-before.
-Developed too much, but I think, I mean, I think you probably are. You're asking 
+before they develop too much, but I think, I mean, I think you probably are. You're asking 
 the question cause you, you probably have quite a lot of expertise on code 
 reviews and you're gonna tell me all the patterns where it does work, which of 
-course it can, then it can work 
-[00:27:07]  
-**Michaela:**  with no, no, but I definitely did the recall and realize all the 
-things that you said, because this are definitely really common problems that I 
+course it can, then it can work well.
+[00:27:30]  
+**Michaela:**  No, no, but I definitely recall and realize all the 
+things that you said, because these are definitely really common problems that I 
 also see that teams have.
-Right. So this is also one of the things by in my view, Teams come and they 
+Right. So this is also one of the things in my view, Teams come and they 
 bring all really everything that you said, right? Like, and this whole chain of 
 how it just doesn't work. Great. How to process doesn't work and where you, 
 where you have this waiting time, where then the code reviews are too big, 
