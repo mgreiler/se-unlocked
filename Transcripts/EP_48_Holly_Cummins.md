@@ -274,12 +274,11 @@ up playing this sort of. Sort of pass the parcel of responsibility, where
 everybody goes more, my services working as designed. And so then an on all the 
 problems happen at the seams. 
 [00:17:37]  
-**Michaela:**  Yeah. 
-, my PhD thesis was about plug and testing or plugging systems and how you 
-test them. It was more or less also services, service oriented architectures at 
-that point. Right. And it was pretty new. People were just jumping on that vegan 
-and so on. And I said, well, you know, you were going to get a little bit into 
-travel if you're, if it stayed the same with how we are doing testing and 
+**Michaela:**  Yeah, my PhD thesis was about plug and testing or plugging systems 
+and how you test them. It was more or less also services, service oriented 
+architectures at that point. Right. And it was pretty new. People were just jumping
+on that vegan and so on. And I said, well, you know, you were going to get a little 
+bit into travel if you're, if it stayed the same with how we are doing testing and 
 nowadays but you're also an expert for cloud computing.
 Would you say that in the cloud world, somehow testing or in general engineering 
 practices change, is there, do we have an impact, do we? should we or can be 
@@ -430,17 +429,17 @@ And then they're able to say things like, oh, well, but why did we do this? And
 here, why don't we just try this? And it it's, you know, it's not a formal 
 review. It's an interactive sort of getting them up to speed teaching 
 experience, but then it means that there's this second chance to catch errors 
-before they develop too much, but I think, I mean, I think you probably are. You're asking 
-the question cause you, you probably have quite a lot of expertise on code 
+before they develop too much, but I think, I mean, I think you probably are. You're 
+asking the question cause you, you probably have quite a lot of expertise on code 
 reviews and you're gonna tell me all the patterns where it does work, which of 
 course it can, then it can work well.
-[00:27:30]  
+[00:27:27]  
 **Michaela:**  No, no, but I definitely recall and realize all the 
-things that you said, because these are definitely really common problems that I 
-also see that teams have.
-Right. So this is also one of the things in my view, Teams come and they 
+things that you said, because these are definitely really the common problems 
+that I also see that teams have.
+Right. So this is also one of the things in my workshops, Teams come and they 
 bring all really everything that you said, right? Like, and this whole chain of 
-how it just doesn't work. Great. How to process doesn't work and where you, 
+how it just doesn't work. Great. How the process doesn't work and where you, 
 where you have this waiting time, where then the code reviews are too big, 
 right.
 Or you're done, cannot understand them. You still have to do them. What do you 
@@ -448,16 +447,16 @@ do? Right. So this, there is definitely this, this loop that you are describing.
 Totally recall, because this is, you know, this is the, the problems that all 
 the people are bringing on the table when they're coming in, when I'm working 
 with it.
-Maybe what I see, I actually really liked code reviews because of this 
-synchronicity. Right. So you can have them in a very lightweight way. I also see 
+Maybe what I see, I actually really like code reviews because of this 
+asynchronous way. Right. So you can have them in a very lightweight way. I also see 
 them complimentary a little bit to peer programming, but you definitely have to 
 do them in a different way. Right. And I think what many organizations don't 
-understand and why we are creating this loop of yeah.
-Troublesome problems that we have, how we doing is that we don't understand the 
-goal of why I'm doing this. Right. What do we want to get out of that? And then 
-also, okay, what do I want to get out of that? And how can I shape the process 
-in a way that I'm getting this out of that?
-Because I really see that they have all these painful drawbacks. Definitely. But 
+understand and why we are creating this loop of you know troublesome problems that 
+we have, how we doing is that we don't understand the goal of why I'm doing this. 
+Right. What do we want to get out of that? And then also, okay, what do I want to 
+get out of that? And how can I shape the process in a way that I'm getting this 
+out of that?
+Because I really see that they have all these painful drawbacks and definitely. But 
 they also have like really wonderful benefits. So I think the most important is 
 that you really understand. The pain points that you said very, very deeply, but 
 then also, what can you, you know, what can you do to counteract them? How can 
@@ -468,21 +467,21 @@ feel like. You have your mentor there, or, you know, you have just this
 connection and the supportiveness with the people.
 So I totally enjoy it from time to time, but not too often. How often do you do 
 pairing? 
-[00:29:17]
+[00:29:36]
 **Holly:** So what, what we used to do. In the, in the garage is, is we would do 
 it pretty much all day, every day. And there was, there was a few advantages to 
 that because I think one of the, sort of the hardest things of pairing is the 
 logistics.
-And so then going back to the PA to the code reviews, you know, there's some 
+And so then going back to the code reviews, you know, there's some 
 circumstances under which pairing just will not work and makes no sense because 
-it's, it's so synchronous and asynchronous doesn't scale. So, you know, you need 
+it's, it's so synchronous and synchronous doesn't scale. So, you know, you need 
 to have that kind of asynchronous process as well. And if you've got 
-Particularly, you know, if it's something like open source where people are in 
+Particularly, you know, if it's something like Open Source where people are in 
 different times zones and they're working different schedules and some of them 
 are doing it in their own time, you know, something like pairing it, it, you 
 know, it's almost off the table to, to begin with.
 But what we found is if we tried to be. Ad talk with our pairing, which of 
-course works quite well for a lot of teams. We sort of, we never ended up doing 
+course works quite well for a lot of teams. We sort of, we never end up doing 
 it because it would be well let yes, let's pair today. Yeah. We definitely want 
 a pair today. Okay. So, so maybe after lunch. Oh, I can't after lunch, I've got, 
 you know, I've got a thing.
@@ -490,152 +489,148 @@ Okay. Well we'll maybe, maybe at two o'clock. Oh, I can't. And then, you know,
 we, we settled that we're going to start pairing at three o'clock, but then 
 something would come up and then somebody would be unavailable. So by sort of 
 defaulting to pairing, we'd keep our calendars free. And it was great actually, 
-because if we got invited to.
+because if we got invited to meeting.
 I'm afraid I can't attend this meeting. I'm pairing. So if you interrupt me, 
-you're interrupting my hair as well as it was sort of, it was like this sort of 
-intro we could block your time. 
-[00:30:43]  
-**Michaela:**  a couple of organizations that are working with and That we try 
-something out and it looks really, really nice is that you're doing code reviews 
-on a particular time.
+you're interrupting my hair as well and it was sort of, it was like this sort of 
+intrusion , interruption, depend. we could block your time around that.  
+[00:31:00]  
+**Michaela:** We could block your time around that. A couple of organizations 
+that we're working with and that we try something out and it looks really, 
+really nice is that you're doing code reviews on a particular time.
 And then it's done by one engineer. Right. But they're doing all the others can 
 go in and now everything is via suit, right. As are our teams and whatnot. 
-Right. So by that video conference, and so they're doing this cultural view, 
+Right. So by that video conference, and so they're doing this code review, 
 right? Everybody that's interested can join. Right. And those sessions really, 
 really particularly work well.
 I'm very surprised by that, but I really have good feedback from, from different 
 organizations where you know, you have this casual thing where people know this 
-is happening, right. One person really drives the review and the errors can 
-watch ask questions, clarification questions, or, you know, other things maybe 
-learn just have their fairness.
-Have you tried something like that? Is that 
-[00:31:36]
-**Holly:** we've tried some similar things? Not, not exactly like that, but 
-that, yeah, that seems, seems really good. So we did I mean, one pattern of 
-course is the sort of the mobbing pattern where we say We don't just want to do 
+is happening, right. One person really drives the review and the others can 
+watch, ask questions, clarification questions, or, you know, other things maybe 
+learn just have their awareness.
+Have you tried something like that? Is that ?
+[00:31:55]
+**Holly:** We've tried some similar things? Not, not exactly like that, but 
+that, yeah, that seems, seems really good. So we did, I mean, one pattern of 
+course is the sort of the mobbing pattern where we say, "We don't just want to do 
 it with two people. We actually particularly for knowledge sharing, you know, we 
-want to do it with six people.
-So let's all gather around the keyboard or let's all gather on the zoom, but as 
-well, what we used to find was, again, it's that scaling that the pattern I 
-described, where you rotate the pairs every day in a big code base. With a big 
-team is still gonna be quite a while before you rotate round. And so then you do 
-need something else.
+want to do it with six people.So let's all gather around the keyboard or let's 
+all gather on the zoom", but as well, what we used to find was, again, it's that 
+scaling, that the pattern I described, where you rotate the pairs every day in a 
+big code base with a big team is still gonna be quite a while before you rotate 
+round and so then you do need something else.
 So what we'd sometimes do is on a Friday, we'd do a show and tell session. So it 
 was, it was very similar to what you described actually, but we'd sort of 
 someone would say, okay, well, I've just done this particularly evil thing in 
-this part of the code base. And nobody's sure. Yeah, understand what I've done 
+this part of the code base. And nobody's gonna understand what I've done 
 unless I talk them through it, or I've just discovered this really 
 counter-intuitive behavior in this library.
 Let me show you all what it does. So you don't get called out the same way I 
-did. So it was sort of partly a code review and then partly a, an education 
+did. So it was sort of partly a code review and then partly an education 
 session, but it would just be really informal and just whoever had interesting 
-code. Would show it and talk it through the rest of the team and then they'd ask 
+code would show it and talk it through the rest of the team and then they'd ask 
 questions and that kind of thing.
-[00:32:46]  
+[00:33:05]  
 **Michaela:**  So maybe one last thing that I would like to talk a little bit 
 with you about is because you. You actually transitioned a way, right? From, 
-from being this development lead at the IBM garage. And now you're an innovation 
+from being this development lead at the IBM Garage and now you're an innovation 
 leader in the corporate strategy team. What does that mean? And what, what's 
-your role there?
-What do you have to do? 
-[00:33:05]
-**Holly:** So our, our, my role in corporate strategy, it's really interesting. 
+your role there? What do you have to do? 
+[00:33:25]
+**Holly:** So my role in corporate strategy, it's really interesting. 
 It's because I'm sort of in the, you know, we're sort of a headquarters role, so 
 I'm sort of in the, in the heart of IBM in, in the center of IBM and I sort of 
 get to see a lot of what's going on and what we're trying to do is we're trying 
-to.
-Really just be the, sort of like a free resource, both people and financial to 
-try. And when we see something amazing that can't quite happen because there's 
+to really just be the, sort of like a free resource, both people and financial to 
+try and when we see something amazing that can't quite happen because there's 
 some sort of blocker or there's just, you know, it just needs a little bit of 
 money to, to get over a starting line that we can sort of give it that, that 
-push.
-And then hopefully. Make something amazing happen so often it's where if we have 
+push and then hopefully make something amazing happen so often it's where if we have 
 a client team and you know, the client really wants to do something and we 
 really want to do something, but just somehow it just needs a little bit of 
-money just to demonstrate to the people who have the large amounts of money that 
-this is really worth doing.
+money just to demonstrate to you know the people you know, who have the large amounts 
+of money that this is really worth doing.
 And, and one of the things that we do as well, because I think as an industry, 
 we've, we've moved a lot now, too. Every, you know, we always want to be trying 
 to do things by actually trying them out rather than doing slides. So that 
 that's not, it was new when the team I'm part of was started. It's not, it's not 
 new anymore, but still in a larger organization, you still sometimes get things 
 that fall between the cracks where it doesn't quite fit in, in anybody's 
-mission.
-But that means it's actually extra important. So then, because, because we're 
-sort of central, we can bridge those, those internal barriers. 
-[00:34:39]  
+mission but that means it's actually extra important. So then, because, because 
+we're sort of central, we can bridge those, those internal barriers. 
+[00:34:59]  
 **Michaela:**  And do you still have a lot to do with engineering? Do you still 
 develop software or is it more really strategic and leading that you're doing 
 right now? 
-[00:34:49]
+[00:35:08]
 **Holly:** It's a little bit of a mix, which I think going back to what you were 
 talking about with the learning and the, and the variety, I think it is good.
 So it means that whatever, whatever seems most necessary. We'll do that. So 
 sometimes it's actually let me go in and architect this, let me, let me go in 
-and out a bit of code. Let me, you know, I'm not a data scientist, but some of 
+and add a bit of code. Let me, you know, I'm not a data scientist, but some of 
 my colleagues are data scientists and they'll okay. Let me fix your model for 
 you.
 And then sometimes it's more strategic and more making those connections to say, 
 actually, I can see that this is going on in one part of our organization and 
-something complimentary is going on in another part of my, let me connect those 
+something complimentary is going on in another part of my org, let me connect those 
 two, and then we're going to get a better outcome. 
-[00:35:31]  
+[00:35:50]  
 **Michaela:**  Oh, that sounds like you're really having a lot of hats. I really 
 liked that when I was at Microsoft, also driving bit innovation there and having 
 all these different hats, like you're, you're driving projects, but you're also 
 doing the implementation. I was mainly prototyping at that time.
 But it also means that you, as you said, you have to learn a lot. Did it take it 
 a little bit to get used to that role and know what you have to do? Do you have 
-like mentors that help you or is it. Structure around some, formal mentorship 
+like mentors that help you or is it structure around some, formal mentorship 
 program at IBM. How does that work? 
-[00:36:03]
-**Holly:** I think. With that kind of role where, where you have a lot of hats. 
-I think it comes back to, to the team again and the sort of the resiliency and 
+[00:36:23]
+**Holly:** I think, with that kind of role where, where you have a lot of hats. 
+I think it comes back to, to the team again and the sort of the resiliency in 
 the team. So what we tend to do, because we're doing challenging things and we 
-don't know in advanced necessarily what skills will be required is we, we do 
+don't know in advanced necessarily what skills will be required; is we, we do 
 sort of go around in groups where there's more than one of us.
 And then that means that whatever hat ends up being needed, there's someone who 
 has that hat and then someone else who can sort of shadow the hat. 
-[00:36:34]  
+[00:36:53]  
 **Michaela:**  Yeah. Yeah. That sounds really a great team to be in. Maybe the 
-last thing really last thing. And then I'll let you go. Or that I want to talk 
-with you about is there's the same culture eats strategy for breakfast, right?
-So, and what it means is that. The culture is of utmost importance. But also 
+last thing, really the last thing and then I'll let you go is that I want to talk 
+with you about is there's the same culture, eats, strategy for breakfast, right?
+So, and what it means is that: The culture is of utmost importance. But also 
 it's a very vicious cycle that, you know, how do you get your culture to apply 
 and how do you get your team members to, you know, like each other or at least 
 respect each other, right. Especially if you have, so sometimes people have I 
 also have that in my workshops when we are, you know, when we are working on 
 these problems, that code reviews create right where we have, for example, very 
 strong personalities in a team with very strong opinions.
-So it have problems, you know, like giving into, what did you hear? Do you have 
+So it have problems, you know, like giving into. What did you hear? Do you have 
 like do you have like some strategies for that? Do people do something to do, do 
 some coaching or can you help can the team help itself? What's your experience 
 with that? 
-[00:37:34]
-**Holly:** It's. It's tricky culture, because in some ways, some things about 
+[00:37:53]
+**Holly:** It's, it's tricky culture, because in some ways, some things about 
 culture, you, you can change because you can, you know, sort of start with your 
 small changes and then success is the best evidence.
 And then you can roll it forward and you can make those little changes to 
 encourage psychological safety. And you can have, if, if the leaders are bought 
 in, then they can make some of those changes as well. But part of it then does 
-still come down to the people in the team. And that is often the thing that is.
-Most challenging to, to change, but, but even, even people I think are, are 
+still come down to the people in the team. And that is often the thing that is
+most challenging to, to change, but, but even, even people I think are, are 
 changeable. And I think sometimes characteristics that we assume are just this 
 person actually are the context in which we put them as an organization or 
-habits that they'd learned that with the right environment can be unlearned 
-[00:38:27]  
-**Michaela:**  or teamed up that makes maybe right or one person creates or 
-reacts, but only two, right.
-Person, but to really the whole team dynamics. Are you are you a fan of like 
-bonding sessions and you know, we're people, what a team really can, you know, 
-get to know each other, do you think that's 
-[00:38:45]
+habits that they'd learned that with the right environment can be unlearned. 
+[00:38:47]  
+**Michaela:**  Our team dynamics maybe right? one person creates or 
+reacts, but only two, right person, but to really the whole team dynamics. 
+
+Are you are you a fan of like bonding sessions and you know, we're people, 
+what a team really can, you know, get to know each other, do you think 
+thats important? 
+[00:39:06]
 **Holly:** I really like them, but I think they, they need to be done 
-sensitively because they do end up sometimes not being very inclusive if we.
-If, if we choose something that half the team love, and then some people are 
-sort of stood there going, well, this isn't really what I wanted. So I think 
+sensitively because they do end up sometimes not being very inclusive if we
+,if, if we choose something that half the team love, and then some people are 
+sort of still there going, well, this isn't really what I wanted. So I think 
 there sort of needs to be some, some pre-thought to, well, there's everybody in 
-the team going to like going out to a noisy bar or. Does that actually not work.
+the team going to like going out to a noisy bar or does that actually not work.
 And I've seen I've had some good conversations with people actually, when I talk 
 about fun, because sometimes we get these sort of bonding sessions that get put 
 into a team and we say, right, we're going to have fun. Now we're going to, you 
@@ -643,74 +638,74 @@ know, do our bonding and we're going to go out to a bar and some people are
 going to know this, this isn't fun for me at all.
 But then there can be alternative. So some teams, for example, they'll play a 
 board game at lunch. And so it means that people who need to rush home after 
-school, you know, are after work to get kids from school or that kind of thing. 
+school, you know, after work to get kids from school or that kind of thing. 
 You know, they're, they're included and people who don't drink are included and 
 it's in sort of at work.
 So then it feels like an extra nice treat. It doesn't feel like you're sort of 
 being required as part of your job to go out and do things out of hours, which 
 some people really object to. And so then, you know, and there's other things 
-like, like that, or. This is a really old example because w w one of the other 
+like, like that, or. This is a really old example because one of the other 
 things that happened when I started talking about fun is lots of people told me 
 about their workplaces and that the terrible unfun things that had happened.
 And there was a team and they were sort of there were a support organization, so 
 they would work quite long hours and shifts. And it was a distributed team. So 
-what they would do is AF after five 30, they would all play quake or doom or 
+what they would do is after five thirty, they would all play quake or doom or 
 something like that together.
 And it was sort of back in the day when broadband at home was a luxury. So you 
 would take advantage of your office network and they were, you know, they were, 
 it was completely you know, a bonding thing. And they were told by management, 
-if you're in the office after five 30, you have to be doing work, which I just 
-thought was.
-Incredibly short-sighted on the, on the part of the, that management to say, you 
-know, your, your people are not on your time making the effort to get to know 
-each other better and to work better as a team. And not only have you not, you 
+if you're in the office after five thirty, you have to be doing work, which I just 
+thought was so incredibly short-sighted on the, on the part of the, that management 
+to say, you know, your, your people are not on your time making the effort to get 
+to know each other better and to work better as a team. And not only have you not, you 
 know, encouraged this and, you know, put in money for cakes or something, you've 
 actually told them they're not allowed to do it.
-Yeah. Yeah. That's very, 
-[00:41:08]  
-**Michaela:**  very shortsighted. Yeah. Terrible mistake. But sometimes I really 
-like for management, sometimes I really ask myself. How can you make this 
-decision, but you know, different story. Okay. Well, Holly I know we are on 
-time, so thank you so much. I could have, you know, like talked with you another 
-hour, but thank you so much that I could pick your brain about everything, about 
-all your experience and you know, your knowledge that you have.
+[00:41:27]  
+**Michaela:**  Yeah. Yeah. That's very, very shortsighted. Yeah. Terrible mistake. 
+But sometimes I really like for management, sometimes I really ask myself. How can 
+you make this decision, but you know, different story. Okay. Well, Holly I know we 
+are on time, so thank you so much. I could have, you know, like talked with you 
+another hour, but thank you so much that I could pick your brain about everything, 
+about all your experience and you know, your knowledge that you have.
 Yeah. It was really wonderful that you have been on my show. Is there something 
 that you want to share with my listeners? Did you think it's important for them 
-maybe around culture, happiness, fun productivity, maybe a little thing that 
+maybe around culture, happiness, fun, productivity, maybe a little thing that 
 they can start doing today? 
-[00:41:49]
-**Holly:** I mean, I th I think, yeah, just to sort of think about those, those, 
+[00:42:09]
+**Holly:** I mean, I think, yeah, just to sort of think about those, those, 
 those aspects of fun and, and think about how can I have more fun at work?
-How can I bring more joy, joy, and delight at work, but also how can I make. 
-Those around me are also having more, more joy into life at work because 
-otherwise it becomes a bit one-sided. Yeah, I 
-[00:42:09]  
-**Michaela:**  think in general, after Corona, I call it now after COVID right. 
-I just say after, because it's just nicer to say that I think we really have to 
+How can I bring more joy, joy, and delight at work, but also how can I make
+sure those around me are also having more, more joy into life at work because 
+otherwise it becomes a bit one-sided.  
+[00:42:29]  
+**Michaela:** Yeah, I  think in general, after Corona, I call it now after COVID 
+right. 
+I just say after, because it's just nicer to say that but I think we really have to 
 come back to thinking more about others.
-I think we haven't been thinking. Enough about others before, but I think, I 
+I think we haven't been thinking enough about others before, but I think, I 
 don't know how it's in, in, you know, in the UK, but it, at least here, I feel 
 people are more distance because of it. Right. And I really think we should 
-think more about each other and you know, what brings us joy? How can we help 
+think more about each other and you know, what brings others joy? How can we help 
 others?
 How can we be nice to others? Right. Yeah. And I think this can bring joy again 
 to yourself, right? If you maybe should think about how can I make the day, a 
 little bit better for my colleague today? Or help somebody? I think this can be 
 a cycle of positivity. I dunno. Like, yeah. 
-[00:43:00]
+[00:43:20]
 **Holly:** Yeah, absolutely. I think we realized one of the things that we 
 realized with, with COVID is how, how much we need others and how it's, you 
-know, it's not much fun without others.
-Yeah. Yeah, 
-[00:43:12]  
-**Michaela:**  exactly. I think so, too. So I hope you all can come back 
-together and then really be nice to each other and care for each other. Yeah. 
-Okay. So Holly, thank you so much for being on my show. Have a wonderful. In 
-them. Yeah. I hope I talk to you soon again. 
+know, it's not much fun without others. 
+[00:43:30]  
+**Michaela:**  Yeah. Yeah, exactly. I think so, too. So I hope you all can come 
+back together and then really be nice to each other and care for each other. Yeah. 
+Okay. So Holly, thank you so much for being on my show. Have a wonderful night and 
+Yeah. I hope I talk to you soon again. 
 [00:43:29]
-**Holly:** Yeah. Thank you so much. It was, it was great 
-fun.
-[00:43:32] 
-** 
-**Michaela:** ** Yeah. It was really fun.
-
+**Holly:** Yeah. Thank you so much. It was, it was great fun.
+[00:43:53] 
+**Michaela:** Yeah. It was really fun. Bye, bye.
+[00:43:53]
+**Holly:** Bye.
+[00:43:54] 
+**Michaela:** I hope you enjoyed another episode of the software engineering unlocked
+podcast. Don't forget to subscribe and I'll talk to you again in two weeks.
