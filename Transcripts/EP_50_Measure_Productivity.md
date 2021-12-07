@@ -1,15 +1,17 @@
 # Episode 50: Do not measure productivity 
 
-[00:00:00] Michaela: Hello, and welcome to the soft engineering podcast. I'm 
-your host, Dr. McKayla. And today is a special episode. Today's the 50 years 
-happy. So can you imagine time flies? And as I announced last time, This one has 
+[00:00:00] Michaela: Hello, and welcome to the software engineering podcast. I'm 
+your host, Dr. McKayla, and today is a special episode. Today is the 50th episdoe. 
+Can you imagine? Time flies! And as I announced last time, this one has 
 a new format. It's not an interview. No, no, no. There's only me talking. 
-There's no other prison joining me so, well, I want to tell you a little bit 
+There's no other person joining me. Well, I want to tell you a little bit 
 about the research that has kept me so busy over this year.
 I spent really hundreds of hours investigating what makes developers happy, 
-productive, and satisfied with their. I was especially looking at the concept of 
-developer experience and what that is. Well, that's, that's the content of this 
-episode today. And. What inspired me to talk about this is that I recently gave 
+productive, and satisfied with their work. I was especially looking at the concept of 
+developer experience and what that is, well, that's, that's the content of this 
+episode today. 
+
+What inspired me to talk about this is that I recently gave 
 a keynote at a large internal conference at a large corporation to over 1,300 
 developers.
 And when I was preparing this talk, I thought, well, this could be actually an 
