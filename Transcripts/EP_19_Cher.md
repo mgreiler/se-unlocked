@@ -2,7 +2,7 @@
 
 ( *intro music* )
 
-Michaela: [00:00:03] Hello, and welcome to the Software Engineering Unlocked 
+**Michaela:** [00:00:03] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla, before I start, I want to tell you that I 
 locked in new dates for my next code review workshops.
 In these workshops I show you how you can make your code review faster and more 
@@ -28,7 +28,7 @@ process because I'm super afraid of interviews and things like that, so I would
 like to know. How have you experienced that? And, yeah, also for my listeners 
 that want maybe to apply at Apple, what should they do?
 
-Cher: [00:02:13] I'm kind of still learning what my role is. Cause I just, you 
+**Cher Scarlett:** [00:02:13] I'm kind of still learning what my role is. Cause I just, you 
 know, just started, but, so I guess I'll start with the team I'm on. So the team 
 I'm on is in legal and global security. And so I work on some tools that are 
 specifically about, you know, protecting data that is secret( *laugh* ). You 
@@ -111,18 +111,18 @@ Yeah. That was, that was the process. And they ended up making me an offer and
 because of like, COVID-19 going on, it was very slow. But then I also had a lot 
 of time to like, make a decision. So.
 
-Michaela: [00:07:31] Yeah. That's good also. Yeah, because you were actually 
+**Michaela:** [00:07:31] Yeah. That's good also. Yeah, because you were actually 
 working at Webflow at that point, right? 
 
-Cher: [00:07:38] Yeah. And I, you know, I wasn't super sure about leaving.
+**Cher Scarlett:** [00:07:38] Yeah. And I, you know, I wasn't super sure about leaving.
 
-Michaela: [00:07:43] So why did you in the end, why did you actually leave? I 
+**Michaela:** [00:07:43] So why did you in the end, why did you actually leave? I 
 mean, Webflow for example has also this very positive image. So it's one of the 
 companies that are on is on my list that if I would get a job, I would probably 
 apply there as well. What were some of the reasons behind changing that job? Why 
 did you leave Webflow and took that, that opportunity at Apple?
 
-Cher: [00:08:07] So, yeah, Webflow is such a fantastic company. They're led by, 
+**Cher Scarlett:** [00:08:07] So, yeah, Webflow is such a fantastic company. They're led by, 
 you know, people who, you know, have either experienced hardship or work really 
 hard to understand the hardships that other people have. And so, you know, when 
 it comes to. You know, accommodating like mental health or work life balance 
@@ -178,12 +178,12 @@ engineering or that was, you know, in an, in an individual contributor role,
 because I knew before they even said anything, that it was that it wasn't going 
 to be a woman or a person of color.
 
-Michaela: [00:12:27] So it feels a little bit to me. I don't know if that's the 
+**Michaela:** [00:12:27] So it feels a little bit to me. I don't know if that's the 
 right impression that you put a lot of energy into that and, you didn't see 
 really, it, it it's going somewhere or not fast enough in the right direction. 
 Is that? Is that what happened?
 
-Cher: [00:12:43] Yeah. Yeah. And like, I definitely, it's hard because like I 
+**Cher Scarlett:** [00:12:43] Yeah. Yeah. And like, I definitely, it's hard because like I 
 believed that they would get there, but it weighed on me so much that, that I, I 
 felt like I was putting all of this effort in, and there wasn't really a whole 
 lot of accountability for. The lack of conversion from having a really diverse 
@@ -196,21 +196,21 @@ longer excited about. You know, people coming to work for a Webflow in the
 engineering department, and nobody wants to feel that way about their job, 
 especially when they really like care about the people that they work with. 
 
-Michaela: [00:13:15] Yeah, exactly. I think it has to do with a lot of really 
+**Michaela:** [00:13:15] Yeah, exactly. I think it has to do with a lot of really 
 deeply caring, right. That you are feeling that you're really part of the whole 
 thing. So somehow this probably. Is then heavier on you than on somebody that 
 can detach themselves a little bit more. 
 
-Cher: [00:13:31] Yeah, exactly. 
+**Cher Scarlett:** [00:13:31] Yeah, exactly. 
 
-Michaela: [00:13:33] So do you have the feeling that at Apple that's now better? 
+**Michaela:** [00:13:33] So do you have the feeling that at Apple that's now better? 
 I don't know the the numbers, but I feel that they have somehow the same problem 
 as almost all tech companies, or even companies of the whole world. ( *laugh* )
 
-Cher: [00:13:53] So, I mean, I will say that like, I have a significant amount 
+**Cher Scarlett:** [00:13:53] So, I mean, I will say that like, I have a significant amount 
 of debt from the life that I was living before. And I, I've had a lot of people 
 telling me that I should just file bankruptcy. Cause I mean, I'll just be 
-transparent. I'm like $128,000 in debt. That is not from my home. I've had a lot 
+transparent. I'm like \$128,000 in debt. That is not from my home. I've had a lot 
 of cars, repossessed and things of that nature over the years. And so I have. 
 It's a lot of debt. 
 And I, because of the things that I did wrong that I never was, you know, caught 
@@ -229,11 +229,11 @@ that made the. You know, the same lack of diversity in engineering problem, a
 little less important to me. Well, it's still important to me, but less of a 
 it's like a, you know, like a combination of things. 
 
-Michaela: [00:15:21] I think it's the decision is really going one step further 
+**Michaela:** [00:15:21] I think it's the decision is really going one step further 
 in your career, right? I mean, there is, there's a difference between the job 
 that you had and the job that you are now, you got at Apple. 
 
-Cher: [00:15:32] And I think that part of it is too is like this.
+**Cher Scarlett:** [00:15:32] And I think that part of it is too is like this.
 At Apple, even though, cause I mean the problem exists in our whole industry. 
 Right. And so the problem thus exists at Apple as well. But I do think that I 
 had this level of fatigue of like being so vocal and then having nobody being 
@@ -246,7 +246,7 @@ accountable for it, you know? And even by getting hired, you know, as a part of
 that, A part of that progress.
 Cause the team I work on, I'm the only woman, of course. 
 
-Michaela: [00:16:21] So I right now really vocal in that area already. Or how do 
+**Michaela:** [00:16:21] So I right now really vocal in that area already. Or how do 
 you, you know, when you're just starting? I remember my time when I started at a 
 large corporation, it was Microsoft and it was very overwhelming because every 
 large corporation really has their own culture and they have their own 
@@ -257,12 +257,12 @@ invisible lines, right?
 There are these org charts, but they are not, they're not a true reflection of 
 how communication channels actually work at orientation, things like that.
 
-Cher: [00:17:02] Who has the clout to make the changes, that's what you really 
+**Cher Scarlett:** [00:17:02] Who has the clout to make the changes, that's what you really 
 need to know. 
 
-Michaela: [00:17:09] Yes, exactly. Right. Yeah.
+**Michaela:** [00:17:09] Yes, exactly. Right. Yeah.
 
-Cher: [00:17:13] So I haven't yet, mainly because. I, I don't have the, I 
+**Cher Scarlett:** [00:17:13] So I haven't yet, mainly because. I, I don't have the, I 
 guess the insight or the data of like what exactly those numbers look like, what 
 changes have been put into place to, you know, make tiring more equitable.
 I don't have insight into that stuff yet. And I don't like to get involved 
@@ -283,7 +283,7 @@ important to me specifically, obviously, but like I recognize that, okay, it's
 incredibly more important to people, you know, who are hurt.
 By, you know, people using their deadnames a lot more than me. 
 
-Michaela: [00:18:38] Yeah, I think it's so when I, when I talk with you, what I 
+**Michaela:** [00:18:38] Yeah, I think it's so when I, when I talk with you, what I 
 really see is that all of those very different experiences in your life, right? 
 The very different circumstances that you're. In those give you incredible power 
 to see things that, you know, somebody else cannot see.
@@ -321,7 +321,7 @@ topics, for example, about mental health, but you did.
 And so why, why are you doing that? Why are you sharing that? And what gives you 
 the strength to do that? 
 
-Cher: [00:21:40] So, when I was at USA today, I had. But, you know, obviously I 
+**Cher Scarlett:** [00:21:40] So, when I was at USA today, I had. But, you know, obviously I 
 still had mental health problems back then and they were in a worse shape than 
 they are now. And so I frequently, you know, would wake up with like intense 
 anxiety or if I like was going through like a depressive episode to where I 
@@ -496,7 +496,7 @@ And you know, that doesn't exist and focusing on like, okay, actually, like we
 have the most efficient and productive work coming out of our people when we 
 actually care about their work life balance and their mental health.
 
-Michaela: [00:33:17] Yeah. I think it's so important. And somehow I think if 
+**Michaela:** [00:33:17] Yeah. I think it's so important. And somehow I think if 
 you're more aware of the mental health, you can also be more aware of many other 
 things. Like. People that have family that have like kids at home, which are 
 also things that you can accommodate in, in work. Right? Maybe not. It's 
@@ -506,7 +506,7 @@ that if you are getting some flexibility, if you're getting some hands from your
 workplace to make your life easier, you can be much more successful, successful, 
 you can strive much more. What do you think about this? 
 
-Cher: [00:34:06] Yeah, no, I totally, I totally agree.
+**Cher Scarlett:** [00:34:06] Yeah, no, I totally, I totally agree.
 And you know, it's, it's definitely that and I think that it, they kind of 
 inform each other too, right? Like the, when I was feeling like guilty because I 
 had to leave my office to go, cause my daughter was sick at school or something 
@@ -547,20 +547,20 @@ focusing in on those things. And so all of a sudden, now they have this picture
 of me that I'm less productive than the rest of them, even though that 
 absolutely wasn't true at all.
 
-Michaela: [00:36:51] Yeah. Yeah. I think especially productivity and you know 
+**Michaela:** [00:36:51] Yeah. Yeah. I think especially productivity and you know 
 what you can do very often. It's very tinted, but whatever you want to see. 
 Right. So depends on the perception that you have and that sometimes people make 
 up their mind just independent of what you're actually doing. 
 
-Cher: [00:37:10] So yeah, exactly. They like fill in the holes with their own.
+**Cher Scarlett:** [00:37:10] So yeah, exactly. They like fill in the holes with their own.
 Thoughts and biases that they have. 
 
-Michaela: [00:37:19] Yeah. Yeah. So I actually asked a lot of people on Twitter, 
+**Michaela:** [00:37:19] Yeah. Yeah. So I actually asked a lot of people on Twitter, 
 what they would like me to ask you. And, uh, one, one common theme was people 
 wanted to know if you could give yourself one piece of advice, you know, to your 
 past self and you were just starting out, what would that be?
 
-Cher: [00:37:41] I guess, find your. Thing and believe it. So like, for me, 
+**Cher Scarlett:** [00:37:41] I guess, find your. Thing and believe it. So like, for me, 
 like, obviously like, you know, once I got to USA today, like I started to 
 recognize that like, people specifically like thought of me as an authority on a 
 couple of subjects. But prior to that, like, so when I first started in 2006, I 
@@ -582,7 +582,7 @@ back and tell myself to like, notice that you're the second Google result and
 make something of it, like make people like, you know, capitalize on that.
 Definitely. Would have had a lot more years of a successful career. ( *laugh* )
 
-Michaela: [00:39:19] And so do you have also advice specific for women in Thai 
+**Michaela:** [00:39:19] And so do you have also advice specific for women in Thai 
 that are maybe at the beginning of their journey or I would also be interested 
 for. Women that are mid(??) in their mid journey, because I think that those are 
 often also forgotten.
@@ -591,7 +591,7 @@ of advice for, for women then to, you know, get to the next level and really to
 get, get to that, to the higher, higher up career letter positions. ( *laugh* )
 You know what I mean.
 
-Cher: [00:39:52] I definitely think like getting a job where you have a 
+**Cher Scarlett:** [00:39:52] I definitely think like getting a job where you have a 
 female manager if possible, and it doesn't have to be like your direct manager, 
 but maybe like a manager level above that or advocate, like in your org that 
 there needs to be like female leadership in specifically in engineering and then 
@@ -628,7 +628,7 @@ hearing that there are people out there who didn't see her that way was like,
 okay, so. People see me in this way, but it's not necessarily reflective of the 
 truth.
 
-Michaela: [00:42:15]  (??)Yeah. Yeah. It's definitely something that I think I 
+**Michaela:** [00:42:15]  (??)Yeah. Yeah. It's definitely something that I think I 
 see a lot of people struggling, including myself.
 So just thank you so much for being on my show. I have one last question for you 
 and then I'll let you go. And it's maybe just a summary of your. Interview 
@@ -639,7 +639,7 @@ What, what are, you know, what is the most memorable interview, the experience
 that you had? This was one of the Twitter questions. So maybe we wrap it up with 
 this one and also your advice for, for interviews.
 
-Cher: [00:42:55] Okay. So I definitely think that Apple has been the best 
+**Cher Scarlett:** [00:42:55] Okay. So I definitely think that Apple has been the best 
 interview process that I've had just because I felt like it instead of, you 
 know, trying to make me pass a test, they wanted to see like how I would work 
 with their team.
@@ -718,20 +718,20 @@ people get reservations like that.
 So they're going to be like, I don't know, just something wasn't right about it, 
 you know? 
 
-Michaela: [00:47:57] Yeah, no. Yeah. I mean, there are so many factors at play 
+**Michaela:** [00:47:57] Yeah, no. Yeah. I mean, there are so many factors at play 
 into that, and there are a lot of studies also that showed it. Yeah, really? 
 Maybe, maybe it's the first, second, right. That you're coming in and they're 
 looking at you and it just triggers some memory of something else.
 Right? Not a person that they had a negative experience with. 
 
-Cher: [00:48:16] Exactly. 
+**Cher Scarlett:** [00:48:16] Exactly. 
 
-Michaela: [00:48:17] It can be so much, that's going wrong in an interview that 
+**Michaela:** [00:48:17] It can be so much, that's going wrong in an interview that 
 has. Absolutely nothing to do with you, with your abilities, or also, probably 
 not with, with the other person, right. It's just, you know, wrong, wrong place, 
 wrong time.
 
-Cher: [00:48:38] I think the sooner that like our, like, you know, our 
+**Cher Scarlett:** [00:48:38] I think the sooner that like our, like, you know, our 
 industry recognizes that.
 What they're really looking for is the person who feels like they're the most 
 comfortable with that can also, you know, do the job, which is hardly(??)
@@ -783,7 +783,7 @@ strengths and what are your weaknesses and how can you work those things into
 your day to become, uh, the most valuable person for yourself that you can be 
 that feels productive in, in that job environment. 
 
-Michaela: [00:52:06] Yeah, I think being reflective.
+**Michaela:** [00:52:06] Yeah, I think being reflective.
 And as you said, seeing your weaknesses, understanding your weaknesses (??) your 
 strengths, but also what really, you know, what you're striving at. Maybe you're 
 not perfect. You really like to do it. I think that's also very informative of 
@@ -817,7 +817,7 @@ more, where do we fit together? Like, it's a bouquet, right? So how can we
 compliment each other? And even if we are thinking, wearing the same strings, 
 it's okay. There can be two beautiful flowers ( *laugh* ). You know.
 
-Cher: [00:55:01] You know, you think about like art, like photography, I mean 
+**Cher Scarlett:** [00:55:01] You know, you think about like art, like photography, I mean 
 really a lot of different arts.
 And we talk about like, how. I mean, even like interior design, we talk about 
 bringing different textures together, different Heights(??) of things, things we 
@@ -829,13 +829,13 @@ kind of thing that, that we're trying to build is something that's incredibly
 capable, beautiful. And to do that, you need, you know, Differences.
 That's what makes something great. 
 
-Michaela: [00:55:49 ] Yeah. Yeah, exactly. I whole heartedly agree. And so maybe 
+**Michaela:** [00:55:49 ] Yeah. Yeah, exactly. I whole heartedly agree. And so maybe 
 we are ending it with, with that, cause it was a very beautiful last sentence 
 ( *laugh* ). So Cher, is there something that you want to remind us off or 
 something else that we haven't covered that you want to say? To my listeners 
 before we are ending.
 
-Cher: [00:56:10] So I guess I want to just remind people that you don't know 
+**Cher Scarlett:** [00:56:10] So I guess I want to just remind people that you don't know 
 what somebody else has been through or what they're going through. And when you 
 see something like a woman on the Internet who is really high up in whatever it 
 is that she's doing. And she says, I dropped out of high school instead of.
@@ -844,33 +844,33 @@ school? How did you overcome that? And really learning about other people to
 understand why they've done the things they've done or how they got to be, where 
 they are. 
 
-Michaela: [00:56:50] Yeah, it's really beautiful, compassionate curiosity. I 
+**Michaela:** [00:56:50] Yeah, it's really beautiful, compassionate curiosity. I 
 called it very often ( *laugh* ).
 
-Cher: [00:56:59] That's that's beautiful. Compassionate. Be compassionately 
+**Cher Scarlett:** [00:56:59] That's that's beautiful. Compassionate. Be compassionately 
 curious. It's funny. I have a tattoo on my arm that says that I'm passionately 
 curious. So maybe I should add on the COM in parentheses ( *laugh* ) in front of 
 that. I might actually do that. You might have just given me my (??)
 
-Michaela: [00:57:18]  ( *laugh* )that's really good. So. Cher, Thank you so much 
+**Michaela:** [00:57:18]  ( *laugh* )that's really good. So. Cher, Thank you so much 
 for being on my show. It's really, really lovely to talk with you. That's why I 
 think it has been the longest tour(??) that I ever recorded.
 
-Cher: [00:57:31] That's (??) ( *laugh* ) If there's anything I can do is talk 
+**Cher Scarlett:** [00:57:31] That's (??) ( *laugh* ) If there's anything I can do is talk 
 (??)
 
-Michaela: [00:57:40]  ( *laugh* ) Very good. Okay. So have a good, have a good 
+**Michaela:** [00:57:40]  ( *laugh* ) Very good. Okay. So have a good, have a good 
 day and talk to you soon.
 
-Cher: [00:57:47] Yeah. Thank you so much. Have a great evening. 
+**Cher Scarlett:** [00:57:47] Yeah. Thank you so much. Have a great evening. 
 
-Michaela: [00:57:51] Yeah. Okay. Bye. Bye. 
+**Michaela:** [00:57:51] Yeah. Okay. Bye. Bye. 
 
-Cher: [00:57:54] Bye. 
+**Cher Scarlett:** [00:57:54] Bye. 
 
-Michaela: [00:57:56] I hope you enjoyed another episode of the Software 
+**Michaela:** [00:57:56] I hope you enjoyed another episode of the Software 
 Engineering Unlocked podcast. Don't forget to subscribe. And I talked to you 
 again in two weeks. 
 
-Cher: [00:58:08] Bye.
+**Cher Scarlett:** [00:58:08] Bye.
 ( *outro music* )
