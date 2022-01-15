@@ -1,27 +1,25 @@
 # Episode 53 - Mauricio Aniche Systematic Software Testing
 
-[00:00:00] **Michaela:** Hello, and welcome to the soft engineering
-unlocked podcast. I'm your host, Dr. McKayla. And today I have to pleasure to
-welcome Dr. Mauricio's Anisha to talk about systematic software testing. Marissa
-you is currently setting up the internal tech academy of IDN to better onboard
+[00:00:00] **Michaela:** Hello, and welcome to the software engineering
+unlocked podcast. I'm your host, Dr. McKayla, and today I have to pleasure to
+welcome Dr. Mauricio's Aniche to talk about systematic software testing. Mauricio
+is currently setting up the internal tech academy of Adyen to better onboard
 developers and help them grow and upscale their skills.
 
-In addition Maricio is also an assistant professor at the Delft university of
-technology. The reason why I invited Morrissey or here with me today is that
-Mauricio rights is super exciting and very practical book about software
+In addition Maricio is also an assistant professor at the Delft University of
+technology. The reason why I invited Mauricio here with me today is that
+Mauricio writes a super exciting and very practical book about software
 testing. And he agreed even to give away one digital copy of his upcoming
-Manning book to one of our lessons.
+Manning book to one of our listeners.
 
 So you asked, what do you have to do for that? Right. Well, there's the chance
 to win this book. If you like and retweet this episodes, tweet, I will put it in
-the show notes, or you can find it on S E underscore unlocked onto. For an extra
-chance to Vinet right. You can add a comment of your personal best testing
-practice, but now let's welcome.
+the show notes, or you can find it on se_underscore unlocked on Twitter. For an extra
+chance to win the book, you can add a comment of your personal best testing
+practice. But now let's welcome Mauricio. Mauricio, welcome to the show. 
 
-Mauricio Mauricio. Welcome to the show. 
-
-[00:01:13] **Mauricio:** Hi Mikayla. Thank you so much for the invitation. It's
-a pleasure to be. 
+[00:01:13] **Mauricio:** Hi McKayla. Thank you so much for the invitation. It's
+a pleasure to be here. 
 
 [00:01:17] **Michaela:** Yeah, I'm super, super excited. I'm so excited
 to learn about this book. I have a copy already here with me, right? So I'm
