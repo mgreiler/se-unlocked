@@ -480,7 +480,7 @@ Particularly, you know, if it's something like Open Source where people are in
 different times zones and they're working different schedules and some of them 
 are doing it in their own time, you know, something like pairing it, it, you 
 know, it's almost off the table to, to begin with.
-But what we found is if we tried to be. Ad talk with our pairing, which of 
+But what we found is if we tried to be ad hoc with our pairing, which of 
 course works quite well for a lot of teams. We sort of, we never end up doing 
 it because it would be well let yes, let's pair today. Yeah. We definitely want 
 a pair today. Okay. So, so maybe after lunch. Oh, I can't after lunch, I've got, 
@@ -618,11 +618,11 @@ changeable. And I think sometimes characteristics that we assume are just this
 person actually are the context in which we put them as an organization or 
 habits that they'd learned that with the right environment can be unlearned. 
 [00:38:47]  
-**Michaela:**  Our team dynamics maybe right? one person creates or 
-reacts, but only two, right person, but to really the whole team dynamics. 
+**Michaela:**  Or team dynamics, maybe, right? One person creates or 
+reacts, not onlyt only to that person, right, but to really the whole team (dynamics). 
 
-Are you are you a fan of like bonding sessions and you know, we're people, 
-what a team really can, you know, get to know each other, do you think 
+Are you are you a fan of like bonding sessions and you know, where people, 
+where a team really can, you know, get to know each other, do you think 
 thats important? 
 [00:39:06]
 **Holly:** I really like them, but I think they, they need to be done 
