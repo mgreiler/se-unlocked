@@ -1,4 +1,4 @@
-# Epsidoe 52 - Engineering Values with Michaela Greiler
+# Episode 52 - Engineering Values with Michaela Greiler
 
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering unlocked
 podcast. I'm your host, Dr. McKayla, and today I want to talk with you about
