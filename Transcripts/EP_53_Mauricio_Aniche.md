@@ -2,7 +2,22 @@
 
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering
 unlocked podcast. I'm your host, Dr. McKayla, and today I have to pleasure to
-welcome Dr. Mauricio's Aniche to talk about systematic software testing. Mauricio
+welcome Dr. Mauricio's Aniche to talk about systematic software testing. 
+
+
+But before I start, let me tell you about an amazing startup that is sponsoring 
+today's episode: Codiga. Codiga is a code analysis platform that automates 
+the boring part of code reviews and lets you merge with confidence on GitHub, 
+GitLab and Bitbucket. I’ve worked with Codiga for around one year now, and I 
+love how it also guides me in discovering and improving, well, the “not so nice 
+parts” of my codebases. But there is more, Codiga also has a coding assistant 
+that helps you write better code faster. Find and share safe and reusable blocks 
+of code within your favorite IDE on-demand while you are coding. 
+Learn more at [codiga.io](https://www.codiga.io/) - that is Codiga.io.
+
+But now, back to Mauricio.
+
+Mauricio
 is currently setting up the internal tech academy of Adyen to better onboard
 developers and help them grow and upscale their skills.
 
