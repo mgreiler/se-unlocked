@@ -13,7 +13,7 @@ love how it also guides me in discovering and improving, well, the “not so nic
 parts” of my codebases. But there is more, Codiga also has a coding assistant 
 that helps you write better code faster. Find and share safe and reusable blocks 
 of code within your favorite IDE on-demand while you are coding. 
-Learn more at [codiga.io](https://www.codiga.io/) - that is Codiga.io.
+Learn more at [codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked) - that is Codiga.io.
 
 But now, back to Mauricio.
 
