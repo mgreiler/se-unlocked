@@ -1,4 +1,9 @@
-## Transcript Episode 33 Alex Schladebeck 
+---
+episode: "Transcript Episode 33 Alex Schladebeck "
+permalink: /intern-ceo-agile-testing
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
