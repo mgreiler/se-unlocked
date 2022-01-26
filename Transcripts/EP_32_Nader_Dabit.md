@@ -1,4 +1,9 @@
-# Transcript Episode 32 with Nader Dabit Ready
+---
+episode: "Transcript Episode 32 with Nader Dabit Ready"
+permalink: /serverless-competitive-advantage
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
