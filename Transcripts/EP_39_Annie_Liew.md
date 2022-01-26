@@ -1,4 +1,9 @@
-# Episode 39 Annie Liew
+---
+episode: "Episode 39 Annie Liew"
+permalink: /designer-to-web-developer
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
