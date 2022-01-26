@@ -1,4 +1,9 @@
-# Episode 48 with Holly Cummins
+---
+episode: "Episode 48 with Holly Cummins"
+permalink: /innovation-engineering-practices
+status: publish
+type: transcript
+---
 
 [00:00:00]  
 **Michaela:**  Hello and welcome to the software engineering unlocked podcast. 
