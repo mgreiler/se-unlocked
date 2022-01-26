@@ -1,4 +1,9 @@
-# Episode 50: Do not measure productivity 
+---
+episode: "Episode 50: Do not measure productivity"
+permalink: /dont-measure-developer-productivity
+status: publish
+type: transcript
+---
 
 [00:00:00] Michaela: Hello, and welcome to the software engineering podcast. I'm 
 your host, Dr. McKayla, and today is a special episode. Today is the 50th episdoe. 
