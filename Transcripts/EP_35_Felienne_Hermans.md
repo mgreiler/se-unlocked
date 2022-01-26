@@ -1,6 +1,9 @@
-# Episode 35: How Programmers Think and Learn
-
-
+---
+episode: "Episode 35: How Programmers Think and Learn"
+permalink: /how-programmers-think-and-learn
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the soft engineering unlocked podcast. 
 I'm your host, Dr. McKayla. And today I have the pleasure to talk to Felienne 
