@@ -1,4 +1,9 @@
-# Episode Natalie Davis
+---
+episode: "Episode Natalie Davis"
+permalink: /from-bootcamp-to-dev-role
+status: publish
+type: transcript
+---
 
 **Michaela:**  [00:00:00] Hello and welcome to the Software Engineering Unlocked 
 podcast. 
