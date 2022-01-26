@@ -1,4 +1,9 @@
-# Episode Liran Haimovitch
+---
+episode: "Episode Liran Haimovitch"
+permalink: /high-quality-code
+status: publish
+type: transcript
+---
 
 **Michaela:** Hello and welcome to the software engineering unlocked podcast.
 I'm your host Dr. Michaela and today I have a special episode for you. Two weeks
