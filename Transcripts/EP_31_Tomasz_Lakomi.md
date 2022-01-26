@@ -1,4 +1,9 @@
-# Transcript Episode 31 with Tomasz Łakomy
+---
+episode: "Transcript Episode 31 with Tomasz Łakomy"
+permalink: /combatting-tech-debt-in-war-rooms
+status: publish
+type: transcript
+---
 
 **Michaela:**  [00:00:00] Hello, and welcome did a software engineering unlocked 
 podcast. I'm your host, dr. McKayla. And today I have the pleasure to talk to 
