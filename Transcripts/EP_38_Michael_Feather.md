@@ -1,5 +1,9 @@
-# Michael Feathers - (Legacy) code - A living organism
-
+---
+episode: "Michael Feathers - (Legacy) code - A living organism"
+permalink: /legacy-code-michael-feathers
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to 
