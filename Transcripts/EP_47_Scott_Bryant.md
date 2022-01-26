@@ -1,8 +1,11 @@
-# Episode with Kim Scott and Trier Bryant from Just Work_Ready
+---
+episode: "Episode with Kim Scott and Trier Bryant from Just Work_Ready"
+permalink: /diversity-and-inclusion
+status: publish
+type: transcript
+---
 
 [00:00:00] 
-
- 
 **Michaela:** Hello, and welcome to the software engineering unlocked podcast. I'm 
 your host, Dr. McKayla, and today after pleasure to talk to Trier Bryant and 
 Kim Scott who just released the newest book, just work. But before I start, I 
