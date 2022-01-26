@@ -1,5 +1,9 @@
-# Transcript Episode 30 with Ben Lesh
-
+---
+episode: "Transcript Episode 30 with Ben Lesh"
+permalink: /faang-job-without-cs-degree
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello and Welcome to the Software Engineering unlocked 
 podcast. I'm your host, Dr. Mcayla. And today I have the pleasure to talk to Ben 
