@@ -1,4 +1,9 @@
-# Episode 51: Measuring Developer Productivity with Dr. Margaret-Anne Storey
+---
+episode: "Episode 51: Measuring Developer Productivity with Dr. Margaret-Anne Storey"
+permalink: /measure-developer-productivity-space
+status: publish
+type: transcript
+---
 
 [00:00:00] **Dr. Michaela Greiler:** Hello and welcome to the software 
 engineering unlocked podcast. I'm your host, Dr. McKayla. And today I have the 
