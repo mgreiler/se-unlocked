@@ -1,4 +1,9 @@
-# Katie_Moussouris_Ready
+---
+episode: "Katie_Moussouris_Ready"
+permalink: /vulnerability-disclosure-katie-moussouris
+status: publish
+type: transcript
+---
 
 ( intro music )
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
