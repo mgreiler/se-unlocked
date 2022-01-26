@@ -1,4 +1,9 @@
-# Episode Patrick Wagstrom
+---
+episode: "Episode Patrick Wagstrom"
+permalink: /responsibilities-of-a-chief-data-officer
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** hello and welcome to the software engineering unlocked
 podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to
