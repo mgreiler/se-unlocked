@@ -1,7 +1,10 @@
-# Episode 40 with Max Stoiber 
-
-_Transcript is in great shape_
-
+---
+episode: "Episode 40 with Max Stoiber"
+permalink: /getting-ready-for-a-billion-dollar-business
+status: publish
+type: transcript
+---
+ 
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked
 podcast. I’m your host Dr. Mckayla and today I have the pleasure to talk to Max
 Stoiber.
