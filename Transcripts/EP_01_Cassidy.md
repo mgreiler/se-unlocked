@@ -1,4 +1,9 @@
-# Transcript Episode 1 Cassidy Williams
+---
+status: publish
+permalink: /episode-1-cassidy-williams
+type: transcript
+episode: "Transcript Episode 1 Cassidy Williams"
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and I open the doors to software companies 
