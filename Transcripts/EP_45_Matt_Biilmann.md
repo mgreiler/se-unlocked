@@ -1,4 +1,9 @@
-# Episode 45 with Matt Biilmann
+---
+episode: "Episode 45 with Matt Biilmann"
+permalink: /bootstrapping-netlify
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
