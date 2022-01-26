@@ -1,4 +1,9 @@
-# Episode 53 - Mauricio Aniche Systematic Software Testing
+---
+episode: "Episode 53 - Mauricio Aniche Systematic Software Testing"
+permalink: /tests-find-bugs
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering
 unlocked podcast. I'm your host, Dr. McKayla, and today I have to pleasure to
