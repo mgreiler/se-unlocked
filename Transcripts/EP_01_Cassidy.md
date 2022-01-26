@@ -1,8 +1,8 @@
 ---
-status: publish
-permalink: /episode-1-cassidy-williams
-type: transcript
 episode: "Transcript Episode 1 Cassidy Williams"
+permalink: /episode-1-cassidy-williams
+status: publish
+type: transcript
 ---
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
