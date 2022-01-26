@@ -1,4 +1,9 @@
-# Episode 49 with Florin Pop
+---
+episode: "Episode 49 with Florin Pop"
+permalink: /content-creation-as-a-career-path
+status: publish
+type: transcript
+---
 
 [00:00:00] 
 **Michaela:**   Hello and welcome to the software engineering unlocked podcast. 
