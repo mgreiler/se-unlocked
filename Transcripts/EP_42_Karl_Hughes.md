@@ -1,4 +1,9 @@
-# Episode 42: Karl Hughes
+---
+episode: "Episode 42: Karl Hughes"
+permalink: /entrepreneurship-101
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello, and welcome to the soft engineering unlocked
 podcast. I'm your host, Dr. McKayla. And today after pleasure to talk to college
