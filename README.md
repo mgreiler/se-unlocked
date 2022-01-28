@@ -24,3 +24,8 @@ transcipts, please feel free to open an issue, or directly create a PR with the 
 
 ## Hacktoberfest 
 The issues count towards the #Hacktoberfest. 
+
+## New to open source?
+If you have never contributed to open source before, you can learn all about the process here: https://firsttimersonly.com
+It's a project that dedicated to showing you all the steps necessary, like forking the repository and opening the pull request.
+Once you completed it, contribution to this repository involves the complete same steps :-)
