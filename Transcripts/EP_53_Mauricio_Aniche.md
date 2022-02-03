@@ -226,7 +226,7 @@ especially if I hear code coverage and coverage reports and this number right? a
 the question is always okay, well, did I hit every line, but did I even check,
 you know, what's happening here or do i just execute the program, right?
 
-Because well, if, if you know, a smoke test ( laugh ) could also execute a lot of the code
+Because well, if, if you know, a smoke test (*laugh*) could also execute a lot of the code
 base. Actually just, you know, make sure that the code run somehow without
 verifying that, you know, the inputs and outputs are matching and so on. What's
 your take on that. And what is your advice? Is it something that you, you know,
@@ -288,7 +288,7 @@ tests and system tests and, and unit tests and, you know, there's this th the
 testing pyramid, which I think is very, very common and very well known, but is
 it still valid nowadays the pyramid has like biggest part is the base, right?
 And then the higher we go up the [00:14:43] perimeter a little bit, you know,
-reduces its size until, it's just a little, ( laugh ) a little spot at the beginning. So
+reduces its size until, it's just a little, (*laugh*) a little spot at the beginning. So
 and then each of the levels for testing is actually reflected in this pyramid.
 
 So it more or less says that we should do focus on unit testing the most, then a
@@ -468,7 +468,7 @@ these type of domains where you should go for integration tests because they
 will pay better. 
 
 [00:24:24] **Michaela:** Yeah. Yeah. I think that's a very pragmatic
-answer. I like it very much ( laugh ). I also, in this, in this kind of situations I
+answer. I like it very much (*laugh*). I also, in this, in this kind of situations I
 heavily rely on integration tests, but I actually also write a lot of unit tests
 for things that are easier to unit tests.
  
@@ -479,7 +479,7 @@ something that I want to talk with you about. Maintainenance, I think goes hand 
 with test code because we have to maintain test code, right?
 
 If you don't maintain it, and if it's really hard to do it, you are not doing it.
-You are disabling the tests ( laugh ). I know it. I did it right ( laugh ). At one point, you're
+You are disabling the tests (*laugh*). I know it. I did it right (*laugh*). At one point, you're
 just giving up on it and to say, okay, do i comment it out, do I delete it, or
 the worst thing is commenting it out right?.
 
