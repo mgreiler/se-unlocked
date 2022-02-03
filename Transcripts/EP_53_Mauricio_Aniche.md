@@ -539,53 +539,53 @@ And it actually doesn't really find anything, right?. Or the other thing is,
 well, it fails quite a bit, but it also finds quite a lot of things. So we still
 think you should keep it or, you know, go and improve it and so on. So yeah,
 this is something that came up from my mind when you were talking about flaky
-tasks is that something that you have ever looked at?
+tests. Is that something that you have ever looked at?
 
-[00:27:41] **Mauricio:** Yeah. So all big software has flaky tests, right? And
-agile is not different. So there are some flaky tests there. And the approach
+[00:28:27] **Mauricio:** Yeah. So all big software has flaky tests, right? And
+Adyen is not different. So there are some flaky tests there. And the approach
 that the engineers have is super smart in my opinion. So they first detect the
-flaky tests. If the test is freaky, the first thing that happens is we move
-these two separate.[00:28:00] 
+flaky tests. If the test is flaky, the first thing that happens is we move
+these to a separate[00:28:43]suites.
 
 Right because we want to keep, you know, one test suite free of flaky test. So
 this one we can run and we can trust. And then we have a second test suite where
-we, we have the flaky tests, so there, and we keep trying them more than once.
-If they pass, we are somewhat okay. And without the developer, you know, this is
-flaky, but it's sometimes specialist, please review.
+we, we have the flaky tests there, and we keep trying them more than once.
+If they pass, we are somewhat okay, and we tell the developer, you know, this is
+flaky, but it sometimes passes, please review it.
 
-We tried to see how often it is flaky. Right? So the developer has more
+We try to see how often it is flaky, right? So the developer has more
 information to understand it. But what I think is super smart is the separation,
 right? So we don't want to, because if you have flaky tests and then you break
 the build because of a flaky test, you're breaking the entire organization.
 
-Right. And you don't want to do this. So separating them from, from the tests
-that are not flaky, something super smart. The project does. Yeah. That's very
+Right?. And you don't want to do this. So separating them from, from the tests
+that are not flaky is something super smart that Adyen does. Yeah. That's very
 cool. Yeah. Yeah. So I feel like as soon as your software gets that big, you're
 not going to be able to avoid flaky tests. So you have to learn how to live with
 them.
 
-And I wrote a blog post about some smart stuff I saw not only at adjunct, but in
+And I wrote a blog post about some smart stuff I saw not only at Adyen, but in
 industry in general, we have to get used to them. The more complex we do
 software, the more we're going to see. 
 
-[00:29:06] **Michaela:** . I will link that in the show notes. So
-Maricio maybe the last thing that we want to let our listeners know again, is
-that if they go to , as the underscore unlocked on Twitter and retweet this
-episode, and then you have a chance to win this awesome book from a ratio about
+[00:29:54] **Michaela:** . I will link that in the show notes. So
+Mauricio maybe the last thing that we want to let our listeners know again, is
+that if they go to , se_unlocked on Twitter and retweet this
+episode, and then you have a chance to win this awesome book from Mauricio about
 systematic software testing.
 
-And if you add a comment about. Practice in testing software, then, you know,
-you're a double in the pod, right? So there are two entries of you in the pot,
-so you have double the chances to win in the book. And so yeah, with that thank
-you so much. Maricio I think it was a super great interviews. I learned so much,
+And if you add a comment about your best practice in testing software, then, you know,
+you're a double in the pot, right? So there are two entries of you in the pot,
+so you have double the chance to win the book. And so yeah, with that thank
+you so much Mauricio. I think it was a super great interview. I learned so much,
 I heard so much from you.
 
-And I think my listeners as well, so thank you so much for being on my 
+And I think my listeners as well, so thank you so much for being on my show. 
 
-[00:29:46] **Mauricio:** show. Thank you, Mikayla again for the invitation. I
-loved it. Yeah, it 
+[00:30:34] **Mauricio:** Thank you, Michaela again for the invitation. I
+loved it. 
 
-[00:29:51] **Michaela:** was really great. Okay. Bye. Bye. 
+[00:30:38] **Michaela:** Yeah, it was really great. Okay. Bye. Bye. 
 
-[00:29:53] **Mauricio:** Bye. 
+[00:30:41] **Mauricio:** Bye. 
 
