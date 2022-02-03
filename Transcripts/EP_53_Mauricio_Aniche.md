@@ -366,166 +366,166 @@ another set of practices.
 
 So I tried to make a more generic discussion, you know, on integration testing. 
 
-[00:18:07] **Michaela:** So you will also talking about something that I
-want to explore a little bit at that testability. Right. So you were saying,
+[00:18:54] **Michaela:** So you were also talking about something that I
+want to explore a little bit and that's testability, right?. So you were saying,
 well, it's a little bit harder to make things testable and, and, you know, you
 have to have testability in, in mind.
 
 What does testability even mean and what did design principles, software design
 principles help us make software system more testable on different levels?
-Right. So is there a difference in making unit tests more testable versus
+Right?. So is there a difference in making unit tests more testable versus
 integration and system tests or, 
 
-[00:18:37] **Mauricio:** yeah, a good question. I think. The testability rules,
+[00:19:24] **Mauricio:** yeah, a good question. I think. The testability rules,
 if I can call them like that are not so complicated, but it's super hard to
 apply them.
 
 Once you start to develop more complex software, because your mind is just full
 of other things to think about. But a testable system is just a system that is
 super easy for you to control. So I want to test this specific class or a
-specific component of my system is super easy for me to tell the component what
-I wanted to do.
+specific component of my system, it's super easy for me to tell the component 
+what I want it to do.
 
-And it's also easy to observe. What this component is doing. So laughter the
-component is done. It's easy for me to assert that the component behaves as I
+And it's also easy to observe what this component is doing. So after the
+component is done, it's easy for me to assert that the component behaves as I
 expected. So those are the two things that you should always have in mind to
-design testable systems. Now when it comes to source code and implementation if
-we think of Java code, for example I think rule number one, when it comes to
+design testable systems. Now when it comes to source code and implementation, if
+we think of Java code for example, I think rule number one, when it comes to
 testability of Java code is your classes depend on other classes.
 
 You should be able to test your class without really depending, too much on the
-dependency. So we want to be able to mock some dependencies maybe so that you,
+dependency. So we want to be able to mock some dependencies maybe, so that you
 you gain some control. And so I feel like the most common anti-pattern I see
 there when it comes to testability is, you know, you're creating a class.
 
-Make this class to depend on five other classes, but you don't give away for the
-testing codes to control these things. And this starts to accumulate, and this
-becomes like a snowball and [00:20:00] it's super easy to lose control and then
+You just make this class to depend on five other classes, but you don't give away 
+for the testing codes to control these things. And this starts to accumulate, and this
+becomes like a snowball and [00:20:47] it's super easy to lose control and then
 to never be able to write unit tests anymore. So that is rule number one.
 
-There are many others. I discussing a book, so I'm a big fan of the ports and
-adapter. Execunet all architecture. I feel like they all go in line with the way
+There are many others. I discussed in the book, so I'm a big fan of the ports and
+adapter, hexagonal architecture. I feel like they all go in line with the way
 I see design for testability. So it's not super complicated, but I feel we need
 to put a lot of efforts in making sure we are never forgetting to do these
 things.
 
-Does that make sense to you? Yeah, it makes 
+Does that make sense to you? 
 
-[00:20:30] **Michaela:** sense. The question is a little bit, okay. We
+[00:21:18] **Michaela:** Yeah, it makes sense. The question is a little bit, okay. We
 can create mocks. We can stop things. But first of all, it, it, it takes a lot
 of effort right. To do it. And, and then if we do it, like, for example, I am
-writing a lot of data intensive applications. Right? Very, you have like a lot
+writing a lot of data intensive applications, right? Where, you have like a lot
 of, a lot of large data, you know, inputs that are done somehow processed.
 
 And if you want to mock that, or, you know, Parts of it. It really gets very
 tedious and it gets hard to control. And especially if you're, you know, like,
 let's say we are mining data from GitHub, right. One of the things that I love
-to do so we are, we are, we are connecting to the GitHub API. And now we want to
+to do, so we are, we are, we are connecting to the GitHub API. And now we want to
 make our test cases, obviously independent of that, because we don't actually
 want to query, you know, those large data sets for every test that we're
 running.
 
 So we have some version of that locally. And it gets really complicated. Like
 not complicated in, it's hard to do way, but it's very tedious to do it. It's
-error prone. And then, you know, the ABI changes or the format of how they
+error prone. And then, you know, the API changes or the format of how they
 present, you know, the XML structure and so on changes. And then you have to go
-to your test code into your marks and your stops and your, you know, dummy data.
+to your test code and to your marks and your stops and your, you know, dummy data.
 
 And, and change all of that. What can we do to, you know, make our lives a
 little bit easier here? Is there something, or is it we have to deal with it? 
 
-[00:21:56] **Mauricio:** Yeah. Good question. So I feel like if it's becoming
-[00:22:00] boring for you to mock stuff, this is just the code telling you that
+[00:22:43] **Mauricio:** Yeah. Good question. So I feel like if it's becoming
+boring for you to mock stuff, this is just the code telling you that
 there's something wrong, right?
 
-It shouldn't be hard to. So usually my decision-making processes, if things are
+It shouldn't be hard to. So usually my decision-making process is, if things are
 hard to mock, are there, is there any other way for me to redesign things, you
 know, maybe move some responsibility there, some other responsibility here so
 that the design of classes make mocking a little bit easier.
 
 That's number one. Number two is I feel like sometimes we have this idea that if
-we're using mocking, we should only test one class and then. And that's not
-really true, right? Maybe you can test a bunch of classes together and just mock
+we're using mocking, we should only test one class and then mock the rest. And that's
+not really true, right? Maybe you can test a bunch of classes together and just mock
 the classes that are, you know, super hard to use the concrete ones.
 
 So you can test higher components and some classes are the, you know, the
 concrete implementation during the test, some other classes you just mock. So I
 feel like you can also try to, you know, go one level up and look at, you know,
-classes together rather than one single. That being said, some domains just are
+classes together rather than one single class. That being said, some domains just are
 not unit testing friendly.
 
-And the domain mentioned mining reposts is it's one that is super close to my
+And the domain you mentioned, mining repositories is it's one that is super close to my
 heart as well as a researcher. And so when I'm doing these type of tools, where
-I extract data from V3 post threes, or I bar source code to come up with code
-metrics I don't try to unit that so much. So I have a, I have a project in my
-get hub called CK, which is the code metrics tool.
+I extract data from git repositories, or I parse source code to come up with code
+metrics I don't write unit tests so much. So I have a, I have a project in my
+github called CK, which is a code metric tool.
 
 It looks at the Java class and tells you the complexity, coupling and et cetera.
-I don't mock. Because it just makes no sense. It was super hard for me.
+I don't mock stuff. Because it just makes no sense. It was super hard for me.
 
 So 90% of the tests there are integration tests. So there's also, you know,
 these type of domains where you should go for integration tests because they
 will pay better. 
 
-[00:23:37] **Michaela:** Yeah. Yeah. I think that's a very pragmatic
-answer. I like it very much. I also, in this, in this kind of situations I
-haven't. Rely on integration tests, but I actually also ride a lot of unit tests
+[00:24:24] **Michaela:** Yeah. Yeah. I think that's a very pragmatic
+answer. I like it very much ( laugh ). I also, in this, in this kind of situations I
+heavily rely on integration tests, but I actually also write a lot of unit tests
 for things that are easier to unit tests.
-
+ 
 But if I see that it's really hard now, I change my method and do something that
-I feel, is a little bit [00:24:00] more meaningful also from a maintains
-perspective. Right? So. Maintain ends, I think is also something. And maybe
-something that I want to talk with you about tenants, I think goes hand in hand
-with Tesco because we have to maintain Tesco, right?
+I feel, is a little bit [00:24:48] more meaningful also from a maintenance
+perspective, right? So maintainenance, I think is also something and maybe
+something that I want to talk with you about. Maintainenance, I think goes hand in hand
+with test code because we have to maintain test code, right?
 
-If you don't maintain it, and if it's really hard to do it, we are not doing it.
-You are disabling the tests. I know it. I did it right. I At one point, you're
-just giving up on it and to say, okay, already commented out or I deleted, or
-the worst thing is common to the alt-right.
+If you don't maintain it, and if it's really hard to do it, you are not doing it.
+You are disabling the tests ( laugh ). I know it. I did it right ( laugh ). At one point, you're
+just giving up on it and to say, okay, do i comment it out, do I delete it, or
+the worst thing is commenting it out right?.
 
-So I think Ventana, the tests are so important. Do you have some tips for us how
+So I think maintainable tests are so important. Do you have some tips for us how
 to get to maintainable tests? 
 
-[00:24:32] **Mauricio:** My book proposes 10 guidelines. I of course don't know
+[00:25:18] **Mauricio:** My book proposes 10 guidelines. I of course don't know
 them all by heart, but the, they are all about readability, maintainability of
-Tesco because in practice you're going to write lots and lots of them.
+test code because in practice you're going to write lots and lots of them.
 
 So my generic advice there that encapsulates those 10 recommendations in the
 book is you should pay as much attention to the test code. As you pay to
 production codes. We love to refactor. We love to create abstractions. We love
-to isolate the code. The same techniques you can apply in your test code and
+to isolate duplicated code. The same techniques you can apply in your test code and
 that will pay off for sure.
 
-Finally, Michela, you mentioned you mentioned flaky tests, those really happen.
+Finally, Michaela, you mentioned you mentioned flaky tests, those really happen.
 And we should try to avoid them as much as possible. Although I just wrote a
 blog posts on the website of my book saying that I don't believe we can ever get
 fully rid of them, because if we're in a super large and complex system they
 will happen.
 
-And sometimes for reasons, you can't control for reasons you don't fully
+And sometimes for reasons you can't control, for reasons you don't fully
 understand. So I feel our job is to not only avoid them when possible, but also
 to keep them under control.
 
-[00:25:41] **Michaela:** One thing that comes to my mind is when I was
-working at Microsoft what we did, like windows had flaky tests, right?
+[00:26:27] **Michaela:** One thing that comes to my mind is when I was
+working at Microsoft what we did, like windows had a flaky test, right?
 Especially because the integration tests and the functional tests where we
-really try, you know, under different settings, the systems and so on.
+really try, you know, under different settings, the systems and so on, drivers.
 
-Blah, blah, blah. Right. So it gets really complicated. It's really, you know, a
-lot [00:26:00] of configuration, so you're running a lot of tests and some of
-them just fail. And so what we did here is we, instead of, you know, sad, well,
+Blah, blah, blah. right?. So it gets really complicated. It's really, you know, a
+lot [00:26:46] of configuration, so you're running a lot of tests and some of
+them just fail. And so what we did here is we, instead of, you know, said, well,
 let's, let's disable all the flaky tests or, you know, it wasn't even possible
 to fix all of them, right.
 
-Because it was sometimes. Clear why there, you know, why they're flaky. And
+Because it was sometimes not even clear why there, you know, why they're flaky. And
 sometimes what we did is we measured their effectiveness. So how often is it
 flaky tests actually finding a thing? And how often is it giving a false
-positive? And we had like a cost benefit analysis where we say.
+positive? And we had like a cost benefit analysis where we said,
 
 Well, every time it fails for no good reason. It's a cost of your career because
 we have to go and investigate and find out actually nothing happened. And then
 for every time it actually finds it back. We tried to estimate. You know, how
-much did that actually help us now? Right. So how much how much did we safe and
+much did that actually help us now? Right? So how much how much did we save and
 so for each of those tests, we had a profile on, you know, from past runs and we
 looked at that, I mean, it was again, obviously an automatic approach.
 
@@ -535,7 +535,7 @@ are the test cases. And this test, you know, is more red than green, more red
 than green means, but it's failing really often. So you have to investigate
 really often and, you know, you just realize nothing happened.
 
-And it actually doesn't really find anything. Right. Or the other thing is,
+And it actually doesn't really find anything, right?. Or the other thing is,
 well, it fails quite a bit, but it also finds quite a lot of things. So we still
 think you should keep it or, you know, go and improve it and so on. So yeah,
 this is something that came up from my mind when you were talking about flaky
