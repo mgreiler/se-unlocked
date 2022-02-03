@@ -36,7 +36,7 @@ Manning book to one of our listeners.
 
 So you ask, what do we have to do for that? Right?. Well, there's the chance
 to win this book. If you like and retweet this episode's tweet, I will put it in
-the show notes, or you can find it on se_underscore unlocked on Twitter. For an extra
+the show notes, or you can find it on se_unlocked on Twitter. For an extra
 chance to win the book, you can add a comment of your personal best testing
 practice. But now let's welcome Mauricio. Mauricio, welcome to the show. 
 
@@ -45,7 +45,7 @@ a pleasure to be here.
 
 [00:02:00] **Michaela:** Yeah, I'm super, super excited. I'm so excited
 to learn about this book. I have a copy already here with me, right? So I'm
-following you actually, while you're writing it and you're really far already.
+following you actually, while you're writing it and you're really far away.
 
 And so I have a lot of questions and I think we can, you know, look at
 systematic and effective testing throughout this episode and we can really deep dive
@@ -56,7 +56,7 @@ you?
 What is that? What is systematic software testing? 
 
 [00:02:37] **Mauricio:** That's a super good question. Michaela and i think that's
-what makes my book different from the others? So I think we are now
+what makes my book different from the others. So I think we are now
 super good at writing tests and we're super familiar with tools like J unit and
 et cetera. But when it comes to writing test cases themselves, a lot of times we
 just follow our gut feelings.
@@ -111,8 +111,8 @@ Can I think about it that way?
 
 [00:05:12] **Mauricio:** Yeah, definitely. And to be honest, at some moment
 when I was writing the book, I considered a lot creating a checklist where
-people could, you know, just try to follow and these ideas are not fully mine.
-Right?. So I learned a lot from what is in there. And so the domain testing
+people could, you know, just try to follow and these ideas are not fully mine,
+right? So I learned a lot from what is in there. And so the domain testing
 techniques that are there maybe super popular in academia, a bit less popular in
 industry they are doing these checklists without calling them checklists.
 
@@ -164,7 +164,7 @@ different techniques you can do to, to make your tests better.
 
 Like property-based testing, design-by-contracts so on and so forth. but, the two
 techniques are the ones that I consider core for someone that wants to create
-group tests. 
+good tests. 
 
 [00:08:10] **Michaela:** So domain testing, I have to see a little bit as,
 it's not, it's not black box box testing because I know the code. But it's
@@ -174,7 +174,7 @@ So maybe I'm looking at the JIRA ticket or, you know, some, some story in, in,
 on get hub or something, then I'm reading down what this, you know, what this
 code change actually should do and then I'm developing my test for that. And
 then I should compliment that with structural testing, where i actually go at the
-code and see, you know, how it, how is it actually implemented and dry?
+code and see, you know, how it, how is it actually implemented and do i?
 
 Because code coverage for me would be not only about [00:08:46] how is that
 implemented, but also like line coverage. Do I, you know, do I hit every line,
@@ -215,7 +215,7 @@ a hundred percent, I don't care.
 
 I just cared that you reflected about things you didn't test. You know what i mean?. 
 
-[00:010:40] **Michaela:** And so, yeah, I know what you mean, but so one
+[00:10:40] **Michaela:** And so, yeah, I know what you mean, but so one
 of the biggest criticisms for code coverage is [00:10:47] that we are, we are
 counting or most of the programs actually look at, Has this code been executed or
 not? but we are not looking for,
@@ -232,7 +232,7 @@ verifying that, you know, the inputs and outputs are matching and so on. What's
 your take on that. And what is your advice? Is it something that you, you know,
 that you talk about in your book and the developers should be worried about?
 
-[00:10:54] **Mauricio:** No, I think that's, that's common sense in industry. A
+[00:11:41] **Mauricio:** No, I think that's, that's common sense in industry. A
 lot of developers really hate code coverage. And in fact, I have an entire
 section on the book called something like, why do developers hate coverage?
 Something like that. And to me, I think if you're looking at code coverage as a
@@ -281,7 +281,7 @@ is it was showing how, how good integrations were covered or which ones were not
 covered, right? So again, so a little bit showing the blind spots.
 
 And for that, I was really comparing. Dynamic execution, you know, and, and
-stabbing execution, because then you could overlay that and say, well, actually,
+static execution, because then you could overlay that and say, well, actually,
 in the dynamic setting through testing, we didn't cover that part. Right. So
 yeah, I like that very much. How do you, how do you think about integration
 tests and system tests and, and unit tests and, you know, there's this th the
@@ -297,7 +297,7 @@ testing and so on. Is that something that you recommend is that a, is that a
 view that you share?. 
 
 [00:15:10] **Mauricio:** You are only asking me the tricky questions Michaela, 
-I love that. Before I answere the test pyramid, let me make a remark about tools, because you
+I love that. Before I answer the test pyramid, let me make a remark about tools, because you
 mentioned you developed the tool and et cetera.
 
 And I feel it is about time for us to take the next step when it comes to code
@@ -517,12 +517,12 @@ them just fail. And so what we did here is we, instead of, you know, said, well,
 let's, let's disable all the flaky tests or, you know, it wasn't even possible
 to fix all of them, right.
 
-Because it was sometimes not even clear why there, you know, why they're flaky. And
-sometimes what we did is we measured their effectiveness. So how often is it
+Because it was sometimes not even clear why they are, you know, why they're flaky
+sometimes. What we did is we measured their effectiveness. So how often is a
 flaky tests actually finding a thing? And how often is it giving a false
 positive? And we had like a cost benefit analysis where we said,
 
-Well, every time it fails for no good reason. It's a cost of your career because
+Well, every time it fails for no good reason. It's a cost that we incur because
 we have to go and investigate and find out actually nothing happened. And then
 for every time it actually finds it back. We tried to estimate. You know, how
 much did that actually help us now? Right? So how much how much did we save and
@@ -545,7 +545,7 @@ tests. Is that something that you have ever looked at?
 Adyen is not different. So there are some flaky tests there. And the approach
 that the engineers have is super smart in my opinion. So they first detect the
 flaky tests. If the test is flaky, the first thing that happens is we move
-these to a separate[00:28:43]suites.
+this to a separate[00:28:43]suites.
 
 Right because we want to keep, you know, one test suite free of flaky test. So
 this one we can run and we can trust. And then we have a second test suite where
