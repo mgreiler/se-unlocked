@@ -204,13 +204,14 @@ things that I especially hate as a front end engineer is Bheki for direction.
 My goal is as a developer. And the question about testing in general is I
 don't want the big production.
 
-**Michaela:**  [00:12:29] So I actually read through one of your articles that
+**Michaela:**  [00:12:29] So I actually read through one of your articles,that
 you also have mentioned on LinkedIn is one of the Africans that you are most
 proud of. That's most popular, something like this, it's called a seven years as
 a software developer, right? The lessons that you have learned there, and you
 were talking about culture base again, right?
 And so one of the things that you were saying, and I'm just, I'm now quoting you
-robot him more or less, right. USA. I've personally seen people submitting code
+robot him more or less, right. USA. I've person
+ally seen people submitting code
 reviews when X, right, the person wasn't in the office, or why was it a business
 trip? X was a brilliant programmer, but enduring through his code reviews
 process was a chore.
@@ -221,14 +222,14 @@ that? Like how, how do you, how do you handle unkind commons and how do you
 surface that at, as a company, as a team?
 You know, how do you deal with that?
 
-**Tomasz:**   [00:13:33] So, at the beginning, I w I would like to add, but if I were
+**Tomasz:**   [00:13:33] So, at the beginning, I would like to add, but if I were
 to write this part again, I would probably add some more new ones with. But that
 was the, a bit of a, of a hot steak. And, you know, there were lots of comments
 on Reddit, uh, regarding that part, because it seems to kind of cause a little
 bit of attention, which I don't think it's necessarily for the book, because the
 main point is silver.
 You should be kind to other people when it comes to kind of like dealing with
-that. I. I think it's not easy and you are, you are probably the best person in
+that. I think it's not easy and you are, you are probably the best person in
 the world to having better cultural views. But nevertheless, I guess my personal
 idea is that you should always try to reach out to somebody when there are, for
 instance, like kind of comments in photos, because there are two things that
@@ -237,7 +238,7 @@ First of all, they may be, are not aware that their comments are on time. Maybe
 they're just trying to be direct. Maybe they didn't have the time to kind of, I
 don't know, use the word please in a sentence, which I think it should happen
 anyways, but it could also be that something is actually happening in their
-personal lives and there are not, or the feeling, you know, like doing code for
+personal lives and there are not, or the feeling, you know, like coding for
 this today.
 So that's why I'm, that could happen. But nevertheless, I would always reach out
 to them and say, by the way, those are kind of like review guidelines. We are
@@ -253,9 +254,9 @@ terrible, consider that you are maybe not aware of their constraints, maybe
 there's some context that you are not aware of.
 Maybe there's something that should be improved. Maybe you should talk to them.
 Maybe if you see a culture of yours, doesn't have any tests whatsoever, maybe
-propose to fire off. And those tests together.
+propose to fire off and  do those tests together.
 
-**Michaela:**  [00:15:59] Yeah, I like, and you also had that actually in your,
+**Michaela:**  [00:15:59] Yeah, I like that, and you also had that actually in your,
 in your blog post, right? You were saying, well, go and change the channel, the
 communication channel.
 Right. So instead of leaving all those comments in the culture view, why not
