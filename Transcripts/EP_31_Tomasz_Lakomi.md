@@ -552,7 +552,7 @@ something that others are thinking about and your are adopting it?
 
 **Tomasz:**   [00:35:03] So we have, we have a couple of confining values and two of
 them are my favorites. So the first one is be open. And the second one is to
-take ownership. And I imagined the thing that the, because most kind of like
+take ownership. And I imagined this kind of thing, because most kind of like
 senior engineers in our organization, like we have this strong sense of
 ownership. So we are not building something in a bad way because I don't know
 somebody from higher above telling us, do we want to build the best experiences
@@ -562,29 +562,29 @@ don't know, imagine that we were not doing cultivars at all. And I thought we
 have a group of engineers who are saying, we want to do code reviews and we get
 to kind of influence our, you know, technical directors are very open to
 communication too, to discussion.
-So it's not like there are no them all kinds of people. There are very, you
+So it's not like there are no these kinds of people. There are very, you
 know, kind of eager and to not only do discuss, but also to listen to our
 feedback. And to improve and also grow, grow on each other. We also have this
-process of kind of like a request for comments documents. So if you, as an
+process of kind like a request for comments documents. So if you, as an
 engineer, if you feel like somebody, something is not 100%, okay.
-Like there are some processes that could be improved. You can always, I document
+Like there are some processes that could be improved. You can always, document and
 ask other for feedback. And maybe like this document has become basically the,
-the way we do bad things from now on at all life.
+the way we do bad things from now on.
 
-**Michaela:**  [00:36:40] Yeah. So one of the things that I know is your area is
+**Michaela:**  [00:36:40] Yeah. So one of the things that I know in your area is
 somehow testing. And I know that you, I mean, I asked that question today on
 Twitter.
 You know, what people want me to ask you? And testing was one of the things and
 they said, well, yeah, you're doing testing. If your skills are not really good.
 Yeah, exactly. Yeah. Can you tell me a little bit more about your philosophy
-here and.
+here.
 
 **Tomasz:**   [00:37:05] So my philosophy when it comes to testing is that I want to
 sleep better at night. I don't want to worry about my changes back in
 production. I am not brave enough to push major features to productions that
 they don't have pets basically.
 So when it comes to that, I struggled with believe that something that is not
-tested, it's not done. And this tweet that you are referring to is from my
+tested, it's not done. And this tweet that you are referring to is from a
 colleague of mine. Right. And we have this internal job that's tests. So down
 development, because if you build a feature and you guys did the test, it is
 twice the work.
