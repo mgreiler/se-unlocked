@@ -261,7 +261,7 @@ in your blog post, right? You were saying, well, go and change the channel, the
 communication channel.
 Right. So instead of leaving all those comments in the culture view, why not
 reaching out to the person directly and asking, you know, if you can be, as you
-said, Of help in a different way. Right. And I think that's really important.
+said, of help in a different way. Right. And I think that's really important.
 So, and maybe I want to come back to one of the things that you said at the
 beginning is like, well, I will definitely reach out, but do you see yourself
 reaching out as the person that gets this critique?
@@ -278,7 +278,7 @@ So if it doesn't happen for their cause like this, this thing that I've written
 about in the article, it happened years ago. Uh, and it doesn't do the, have
 them in my current company, which is something that I'm very happy to see. But
 nevertheless, if I were to see a situation in which somebody more senior is kind
-of attacking a more junior engineer in the cultural view, I would different.
+of attacking a more junior engineer in the cultural view, I would act different.
 You reach out to, to that reviewer saying this is not okay. This is not
 something that we do, because think about it. Some people are not used to
 culture. This culture is, are very public. And it doesn't make people excuse
@@ -375,7 +375,7 @@ distraction on the side that nobody was ready to take on.
 So when I looked at your LinkedIn profile, I not only saw, you know, where
 you're working at right now, but I also saw a list of things that you're doing.
 Outside of work or, you know, partially at work or whatnot. Right. So you are
-also an egghead instructor. And I think I remember correctly, you said like you
+also an egghead instructor. And if I remember correctly, you said like you
 have 150 videos or something, is that
 
 **Tomasz:**   [00:23:39] correct?
@@ -402,10 +402,10 @@ this kind of level. I was absolutely not planning on the coding. So many videos
 when I started two years ago, nearly to the day two years ago. I remember at the
 very beginning I had a F I had this feeling, but what am I going to record?
 I have nothing to teach. Um, this is not exactly true. I think that if you have
-non trigger experience as a developer with defense, they have something to teach
+non trigger experience as a developer with defense, you have something to teach
 others. And if you are, if you have this feeling that you have definitely
 nothing more to teach, well, this is a good time for you to learn something new.
-And I found with myself that I learned the best by teaching. So the best way to,
+And I found myself that I learned the best by teaching. So the best way to,
 for me to solidify something that I've learned related to the recency is to
 write a blog post about this.
 
@@ -420,7 +420,7 @@ share something with others. I mostly tried to think, what would it be useful to
 me? Because some concepts of amazingly well explained as a blog post, because,
 because you can search through it and whatnot, some topics are better when it
 comes to, to a video.
-So for instance, if I were to, I have a book post on my, on my screen right now,
+So for instance, if I were to, have a book post on my, on my screen right now,
 uh, I was watching this amazing talk about coconut cookies, tokens, and API is
 kind of this in depth, dive into, into those topics. And that was doing some
 notes and basically turned them into blog posts that I published yesterday.
@@ -430,7 +430,7 @@ watched. But if I were to try to explain something that is a bit more visual. So
 how do you do something in AWS console? Then the video works somewhat better
 than this.
 
-**Michaela:**  [00:26:56] Yeah. Yeah. And so you just said AWS, so I noted your
+**Michaela:**  [00:26:56] Yeah. Yeah. And so you just said AWS, so I noted you
 are AWS certified. What do you do there? How did you know, was it a requirement
 from your job, or why did you set out to do that certification? And I also
 started, you're going to the next level from AWS certified and yeah. What
@@ -448,7 +448,7 @@ while, my manager and encouraged me to learn more about this, because the idea
 was, if you want to be able to contribute more, if you want to be able to
 contribute to the technical discussions that you have to act detector decisions,
 you should probably know what is going on.
-And getting certified is a. It's a good way to accomplish that for two reasons,
+And getting certified is. It's a good way to accomplish that for two reasons,
 because there's this texture system over there. And in order to become a
 certified, because there are, there's basically a list of topics that you have
 to be knowledgeable in, in order to pass the exam. Right? So we have the sector
@@ -512,13 +512,13 @@ manager stuff and there's an individual contributor path.
 So in the manual, just powerful can become an engineering manager afterwards.
 You can become a head or director of engineering after work, probably a CTO or
 something. I'm not even thinking about this level right now on the individual
-contributor path. We have fleet engineers and principal engineers, and.
-Chief engineers if I remember correctly. So basically what we want to do is to
+contributor path. We have fleet engineers and principal engineers, and
+chief engineers if I remember correctly. So basically what we want to do is to
 avoid this problem that I saw at my very first company where you had senior
 developers who are promoted to engineer managers, not only not because they had,
 they had manager skills. But you had to promote the subway. That that was the
 UNBC option.
-And some engineers are terrible managers because managers managing people. It's
+And some engineers are terrible managers because managers are managing people. It's
 a completely different job than, you know, being a casino software engineer.
 
 **Michaela:**  [00:33:18] And so where do you want to go? Like you're now in
@@ -538,10 +538,10 @@ picture of where we would actually be in, I dunno, two years in charge of this
 and whatnot.
 I am not entirely sure whether I would be the best manager alive. Definitely not
 a remote manager. Maybe if this wasn't no, the year of 2020, where everybody's
-working remotely, that would be probably a different story. But as of as welfare
+working remotely, that would be probably a different story. But as of the welfare
 right now, I am gearing towards the reef engineers
 
-**Michaela:**  [00:34:29] posh. And so one of the things that when I hear you
+**Michaela:**  [00:34:29] posh. And so one of the things when I hear you
 talking, right, it feels like you're very involved in the decisions that are
 made about, you know, for example, well, how do we tackle technical debt?
 Right. Do we do this war rooms? Are people involved in those discussions about,
