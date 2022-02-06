@@ -608,9 +608,9 @@ be empty.
 it's a, it's a little bit a wrong perception because you're not only writing
 code.
 Right. So there's this task that you're writing code, but an actually code lives
-on. Right. So, and you wanted to have it live on for a long time. And so if you
+on. Right. So, and you want it to have it live on for a long time. And so if you
 think like this is the first investment that you're making, and then based on
-this investment, you're profiting from it. Right. But by your profit thing, you
+this investment, you will profit from it. Right. But the profit thing, you
 actually have to maintain.
 The code. And so if you're, as you said, if you're building a better foundation
 and if you are adding tasks right in, you know, your foundation is actually good
@@ -639,7 +639,7 @@ that people. And this product driven mindset means that you don't necessarily
 think about the structure of building in terms of, again, JIRA tickets you think
 about, okay, this is the problem that we are trying to solve.
 How can we do that with maybe without even writing any code at all? Because some
-problems can be solved. By, I dunno, an email. I have a, I have a, this example
+problems can be solved. By, I dunno, an email. I have a, this example
 that I often give, that we had this idea that we wanted to ask our users
 feedback on a certain feature. This feature was not used by many people, so we
 want them to kind of have a survey inside of this page, but then we decided that
@@ -649,7 +649,7 @@ If we were to build a form or survey.
 
 **Michaela:**  [00:41:48] Yeah. And so what came to my mind when you were
 talking about this, is that I think. I mean, they're definitely engineers that
-don't want, or don't care so much about the product. And I, again, think it's
+don't want, or don't care so much about the product. And again, l think it's
 not the engineer themselves. I think it's the culture in the company, right?
 That at one point you give it up maybe and just say, well, yeah, it doesn't
 actually met him. What I think. So we just do what we are asked to because
@@ -669,7 +669,7 @@ tool. But there's this business aspect, which says, well, we are much bigger
 than contributes, right?
 We are doing so much more. So right now we don't have to make the best product
 for code reviews. And so somehow this idea about, you know, making the best
-product com becomes a little bit diluted by, you know, the business goals that
+product becomes a little bit diluted by, you know, the business goals that
 you have as well, which are not always the product goals. I don't know if this
 has makes sense to you if you feel that as well, but this is something that I
 feel it's.
@@ -685,10 +685,10 @@ no exception and. Engineers are, you know, we, we don't like that. We don't
 like, you know, having other Sonos creeps that are loaded on our beautiful,
 beautifully crafted pages with Google ads or whatever. And then we get, you
 know, get informed that by the way, this is paying X percent of your salary
-guide because, you know, we are not putting those apps for, because we want to,
+guide because, we are not putting those apps for, because we want to,
 right.
-We are putting those ads because they help us, you know, our business and, you
-know, earn more money for the business. And I completely agree with you, but
+We are putting those ads because they help us,  our business and
+ earn more money for the business. And I completely agree with you, but
 sometimes it is difficult to kind of figure it out. Why we should do a certain
 thing. And I think it's always important both in programming product and
 business, to try to figure out what do we optimize for a given moment, right?
@@ -696,13 +696,13 @@ So are we optimizing for growth in our user base? Are we optimizing for the best
 possible product or are we optimizing for the greatest revenue? Because doing
 all of those at the same time is actually impossible.
 
-**Michaela:**  [00:44:59] Yeah. Yeah, yeah, definitely. Yeah. I find it always
+**Michaela:**  [00:44:59] Yeah. Yeah, yeah, definitely. I find it always
 quite challenging, especially like all those, even though, you know, it, it's
 not pleasant.
 Right. So even though, you know, okay. To add some now paying part of my salary,
 it's still not a pleasant feeling like, Oh, the performance goes down. That's
 horrible. Can we block it? Where's the ad blocker, right? Yeah, exactly. Right.
-Yeah. Yeah. Very cool. So, well, I think we actually reached the end of our
+ Yeah. Very cool. So, well, I think we actually reached the end of our
 session today of the interview.
 Is this something that you want to share with my listeners that we haven't
 touched on that you think would be important or something that you want to tell
@@ -717,7 +717,7 @@ master's degree in electronics and telecommunications. How somewhat this degree
 is to my career.
 If you are studying for, in a computer science degree, you were probably going
 to become a developer and some of those skills are going to be useful. But
-nevertheless, I w I wanted to kind of express this idea that if you are in
+nevertheless,  I wanted to kind of express this idea that if you are in
 college, if you are, if you basically should have chosen our own pager for, for
 a set and you have ended up.
 I have this strong feeling that as you know, your university is basically not
@@ -728,18 +728,18 @@ write a single line of Java script doing my inner negativity.
 So this was something that I would love to hear.
 
 **Michaela:**  [00:47:03] Yeah. And I also think that there's always a point to
-change, right? I mean, if you look at my, if you look at my path, there was a
-big. A big turning point that people would probably say, well, that's the big
+change, right? I mean, if you look at me, if you look at my path, there was a
+big,a big turning point that people would probably say, well, that's the big
 turning point, right? There's when I finished art school and I went on to do
 computer science.
-Right. And I didn't have an idea about computers. And so maybe that was, it
+Right. And I didn't have any idea about computers. And so maybe that was, it
 seems like this is a turning point, a huge turning point, but actually it's not,
 it wasn't really like this huge turning point. When I started from computer
 science to software engineering, right. When I made this switch was again, It
 was probably the same turning point, right.
-When I then went to, you know, do for my first job was again, a very different,
-you know, experience when I worked as a researcher and actually over the years,
-you know, things really. They get less, less important and still, you know,
+When I got my first job again then a very different
+ experience when I worked as a researcher and actually over the years,
+you know, things really. They get less, less important and still,
 every time you do something new, it's again, it feels like, Oh my God, can I do
 that?
 Right. It feels like, Oh, this is what I, so when I stopped my research position
@@ -750,10 +750,10 @@ it completely changed again.
 And so I think it's always, when we are in this situation, we feel like, Oh,
 this is now so important, right. This is such a defining moment for my life. But
 actually we can always change. I mean, even if you don't have a computer.
-Science degree or no university degree, you can actually really change. And
+Science degree or no university degree, you can actually really change and
 it's, it's a lot about imposter syndrome.
-Also, maybe getting over, you know, yourself and you know, your, your feelings
-or your thoughts in your head that tell you you're not good at that, or because
+Also, maybe getting over,  yourself and your feelings
+or the thoughts in your head that tell you you're not good enough, or because
 you don't know it. Right. You don't know it. And I started my business. My first
 intention was I have to do an MBA, right. To be prepared. Let's do an MBA
 because somehow, you know, this gives you some security that you know what
@@ -767,9 +767,9 @@ about your videos.
 Right. I made one video and another video and another video. Right. And then you
 look back and it's like it's two years later. It's probably another overnight
 success, right? You're not waking up, you know, watching one YouTube video,
-writing your first website, and then the next day you are, you know, you
+writing your first website, and then the next day you have
 accomplished your dream, but if you, every day, you know, work on that, I think.
-Yeah. And don't let you know whatever happens right now. Define you. I think we
+Yeah. And don't let yourself whatever happens right now define you. I think we
 are giving too much, much, too much weight to what's in the now. Right. Which is
 important on one hand. But. You know it. Yeah. It, it, it becomes less and less
 important over the years. So I totally agree.
@@ -786,15 +786,15 @@ scariest moment was the night before. I was unable to see if I was in the lane,
 in my bed. I was going through the sky dive over and over in my head, even
 though I had absolutely no idea wasn't going to do. I, you know, I watched a
 video on YouTube.
-So I have this vague idea of, you know, I'm going to get into an airplane. We're
+So I have this vague idea of,I'm going to get into an airplane. We're
 going to fly up and then they're not going to jump out of a freaking moving
-airplane. But when I actually got there to the airport, Then I realized that,
+airplane. But when I actually got to the airport, Then I realized that,
 you know, some other people are also doing this and there are not dying,
-therefore I am going to be okay.
+therefore I would be okay.
 So I think this is a huge, important life lesson for me is about this curious
 moment. When you are trying to make a huge impact, a huge change is a guide
 before you make them. Because as soon as you get to work, as soon as you
-actually get started, it becomes. So much easier. It doesn't mean that it is
+actually get started, it becomes,so much easier. It doesn't mean that it is
 going to be easy, but it is going to be easier.
 And with each kind of like additional challenge that you overcome, like those
 things have a good chance of getting easier. But going back to my access videos,
@@ -803,17 +803,17 @@ hustle. And honestly it took me, I don't know, the next three hours to record a
 two minute video.
 That was a disaster. I thought I am so much better than this, but it took me, it
 took me awhile. So you have to, basically, I would recommend that, you know, you
-should always try to kind of keep him put away and go out of your comfort zone.
+should always try to kind get out of your comfort zone.
 And every once in a while, if you feel it feels like it, uh, I think, you know,
 it is a good idea.
 
 **Michaela:**  [00:52:21] Yeah, I think so too. Yeah. That's, that's definitely,
 that's definitely true. So, well, I think that's a perfect ending. Thank you so
-much, Thomas, for being on my show and spending the time with me and telling me
+much, Thomas, for being on my show and spending the time with me, telling me
 so much about, you know, how it is to be a software engineer at your company.
 And yeah. Thank you so much.
 
-**Tomasz:**   [00:52:40] Thank you very much for having me.
+**Tomasz:**   [00:52:40] Thank you for having me.
 
 **Michaela:**  [00:52:42] Yeah, it was my pleasure. Okay. Bye-bye
 
