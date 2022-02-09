@@ -59,34 +59,34 @@ of help.
 values versus practices, right? So I think that engineering values and
 developing dos is a team. And not a lot of people are talking about it.
 Unfortunately I think much more people should talk about values. The engineering
-values that we have. And not the practices because practices can change and they
+values that we have and not the practices because practices can and
 should change.
-Right. They should change over time. And with technology changes and with our,
-how our society changes, the practices should change and somebody comes out and
-has a new idea. Right. And th they try something, they fail maybe 10 times, and
-then suddenly they found a new thing. . But the values, I think, for example,
+Right. They should change over time. And with technology changes and
+how our society changes, the practices should change new ideas
+introduced.They try something, they fail maybe 10 times, and
+then suddenly they found a new way . But the values, I think, for example,
 what about our.
 Code health. Right? I wanted the quality of the code that we are expecting how
 we are developing software, how we are talking about the things I think those
 values are really important. Is that something that you have more and more teams
 do or, you know, successful teams do.
 
-**Michael Feathers:**[00:03:28] Yeah, definitely. I think it's yeah, it's a lot
-of, it really comes down to taking the work seriously. I think, you know, in a
-way, and in terms of values, it's, it's, it's funny with this too, because you
-know, there are many different, like, you know May different ways. We can look
-at, you know, values across organizations and different frames we can use.
+**Michael Feathers:**[00:03:28] Yeah, definitely. I think it
+ it really comes down to taking the work seriously. I think, you know, in a
+way, and in terms of values, it's funny with this too, because you
+know, there are many different, like, you know many different ways. We can look
+at, you know, values across organizations and different frames to use.
 But I think that actually going and seeing the systems themselves as valuable is
-like a rather important thing to do as well. Right. And that's a little piece
-that tends to be missing at times. One things that's kind of been striking to me
-across. You know, my career is basically noticing that in the very beginning
-back in the 1990s, it seemed like there was this thing of kind of like, well,
+an important thing to do as well. Right. And that's a little piece
+that tends to be missing at times. One things that's kind of  striking to me
+across my career is basically noticing that in the very beginning
+back in the 1990s, it seemed like there was this thing like, well,
 we're all kind of like disposable and as engineers, you're just basically there
 just to do the work and then basically go home or go bowling or whatever it is
 you want to do in the evenings.
 Right. So going and recognizing that we can become more whole people at work and
-basically valuing our own development and valuing our communication, our
-relations with our coworkers. And I think that's a great thing, but then there's
+basically valuing our own development and valuing our communication, and
+relations with our coworkers. I believe that's a great thing, but then there's
 also this other thing too, of like valuing the thing that we do and looking at
 the things that we create as being significant and having their own intrinsic
 qualities that we can kind of like, you know pay attention to and kind of foster
@@ -96,15 +96,15 @@ within my career is just this notion of thinking about the systems that we
 create as if they were like alive in a way. Right. And we get to care about
 them. Right. And it's kind of like this way of going, like applying like this
 anthropomorphic frame to the things that we're working with.
-And some people might say, well, that isn't like a it isn't like a good thing or
+And some people might say, well,it isn't like a good thing or
 it isn't a realistic thing, but I find it very useful to come and sort of think
-of them. Think of the systems we work of is basically things that we can foster
+of them. Think of the systems we work with as basically things that we can foster
 and care for. You know, I think that helps us become better engineers.
 
 **Michaela:**: [00:05:17] When I was preparing for this interview, I read
-through the things that you write on your website on the RS seven K website. And
-this is something that I read. I was really fascinated by it. Like. That the
-code is in living organism. Right. Sort of, and, and I thought, well, this, this
+through the things that you write on your website on the RS seven K website.
+this is something that I read. I was really fascinated by it. That the
+code is in living organism. Right. Sort of and I thought, well, this
 is true. Right. It evolves, it changes.
  People come in and the levels are their
 think of Prince there. Right? So coded I right. Looks probably quite different
@@ -113,23 +113,23 @@ and even if you have coding standards, you probably can tell, you know,
 sometimes the boundaries of this is where one engineering team or engineer work.
 Then this is where another engineering team works. And you also talked about
 your, how actually Cultures and the organizational structure shape our code,
-which is one of those laws that we have been seeing and studying for for many
+which is one of those laws that we have been seeing and studying for many
 years. Right. Where we see that actually. Yeah, exactly. Right. But you see that
 you have the organization and the boundaries and how you structure and the
 design, your organization will reflect in the architecture of the system, which
-also shows that somehow it's, it's living with the organization and growing and,
+also shows that somehow it's living with the organization,growing and,
 you know, Aging and getting to a legacy when the, also the structures of the
 organization change.
 And it probably it's even harder to change the code per se, when you're changing
 the organization. Right. So people change organizations all the time. They're
 reorgs in large organization. They're reorgs all the time, but we're not
-reordering the code in the same capacity. . So what is your thought on that,
-especially about technical debt, for example, Then he called that, that
+reordering the code in the same capacity. So what is your thought on that,
+especially about technical debt, for example, Then he called that,
 cumulates over time.
 How should we deal with that? And how should we integrate that in our day to day
 work life?
 
-**Michael Feathers:**[00:07:01] The, the main thing I keep coming back to us,
+**Michael Feathers:**[00:07:01] The main thing I keep coming back to is,
 like the frame. For this, you know, it's kind of funny. We can talk about this
 being like a metaphor that basically code is like biology, but I think just
 about anything that kind of grows incrementally, where it's easier to add new
