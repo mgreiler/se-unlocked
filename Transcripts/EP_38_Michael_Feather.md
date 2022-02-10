@@ -118,7 +118,7 @@ years. Right. Where we see that actually. Yeah, exactly. Right. But you see that
 you have the organization and the boundaries and how you structure and the
 design, your organization will reflect in the architecture of the system, which
 also shows that somehow it's living with the organization,growing and,
-you know, Aging and getting to a legacy when the, also the structures of the
+you know, Aging and getting to a legacy when the structures of the
 organization change.
 And it probably it's even harder to change the code per se, when you're changing
 the organization. Right. So people change organizations all the time. They're
@@ -139,13 +139,13 @@ Right? Like I used to say to people, like, if you, if there's like a young tree
 and you kind of like kick it and it kind of like falls over a little bit, it's
 kind of like, it's not going to upright itself. It's going to basically continue
 to grow. You know, upward, but from the direction you kicked it out.
-Right. And in much the same way that kind of thing happens with our code is that
-the things that we do tend to basically leave their Mark upon the structure of
+Right. It's much the same way that kind of thing happens with our code is that
+the things that we do tend to basically leave their mark upon the structure of
 the code. Sometimes in complexity theory, this is called path dependence. It's
 kind of like that basically. You're dealing with something that has a memory and
 basically what's possible with it depends upon what happened previously.
 Right. So I think that the main thing is to kind of like, just sort of like
-recognize this, recognize that that this is part of the character of, of code
+recognize this, recognize that, that this is part of the character of, code
 itself and that we don't really ever get to go and sort of like say I'm going to
 build a brand new system. Like the complete rewrite, that's going to go and be
 shiny and, and perfect.
@@ -167,7 +167,7 @@ like, you know, I think that basically this frame that we have of looking at
 software in this way can help us make some of these decisions a bit better, but
 they don't like sort of solve all the problems necessarily in there.
 
-**Michaela:**: [00:09:21] I heard you say a couple of things, especially before
+**Michaela:**: [00:09:21] I heard you said a couple of things, especially
 where you said, well, we have to take the quality of the system more seriously.
 We, you know, we have to be more careful. In my experience. I see, I see several
 camps, right? So there are the, really the, the engineers that, you know, they
@@ -184,9 +184,9 @@ many of those, but they are. And I think a lot of more people become, especially
 like people that are creating software because they want to create something,
 right.
 They want to do products. So we have like a new wave of engineers. I think,
-especially when I studied a lot of people studied really for software
+especially when I studied a lot of people studied  for software
 engineering, but they were not entrepreneurs. Are, are only a couple of them
-were right. And now I see there's like a huge mass of people that are also.
+were right. And now I see there's like a huge mass of people that are also
 Engineers, because they want to be entrepreneurs. They want to create products.
 And I think they're coming a little bit with a different mindset into the whole
 you know, why are we using code and using code and code is just a means to an
@@ -210,7 +210,7 @@ instrumental view of code and systems and say they're there. To serve us. Right.
 And that's a frame, which like you say, can basically help you out if you're an
 entrepreneur. And you're just trying to get something to market very quickly.
 But you know, it's a story which is, you know, just, you know, an age old story
-that essentially it's like people get to market and then they discover they
+that essentially it's like people get to the market and then they discover they
 can't change anything because they've created such a brutal system that it's
 impossible to work with.
 So you're always going to have like a mix of people they're pragmatic and people
@@ -218,13 +218,13 @@ that are idealistic, I guess, the. The important thing culturally is getting
 them to be able to talk to each other and see each other's point of view and
 recognize that sometimes you have to be in it for the long haul and you have to
 be able to make trade-offs that sometimes it's good to be opportunistic and do
-something very quick and dirty and disposable.
+something very quick,dirty and disposable.
 And other times you want to go in like really invest in a particular thing,
 because it's important to you. One thing that is weird about this is that I
 think. If we look at code as being just this mechanical thing or this thing,
 which is like over there someplace, or the thing that we mess with, you know,
 when in between our business conversations, which are really more important, you
-know, then we we aren't paying attention to it enough.
+know, then we aren't paying attention to it enough.
 To basically understand when it can get in our way sometimes. There's a guy I
 know Colin Brecht who basically started doing this thing called quality views.
 So it's an idea that I had years ago and he was doing this within his
@@ -254,8 +254,8 @@ somebody go and say, gee, you know, this one area of the system is very red and
 it seems like every time we ask for features to touch this area, you know, it's
 going to take a long time.
 Can we do anything about that? And then you actually have the business going and
-asking for system's health. . Whereas before it would be completely invisible to
-them. . So I think that stuff like this is kind of like the path forward in a
+asking for system's health. Whereas before it would be completely invisible to
+them.So I think that stuff like this is kind of like the path forward in a
 way is to basically sort of make. The systems are real to people within an
 organization.
 And, you know, sometimes the choice is going to be to do something very
@@ -272,12 +272,12 @@ Ceiling and so on, but people it's very visible to people and you think like,
 well, it's good enough still it's good enough. But there comes a point where you
 think, well, we cannot have this entrance. It's still functioning. Right. It
 opens the door, but it makes them noise. Right. And it looks horrible.
-So you don't want to Valcom your, your people there and, you know, At one point,
+So you don't want to Valcom your people there and, you know, At one point,
 there is no, you know, no way back to repair it, right? So then you have a big
 disaster, but this is very visible. So I liked this idea that you actually, you
 show it, you help people imagine what actually the system looks like, right?
 So there's some visibility and transparency in it, which I think is very often
-missing. And I think that this, this missing visibility and transparency is also
+missing. And I think that this missing visibility and transparency is also
 something that makes our, our lives so hard as engineers. Right? We are in front
 of the computer.
 
@@ -300,7 +300,7 @@ know, it really is. Now, when you think about object orientation, it's like
 objects are meant to represent things or to basically be things that, you know,
 have cohesion and coupling and can communicate with other things.
 You know, all of these things live in this virtual space, but it's like they
-still. Obey some laws of physics in a way it's kind of like modularity is like
+still obey some laws of physics in a way it's kind of like modularity is like
 when something grows too big to basically fit in our heads, we basically want to
 keep it smaller. Right? So you can see that as being just like objects in the
 world.
