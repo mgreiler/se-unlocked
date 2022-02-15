@@ -1,6 +1,6 @@
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk
-to Alvaro Tigro, a web developer, who enjoys learning every day. But before I start, 
+to Alvaro Trigo, a web developer, who enjoys learning every day. But before I start, 
 let me tell you about an amazing startup that is sponsoring today's podcast.
 Codiga. Codiga is a code analysis platform that automates the boring
 parts of code reviews and lets you merge with confidence on GitHub, GitLab and
