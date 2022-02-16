@@ -134,7 +134,7 @@ know, juggling Jason data, as some of buckets engineers are used to doing.
 **Michaela:**  [00:08:23] Okay. Yeah. And so how many front end engineers are,
 for example, in your team?
 
-**Tomasz:**   [00:08:29] those tems, they don't have to be very large. So in my
+**Tomasz:**   [00:08:29] those teams, they don't have to be very large. So in my
 thing currently, we have two trumpet engineers.
 There's two backend engineers. We have a dedicated contact in the data science
 team. So he's not technically in our team, but we are working very closely
@@ -769,7 +769,7 @@ look back and it's like it's two years later. It's probably another overnight
 success, right? You're not waking up, you know, watching one YouTube video,
 writing your first website, and then the next day you have
 accomplished your dream, but if you, every day, you know, work on that, I think.
-Yeah. And don't let yourself whatever happens right now define you. I think we
+Yeah. And don't let whatever happens right now define you. I think we
 are giving too much, much, too much weight to what's in the now. Right. Which is
 important on one hand. But. You know it. Yeah. It, it, it becomes less and less
 important over the years. So I totally agree.
