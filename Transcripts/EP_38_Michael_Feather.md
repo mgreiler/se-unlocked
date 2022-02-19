@@ -63,7 +63,7 @@ values that we have and not the practices because practices can and
 should change.
 Right. They should change over time. And with technology changes and
 how our society changes, the practices should change new ideas
-introduced.They try something, they fail maybe 10 times, and
+try something. They fail maybe 10 times, and
 then suddenly they found a new way . But the values, I think, for example,
 what about our.
 Code health. Right? I wanted the quality of the code that we are expecting how
