@@ -41,7 +41,7 @@ invariably, right. Or you'll at least be open to going in and exploring
 different practices and things along those lines.
 I think,for the thing that I have gotten called into organizations
 for quite often,legacy code, the thing I kind of noticed over and
-over again is that. What is missing sometimes is a frank
+over again is that. What is missing sometimes is really a very frank
 conversation about the quality of the stuff that people are working on.
 Right. And in the worst cases, it's kind of like a, It's like everybody is told,
 you know, you must write code and you must design this thing and create it, but
