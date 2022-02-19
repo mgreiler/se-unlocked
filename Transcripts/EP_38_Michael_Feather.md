@@ -41,7 +41,7 @@ invariably, right. Or you'll at least be open to going in and exploring
 different practices and things along those lines.
 I think,for the thing that I have gotten called into organizations
 for quite often,legacy code, the thing I kind of noticed over and
-over again is that. What is missing sometimes is a frank
+over again is that. What is missing sometimes is really a very frank
 conversation about the quality of the stuff that people are working on.
 Right. And in the worst cases, it's kind of like a, It's like everybody is told,
 you know, you must write code and you must design this thing and create it, but
@@ -62,8 +62,8 @@ Unfortunately I think much more people should talk about values. The engineering
 values that we have and not the practices because practices can and
 should change.
 Right. They should change over time. And with technology changes and
-how our society changes, the practices should change new ideas
-introduced.They try something, they fail maybe 10 times, and
+how our society changes, the practices should change. And somebody comes out and has a new idea, right, and they 
+try something. They fail maybe 10 times, and
 then suddenly they found a new way . But the values, I think, for example,
 what about our.
 Code health. Right? I wanted the quality of the code that we are expecting how
