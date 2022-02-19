@@ -170,7 +170,7 @@ And so, because those teams are self-contained, you may have this impression
 that we are working completely alone in a silo. We don't look at what we are
 doing. This is usually not the case. So for instance, l am also able to
 review their code and whatnot.
-I believe this is quite useful because first of all, we do require two
+I think this is quite useful because first of all, we do require two
 approvals on each request. So by definition, if there are two of us, I cannot
 approve my own stuff. I have to get somebody else from another team to also
 approve my changes, but it also builds this culture of at least having this
@@ -538,7 +538,7 @@ like leadership, technical leadership roles helps us can kind of drill the
 picture of where we would actually be in, I dunno, two years in charge of this
 and whatnot.
 I am not entirely sure whether I would be the best manager alive. Definitely not
-a remote manager. Maybe if this wasn't no, the year of 2020, where everybody's
+a remote manager. Maybe if this wasn't , the year of 2020, where everybody's
 working remotely, that would be probably a different story. But as of the welfare
 right now, I am gearing towards the reef engineers
 
@@ -549,14 +549,14 @@ Right. Do we do this war rooms? Are people involved in those discussions about,
 you know, how do we actually. Build our culture internally. How do we, and
 especially obviously also, uh, engineering, right? What role does caudry we have
 for us? Is that something that you feel that you can actively change or is it
-something that others are thinking about and your are adopting it?
+something that others are thinking about and you are adopting it?
 
 **Tomasz:**   [00:35:03] So we have, we have a couple of confining values and two of
 them are my favorites. So the first one is be open. And the second one is to
 take ownership. And I imagined this kind of thing, because most kind of like
 senior engineers in our organization, like we have this strong sense of
 ownership. So we are not building something in a bad way because I don't know
-somebody from higher above telling us, do we want to build the best experiences
+somebody from higher above is telling us, do we want to build the best experiences
 that we, that we possibly can.
 And if we feel like we should improve in some area, So for instance, well, I
 don't know, imagine that we were not doing cultivars at all. And I thought we
@@ -601,7 +601,7 @@ in Poland is in top 10, most visited websites in this country. My mom is using
 goal X. I do the gets the break production. Um, some like, you know, obvious
 mistakes because production incidents will happen always.
 But I have a feeling that as engineers, we kind of get to choose what kind of
-productions incidents are not going to happen at all, because we've managed to.
+productions incidents are not going to happen at all, because we've managed to,
 Test and make sure that I don't know, it is not possible for our login page to
 be empty.
 
@@ -622,7 +622,7 @@ Very, very quickly. Yeah. So yeah, I definitely think that's true. So one of the
 things that you also mentioned was product driven mindset. What is a product
 driven mindset and you know, how can we get that?
 
-**Tomasz:**   [00:39:53] Sure. So the way I think about it is my job is not to push
+**Tomasz:**   [00:39:53] Sure. So the way I think about in my job is not to push
 tickets in JIRA for 'em to do to them. My job is to build products, assault.
 The way I think about it is as an engineer, I think that the best part of our
 ability by people who have this great understanding of what exactly are they
@@ -640,7 +640,7 @@ that people. And this product driven mindset means that you don't necessarily
 think about the structure of building in terms of, again, JIRA tickets you think
 about, okay, this is the problem that we are trying to solve.
 How can we do that with maybe without even writing any code at all? Because some
-problems can be solved. By, I dunno, an email. I have a, this example
+problems can be solved. By, I dunno, an email. I have , this example
 that I often give, that we had this idea that we wanted to ask our users
 feedback on a certain feature. This feature was not used by many people, so we
 want them to kind of have a survey inside of this page, but then we decided that
@@ -705,7 +705,7 @@ it's still not a pleasant feeling like, Oh, the performance goes down. That's
 horrible. Can we block it? Where's the ad blocker, right? Yeah, exactly. Right.
  Yeah. Very cool. So, well, I think we actually reached the end of our
 session today of the interview.
-Is this something that you want to share with my listeners that we haven't
+Is there something that you want to share with my listeners that we haven't
 touched on that you think would be important or something that you want to tell
 them? Some advice that you want to give them on their way?
 
@@ -736,7 +736,7 @@ computer science.
 Right. And I didn't have any idea about computers. And so maybe that was, it
 seems like this is a turning point, a huge turning point, but actually it's not,
 it wasn't really like this huge turning point. When I started from computer
-science to software engineering, right. When I made this switch was again, It
+science to software engineering, right. When I made this switch  again, It
 was probably the same turning point, right.
 When I got my first job again then a very different
  experience when I worked as a researcher and actually over the years,
