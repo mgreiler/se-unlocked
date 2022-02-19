@@ -73,7 +73,8 @@ but with a much broader focus.
 We want to target basically everyone who is looking for a job in
 Poland. And also help them find a better job because like not everybody is used
 to, you know, searching for a job, offer online, not everybody's student
-negotiating. So one of the experiments that we've had a couple of times, I go,
+negotiating. So one of the ex
+periments that we've had a couple of times, I go,
 there's also building a platform in which the employer would have to provide a
 salary because we also would like to in ideal a scenario, avoid this process of,
 you know, Whenever you have to negotiate a salary, how much do you want?
@@ -275,7 +276,7 @@ job is also make others more productive and also builds an environment in which
 people are feeling okay to kind of express their ideas, express their concerns
 and whatnot.
 So if it doesn't happen for their cause like this, this thing that I've written
-about in the article, it happened years ago. Uh, and it doesn't do the, have
+about in the article, it happened years ago. Uh, and it doesn't do , have
 them in my current company, which is something that I'm very happy to see. But
 nevertheless, if I were to see a situation in which somebody more senior is kind
 of attacking a more junior engineer in the cultural view, I would act different.
@@ -316,9 +317,9 @@ Or what are the strategies that you, that you have here?
 
 **Tomasz:**   [00:19:24] Okay. So first of all, if any of that software organization
 is saying that they don't have technical depth, they're absolutely lying.
-Everybody has technical that including, including us for record. So from my own
+Everybody has technical that including, including us for the record. So from my own
 perspective, I'm very happy to be in a somewhat Greenfield project.
-So we don't have a lot of tech depth. Well, mostly because we are building, you
+We don't have a lot of tech depth. Well, mostly because we are building, you
 know, completely new features and functionality on top of existing stack. Bob.
 Nevertheless, we are also integrating with something that was certain, that some
 of it is definitely technical debt. So there are a couple of things that we have
@@ -372,7 +373,7 @@ done. And it's the whole company. Everybody does this now, and this is our
 number one priority. And yet he also said that it's really helping a lot because
 you know, you have this focus, you have this dedication and it's not like a
 distraction on the side that nobody was ready to take on.
-So when I looked at your LinkedIn profile, I not only saw, you know, where
+So when I looked at your LinkedIn profile, I not only saw you know, where
 you're working at right now, but I also saw a list of things that you're doing.
 Outside of work or, you know, partially at work or whatnot. Right. So you are
 also an egghead instructor. And if I remember correctly, you said like you
@@ -392,7 +393,7 @@ instructor? And yeah. Can you tell me a little bit about that?
 before I started in a bit as an insect or I was doing, I was trying to think on
 my blog, I was doing contract talks.
 And that is basically how I got noticed, because people have basically noted
-that I have a way of kind of teaching people what I know and I'm passionate
+that I have a kind of way of teaching people what I know and I'm passionate
 about, you know, teaching basically everything that I know that that was kind of
 my, one of my personal goals is just sharing as much as, as from what I know
 with others, when it comes to recording over while I have that 70 videos, I
@@ -400,12 +401,12 @@ recorded one video, then I did it again.
 Then I did it again. And I did that again, because this is how you get to, to
 this kind of level. I was absolutely not planning on the coding. So many videos
 when I started two years ago, nearly to the day two years ago. I remember at the
-very beginning I had a F I had this feeling, but what am I going to record?
+very beginning I had this feeling, but what am I going to record?
 I have nothing to teach. Um, this is not exactly true. I think that if you have
 non trigger experience as a developer with defense, you have something to teach
 others. And if you are, if you have this feeling that you have definitely
 nothing more to teach, well, this is a good time for you to learn something new.
-And I found myself that I learned the best by teaching. So the best way to,
+And I found myself that I learned best by teaching. So the best way to,
 for me to solidify something that I've learned related to the recency is to
 write a blog post about this.
 
@@ -417,7 +418,7 @@ that you think better are covered in a blog post.
 
 **Tomasz:**   [00:25:59] That's a good question. What I basically do when I want to
 share something with others. I mostly tried to think, what would it be useful to
-me? Because some concepts of amazingly well explained as a blog post, because,
+me? Because some concepts are amazingly well explained as a blog post, because,
 because you can search through it and whatnot, some topics are better when it
 comes to, to a video.
 So for instance, if I were to, have a book post on my, on my screen right now,
@@ -438,7 +439,7 @@ motivates you to do that?
 
 **Tomasz:**   [00:27:18] So there are two things here. So first of all, all ex has
 been. Largely. I mean, all it's basically on the books, we have migrated
-everything to AWS. I think like two years ago, my team we are working with ,
+everything to AWS. I think like two years ago my team,we are working with ,
 which is based in AWS. So we have API gateways, we have Lambda functions. We are
 using dynamo DB, a storage SQS.
 So there's lots of different diverse services. And I've joined today, a company
@@ -486,10 +487,10 @@ it is useful.
 But when it comes to hiring process itself, we have a bunch of interviews. And
 our hiring process. So from my kind of technical perspective, we have two types
 of interviews. So there was a strictly technical interview in which we are
-talking about somebodies experiences. We are also kind of diving into some
-topics when it comes to JavaScript to react and whatnot.
+talking about somebody's experiences. We are also kind of diving into some
+topics when it comes to JavaScript to React and whatnot.
 And we also have a second interview, which is a system design interview. So the
-idea is that we give you a problem. And architectural problem. And B basically
+idea is that we give you a problem. A an architectural problem andd B basically
 have this conversation about how would you solve that problem? What kind of
 technologies would you use? How would you use them? How would you test that?
 How would you monitor monitor VAT? And then so it's actually one of my favorites
