@@ -44,21 +44,21 @@ Thanks so much. It's an honor to be here.
 [00:02:04]
 
 **Michaela:** Yeah, I'm really, really excited. It's also the first interview for
-me, where I have like two guests here on my shows. I'm so I'm super excited. And
-I normally start my show with asking my guests how they actually landed in tech.
+me, where I have like two guests on my shows. I'm super excited. And
+l normally start my show with asking my guests how they actually landed in tech.
 So a little bit about your journey and here, I think it's really interesting
 because you both have such a wild, a little bit wild and very diverse
 backgrounds.
 So three, I want to start with you. You served in the United States air force.
 Like, I mean, it's already makes me wow. Right. And you led engineering teams
 there. How did you get into us air force. And how did you get into software
-engineering and how was that experience before.
+engineering and how was that experience.
 [00:02:44]
 
-**Trier:**  Yeah. I actually got into the air force through, by attending the
+**Trier:**  Yeah. I actually got into the air force through, attending the
 air force academy.
 So I attended the air force academy for four years for college and then got
-commissioned as an officer. And I actually. Wanting to be an engineer. I majored
+commissioned as an officer. And I actually, wanted to be an engineer. I majored
 in systems engineering because my dream job was actually to work on the planes.
 The future planes at the airport was going to build and take feedback from the
 pilot to make changes.
@@ -72,11 +72,11 @@ air force? Or where did you, when you do do that?
 
 **Trier:**  I did that. I did that for seven years, active duty in the air
 force, cyber security, primarily defense.
-So preventing adversaries from getting into the us military is now. Oh, that
+So preventing adversaries from getting into the us military . Oh, that
 [00:03:42]
 
 **Michaela:** sounds very, very exciting. How was that experience for you working
-with probably quite a lot of man at that point. I mean, maybe that's a very
+with probably quite a lot of men at that point. I mean, maybe that's a very
 naive picture of the U S air force. I don't know. Maybe it's like equal, but I
 mean, engineering generally is very heavy, you know, unbalanced work [00:04:00]
 with diversity.
@@ -127,8 +127,8 @@ dollar, losing a dollar. And then I found at tech, you know, it's, it's really
 just about. What's been really energizing about tech. It's like, what is the
 cool new thing, right?
 Like what's the new, cool thing that people want to build or how do you want to
-solve it? And, and, and building upon that. And it's been really interesting,
-but very different cultures as far as like what motivates people to show up.
+solve it? And, and building upon that. And it's been really interesting,
+but very different cultures as far as  what motivates people to show up.
 [00:06:36]
 
 **Michaela:** Yeah. Yeah, I can imagine. Yeah. I like it this very, very, to the
@@ -140,10 +140,10 @@ are quite old school, boring tech companies, where I wonder a lot, like I'm
 doing a study right now.
 Um, work culture and what motivates people and productivity, satisfaction,
 happiness, and a lot of people deal with not that new and shiny thing, right.
-They work with, you know, established technologies and. What I've seen from the
+They work with, you know, established technologies. What I've seen from the
 interviews that I did is that people are not only motivated by, you know, the
 new and Chinese thing, but really the, the value also that they bring with
-their, with the product, for example, or sometimes it's just the people that
+ the product, for example, or sometimes it's just the people that
 you're working with that are very, very energizing and, you know, bring your
 motivation.
 And I have seen it as quite diverse and really depending on the company and the
