@@ -1,26 +1,21 @@
 
-**Dr. McKayla**** 00:03
+**Dr. McKayla** 00:03
 Hello, and welcome to the Software Engineering Unlocked Podcast. I&#39;m your 
-host 
-**Dr. McKayla** and
-today I have the pleasure to talk to 
-**Dr. Cat Hicks**. But before we start, let me 
-tell you about an amazing
+hosT Dr. McKayla, and today I have the pleasure to talk to Dr. Cat Hicks. 
+But before we start, let me tell you about an amazing
 startup that is sponsoring this episode Codiga. Codiga is a code analysis 
-platform that automates the
-boring parts of code reviews and lets you merge with confidence on GitHub, 
-GitLab and BitBucket. I&#39;ve
-worked with Codiga for around one year now, and I love how it guides me in 
-discovering the well what&#39;s
-nice parts of my code base. But there is more Codiga also has a coding assistant 
-that helps you write
-better code faster, find and share safe and reusable blocks of code within your 
-favorite IDE. On
-Demand while you&#39;re coding? Well, Codiga has a great free plan, and so 
-there&#39;s nothing that actually
-stops you from giving it a try. Learn more at Codiga.io That is codegear.io. But 
-now back to Cat. Cat, or
-Catherine Hicks holds a PhD in experimental psychology and is a principal 
+platform that automates the boring parts of code reviews and lets you merge with confidence on GitHub, 
+GitLab and BitBucket. I've worked with Codiga for around one year now, and I love how it guides me in 
+discovering the, well, not so
+nice parts of my code base. But there is more: Codiga also has a coding assistant 
+that helps you write better code faster. Find and share safe and reusable blocks of code within your 
+favorite IDE on demand while you are coding. Codiga has a great free plan, and so 
+there is nothing that actually stops you from giving it a try. 
+Learn more at [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked). 
+That is [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked). 
+
+But now back to Cat. 
+Cat, or Catherine Hicks holds a PhD in experimental psychology and is a principal 
 researcher in Team Lead at
 catalysis consulting. She has designed researchers at places like Google Khan 
 Academy and co
