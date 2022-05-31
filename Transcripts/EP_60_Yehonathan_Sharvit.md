@@ -21,7 +21,7 @@ developers, QA, data scientists—heck, even distributed teams around the world.
 Visit [Tonic.ai](https://www.tonic.ai/?ref=se-unlocked), to sign-up today or click 
 the link in the shownotes to get a 
 free, 2-week Sandbox.
-But now back to Yehonatan. Yehonathan is a software developer, author, and 
+But now back to Yehonathan. Yehonathan is a software developer, author, and 
 speaker. He has tons of experience in full-stack development using various 
 languages such as Java, JavaScript, Ruby, but his favorite language is Clojure. 
 And he bundled and packaged all of his experience and knowledge into his new 
