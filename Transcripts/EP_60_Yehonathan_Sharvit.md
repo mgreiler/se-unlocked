@@ -18,7 +18,8 @@ Tonic.ai does exactly that. With Tonic, you can generate fake data that looks,
 acts, and behaves like production because it’s made from production.
 Yet, tonic.ai guarantees privacy so your Datasets are safe to share with 
 developers, QA, data scientists—heck, even distributed teams around the world. 
-Visit Tonic.ai, to sign-up today or click the link in the shownotes to get a 
+Visit [Tonic.ai](https://www.tonic.ai/?ref=se-unlocked), to sign-up today or click 
+the link in the shownotes to get a 
 free, 2-week Sandbox.
 But now back to Yehonatan. Yehonathan is a software developer, author, and 
 speaker. He has tons of experience in full-stack development using various 
