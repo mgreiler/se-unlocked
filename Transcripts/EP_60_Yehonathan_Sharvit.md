@@ -6,7 +6,7 @@ podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to
 Yehonathan Sharvit. 
 But before I start, let me introduce you to an amazing start-up: tonic.ai - the 
 fake data company.
-So what does tonic.ai do?
+So what does [tonic.ai]( https://www.tonic.ai/?ref=se-unlocked) do?
 I'm sure you know how complex and cumbersome it is to create quality test! It’s 
 a never-ending chore that eats into valuable engineering resources. 
 Random data doesn’t do it — and production data is not safe (or legal) for 
