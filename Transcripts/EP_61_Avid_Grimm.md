@@ -1,24 +1,25 @@
-[00:00:00] ** Dr. McKayla: ** Hello, and welcome to the Software Engineering Unlocked 
+[00:00:00] 
+**Dr. McKayla:** Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and today after pleasure to talk to Avdi 
 Grimm. But before I start, let me introduce you to an amazing startup that's 
 sponsoring today's episode, Tonic.ai, the fake data company. So what does 
 Tonic.ai do? I'm sure you know how complex and cumbersome it is to create 
 quality test data.
 
-[00:00:27] ** Dr. McKayla: **  It's a never-ending chore that eats into valuable 
+[00:00:27] **Dr. McKayla:**  It's a never-ending chore that eats into valuable 
 engineering resources. Random data doesn't do it and production data is neither 
 safe nor legal for developers to use. What if you could mimic your entire 
 production database to create a realistic dataset with zero sensitive data? That 
 sounds amazing, right? Tonic.ai does exactly that. 
 
-[00:00:50] ** Dr. McKayla: **  With Tonic.ai, you can generate fake data that 
+[00:00:50] **Dr. McKayla:**  With Tonic.ai, you can generate fake data that 
 looks, acts, and behaves like production data because it's made from production. 
 Yet, Tonic.ai guarantees privacy so your data sets are safe to share with 
 developers, QA, data scientists, heck, even distributed teams around the world. 
 Visit Tonic.ai to sign up today or click the link in the show notes to get a 
 free two weeks trial sandbox.
 
-[00:01:14] ** Dr. McKayla: **  But now back to Avdi. Avdi has been a developer 
+[00:01:14] **Dr. McKayla:**  But now back to Avdi. Avdi has been a developer 
 for over 20 years and runs, similar to me, a training and consulting business. 
 The main difference is that he has been doing this already for over 10 years. So 
 I'm super thrilled to pick his brain today around everything business-related. 
@@ -29,7 +30,7 @@ me today. Avdi, welcome to my show. I'm very excited.
 
 [00:01:51] ** Avdi Grimm: **  Thank you so much. I'm excited to be here. 
 
-[00:01:53] ** Dr. McKayla: **  Yeah, I'm super excited. So I've been following 
+[00:01:53] **Dr. McKayla:**  Yeah, I'm super excited. So I've been following 
 your journey on Twitter and so on for quite some time. Very inspirational as 
 well. And I have a lot of questions around how you run your business and why 
 you're running the business and what we can learn from you, right, a seasoned 
@@ -51,14 +52,14 @@ thought about this much before. I had the example of my dad who worked in
 software and hardware design, and he was an independent consultant I was growing 
 up. So that was kind of normalized to me to, like, have your own thing 
 
-[00:03:08] ** Dr. McKayla: **  Yeah, for me was quite different. Yeah. 
+[00:03:08] **Dr. McKayla:**  Yeah, for me was quite different. Yeah. 
 
 [00:03:11] ** Avdi Grimm: **  I think that I, I saw that on the horizon maybe 
 from earlier than some people do, just because it was, it was normalized for me, 
 you know? And it just seemed like that's what a lot of my heroes did in the 
 industry was eventually they became consultants. 
 
-[00:03:26] ** Dr. McKayla: **  Yeah. Yeah, it's good if you have like role 
+[00:03:26] **Dr. McKayla:**  Yeah. Yeah, it's good if you have like role 
 models. For me, it was quite the difference. I always saw it that I will work at 
 the company for a really long time and, you know, climb the career ladder 
 somewhere. Actually, I started a family that I saw, oh, this is not working out 
@@ -110,17 +111,17 @@ business, really like, so we talked about consulting, but that side really came
 from early on, getting into e-book sales, which we can talk about how that story 
 went if you want. 
 
-[00:06:28] ** Dr. McKayla: **  So if I understand that you would say there's the 
+[00:06:28] **Dr. McKayla:**  So if I understand that you would say there's the 
 consulting, which is, you know, it's something that you have continuously to 
 invest in and also make some contracts around that.
 
-[00:06:37] ** Dr. McKayla: **  I'm also doing some consulting, which means like 
+[00:06:37] **Dr. McKayla:**  I'm also doing some consulting, which means like 
 now I'm dedicating, let's say 30 hours for this project for three months, right? 
 And so you are more or less sold out for that time? 
 
 [00:06:48] ** Avdi Grimm: **  It's kind of like a real job.
 
-[00:06:49] ** Dr. McKayla: **  Yeah. It's like a real job, only that you have 
+[00:06:49] **Dr. McKayla:**  Yeah. It's like a real job, only that you have 
 all the risks as well, which is even worse.
 
 [00:06:58] ** Avdi Grimm: **  But there's a lot more, even there there's a lot 
@@ -132,7 +133,7 @@ retirement plans.
 [00:07:13] ** Avdi Grimm: **  And what I don't have to do is I don't have to buy 
 into a lot of corporate mission and values BS that I don't believe in. 
 
-[00:07:22] ** Dr. McKayla: **  Yeah. So you have your consultancy and then in 
+[00:07:22] **Dr. McKayla:**  Yeah. So you have your consultancy and then in 
 between those consultancy gigs, right, when there are no consultancy gigs, 
 you're not freaking out, you're working on your banana stand and you grow that, 
 right? And the good thing it's about the products and, you know, this mindset, I 
@@ -141,7 +142,7 @@ little bit like an investment. So you create another free course, maybe, and you
 have like a, you know, a good lead magnet, have people that are interested in 
 your work.
 
-[00:07:53] ** Dr. McKayla: **  Then you create a paid course when you have time 
+[00:07:53] **Dr. McKayla:**  Then you create a paid course when you have time 
 and so on. And it stays, right? It's something that's there for longer, whereby 
 the consulting, it comes, it brings normally quite good money, from my 
 experience, right? In a very short amount of time, but then it goes away as 
@@ -153,7 +154,7 @@ It's a snowball. It's a flywheel somehow, right? Yeah.
 big blizzard that, you know, that melts the next week and a banana stand is a 
 snowball that you just kind of gradually roll over the years.
 
-[00:08:32] ** Dr. McKayla: **  And so how long did it take for you to have this 
+[00:08:32] **Dr. McKayla:**  And so how long did it take for you to have this 
 banana stand where you could say, well, I have some predictable income that, you 
 know, makes me sleep at night? . 
 
@@ -196,12 +197,12 @@ coming in at a good time. People really liked the format. And so within, I think
 around a year or two, I was able to say, I don't actually need other jobs right 
 now with the RubyTapas screencasts. 
 
-[00:10:49] ** Dr. McKayla: **  Oh, yeah. That's nice. 
+[00:10:49] **Dr. McKayla:**  Oh, yeah. That's nice. 
 
 [00:10:51] ** Avdi Grimm: **  Yeah. So that was, that was kind of like line goes 
 up. That was less, you know, slowly rolling snowball.
 
-[00:10:56] ** Dr. McKayla: **  Yeah. And how much time did you spend in this 
+[00:10:56] **Dr. McKayla:**  Yeah. And how much time did you spend in this 
 line goes up phase? You know, because somehow when you're focusing on something, 
 like doing the screencasts, you're not having an income, right? And then if you 
 go to consulting, you don't have the time. So you have to switch between those 
@@ -214,12 +215,12 @@ a blur at this point. I don't think that I could do that kind of thing again,
 unless it was a great need. 'Cause I was also, at that point at the beginning, I 
 was producing three episodes a week. 
 
-[00:11:41] ** Dr. McKayla: **  Wow. Yeah, that's a lot. 
+[00:11:41] **Dr. McKayla:**  Wow. Yeah, that's a lot. 
 
 [00:11:43] ** Avdi Grimm: **  Yeah. I was doing a lot at once and it was kind of 
 nuts. 
 
-[00:11:46] ** Dr. McKayla: **  Yeah. And I actually really liked, with the whole 
+[00:11:46] **Dr. McKayla:**  Yeah. And I actually really liked, with the whole 
 style also, when I look through your blog posts and everything, right, you have 
 your own style. You didn't call it like Professional Ruby screencast, you call 
 it RubyTapas, right? And the tapas probably transport the message of it's small 
@@ -229,7 +230,7 @@ pieces of very digestible, tasty things, right?
 out of just like the Ruby, like, the community has always been super whimsical 
 and kind of silly. And so, you know, I can't take full credit for that approach. 
 
-[00:12:22] ** Dr. McKayla: **  Yeah. But recently, I don't know exactly when, 
+[00:12:22] **Dr. McKayla:**  Yeah. But recently, I don't know exactly when, 
 but you rebranded your whole RubyTapas into Graceful.Dev, why is that? For me, 
 it seems like it's now broader and there can be more happening, but what's your 
 strategic vision behind, you know, going from RubyTapas to...
@@ -238,7 +239,7 @@ strategic vision behind, you know, going from RubyTapas to...
 man, I avoid strategy as much as possible now. I mean, that's okay. That's not 
 true. I do a little, I do a little. But I try not... 
 
-[00:12:54] ** Dr. McKayla: **  You definitely have some reasoning behind it, 
+[00:12:54] **Dr. McKayla:**  You definitely have some reasoning behind it, 
 right? 
 
 [00:12:56] ** Avdi Grimm: **  I try not to have five-year goals. Let's put it 
@@ -248,7 +249,7 @@ back of my mind for a really long time. A lot of people don't know that, like,
 the same day in, like, 2011 or whenever it was that I registered RubyTapas.com 
 and associated addresses. I also registered CodeTapas.com.
 
-[00:13:20] ** Dr. McKayla: **  Okay.
+[00:13:20] **Dr. McKayla:**  Okay.
 
 [00:13:21] ** Avdi Grimm: **  So like, you know, I never wanted to completely 
 limit myself to Ruby, strictly Ruby content. You know, I've worked in, God, like 
@@ -271,7 +272,7 @@ focusing on the concept of grace.
 that branding direction. And then recently I had the opportunity to finally, 
 like, do a lot of the heavy lifting of moving content over. And so I took that. 
 
-[00:14:33] ** Dr. McKayla: **  Where did this opportunity come from? 
+[00:14:33] **Dr. McKayla:**  Where did this opportunity come from? 
 
 [00:14:35] ** Avdi Grimm: **  Well, so I had a point a few years back where I 
 was like, okay, you know what? I've been sort of off on my own, doing my own 
@@ -286,13 +287,13 @@ stand 'cause there's always money in the banana stand. And that has been
 actually an immensely satisfying experience, kind of coming back to it with a 
 fresh, fresh, like maybe this is my calling perspective.
 
-[00:15:18] ** Dr. McKayla: **  Yeah, I actually followed this journey a little 
+[00:15:18] **Dr. McKayla:**  Yeah, I actually followed this journey a little 
 bit on your Twitter, you were sharing it with us and also the hassle of the 
 whole, you know, getting naked in front of strangers, you know, and really 
 selling yourself. And I mean, you have been in the industry for so long, you 
 have shared your learning.
 
-[00:15:38] ** Dr. McKayla: **  You know, you have some portfolio online. It's 
+[00:15:38] **Dr. McKayla:**  You know, you have some portfolio online. It's 
 not like somebody comes and has no idea about you, but still, it felt like at 
 least what I got out of the tweets, right. What I read into them was that every 
 interview was a little bit, it wasn't really like keeping your dignity, right? 
@@ -307,7 +308,7 @@ I got some actually really nice offers from some, you know, well, large
 companies anyway, but in the end I was not comfortable taking any of them. And 
 in part, because of what I saw during the interview process.
 
-[00:16:39] ** Dr. McKayla: **  Okay, what did you see? 
+[00:16:39] **Dr. McKayla:**  Okay, what did you see? 
 
 [00:16:41] ** Avdi Grimm: **  Well, you know, so actually, let me tell you about 
 something I just heard recently from a friend of mine, because I hear the same 
@@ -344,7 +345,7 @@ people, with my, lot of friends of mine, with my level of experience in the
 industry, that these systems, they're really tuned to find people that are 
 exactly like the people who designed the system in as many ways as possible. 
 
-[00:18:47] ** Dr. McKayla: **  Yeah. 
+[00:18:47] **Dr. McKayla:**  Yeah. 
 
 [00:18:48] ** Avdi Grimm: **  Like, for me, I don't care. I am a white guy with 
 plenty of opportunities and a banana stand. You know, I can fall out of a 
@@ -354,18 +355,18 @@ in-crowd, they're very, very, like, we are expecting people that sort of show
 the secret insignia of a very select group of Silicon Valley insiders, 
 basically. 
 
-[00:19:18] ** Dr. McKayla: **  I think one of the problems is also that they 
+[00:19:18] **Dr. McKayla:**  I think one of the problems is also that they 
 often require a tremendous amount of preparation, right? And if you think you 
 are an experienced engineer, maybe at that point, you have a family, for 
 example, around, right.
 
-[00:19:33] ** Dr. McKayla: **  And some other commitments, it gets really hard 
+[00:19:33] **Dr. McKayla:**  And some other commitments, it gets really hard 
 to study some, you know, lead code examples, just to be as fast as, you know, 
 somebody else, right? And I think this is also something that I criticize a lot 
 when I'm thinking, and then you don't even need that, you know, you don't need 
 that knowledge. You could really solve real-world problems.
 
-[00:19:51] ** Dr. McKayla: **  You have some experience and background, right, 
+[00:19:51] **Dr. McKayla:**  You have some experience and background, right, 
 that you have worked on. And it's probably also super challenging. So looking 
 really at what that person has already achieved in the last, let's say 15 years 
 would be, you know, and then really let them explain that in-depth, which shows 
@@ -386,7 +387,7 @@ know, I could list off a lot of, you know, a whole lot of privileges there that
 go into that sort of their really looking for that person who has nothing else 
 going on in their life.
 
-[00:20:59] ** Dr. McKayla: **  Exactly. 
+[00:20:59] **Dr. McKayla:**  Exactly. 
 
 [00:21:00] ** Avdi Grimm: **  You know, so that they can then like induct them 
 into the cult of your passion is your software career. And that bugs the heck 
@@ -401,11 +402,11 @@ in the world or, you know, minoritized people, I shouldn't say have so many
 other calls on their time because of the way society is already stacked against 
 them. That it makes it impossible to jump through these. 
 
-[00:21:48] ** Dr. McKayla: **  Yeah, I totally agree. I totally agree. Yeah. 
+[00:21:48] **Dr. McKayla:**  Yeah, I totally agree. I totally agree. Yeah. 
 
 [00:21:51] ** Avdi Grimm: **  Sorry, I get worked up.
 
-[00:21:53] ** Dr. McKayla: **  No, I want to come back a little bit to your 
+[00:21:53] **Dr. McKayla:**  No, I want to come back a little bit to your 
 banana stand again because this is the way out for, for you. And it's a little 
 bit the way out for me as well, right? So with Graceful.Dev, I don't know if you 
 had that before. You had RubyTapas and you had like the courses, but 
@@ -419,7 +420,7 @@ awesomecodereviews.Com for example, runs on, I switched from WordPress to
 Gatsby. So it's a static side and I'm thinking on how to give it a membership 
 capabilities.
 
-[00:22:49] ** Dr. McKayla: **  And I looked at SurplusCI and so on, but why did 
+[00:22:49] **Dr. McKayla:**  And I looked at SurplusCI and so on, but why did 
 you go for WordPress? And are you happy with it? And what's the philosophy 
 behind it? What do people get from this membership? What do you want to build? 
 Probably there's a community behind, right? And some, some visions that you have 
@@ -450,7 +451,7 @@ years and you know, what I realized was, if I did that, my show was going to
 become about building an app to support the show, because that's what I was 
 going to be spending all my time on, because it's a lot of work to build.
 
-[00:24:23] ** Dr. McKayla: **  It's a lot of work, yeah. 
+[00:24:23] **Dr. McKayla:**  It's a lot of work, yeah. 
 
 [00:24:25] ** Avdi Grimm: **  People don't realize, you know, how many features 
 are expected in an application that sells content and serves content and keeps 
@@ -494,7 +495,7 @@ some premium features, but mainly for a support contract and, you know, and so
 people are making their living, creating open-source software. And I think 
 that's pretty cool. And it's also, it also has done really well for my business. 
 
-[00:26:32] ** Dr. McKayla: **  Yeah, and it's true. And so when I'm thinking 
+[00:26:32] **Dr. McKayla:**  Yeah, and it's true. And so when I'm thinking 
 about your course software, did you get a plugin for that? Or did you have to 
 write it yourself or do you have like a plugin and then extend that on your own? 
 How does that work? You're hosting your videos, but then they're also like, you 
@@ -526,7 +527,7 @@ like another whole category of plugins, which are generally focused around,
 given this account, what material does this person have access to? And that 
 includes courses, like what courses does this person have access to. 
 
-[00:28:28] ** Dr. McKayla: **  So they work nice together, LearnDash and the 
+[00:28:28] **Dr. McKayla:**  So they work nice together, LearnDash and the 
 membership thing. 
 
 [00:28:30] ** Avdi Grimm: **  Yeah, so generally what you see, so I'm using 
@@ -560,7 +561,7 @@ lot of blur between these plugins as well.
 
 [00:29:54] ** Avdi Grimm: **  Yeah. 
 
-[00:29:55] ** Dr. McKayla: **  Yeah. Okay, cool. And so are you then enhancing 
+[00:29:55] **Dr. McKayla:**  Yeah. Okay, cool. And so are you then enhancing 
 that, is that possible, especially if you have like the paid version, could you 
 just write that? And then how do you keep track of your own changes and new 
 updates that are coming from the team? How do you integrate those things? 
@@ -584,16 +585,16 @@ the, like the very specific hook that is one tiny piece that I care about
 changing. It's very small. The site-specific plugin is very small. I try to keep 
 it very small and very focused. 
 
-[00:31:07] ** Dr. McKayla: **  Okay. But so it has a valid defined API or hooks 
+[00:31:07] **Dr. McKayla:**  Okay. But so it has a valid defined API or hooks 
 that you can really enhance. You're not going in and hacking in their, in their 
 code base, right? So you're on the outside, whatever they allow you to change. 
 
-[00:31:18] ** Dr. McKayla: **  Yeah. And if you're going to really get into this 
+[00:31:18] **Dr. McKayla:**  Yeah. And if you're going to really get into this 
 ecosystem, that's one of the things you want to keep your eye out for is like, 
 does it seem like these people are really supporting that kind of external 
 hooks?
 
-[00:31:28] ** Dr. McKayla: **  Yeah, it sounds very interesting. And I know 
+[00:31:28] **Dr. McKayla:**  Yeah, it sounds very interesting. And I know 
 quite a couple of people that are running WordPress websites and have a lot of, 
 you know, like you said, WooCommerce, or like a membership sites and they're 
 very, very happy with it. Maybe my last question for you is around, you said you 
@@ -611,7 +612,7 @@ what I'm doing right now. You know, Graceful.Dev is supporting me pretty
 decently along, you know, that alongside of my other, you know, other products 
 and things. You know, I take consulting gigs as they look interesting.
 
-[00:32:35] ** Dr. McKayla: **  Yeah, and are you a solopreneur or do you have, 
+[00:32:35] **Dr. McKayla:**  Yeah, and are you a solopreneur or do you have, 
 like, a team that really helps you? 
 
 [00:32:39] ** Avdi Grimm: **  Oh yeah. Good question. I don't have any full-time 
@@ -628,7 +629,7 @@ that have become, like their formatting has gone wonky or is out of date or
 something like that. Yeah. So I have a few people that just like very part-time 
 helpers.
 
-[00:33:21] ** Dr. McKayla: **  Yeah. I'm currently right now in this position of 
+[00:33:21] **Dr. McKayla:**  Yeah. I'm currently right now in this position of 
 getting people and I find it really difficult finding the right people because, 
 you know, if you're already in this, okay, I need help now. I don't know how you 
 overcame that stuff, but for me, it's like, I need help now, and I can't grow, 
@@ -676,7 +677,7 @@ That's one of my biggest considerations when choosing anything is not, you know,
 not is this going to scale up, but can I scale it away from me? Can, you know, 
 can I remove myself as the bottleneck for this in the future? 
 
-[00:36:00] ** Dr. McKayla: **  Yeah. Yeah. That's such a good mindset. And I'm 
+[00:36:00] **Dr. McKayla:**  Yeah. Yeah. That's such a good mindset. And I'm 
 currently learning a lot with it and you know, it takes much more time and much 
 more energy than I thought, but I also see that, you know, if you have already 
 one person, right, so finding this one person, it means that you have to work 
@@ -696,12 +697,12 @@ my time helping people get unstuck and managing things. And so, yeah, it's
 really easy, like once you, once you kind of start going down that delegation 
 road, it's really easy to go too far. 
 
-[00:37:10] ** Dr. McKayla: **  Yeah. Yeah. I think, I think one step at a time 
+[00:37:10] **Dr. McKayla:**  Yeah. Yeah. I think, I think one step at a time 
 and keeping the focus like I really would like to create more content, have more 
 of this really quality time doing what I love to do like teaching, thinking 
 about content, writing blog posts, right?
 
-[00:37:25] ** Dr. McKayla: **  This is really what gives me energy and less 
+[00:37:25] **Dr. McKayla:**  This is really what gives me energy and less 
 about the administrative stuff. But then, as you say, I have to be real careful 
 not to get people adding to my administrative stuff. So, yeah. But yeah, very, 
 very good.
@@ -722,18 +723,18 @@ about at all. And so I want to delegate, delegate that part of it.
 leads down that road of like now I'm just jammed up managing everyone and paying 
 too much, you know, not balancing my books. 
 
-[00:38:22] ** Dr. McKayla: **  Yeah. I think that's true. 
+[00:38:22] **Dr. McKayla:**  Yeah. I think that's true. 
 
-[00:38:25] ** Dr. McKayla: **  Do the thing the hard way for a while, figure out 
+[00:38:25] **Dr. McKayla:**  Do the thing the hard way for a while, figure out 
 the smallest piece of it that you can automate or delegate.
 
-[00:38:31] ** Dr. McKayla: **  Yeah, cool. So Avdi, thank you so much for 
+[00:38:31] **Dr. McKayla:**  Yeah, cool. So Avdi, thank you so much for 
 sharing all your insights. Is there something like, if there are developers out 
 there that think, oh, I would like to have some side hustle, you know, get a 
 little bit more independence or maybe even go full in, what do you think what is 
 a, is a good strategy nowadays?
 
-[00:38:50] ** Dr. McKayla: **  You know, when there are already so many, 
+[00:38:50] **Dr. McKayla:**  You know, when there are already so many, 
 screencasts, when they're already, you know, so many other things, so many blog 
 posts, so many podcasts and so on. What do you think? How should people start 
 doing it? Is a blog still a good first outlet? 
@@ -748,7 +749,7 @@ better at explaining and documenting your work to other developers. And so like,
 yeah, there's just no downside to getting in the habit of writing all the time 
 about the work that you're doing. 
 
-[00:39:46] ** Dr. McKayla: **  Yeah, that sounds good. Yeah, I think so too. I 
+[00:39:46] **Dr. McKayla:**  Yeah, that sounds good. Yeah, I think so too. I 
 think that's a such a good advice. There's I think there's so many positive 
 things that can come, be that job opportunities or maybe you have to jump on, 
 you know, you get better as, as you said, in your communication skills, better 
@@ -758,7 +759,7 @@ great, this is really a great insight. Thank you so much, Avdi.
 [00:40:09] ** Avdi Grimm: **  Oh, I have one other thing on that, on that note 
 that I should include. Start building your, your mailing list now. 
 
-[00:40:16] ** Dr. McKayla: **  Mailing list, yeah. Good idea. Independent 
+[00:40:16] **Dr. McKayla:**  Mailing list, yeah. Good idea. Independent 
 mailing list, I would say.
 
 
@@ -768,16 +769,16 @@ thing, and just start collecting that snowball now, because that, it takes a
 long time, but oh my gosh, the opportunities that come out of having a good 
 mailing list. There's nothing else like it.
 
-[00:40:38] ** Dr. McKayla: **  Yeah, that's true. Yeah. I think that's a great 
+[00:40:38] **Dr. McKayla:**  Yeah, that's true. Yeah. I think that's a great 
 add, great addition to what you said before. So Avdi, thank you so much for 
 taking the time and talking with me and sharing everything with my listeners and 
 yeah, have a good day.
 
 [00:40:53] ** Avdi Grimm: **  Thank you so much for this. I really enjoyed it. 
 
-[00:40:55] ** Dr. McKayla: **  I enjoyed it too. Thank you so much. Bye bye. 
+[00:40:55] **Dr. McKayla:**  I enjoyed it too. Thank you so much. Bye bye. 
 
-[00:40:58] ** Dr. McKayla: **  This was another episode of the Software 
+[00:40:58] **Dr. McKayla:**  This was another episode of the Software 
 Engineering Unlocked podcast. If you enjoyed the episode, please help me spread 
 the word about the podcast, send the episode to a friend via email, Twitter, 
 LinkedIn, well, whatever messaging system you use. Or give it a positive review 
