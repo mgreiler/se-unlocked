@@ -5,8 +5,12 @@ podcast. I'm your host,  Dr. McKayla  and today I have the pleasure to talk to
  Jess Rose. Jess is a technology professional and keynote speaker specializing in 
 community building outreach and developing better processes for talented 
 technology. She is passionate about fostering more equal access to technical 
-education, and digital spaces.  But before I start, let me tell you about an 
-amazing startup that is sponsoring today's episode Mergify. You know, I'm all 
+education, and digital spaces.  
+
+But before I start, let me tell you about an 
+amazing startup that is sponsoring today's episode 
+[Mergify](https://www.mergify.com/?utm_source=social&utm_medium=podcast&utm_campaign=SeUnlocked). 
+You know, I'm all 
 about code reviews and pull requests. Having your teammates review your code can 
 be super beneficial, but it also can create a bottleneck and slow down your 
 software development. With Mergify, your team can be way more productive with 
@@ -17,8 +21,12 @@ need a copy of the PR and another branch for bug fixing? No problem. Mergify can
 take care of all those situations. By saving time, you and your team can focus 
 on projects that matter. Mergify integrates completely with GitHub and your CI 
 pipeline. They have a startup program that could give your company a 12-month 
-credit up to \$21,000 of value. Start saving time, visit Mergify.com to sign up 
-for a demo and get started or just click the link in the show notes.  I'm super, 
+credit up to \$21,000 of value. Start saving time, visit 
+[Mergify.com](https://www.mergify.com/?utm_source=social&utm_medium=podcast&utm_campaign=SeUnlocked) 
+to sign up 
+for a demo and get started or just click the link in the show notes.  
+
+I'm super, 
 super thrilled to have Jess here with me. Jess, welcome to the show.
 
 [00:01:38]   **Jess Rose**  Oh, gosh. And I'm absolutely delighted to be here when you 
