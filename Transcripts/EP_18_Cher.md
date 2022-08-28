@@ -1,4 +1,9 @@
-# Transcript Episode 18 with Cher
+---
+episode: "Transcript Episode 18 with Cher"
+permalink: /from-hardship-to-apple
+status: publish
+type: transcript
+--- 
 
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr.McKayla. 

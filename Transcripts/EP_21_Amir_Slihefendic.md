@@ -1,5 +1,9 @@
-# Transcript Episode 21 with Amir Salihefendić
-
+---
+episode: "Transcript Episode 21 with Amir Salihefendić"
+permalink: /market-leader-productivity-app
+status: publish
+type: transcript
+--- 
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to

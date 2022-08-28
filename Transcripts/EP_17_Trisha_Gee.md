@@ -1,4 +1,10 @@
-# Transcript Episode 17 with Trisha Gee
+---
+episode: "Transcript Episode 17 with Trisha Gee"
+permalink: /episode-17-why-we-hate-to-read-code-trisha-gee
+status: publish
+type: transcript
+--- 
+
 
 **Michaela:**: [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, dr. McKay. And today I have the pleasure to talk to 

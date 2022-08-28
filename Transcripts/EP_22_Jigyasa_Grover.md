@@ -1,4 +1,10 @@
-# Transcript Episode 22: Jigyasa Grover
+---
+episode: "Transcript Episode 22: Jigyasa Grover"
+permalink: /machine-learning-engineer-twitter
+status: publish
+type: transcript
+--- 
+
 **Michaela:**[00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. Michaela. And today I have the pleasure to talk to 
 Jigyasa Grover. But before we start, I just want to tell you that I'm taking a 

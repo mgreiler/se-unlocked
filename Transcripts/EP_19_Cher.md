@@ -1,4 +1,9 @@
-# Transcript Episode 19 Cher
+---
+episode: "Transcript Episode 19 Cher"
+permalink: /disability-at-apple
+status: publish
+type: transcript
+--- 
 
 ( *intro music* )
 

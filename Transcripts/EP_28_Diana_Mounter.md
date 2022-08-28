@@ -1,4 +1,9 @@
-# Transcript Episode 29 with Diana Mounter
+---
+episode: "Transcript Episode 29 with Diana Mounter"
+permalink: /design-systems-github
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. 

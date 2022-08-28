@@ -1,4 +1,9 @@
-# Transcript Episode 25 Michaela
+---
+episode: "Transcript Episode 25 Michaela"
+permalink: /from-art-school-to-microsoft-research
+status: publish
+type: transcript
+--- 
 
 **Michaela:** 
 

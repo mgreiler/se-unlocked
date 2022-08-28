@@ -1,4 +1,10 @@
-# Transcript Episode 24 Kent C. Dodds
+---
+episode: "Transcript Episode 24 Kent C. Dodds"
+permalink: /double-down-integration-tests-kent-dodds
+status: publish
+type: transcript
+--- 
+
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Doctor McKayla and today I have the pleasure to talk to 
 Kent C. Dodds. Kent is a software engineer and teacher. Before starting his 

@@ -1,6 +1,6 @@
 ---
 episode: "Episode 39 Annie Liew"
-permalink: /designer-to-web-developer
+permalink: /designer-to-web-developer/
 status: publish
 type: transcript
 ---

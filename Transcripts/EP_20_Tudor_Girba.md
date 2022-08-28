@@ -1,4 +1,11 @@
-# Transcript Episode 20 with Tudor Girba
+---
+episode: "Transcript Episode 20 with Tudor Girba"
+permalink: /changing-develop-software
+status: publish
+type: transcript
+--- 
+
+
 ( intro music )
 **Michaela:**: [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, dr. McKayla. Before we start, I want to update you a 

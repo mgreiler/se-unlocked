@@ -1,4 +1,9 @@
-# Transcript Episode 29 with Kent C. Dodds
+---
+episode: "Transcript Episode 29 with Kent C. Dodds"
+permalink: /no-mocks-allowed
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, welcome to the software engineering unlocked 
 podcast. I'm your host, dr. McKayla. And today I have the pleasure to talk to 

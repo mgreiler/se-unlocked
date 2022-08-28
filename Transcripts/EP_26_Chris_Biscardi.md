@@ -1,4 +1,9 @@
-# Transcript Episode 26 with Chris Biscardi
+---
+episode: "Transcript Episode 26 with Chris Biscardi"
+permalink: /success-community-building
+status: publish
+type: transcript
+--- 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering
 Unlocked podcast. I'm your host, Doctor McKayla, and today I have the pleasure to
 talk to Chris Biscardi. Chris has an independent consultant that works with

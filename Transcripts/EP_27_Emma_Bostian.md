@@ -1,4 +1,10 @@
-# Software Engineering Unlocked Podcast: Interview with Emma Bostian
+---
+episode: "Transcript Interview with Emma Bostian"
+permalink: /job-at-spotify
+status: publish
+type: transcript
+--- 
+
 **McKayla:** [00:00:00] Hello and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Doctor McKayla and today I have the pleasure to talk to 
 Emma Bostian.
