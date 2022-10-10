@@ -6,7 +6,7 @@ type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello, and welcome back. After the quite extensive 
-summer break. This felt so good, to the soft engineering unlocked podcast. I'm
+summer break. This felt so good, to the software engineering unlocked podcast. I'm
 your host, Dr. McKayla. And today I have the pleasure to talk to Karl Hughes. 
 But before I start, I want to let you know of the new and upcoming code review
 workshops where you can puches individual tickets. This workshops are great for
