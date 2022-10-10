@@ -901,6 +901,6 @@ thank you so much for being on my show today, have a good day.
 
 [00:54:44] **Michaela:** Bye. Bye. 
 
-[00:54:46] _(Outro)_ I hope you enjoyed another episode of the sup engineering unlocked
+[00:54:46] _(Outro)_ I hope you enjoyed another episode of the software engineering unlocked
 podcast. Don't forget to subscribe. And I talked to you again in two weeks. Bye.
 
