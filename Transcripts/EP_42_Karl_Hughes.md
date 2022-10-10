@@ -11,7 +11,7 @@ your host, Dr. McKayla. And today I have the pleasure to talk to Karl Hughes.
 But before I start, I want to let you know of the new and upcoming code review
 workshops where you can puches individual tickets. This workshops are great for
 people who don't want to organise a workshop for the whole team, or who want to
-learn together developers from defferent companies all around the world. My next
+learn together developers with from different companies all around the world. My next
 workshop will start again at the end of September. To find out more, please go
 to awesomecodereviews.com. I will also link it to the show notes, but now back
 to Karl. Karl is the software engineer who turned it entrepreneur in the midst
