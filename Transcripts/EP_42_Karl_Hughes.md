@@ -14,7 +14,7 @@ people who don't want to organise a workshop for the whole team, or who want to
 learn together developers with from different companies all around the world. My next
 workshop will start again at the end of September. To find out more, please go
 to awesomecodereviews.com. I will also link it in the show notes, but now back
-to Karl. Karl is the software engineer who turned it entrepreneur in the midst
+to Karl. Karl is the software engineer who turned entrepreneur in the midst
 of the pandemic last year, his startup draft.dev creates content that reaches
 software engineers, which means that he combined his two passions development
 and content creation. Today, I will ask him all about his new business and what
