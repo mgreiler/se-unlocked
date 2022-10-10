@@ -19,7 +19,7 @@ frameworks and integrate seamlessly with.
 Beginning of the year when I was hiring engineers for a startup I worked with.
 I used the tool during the interview process for all the candidates and was 
 extremely satisfied. Their mission real task. No, brainteasers resonates a lot 
-with me, so I cannot recommend codes. Admit enough, please check them 
+with me, so I cannot recommend CodeSumit enough, please check them 
 out at codesubmit.io.
 That is codesubmit.io, but now back to Trier and Kim who founded the company just 
 work, which helps organization and individuals create more equitable workplaces 
@@ -43,7 +43,7 @@ with me through here. And Kim, welcome to the show.
 Thanks so much. It's an honor to be here. 
 [00:02:04] 
  
-**Michaela:** Yeah,  really excited. It's also the first interview for 
+**Michaela:** Yeah,  I'm really excited. It's also the first interview for 
 me, where I have like two guests here on my shows. I'm super excited. And 
 I normally start my show with asking my guests how they actually landed in tech. 
 So a little bit about your journey and here, I think it's really interesting 
