@@ -31,7 +31,8 @@ about security?
 [00:01:18] **Harshit:** I think, there are several aspects to it. I mean, if I 
 think I've had, I, myself, have been a developer for a very long time before I 
 jumped the, to the management train and, you know, started taking up more 
-leadership positions. And being a developer is like wearing multiple hats, right?
+leadership positions. And being a developer is like wearing multiple hats, 
+right?
 
 Basically, you are writing software, then making sure that you ship that 
 software, writing tests, and as we've now gone into the DevOps and, you know, 
@@ -49,26 +50,27 @@ Because earlier, security was all about firewalls, right? You protect your
 application by deploying a firewall, making sure there's no DDoS attacks and 
 you can buy an application from Cisco or Palo Alto, and that's it.
 
-But these days, most of the hacks that you see are all software vulnerabilities. 
-Dependencies, which are vulnerable, or software that you write is vulnerable. 
-So, how do you kind of go and mitigate all of that? And it becomes really, 
-really challenging for somebody who's new, to kind of even understand what the 
-Attack Office is. What all possible things can be, kind of wrong?
+But these days, most of the hacks that you see are all software 
+vulnerabilities. Dependencies, which are vulnerable, or software that you write 
+is vulnerable. So, how do you kind of go and mitigate all of that? And it 
+becomes really, really challenging for somebody who's new, to kind of even 
+understand what the Attack Office is. What all possible things can be, kind of 
+wrong?
 
-So, to give you an example, one of our customers, they use, they have a standard 
-stack. Python on the backend, React on the frontend, deploy it in microservices 
-in the cloud. Now, just this standard application, they use eight different 
-security tools to kind of make sure that the application is good enough that 
-they can ship.
+So, to give you an example, one of our customers, they use, they have a 
+standard stack. Python on the backend, React on the frontend, deploy it in 
+microservices in the cloud. Now, just this standard application, they use eight 
+different security tools to kind of make sure that the application is good 
+enough that they can ship.
 
-So, these are basically secret scanning, code dependency scanning, infrastructure 
-scanning, container scanning. Then, you have just your source code analysis 
-scanning. And so, you could keep on, just making sure that you are covered 
-across all your bases. Now, if a developer, as a developer, you ask me, okay, 
-in addition to everything that I'm doing now, you want me to go and look at 
-eight tools and figure out the hundreds of vulnerabilities that exist in my 
-environment and something is coming from a dependency, which I don't even know 
-what to do about, it becomes like a big mess, right?
+So, these are basically secret scanning, code dependency scanning, 
+infrastructure scanning, container scanning. Then, you have just your source 
+code analysis scanning. And so, you could keep on, just making sure that you 
+are covered across all your bases. Now, if a developer, as a developer, you ask 
+me, okay, in addition to everything that I'm doing now, you want me to go and 
+look at eight tools and figure out the hundreds of vulnerabilities that exist 
+in my environment and something is coming from a dependency, which I don't even 
+know what to do about, it becomes like a big mess, right?
 
 So that's why I would say security has become so difficult for developers, and 
 there has to be better ways to kind of manage these things.
@@ -97,8 +99,8 @@ that can be inputted are all valid concerns.
 And that has to go through code training and making sure, you know, developers 
 are even aware that these problems can be fixed. But if I look at the whole, 
 broader perspective of a developers project today, with all these open source 
-technologies out there, developers are just writing, if, just purely from a line 
-of code perspective, let's say.
+technologies out there, developers are just writing, if, just purely from a 
+line of code perspective, let's say.
 
 So, only 30% of the code is what developers write. The rest 70% is coming in 
 from third party libraries of some sorts, or any of the infrastructure that 
@@ -108,10 +110,10 @@ environment, it becomes really difficult to kind of keep that happening.
 
 [00:06:05] **Michaela:** Mm-hmm.
 
-[00:06:06] **Harshit:** So, what we've observed is that very few vulnerabilities 
-get caught because somebody's doing a code review and, you know, they point it 
-out, unless it's right out there, right? Typically, it's through automation that 
-people find with these vulnerabilities.
+[00:06:06] **Harshit:** So, what we've observed is that very few 
+vulnerabilities get caught because somebody's doing a code review and, you 
+know, they point it out, unless it's right out there, right? Typically, it's 
+through automation that people find with these vulnerabilities.
 
 And the other thing is, people use a lot of pen testing tools as well, right? 
 There is third party pen testers. There are in-house pen testers. And though 
@@ -149,10 +151,10 @@ developers feel overall about security as well as we continue on this.
 
 [00:08:22] **Michaela:** Yeah, it would be really interesting. One thing that 
 I was wondering, especially if you are mentioning these large organizations, 
-right? So, for small organizations, I totally understand that, you know, one dev 
-has to wear so many hats. And I also see this shift, right? That the person has 
-to, developer is not only a full stack developer, but this DevOps, you know, 
-requirements, and the security requirements, and so on.
+right? So, for small organizations, I totally understand that, you know, one 
+dev has to wear so many hats. And I also see this shift, right? That the person 
+has to, developer is not only a full stack developer, but this DevOps, you 
+know, requirements, and the security requirements, and so on.
 
 But aren't companies like the ones that you mentioned, especially the large 
 organizations like Microsoft or Google or, well, Coinbase is not in that 
@@ -161,28 +163,29 @@ Airbnb, I think they have dedicated security teams, right? And so, are the
 developers really responsible? When I'm working with teams, especially from 
 large organization, and I bring up security and that they should think about it.
 
-They're like, "What our thing (??)," right? ( *laugh* ) And to really try to get 
-rid of this additional responsibility and say, "Well," you know, "We have a team 
-that actually does that." What's your experience here? Do you see that?
+They're like, "What our thing (??)," right? ( *laugh* ) And to really try to 
+get rid of this additional responsibility and say, "Well," you know, "We have 
+a team that actually does that." What's your experience here? Do you see that?
 
-[00:09:28] **Harshit:** Yeah. Yeah. I mean, we've definitely seen it, but you'll 
-be very surprised that things are changing, okay?
+[00:09:28] **Harshit:** Yeah. Yeah. I mean, we've definitely seen it, but 
+you'll be very surprised that things are changing, okay?
 
-And it's no longer about we have a separate security team. And especially in the 
-space that Tromzo or my work currently kind of goes into. So, security has 
+And it's no longer about we have a separate security team. And especially in 
+the space that Tromzo or my work currently kind of goes into. So, security has 
 different facets. There's cloud security, there is application security, and 
 then there is other areas about security as well.
 
 So, within application security, there is no way that the security team can go 
 and fix the issues, because they don't know anything about the code. The 
-developers are the one who are writing the code. Whether it's their own software, 
-or application logic that they're writing, or dependencies and containers that 
-they're bringing up to kind of run their services.
+developers are the one who are writing the code. Whether it's their own 
+software, or application logic that they're writing, or dependencies and 
+containers that they're bringing up to kind of run their services.
 
 It's all the application developers. So even at Google or at Airbnb, it's now, 
-that's why we talk about the shift left. Everybody's trying to shift left, which 
-essentially means that the developers now definitely have that responsibility. 
-And I cannot totally understand. It's like a cultural shift as well, right?
+that's why we talk about the shift left. Everybody's trying to shift left, 
+which essentially means that the developers now definitely have that 
+responsibility. And I cannot totally understand. It's like a cultural shift as 
+well, right?
 
 So we, if you go back in the day, we used to have QA engineers, right? We used 
 to have testers who would basically be responsible for testing the application. 
@@ -196,11 +199,11 @@ these tests, making sure the performance of these tests is good. You can run as
 many tests excessively (??). Now, what we are seeing in security teams is 
 security teams are managing the risk in your application.
 
-So they will define what we call a security guardrails where you can say, "Okay, 
-this is the container image that you can use for our container services. This 
-is what you can kind of push into your environment. Or this is what you cannot 
-do within, you cannot push out any secrets in your code." So, those kind of 
-become security guardrails as you're developing code.
+So they will define what we call a security guardrails where you can say, 
+"Okay, this is the container image that you can use for our container services. 
+This is what you can kind of push into your environment. Or this is what you 
+cannot do within, you cannot push out any secrets in your code." So, those kind 
+of become security guardrails as you're developing code.
 
 And that is what the security team manages. But on a day to day basis, the 
 vulnerabilities that come out of your software need to be addressed by the 
@@ -214,45 +217,46 @@ well over there is, you know, push from the top.
 
 If your CEO is emphasizing, "Okay, security is important for us," if your top 
 level executors are telling you that, "Okay, we need to kind of do more about 
-security," a large organizations have this position of a CSO, which is basically 
-a VP level position or even higher. And typically, if they have a board seat, 
-that means that, you know, they are part of the executive team.
+security," a large organizations have this position of a CSO, which is 
+basically a VP level position or even higher. And typically, if they have a 
+board seat, that means that, you know, they are part of the executive team.
 
-They have a position there and they are mandating security, right? So, it becomes 
-like one of the pillars in an organization. And it's always good to see that. 
-On the lower level, on the engineering side itself, we have seen teams go ahead 
-and do gamification, right? So now, there are leaderboards happening.
+They have a position there and they are mandating security, right? So, it 
+becomes like one of the pillars in an organization. And it's always good to see 
+that. On the lower level, on the engineering side itself, we have seen teams go 
+ahead and do gamification, right? So now, there are leaderboards happening.
 
 Okay. This team introduced these many issues today. And this is how they are 
-trending week-on-week or one-on-one. Now, that kind of, you know, most engineers 
-are gamers as well, right? So, you kind of put in all this gamification within 
-fixing issues, and finding issues. Then, it kind of increases the visibility, 
-as well as make sure that people are driven to kind of achieve a certain goal 
-because it becomes like a community kind of a feel.
+trending week-on-week or one-on-one. Now, that kind of, you know, most 
+engineers are gamers as well, right? So, you kind of put in all this 
+gamification within fixing issues, and finding issues. Then, it kind of 
+increases the visibility, as well as make sure that people are driven to kind 
+of achieve a certain goal because it becomes like a community kind of a feel.
 
 And so, we've seen a couple of organizations do that really well and where they 
 are doing some of these gamification. They have a leaderboard where they track 
-these things and everybody's made aware of what's happening in their environment.
+these things and everybody's made aware of what's happening in their 
+environment.
 
 [00:13:49] **Michaela:** Yeah. And what about tools? You were talking about 
-tools, right? And that there are many tools and that the developers have to, you 
-know, understand them. But aren't we just, you know, set, you know, if we have, 
-let's say some automated tool in our GitHub, in the CI/CD pipeline, thinking 
-about Snyk, for example, or, you know, DeepSource, some study analysis tools 
-here, is that enough?
+tools, right? And that there are many tools and that the developers have to, 
+you know, understand them. But aren't we just, you know, set, you know, if we 
+have, let's say some automated tool in our GitHub, in the CI/CD pipeline, 
+thinking about Snyk, for example, or, you know, DeepSource, some study analysis 
+tools here, is that enough?
 
 Or what do we need?
 
-[00:14:14] **Harshit:** Yeah, yeah. That's a good question. What do we need? So, 
-the thing is this. That security is one of those fields where you can never be 
-sure that, you know, it's like protecting your home, right? Is a camera on the 
-front door enough or do you need one on the back door?
+[00:14:14] **Harshit:** Yeah, yeah. That's a good question. What do we need? 
+So, the thing is this. That security is one of those fields where you can never 
+be sure that, you know, it's like protecting your home, right? Is a camera on 
+the front door enough or do you need one on the back door?
 
-If you have both of these, do you need a motion detector? So now, it depends on 
-what you are guarding, right? What are your crown jewels? Let's say, it's a bank. 
-Then you need a camera every other place. You want to make sure that there's 
-things everywhere. But let's say, it's a public library or something else where 
-people are going to have access to everything.
+If you have both of these, do you need a motion detector? So now, it depends 
+on what you are guarding, right? What are your crown jewels? Let's say, it's a 
+bank. Then you need a camera every other place. You want to make sure that 
+there's things everywhere. But let's say, it's a public library or something 
+else where people are going to have access to everything.
 
 So you, so it's all about managing risk, right? And then from a tooling, just 
 tooling perspective, you need a different kind of a tool for everything that 
@@ -272,8 +276,8 @@ infrastructure scanning, where people are scanning for your Terraform code or
 your CloudFormation code.
 
 They're looking at your container images. So things like Aqua Security is there 
-for container images. There are open source ones as well. The new thing that has 
-come out is something called a supply chain security.
+for container images. There are open source ones as well. The new thing that 
+has come out is something called a supply chain security.
 
 [00:13:49] **Michaela:** Mm-hmm. Mm-hmm.
 
@@ -282,29 +286,31 @@ everything that you are importing, but how much of the supply chain, so as to
 say, of the software is also being imported in your environment?
 
 Making sure that is all there, so there's this whole angle of supply chain 
-security. And then, you know, just finally, it's all about your code, as I said. 
-Either your APIs, if you're using Python, then there will be a Python Analyzer, 
-if you're using React or JavaScript, there'll be a child, there'll be a language 
-specific thing as well.
+security. And then, you know, just finally, it's all about your code, as I 
+said. Either your APIs, if you're using Python, then there will be a Python 
+Analyzer, if you're using React or JavaScript, there'll be a child, there'll be 
+a language specific thing as well.
 
-And then, a lot of security typically goes with compliance as well. So, you have 
-licenses as well, that people need to monitor for. So there are license based 
-checks and license based scanners as well, making sure you're not importing 
-something, which is unofficially not a good license that you want to have in 
-your enterprise product.
+And then, a lot of security typically goes with compliance as well. So, you 
+have licenses as well, that people need to monitor for. So there are license 
+based checks and license based scanners as well, making sure you're not 
+importing something, which is unofficially not a good license that you want to 
+have in your enterprise product.
 
 So, there are all these different variations of things that you would need to 
 make sure that you're running a good application security program.
 
 And in a survey that I was talking about, we, well, basically there's, it came 
-out to, like, 62% of the developers are using today, 11 or more sec application, 
-security tools in their environment. So you can see that that number is high 
-and it is going higher and higher as we kind of make everything software.
+out to, like, 62% of the developers are using today, 11 or more sec 
+application, security tools in their environment. So you can see that that 
+number is high and it is going higher and higher as we kind of make everything 
+software.
 
 [00:17:31] **Michaela:** So, what can we do to make it easier for developers? 
 So, we are talking about the, you know, we have this shift left, there, they 
-need to be more responsible for it, we are talking about that also infrastructure 
-is now code, right? We are talking about that there are so many tools.
+need to be more responsible for it, we are talking about that also 
+infrastructure is now code, right? We are talking about that there are so many 
+tools.
 
 So, what can we do to make it easier for them? What can we do to reduce the 
 friction?
@@ -318,8 +324,8 @@ So, let's talk about the technology perspective first. So, clearly, if you have
 eight things that you need to do, the human mind is not capable of doing that. 
 So, it's easier if there is one thing that tells you what to do, right? So, you 
 would need sort of an orchestrator or a management platform that makes sure 
-that, you know, you are getting these reports from these eight or 11 things, and 
-they are bagging reported in a way that is meaningful to you.
+that, you know, you are getting these reports from these eight or 11 things, 
+and they are bagging reported in a way that is meaningful to you.
 
 So, not that you have to go to a dashboard. But if the message is coming to you 
 on a Slack channel, or coming to you directly on your GitHub PR. There's no 
@@ -332,15 +338,15 @@ So, that whole notion about shifting left and taking it to as much left, right?
 Even going as further as going inside your IDE, having a good pre-commit hook, 
 like today, to kind of validate some of those things as well.
 
-So, if I have to really talk about from a tech perspective, we need three things 
-there. One is visibility of what all things I have in my environment and why all 
-of this is secure or not secure, and what do I stand right now, and kind of 
-measure that on an ongoing basis.
+So, if I have to really talk about from a tech perspective, we need three 
+things there. One is visibility of what all things I have in my environment and 
+why all of this is secure or not secure, and what do I stand right now, and 
+kind of measure that on an ongoing basis.
 
-The second thing I need is automation, right? Making sure that if I have hundred 
-thousand things, you know? Typically in container worlds, right? You will have 
-500 vulnerabilities come up. And typically, the fix will be, "Okay, go ahead and 
-upgrade your OS image."
+The second thing I need is automation, right? Making sure that if I have 
+hundred thousand things, you know? Typically in container worlds, right? You 
+will have 500 vulnerabilities come up. And typically, the fix will be, "Okay, 
+go ahead and upgrade your OS image."
 
 And that will just solve 500 things. Now, I can't go and file 500 tickets in 
 JIRA, for example, for that one thing. It has to be one thing and just tell me 
@@ -365,10 +371,10 @@ of these three things. But I feel like just having that shift left mindset and
 being able to kind of go and finish that, would really help solve, I would say, 
 60 to 70% of this.
 
-Then, the rest comes into the process and the people, right? When I said people, 
-let's talk about people first. Security needs to be in the culture, right? It 
-needs to come down from the top that, you know, security is something that is 
-important, you are allocated time, right?
+Then, the rest comes into the process and the people, right? When I said 
+people, let's talk about people first. Security needs to be in the culture, 
+right? It needs to come down from the top that, you know, security is something 
+that is important, you are allocated time, right?
 
 It can't be like engineers are asked to kind of, of course ship features, but 
 they also need to be allocated certain time to fix security issues inside, and 
@@ -384,10 +390,10 @@ exceptions, for example, right? Let's say, the developer is really busy right
 now.
 
 And he wants to ask for an exception. "Okay, give me couple of weeks before I 
-can get to this issue." How can the security team manage that risk and make sure 
-that, you know, that is kind of documented? Because the ratio of security people 
-to developers is really bad, right? If there's one security engineer to 200 
-developers.
+can get to this issue." How can the security team manage that risk and make 
+sure that, you know, that is kind of documented? Because the ratio of security 
+people to developers is really bad, right? If there's one security engineer to 
+200 developers.
 
 If even 10% of them ask for an exception, there's no way that security engineer 
 can even just manage that process, right? So, how do you manage those workflows 
@@ -411,10 +417,10 @@ has happened, and I'm pretty sure we can embed some of those learnings within
 the security teams too.
 
 [00:23:42] **Michaela:** Yeah. So, especially the thing that you said at the 
-beginning, triggered a couple of thoughts for me. So, if you have so many tools, 
-obviously, they're reporting so many issues and we have to assign them a 
-priority, right? We are also have to find duplications ( *laugh* ) because if 
-we have tools, they are, normally, they are not scanning for very dedicated 
+beginning, triggered a couple of thoughts for me. So, if you have so many 
+tools, obviously, they're reporting so many issues and we have to assign them 
+a priority, right? We are also have to find duplications ( *laugh* ) because 
+if we have tools, they are, normally, they are not scanning for very dedicated 
 things and they are overlapping, right?
 
 So one tool finds a little bit more in this area, but a lot also in the same 
@@ -430,8 +436,8 @@ through all of those information that we are getting from all of those tools,
 and especially from different tools, right?
 
 Because within one tool, people obviously thought about, you know, how to 
-package it and how to make it more adjustable. But if you have 11 tools, they're 
-not made in a way, you know, that they're used together.
+package it and how to make it more adjustable. But if you have 11 tools, 
+they're not made in a way, you know, that they're used together.
 
 [00:25:03] **Harshit:** Absolutely. You are a hundred percent correct. And 
 that's the biggest problem today, right?
@@ -443,15 +449,15 @@ even manage risk? How do you kind of go ahead and prioritize it?
 
 As I was saying, that one of our customers has over 3,500 repos. There are 200 
 engineers in the team and there are 3,500 repos. I mean, it's a, it's been, the 
-company has been around for a long time. So, of course, you know, you go through 
-these phases. But as a security team, how do you even know what needs to happen 
-to that 3,500 repos?
+company has been around for a long time. So, of course, you know, you go 
+through these phases. But as a security team, how do you even know what needs 
+to happen to that 3,500 repos?
 
-Who's actually using those 3,500 repos? Or they are even deployed in production, 
-right? So, if I go and scan everything, then I'm going to find, as I said, over 
-200, 300 thousand issues across all of these tools. Then, if I just have to go 
-manually do one issue per day, I'm looking at years ( *laugh* ) before I get to 
-it.
+Who's actually using those 3,500 repos? Or they are even deployed in 
+production, right? So, if I go and scan everything, then I'm going to find, as 
+I said, over 200, 300 thousand issues across all of these tools. Then, if I 
+just have to go manually do one issue per day, I'm looking at years ( *laugh* ) 
+before I get to it.
 
 And by that time, there'll be 300,000 more issues, right? So, absolutely, you 
 know? Combining all of these together, correlating it, de-duplicating it, and 
@@ -465,32 +471,32 @@ mean, that is what I was facing back at Juniper as well when I was leading my
 team. I had three products, over a hundred engineers, and it was a big issue 
 for me.
 
-And when I basically went out and talked to other engineers, and some of my peer 
-in the industry, and security folks, it became like, "Yeah, it's a problem for 
-my team as well." And when I heard that over, you know, several times, I said, 
-"Okay, let's start a company and solve this problem."
+And when I basically went out and talked to other engineers, and some of my 
+peer in the industry, and security folks, it became like, "Yeah, it's a problem 
+for my team as well." And when I heard that over, you know, several times, I 
+said, "Okay, let's start a company and solve this problem."
 
 [00:27:14] **Michaela:** Yeah. So another thing that I want to, you know, 
 briefly talk about and you mentioned it at very, at the beginning was only 30% 
-or something around this number is written in-house, right? And the rest, we are 
-relying on more and more services. And, you know, we are all that happy that, 
-you know, it's in the cloud and, you know, I don't have to think about 
+or something around this number is written in-house, right? And the rest, we 
+are relying on more and more services. And, you know, we are all that happy 
+that, you know, it's in the cloud and, you know, I don't have to think about 
 authentication because there are services doing it for me.
 
 And I don't have to think about logging because there's an open source system 
-that can do it at already for me, a package that I can use, right? And then, we 
-have ( *laugh* ) Log4j, and the vulnerabilities, and so on, right? And suddenly, 
-we are all facing, you know, real issues, real travels. But on the other hand, 
-I mean, I have some scanners running for my little projects, and they're just, 
-you know, they're not high risk.
+that can do it at already for me, a package that I can use, right? And then, 
+we have ( *laugh* ) Log4j, and the vulnerabilities, and so on, right? And 
+suddenly, we are all facing, you know, real issues, real travels. But on the 
+other hand, I mean, I have some scanners running for my little projects, and 
+they're just, you know, they're not high risk.
 
 They're not, you know, bringing in millions or something. So I don't feel that, 
 you know, I have a big issue with not updating them frequently or with some 
 vulnerabilities. So I get, weekly, I'm getting, you know, "You are using some 
 unsecure version over here. You should do something over here."
 
-And it's really hard to keep up with that. Is that also something that you think 
-can be improved?
+And it's really hard to keep up with that. Is that also something that you 
+think can be improved?
 
 [00:28:29] **Harshit:** Yeah. No, that's a really, really good question. And 
 definitely we need to kind of, you know, think more about that, right? At the 
@@ -510,11 +516,11 @@ big deal, like the examples that you took of, about Log4j. So, one of the real
 use cases for using Tromzo for our customers was trying to find out where all 
 Log4J exist in their environment.
 
-Because they had, today, no way to kind of figure out, before Tromzo, across all 
-their services and assets and everything that they're using, how and where, if 
-I even, if I'm using that library or not. So, it becomes really critical to kind 
-of identify what you want to kind of fix. Because if the tool is just reporting, 
-"Okay," that, "Okay, you have a very critical severity."
+Because they had, today, no way to kind of figure out, before Tromzo, across 
+all their services and assets and everything that they're using, how and where, 
+if I even, if I'm using that library or not. So, it becomes really critical to 
+kind of identify what you want to kind of fix. Because if the tool is just 
+reporting, "Okay," that, "Okay, you have a very critical severity."
 
 But let's say you only using it in your test environment. It's not even used in 
 production, you're not shipping that software anywhere, then probably you don't 
@@ -523,10 +529,11 @@ something critical and it is internet facing, then you probably want to kind of
 fix it, right?
 
 So, it's not, it's one thing that the tool is giving you some information. But 
-at the same time, you want to make sure that, you know, you have a way to manage 
-that risk and you define what is okay in your environment. And that is the most 
-important thing here. Because you cannot, and I can stress double there, that 
-you pretty much cannot fix everything that the tool is reporting to you.
+at the same time, you want to make sure that, you know, you have a way to 
+manage that risk and you define what is okay in your environment. And that is 
+the most important thing here. Because you cannot, and I can stress double 
+there, that you pretty much cannot fix everything that the tool is reporting to 
+you.
 
 There is no way you will have bandwidth to do that. So then, it's all about 
 managing risk and how do you kind of go about managing all of that.
@@ -537,29 +544,30 @@ surprising to you?
 
 [00:31:04] **Harshit:** So, the key things that came out of the voice of the 
 developer survey, some of the key things that were a little surprising for me 
-were that one of, let me start with the first one. Developers are, I mean, we've 
-been talking about this. But even developers know about it, that they are fixing 
-only 32% of the vulnerabilities that exist in the environment today.
+were that one of, let me start with the first one. Developers are, I mean, 
+we've been talking about this. But even developers know about it, that they are 
+fixing only 32% of the vulnerabilities that exist in the environment today.
 
 So, out of three vulnerabilities that are being found, only one third is, I 
 mean, only one is getting kind of fixed. I would say not a surprising factor, 
-but the ratio is quite surprising, right? I mean, we knew that we are not fixing 
-everything, but just one third, it seems like quite a bit. Especially these are 
-all B2B applications or B2C applications where, you know, is actually generating 
-a lot of money and revenue.
+but the ratio is quite surprising, right? I mean, we knew that we are not 
+fixing everything, but just one third, it seems like quite a bit. Especially 
+these are all B2B applications or B2C applications where, you know, is actually 
+generating a lot of money and revenue.
 
 The other thing that came out of this is a one third of the overall 
-vulnerabilities that are reported by some of these scanners are also just noise. 
-So now, clearly, the scanning companies also need to do a lot better here because 
-if they feel that they're reporting false positives on that high level, right?
+vulnerabilities that are reported by some of these scanners are also just 
+noise. So now, clearly, the scanning companies also need to do a lot better 
+here because if they feel that they're reporting false positives on that high 
+level, right?
 
 Because at the end of the day, most scanners are just rules, right? They kind 
 of check for patterns or check for things. And so, if those are not really 
 highly accurate or don't cover a lot of cases, then it becomes a problem as 
-well. So we see that, you know, developers are not too happy about it, that, you 
-know, there are so many vulnerabilities which are just basically noise.
+well. So we see that, you know, developers are not too happy about it, that, 
+you know, there are so many vulnerabilities which are just basically noise.
 
-And then the other thing was that, you know, they found that they are actually 
+And then, the other thing was that, you know, they found that they are actually 
 pushing code, which is vulnerable. Like, 42% of the developers push vulnerable 
 code once per month. So now, this was also something interesting that they know 
 that the code is vulnerable, but they still are going and pushing it.
@@ -614,23 +622,24 @@ so, maybe if people want to check it out, you're working on this, right? You're
 the co-founder and CTO of this startup.
 
 So, I think I understood quite a bit of the ideas behind of the motivations, 
-you know, why you are on this path. But maybe you can share a little bit of this 
-path to, you know, wrap this episode up. Maybe also, how long have you, you 
-know, have you been doing this? Have you developed Tromzo, and what's your 
+you know, why you are on this path. But maybe you can share a little bit of 
+this path to, you know, wrap this episode up. Maybe also, how long have you, 
+you know, have you been doing this? Have you developed Tromzo, and what's your 
 solution?
 
 What do you think is the right way to do that in a, I guess, softer way 
 ( *laugh* ).
 
 [00:36:18] **Harshit:** Yeah, absolutely. And thank you for asking that. So, 
-yeah. We started Tromzo about, I would say, 15 months back. So we are a, I would 
-say, a relatively new company. But at the same time, both me and my co-founder 
-have years of experience, both in engineering and as well as security.
+yeah. We started Tromzo about, I would say, 15 months back. So we are a, I 
+would say, a relatively new company. But at the same time, both me and my 
+co-founder have years of experience, both in engineering and as well as 
+security.
 
 So, we are not new to the space or new to the problem. The problem, as I said, 
-just intensified in the last couple of years, with everything becoming software. 
-As I was saying, that network, it became software. Your infrastructure became 
-software, your microservices, just to cough (??), right?
+just intensified in the last couple of years, with everything becoming 
+software. As I was saying, that network, it became software. Your 
+infrastructure became software, your microservices, just to cough (??), right?
 
 And you have now a per (??) repo. Earlier, everything used to be a monorepo. 
 Now, you have a repo for every small little thing as well, right? Everything 
@@ -684,8 +693,8 @@ organizations like Coinbase, Robinhood, and Lemonade, and a lot of other folks
 who are kind of coming and helping us build this thing in the right way as well.
 
 So, the goal for us is to kind of make every software security team successful 
-and, you know, they become the heroes of the company. And that's our really goal 
-in making Tromzo.
+and, you know, they become the heroes of the company. And that's our really 
+goal in making Tromzo.
 
 [00:40:12] **Michaela:** It is sound really exciting. And well, I, I've been 
 doing a lot of data mining at Microsoft. And, you know, Pack detection, finding 
@@ -694,8 +703,8 @@ duplicate Packs, and so on.
 And I know, you know, it's quite a tricky task. So, how good are you? I mean, 
 15 months in is probably not that long, right? So, do you see initial results 
 that people are really happy with what you can do automatically? How you can 
-group those things? How you can find applications, reduce that, prioritize that, 
-and do that all automatically?
+group those things? How you can find applications, reduce that, prioritize 
+that, and do that all automatically?
 
 Is that working already really good? And what do your first bit of (??) users 
 say? Your users? How far are you with this mission?
@@ -723,22 +732,22 @@ or you cannot even know what other services somebody else is working on. So, we
 are working through some of those workflows right now and building out those 
 features.
 
-And then the other big thing that we are doing now is also helping customers run 
-some of these tools. So, for example, as I said, there are 11 tools that 
+And then the other big thing that we are doing now is also helping customers 
+run some of these tools. So, for example, as I said, there are 11 tools that 
 customers are using, but at the end of the day, they're not still doing 
 everything that they could be doing, right?
 
 So, maybe they're not looking at Go dependencies, or maybe they're not looking 
 for secrets in code, or maybe they're not doing something else. So, there is 
-always that gap in which that you have left something out, because A, you didn't 
-have money, or B, you didn't have resources. So we are helping them bridge that 
-gap as well.
+always that gap in which that you have left something out, because A, you 
+didn't have money, or B, you didn't have resources. So we are helping them 
+bridge that gap as well.
 
-So, because it's good to manage what you have, but it's also good to, or I would 
-say, great to kind of actually make sure that you covered the entire office, 
-right? So now, we are working with more security teams out there to kind of 
-bridge the gap of what they have and what they want or where they want to be, 
-and continue to that journey.
+So, because it's good to manage what you have, but it's also good to, or I 
+would say, great to kind of actually make sure that you covered the entire 
+office, right? So now, we are working with more security teams out there to 
+kind of bridge the gap of what they have and what they want or where they want 
+to be, and continue to that journey.
 
 So our goal is, at the end of the day, if you ask me five years from down the 
 line, what do you want Tromzo to be? We want it to be the platform that 
@@ -751,17 +760,17 @@ with sales, right? Today, in security, there is, something like that doesn't
 exist, right? So that's what our vision is, to kind of build that system of 
 record and system of engagement for all of security folks.
 
-And then, also making sure that the developers also feel bought into it and they 
-kind of work together with security on this platform.
+And then, also making sure that the developers also feel bought into it and 
+they kind of work together with security on this platform.
 
 [00:43:54] **Michaela:** It is sounds really exciting. I'm so happy for your 
 journey. I, you know, I'm getting really like, wow, I would jump in in that as 
 well. So, I'm going to link Tromzo, obviously, in the show notes so people 
 should definitely check it out.
 
-And I will also link your voice of the modern developer survey, and, yeah. Maybe 
-some other links that you want me to put. And, yeah, I'm really happy that you 
-have been here, Harshit, today. It was great to talk to you.
+And I will also link your voice of the modern developer survey, and, yeah. 
+Maybe some other links that you want me to put. And, yeah, I'm really happy 
+that you have been here, Harshit, today. It was great to talk to you.
 
 [00:44:19] **Harshit:** Thank you very much. And you too. Thank you.
 
