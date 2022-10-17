@@ -822,6 +822,6 @@ Um, was a very inspiring talk. Thank you so much for taking the time.
 
 **Michaela:**: [00:49:16] Okay. Bye.
 
-**McKayla:** [00:49:17] I hope you enjoyed another episode of Software
+**Michaela:** [00:49:17] I hope you enjoyed another episode of Software
 Engineering Unlocked podcast. Don't forget to subscribe and I'll talk to you
 again in two weeks. Bye.
