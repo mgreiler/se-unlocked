@@ -4,7 +4,7 @@
 podcast. I'm your host, Dr. Michaela and today I have the pleasure to talk to 
 Nicholas Dular, a senior software engineer at GitLab. But before I start, let 
 me tell you a little bit about my latest project awesomecodereviews.com. 
-Yeah. All my work on code reviews has now its own dedicated home @awesomecodeviews.com.
+Yeah. All my work on code reviews has now its own dedicated home at awesomecodeviews.com.
 
 You find articles about code reviews, code reviews, best practices, code review, 
 checklists news about the latest research on code reviews and of course 
