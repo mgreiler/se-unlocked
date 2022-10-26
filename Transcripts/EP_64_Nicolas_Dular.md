@@ -418,10 +418,9 @@ change things. I barely use the format that we have, cuz I like the different
 format in the 101 document.
 
 I, yeah, so you can of course speak things, but there's definitely a guideline 
-for, for how to, how 
-to perform things
+for, for how to, how to perform things
 
-[00:22:26] **Michaela:** perform things. Okay. Cool. So another question that I 
+[00:22:26] **Michaela:**  Okay. Cool. So another question that I 
 had for you, you were talking about eight direct reports and this is a lot, I 
 mean, I hear of engineering managers in the first year and they have one direct 
 report or like two direct reports. So it feels like understandably you're very 
@@ -449,9 +448,9 @@ maybe think you have mm-hmm
 
 So I was actually happy with full blown, a full team already with eight 
 engineers. I couldn't even think of coding. So this helped me like to be in the 
-role completely at 100% immediately. And did 
+role completely at 100% immediately.  
 
-[00:24:04] **Michaela:** you miss it? The coding. 
+[00:24:04] **Michaela:** And did you miss it? The coding. 
 
 [00:24:06] **Nicolas:** Yes that that's. And I I've written this in my blog 
 post, so one of our common friends, right.
@@ -485,16 +484,16 @@ like I I'm in this manager position and I had the feeling like my word counts
 now much, much more.
 
 And if I said like, say we should do it that way, maybe it's just an opinion, 
-but stated does a fact that we should do it. And yeah, as an engineer, it's 
+but stated as fact that we should do it. And yeah, as an engineer, it's 
 easier. You just Talk, and you spin off ideas with others. And as a manager, you 
 should be careful about doing this and this. And, and essentially you're not the 
 one doing the work.
 
 If I say, ah, just rec refactor the service, there could be so many edge cases. 
 I, I will not think about because I'm not the one in the code and who knows 
-everything about. Yeah. 
+everything about.  
 
-[00:26:01] **Michaela:** And so how did you feel about people having problems 
+[00:26:01] **Michaela:** Yeah. And so how did you feel about people having problems 
 and coming to you? Did they even come to you with their problems and telling you 
 like this and that.
 
@@ -505,9 +504,9 @@ personally with how they work mm-hmm or if it's a technical problem. I love
 being, there's this phrase of being a rubber duck.
 
 I love this. I just ask questions because I'm so naive often to things. And so I 
-ask right. Questions, questions, apparently. So this was the favorite part of my 
+ask right questions, questions, apparently. So this was the favorite part of my 
 job, talking with the engineers through technical issues, seeing them grow and 
-that this was absolutely the favorite part of Metro. 
+that this was absolutely the favorite part of my job. 
 
 [00:26:47] **Michaela:** Yeah. Yeah.
 
@@ -522,11 +521,11 @@ One of the first things was you are not their therapist. And people come with
 problems to you to tell you about problems. And I ideally I do this as well. 
 Like I tell my manager, Hey, I'm not effective to speak in this case because 
 it's so hot in Austria right now. But maybe about something personal I'm I'm 
-struggling with and as a manager I do not recommend going into, into deaf her.
+struggling with and as a manager I do not recommend going into, into deaf hear.
 
 Like, you should hear them, you should tell them like, Hey, I understand you. 
 And it's totally okay, but I'm not the right person to, to talk through this. 
-Right. We fortunately have services at, at kLab that can help, like we have 
+Right. We fortunately have services at, at GitLab that can help, like we have 
 modern health, for example where you have coaching sessions and therapist 
 sessions.
 
@@ -535,14 +534,14 @@ off. As we have unlimited PTO it's it was an easy solution to step back, step
 back, maybe. and yeah, this was definitely the, the, the emotional part that was 
 hard on me. And as you mentioned, rejecting someone, a candidate, I was in the 
 same position as they are when I interviewed at GitLab or other companies and I 
-got rejected of course, and it feels so hard on, on one site and the other 
+got rejected of course, and it feels so hard on, on one side and the other 
 side's just.
 
 No, I'm sorry. We will not go forward. Move forward with you. But on the other 
 side, there's a, maybe a world that breaks up at some to some degree and yeah. 
-This, this is tough for 
+This, this is tough for me.
 
-[00:28:26] **Michaela:** me. Yeah. I can also imagine like if you're. Telling no 
+[00:28:26] **Michaela:**  Yeah. I can also imagine like if you're. Telling no 
 to somebody from external. It's challenging, but I can also imagine that in your 
 team, let's say somebody has a problem and they have a problem for longer time 
 and you see that it's really impacting their work and mm-hmm, , it's impacting 
@@ -555,7 +554,7 @@ job in the end. I have such a hard time when there's someone struggling and. You
 need to act, but when it's the right time, like right, you, you it's, and I 
 never wanted to do this have to, to do this decision.
 
-And yeah, that's, that's why I am fortunate feedback again and not need to do 
+And yeah, that's, that's why I am fortunate to back again and not need to do 
 this. 
 
 [00:29:10] **Michaela:** It must be so hard, right? Like, because. as, as you 
@@ -585,7 +584,7 @@ this headache? Right. And should you, should you tell it, or, you know, I, I
 think like after three weeks I would be very resistant to still say I'm still 
 having headaches.
 
-Like there comes this point where you think, should I, should I still see it? 
+Like there comes this point where you think, should I, should I still say it? 
 
 [00:30:26] **Nicolas:** I maybe I'm to influence like how I mean gets, get has 
 this transparency value mm-hmm that is very deep in our culture and in our 
@@ -600,7 +599,7 @@ at data and see, oh, someone is not delivering or someone is not performing, you
 know?
 
 Oh, there has a reason to this. It's. You need to figure out is it will or skill 
-and mm-hmm if it's actually will end skill still there, but it's just impossible 
+and mm-hmm if it's actually will and skill still there, but it's just impossible 
 right now. You, you can understand it. And yeah, it's so much more important to, 
 to just tell them like, Hey, that's going up. I know about it. Because otherwise 
 how, as a manager, let's see, you see a decrease in decrease in performance.
@@ -613,16 +612,16 @@ much better to know upfront.
 
 Yeah. And I was super lucky. So I had the feeling, I had the safe space with all 
 my direct reports and they were able to tell me everything. And this was 
-invaluable. Yeah. 
+invaluable.  
 
-[00:31:56] **Michaela:** So. One thing I, that comes to my mind when, when we 
+[00:31:56] **Michaela:** Yeah. So. One thing I, that comes to my mind when, when we 
 are talking about this is also evaluating other people. Right. I feel that 
 mm-hmm , this is not always easy, especially if we are talking about large 
 numbers.
 
 Right. So when I was working with PhDs, for example, at Microsoft, and we had 
 this very close one on one relationship, right. I didn't have like more than two 
-PhDs. To mm-hmm , you know, to supervise and to work with, then it was extremely 
+PhDs to mm-hmm , you know, to supervise and to work with, then it was extremely 
 easy to say, well, you know, this is the performance of the person and it wasn't 
 even like an abstract.
 
@@ -664,33 +663,32 @@ call the whole afternoon with someone else and helping them mm-hmm so that's
 sometimes quite good.
 
 And to do also tell your manager, like, Hey, you had this call, like, and you 
-help someone. Cause it. Hard to notice otherwise. And so this helped, but 
+help someone. Cause its Hard to notice otherwise. And so this helped, but 
 otherwise I, I say, I agree. It's it's, it comes to a degree of eight people 
-that you don't see everything it's harder to evaluate everyone. Yeah. Yeah. 
+that you don't see everything it's harder to evaluate everyone. Yeah.  
 
-[00:34:50] **Michaela:** And I think, and also some people are better at 
+[00:34:50] **Michaela:** YEah. And I think, and also some people are better at 
 promoting themselves.
 
 Right. Let's saying, oh, you know, I have this person and I did actually this 
 and I shipped over there and look at this wonderful call I made mm-hmm and 
 another person maybe did even more. But they don't. So for example, for me in an 
-organization, it's always really. Like I forget about, you know, writing an 
+organization, it's always really hard. Like I forget about, you know, writing an 
 email saying, oh, you know, this wonderful thing that I did over here.
 
 Mm-hmm I'm, I'm just doing it. And so I feel that as a manager, this must be 
 also really hard to feel like you're fairly evaluating everybody on the team and 
+so on.
 
-so 
-
-[00:35:23] **Nicolas:** on. I mean, that's where at least the peer reviews come 
+[00:35:23] **Nicolas:**  I mean, that's where at least the peer reviews come 
 in, so we have peer reviews and. You get the 360 feedback from others. And when 
 you then read these feedbacks, you at least notice like, oh, someone telling the 
 other engineer, Hey, thanks for helping me so often.
 
 And then you see this, so 360 feedbacks are very valuable for this case. Yeah. 
-Yeah. You 
 
-[00:35:42] **Michaela:** like them as a manager, you like them, did you like? 
+
+[00:35:42] **Michaela:** Yeah. You like them as a manager, you like them, did you like? 
 Yeah, I like them. As an engineer, as an individual contributor, you like them 
 
 [00:35:49] **Nicolas:** an individual contributor. I had a harder time to 
@@ -698,15 +696,15 @@ evaluate my peers. Mm-hmm that?
 
 That's the issue. So you want to be nice to someone, but you also want to help 
 them to grow. So there's a trade off and I think they're anonymous. They're 
-definitely anonymous kid lab. So , I think you only know who evaluated you 
-evaluated you as a manager, but not who is appeared that who evaluat evaluated 
+definitely anonymous at GitLab. So , I think you only know who evaluated you 
+evaluated you as a manager, but not who is appeared that who evaluate evaluated 
 you mm-hmm yeah, at least at least there's that.
 
 [00:36:16] **Michaela:** So I think. What we can sum up here is that it's 
 actually a great experience being a engineering manager for some time, because 
 probably now look at things in a much more different way. You understand, you 
 know, the, the problems that engineering managers have. You can also understand 
-how you can help them, maybe see your potential or you know, what you're doing 
+how you can help them, maybe see your potential or you know, what you're doing,
 your impact and also maybe.
 
 Have a better understanding of KPIs that I, I don't think that a lot of 
@@ -734,9 +732,9 @@ pendulum, like the swing. There's a good blog post about this pendulum of going
 from IC to manager and back, and maybe even dementia again. Because you see this 
 different context and learn so much.
 
-Yeah. Is that 
+Yeah.  
 
-[00:38:03] **Michaela:** from charity you major? I think right from honey pot. 
+[00:38:03] **Michaela:** Is that from charity you major? I think right from honey pot. 
 
 [00:38:06] **Nicolas:** I'm need to check up we this yeah. 
 
@@ -748,7 +746,7 @@ about your blog post that you wrote about this experience as well.
 
 And everything else that's important in the show notes. 
 
-[00:38:26] **Nicolas:** Yeah, thank thank you a lot, Mikayla. It was exciting to 
+[00:38:26] **Nicolas:** Yeah, thank thank you a lot, Michaela. It was exciting to 
 be here. Thanks for having me. Yeah, it was my pleasure. Appreciate it. Okay. 
 
 [00:38:32] **Michaela:** Thank you. Have a good day. Bye-bye 
