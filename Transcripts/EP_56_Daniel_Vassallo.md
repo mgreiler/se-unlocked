@@ -7,7 +7,7 @@ Episode: 56
 podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to
 Daniel Vassallo, a former Amazon engineer, and now an entrepreneur and freespirit. 
 But before I start, let me tell you about an amazing startup that is
-sponsoring the podcast Codiga.
+sponsoring the podcast- Codiga.
 
 Codiga, is a code analysis platform that automates the boring part of
 code reviews and let's you merge with confidence on GitHub, GitLab, and
@@ -15,14 +15,14 @@ Bitbucket. I've worked with Codiga for around one year now, and I love how it
 guides me in discovering and improving, well, the "not so nice parts" of my codebase.
 But there is more: Codiga also has a coding assistant that helps you write better code faster. 
 Find and share safe and reusable blocks of code within your favorite IDE on demand while you are
-coding. Codiga has a great free plan. So there's actually nothing that
+coding. Codiga has a great free plan. So, there's actually nothing that
 stops you from giving it a try! Learn more at [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked). 
 That is [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked). 
 
-But now back to Daniel. Daniel got internet famous by sharing
-that he left his Kashi job at MSU. Yeah, half a million per year. Can you
+But now back to Daniel.Daniel got internet famous by sharing
+that he left his cushy job at Amazon which paid, yeah, half a million per year. Can you
 imagine? And his main motivation for leaving was that he wanted to be more
-independent, but also challenged again. After that you shared his attempts to
+independent, but also challenged again. After that he shared his attempts to
 build a successful business on Twitter.
 
 And since then he managed to get a really large Twitter following. And even
@@ -30,50 +30,49 @@ though his first SaaS business did not work out as planned, he ever reaches
 around $23,000 in profit each month. So I actually also asked Daniel if he would
 give away one of his products, to my listener and he agreed. So that's really
 awesome. And so today you have the chance to win a couple of things, right? You
-can either win. Everybody can build a Twitter audience, which is a video course
-from Daniel, where he really goes into depth on how he, how he built this to the
-audience.
-
-And how can you do the same? Or you can. When a digital [00:02:00] copy of the
-good parts of AWS. So it's a book, a very technical book and tell us your,
+can either win - 'Everybody can build a Twitter audience', which is a video course
+from Daniel, where he really goes into depth on how he, how he built this twitter
+audience
+and how can you do the same Or you can win a digital [00:02:00] copy of the
+good parts of AWS. So it's a book, a very technical book and tell you,
 everything that you ever wanted to know about AWS, where he's really an expert
 in. So how do you want to do that? Right. You ask them, you have to like, and
 retweet today's episode's link.
 
 I will put that in the show notes and for an additional chance to win, you can
-also leave a car. On what are you doing to get a little bit more independent,
+also leave a comment on what are you doing to get a little bit more independent,
 some side income, or maybe a hobby that you have that just gives you more
 energy, which I think is equally important.
 
 Yeah, but without further ado, let's dig into Daniel's interesting success
-story. Daniel. I'm really thrilled that you're on the show. Thank you for being.
+story. Daniel, I'm really thrilled that you're on the show. Thank you for being.
 
 [00:02:41] **Daniel:** Of course. Thank you, McKayla, then. Nice to meet you.
 Happy to be here. Yeah, 
 
 [00:02:45] **Michaela:** I'm super, super excited.
 
-So when I go to your website, I have a list of products that are linked there.
-Right. And they are very, very diverse, which is super exciting for me. I'm just
+So when I go through your website, I have a list of products that are linked there.
+Right. And they are very, very diverse, which,you know, is super exciting for me. I'm just
 two of them I already mentioned. Right. Which was a video course on how to build
-a Twitter audience.. Then you have the good parts of AWS.
+a Twitter audience.. Then you have the good parts of AWS which is a book.
 
 Then you have cutting boards. They're like wood, wood cutting boards. I was
 like, wow, how does that fit into that? Then you have like profit and loss,
 which is some status updates on your business finances. And then finally you
-have this SAS business user base which I'm also super interested in.
+have this SaaS business user base which I'm also super interested in.
 
 How does that come about, right. That you have like a cutting board in between.
 All of those is a little bit more technical parts or products that you have.
-Yeah, 
+ 
 
-[00:03:34] **Daniel:** yeah, yeah. So I think I sort of, I started this journey,
+[00:03:34] **Daniel:** Yeah, yeah, yeah. So I think I sort of, I started this journey,
 I think in a traditional way, like many other software engineers, I thought I
 was going to be doing the boots.
 
 I was going to sort of focus on one idea and build it inside to make it
 successful at all costs, putting all my effort into it. And I think what's
-happened. And that's what I started with. That's what, that's what user base.
+happened. And that's what I started with. That's what, that's what user base was when I started.
 What is the light? When I, when I started [00:04:00] a few months in, I started
 to have a little bit of I was public call it like a small crisis of anxiety.
 
@@ -87,18 +86,18 @@ really have an answer for.
 And I was noticing that I probably was underestimating. How much uncertainty
 that is in doing something like this, that it's very hard to know. And th this
 was a bit more confounding because actually I was getting very strong sickness
-about user base back then, very song. You know, I just liked the term validation
+about user base back then, very strong. You know, I just liked the term validation
 because I think sort of it implies something that it isn't there, but the
 typical size that people look for.
 
 For validation. Like I was sort of had a mailing list of about 4,000 people
 waiting for the launch. I had endorsements by highly influential people, sort of
-the CEOs of like Netlify and various publicly. And those, the products that I
+the CEOs of like Netlify and various publicly endorsed products that I
 sort of and were very welcoming and sort of wanted, wanted to collaborate with
 their teams.
 
-So many other tanks, even, even on launch. I sort of, it was front page on
-hacker news, number one on product hands, even, even the initial day 11, you
+So many other things, even, even on launch. I sort of, it was front page on
+hacker news, product number one on product hands, even, even the initial day 11, you
 were strong was actually about 40 customers, about $1,500 in sales. But yet I
 was still noticing that, you know, it was uncertain and I tend to find that
 that's what happened.
@@ -106,16 +105,16 @@ that's what happened.
 It was much harder to keep the momentum of all the sickness that, that had been.
 So, so th that's crisis a little bit opened my eyes. And I basically, I started
 thinking if I want to make this as an arrangement, the self-employment
-engagement, successful public, and it's a different strategy. I can't just be
+arrangement, successful publically, I needed a different strategy. I can't just be
 going all in into one thing, because I was worried that I was just going to run
 out of time savings and I have to go back to full-time employment, which isn't
 the end of the world.
 
-Like, it's not like it would be the end [00:06:00] of the world. I was enjoying
+Like, it's not like it would be the end [00:06:00] of the world. But,I was enjoying
 being self-employed. I enjoy the flexibility, the, the, the sort of freedom, the
-ability to work on what I wanted and all those good. So I don't really know what
+ability to work on what I wanted and all those good things. So I don't really know what
 has happened, but sort of I had the smaller epiphany and I wondered what if
-instead of having plan a plan B plan C and plan the about, you know, if this
+instead of having plan A plan B plan C and plan the about, you know, if this
 fails, I go to the next thing and so and so forth.
 
 What if I decide to do a bunch of things at the same time, small things? Of
@@ -133,10 +132,10 @@ unpredictable.
 
 You never really know whether something's going to work or not. Even today. That
 was when I launched new things. I have no clue sometimes whether things are
-going to work or not. But it's changed my perspective because before. Looking at
+going to work or not. But it's changed my perspective because before I was looking at
 things, does this have upside? Is this going to scale? Is this sustainable?
 
-And I think that side of that comes with dads. Those things that do have those
+And I think that side of that comes with that, those things that do have those
 properties tend to have low odds of succeeding and they just to be hard, you
 know unpredictable sort of affected by them, them things, good timing and other
 things that are very opaque. And this has worked out well for me.
@@ -154,15 +153,15 @@ of a stream of experiments. Some things work, some things worked more than
 others, some things beyond my expectations, some things work, it worked a little
 bit, but didn't meet my expectations.
 
-So as you can imagine in a poetry. It's like an investment. I mean, I did, I
-don't think the idea is that we tend to do the same thing with, with how to, how
-we invest our money. For example, that we almost considered food. To deploy or
+So as you can imagine in a portfolio. It's like an investment. I mean, I did, I
+don't think the idea is that radical. We tend to do the same thing with, with how to, how
+we invest our money. For example, that we almost considered foolish to deploy all of 
 your life savings, like in a single stock or a single assets that we tend to
 want to diversify, to tame uncertainty.
 
 And I think more or less, it's the same episode to my own ideas and my own small
 ventures, essentially. So I know it's a general answer. I hope happy to dive
-deep or deeper into all the individual tanks, but sort of the general idea at
+deep or deeper into all the individual things, but sort of the general idea at
 the Titanic. 
 
 [00:08:52] **Michaela:** I think when I look at your projects and your products
@@ -177,23 +176,23 @@ Let's say I'm a SAS business user basis. Probably the exception here, right?
 It's not something that you start and then it already ended. It has some
 maintenance cycle, as we all know, it's software. Right. And if it gets more
 successful, you will have more, have to be more involved in. But like a cutting
-board has a start and end.
+board it has a start and the end.
 
 Right. You have the idea, you design it and then it's finished and then maybe
 you have to sell it. Yeah. Okay. But there is not really a lot of involvement in
-it. The same for the video course. . You recorded it and now you're selling it
+it. The same for the video course.  You recorded it and now you're selling it
 the same for the book. Right. You start it, you finish it.
 
 so do you think that this is you, you deliberately think about that when you're
-looking at your small bats? I mean, there's [00:10:00] like as, as we have time,
-Infinitive ideas on board we can do. . And, and I think long enough people have
+looking at your small bats? I mean, there's [00:10:00] like as, as we have finitive time,we probably
+Infinitive ideas on board we can do. And, and I think long enough people have
 struggled with that. I'm struggling with that. What should we, you know, what
 should we take on?
 
 And there's always a pros and cons list, or however people make the judgment is
 this affinitive thing of I'm starting this and, you know, in. Three weeks or in
 three months I have it finished and then I'm done with it. And so on. Is that
-something that crosses your mind that you're thinking about it?
+something that crosses your mind that you're thinking about it explicitly?
 
 Okay. Yeah. 
 
@@ -695,9 +694,9 @@ good parts of AWS, the book, or the how to build a Twitter audience video.
 
 So retweet, like the episode, maybe tell us what you are doing, that you enjoy,
 that you know, is one of your small bets to have an additional chance. And yeah.
-And that's it. Thank you so much, Danielle, for, for being one of my show was 
+And that's it. Thank you so much, Daniel, for, for being on my show. 
 
-[00:37:07] **Daniel:** really a pleasure. This was very fun ticket. Thanks a
+[00:37:07] **Daniel:** Really a pleasure. This was very fun ticket. Thanks a
 lot. 
 
 [00:37:10] **Michaela:** Yeah, it was great.

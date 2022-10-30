@@ -9,7 +9,7 @@ Yeah, all my work on code reviews has now its
 own dedicated home at [Awesomecodereviews.com](https://awesomecodereviews.com). 
 You can find articles about code 
 reviews, best practices, code review checklist, news about the latest research 
-and code and of course, workshops and courses I offer around this 
+on code reviews and of course, workshops and courses I offer around this 
 topic. So please hop over to awesome code reviews.com and check out my 
 latest work. Now back to Paige. Paige is the director of machine learning 
 and machine learning operations aka MLOps at GitHub. Before that, she was the 
@@ -48,7 +48,7 @@ do their work, to collaborate with their teams and then to also deploy and
 maintain models in production. So to that point many, many millions 
 of repos today have things like Jupyter Notebooks in them. We haven't done a lot 
 of work historically to make Jupyter Notebooks, you know, kind of a first class 
-data type on on GitHub, but that is changing. And so as part of this work I 
+data type on GitHub, but that is changing. And so So as part of this work, I 
 get to collaborate with a lot of teams across GitHub, but also across Microsoft, 
 so particularly the VS code team, they've been building out wonderful extensions 
 and tools and features for their IDE, as well as Azure ML. And so many of the 
@@ -64,7 +64,7 @@ cat herder is kind of the idea.
 Yeah, I think this is so so important. And I'm just thinking back when I was 
 working at Microsoft, we did a study on code review comments and the value of 
 culture, your comments. And we looked at when are, you know, when is it 
-easier for people to give good coffee with comments that are helpful, 
+easier for people to give good code review comments that are helpful, 
 valuable for the code author? And we saw that the way how we present code, 
 obviously, right? And if it's now maybe production code, or is it like C# 
 code, or is it you know, Yama files or up to notebooks right made a big 
@@ -75,6 +75,7 @@ it easier for people to review. Also code that I think is quite complicated
 today. I would say it's sometimes more complicated than normal code, if you have 
 like a machine learning model somewhere, and you have to understand that, what's 
 your take on that?
+
 
 **Paige Bailey**  (05:08):
 Exactly like the process for reviewing Jupyter notebooks on Github.com today is 
@@ -109,7 +110,7 @@ data scientist or one person that really understands this machine
 learning model. And so sometimes it's really hard to get others on board and get 
 feedback from them. How do you see that from a process perspective? For code 
 reviews? What can we what can we learn there? And how can we shape the processes 
-around code reviews so that it fits scientists, researchers also right, and data 
+around code reviews so that it fits scientists, researchers also, right, and data 
 scientists?
 
 
@@ -124,12 +125,12 @@ working in isolation, then it doesn't quite seem like it's worth the time
 to take for version control. Whereas what we're hoping to have happen is if 
 folks aren't familiar, Code Spaces is a way to immediately launch a 
 a development environment that's attached to a GitHub repo. So you could imagine 
-a scenario where you have a project, you're spinning up, compute directly from 
+a scenario where you have a project, you're spinning up Compute directly from 
 GitHub. So if you see an interesting repo that sawn papers with code, you can 
-click a button. And immediately you have compute attached storage attached, and 
+click a button. And immediately you have Compute attached storage attached, and 
 you can play with it with all of the dependencies included. And as you make 
 changes, as a data scientist, this is all in your browser. So it feels a lot 
-like Google colab. They folks have familiarity with that, or Databricks 
+like Google Colab. They folks have familiarity with that, or Databricks 
 notebooks. And these changes are automatically version controlled so you don't 
 have to worry about it. And when it comes time to perhaps take that notebook or 
 machine learning model to production, it's easy to say hey, software
@@ -142,7 +143,7 @@ data scientists feel comfortable, but also software engineers feel comfortable.
 
 **Dr. McKayla**  (10:11):
 Yeah, this sounds so exciting. I think even for normal code reviews, right? If 
-we are going not now into this data science, you know, area of field, but for 
+we are going not now into this data science, you know, area or field, but for 
 normal code reviews, I always say it's so cool if you can have like a PR 
 preview, right, where you can click on it and look at it. And obviously
 code reviews. It's not testing, but it's always nice. If you can run the 
@@ -158,7 +159,8 @@ understand. But I think, you know, machine learning models, etc, are even harder
 to understand. So how can I? How can you know, Github’s Copilot really help us 
 to understand code? Is that really something that's doable? Or was it 
 just a toy example where we say, okay, here it works, but in general, it's not 
-that helpful.
+that helpful?
+
 
 **Paige Bailey**  (11:29):
 It is. I am over the moon excited to have Copilot is kind of a, you 
@@ -211,7 +213,7 @@ understanding reasons, right, because if you have tests, it gives you a use case
 for this code. You can, and also I think you can learn a lot from test cases 
 there was also a paper by Alberto Celli and others around code reviews. And when 
 you start the code reviews, actually from the tests, which are somehow use cases 
-of the code rain, you could see that code reviewers actually perform a better 
+of the code right, you could see that code reviewers actually perform a better 
 job. And so I wonder if you can also reuse co-pilot a little bit to generate 
 test cases around something that you don't understand. And you see input 
 outputs. And, you know, it creates a little bit of model for how it's actually 
@@ -220,9 +222,9 @@ used.
 **Paige Bailey**  (15:29):
 Exactly, yeah. And the way that you can do that is just as simple as saying, 
 like, you know, perhaps a function is defined somewhere above, like, if you're 
-operating in a python file and a function is defined towards the top, all you 
+operating in a Python file and a function is defined towards the top, all you 
 would have to do is kind of add a comment to the effect of like, test out, you 
-know, this function with these values, or even just say test function name, and 
+know, this function with these values, or even just say "test function name", and 
 then hit enter. And then Copilot goes through the work of giving you a testable 
 code snippet below. Like I said, it's shockingly straightforward to do these 
 things. And I feel like it's honestly made me better at code reviews 
@@ -260,13 +262,13 @@ would be with English. This is something that we're investigating.
 **Dr. McKayla**  (18:21):
 But is it sourcing from you know, because I can imagine, like the 
 English body of work that you have for your models in the center is, it's much 
-larger data set is much larger, is it sourcing from a global data set, or would 
-it then source from Mandarin, for example?
+larger the data set is much larger, is it sourcing from a global data set, or 
+would it then source from Mandarin, for example?
 
 **Paige Bailey**  (18:39):
 Right. So that's a that's a great question. And to your point, the the source 
 that it's trained on is really all of the code snippets that we can find on the 
-internet, but primarily, get hubs public source code. So not any private repos, 
+internet, but primarily, GitHub's public source code. So not any private repos, 
 just public repos. But the majority of those are implemented in English 
 language. And so you know, just like any other machine learning or deep learning 
 experiment, you know, you're kind of beholden to the data that you have 
@@ -275,10 +277,16 @@ kind of fine tuning, but mostly fine tuning based on programming language. So
 for example, Copilot performs much better on you know, Python, JavaScript, you 
 know, things where there's a lot of code publicly available in terms of computer 
 programming languages. And then for things like you know, say Fortran it 
-performs a little bit less accurately than Corinthia Yeah, but it's the same for
-spoken languages. So if the majority of the source code is implemented in English 
-and the comments are implemented in English, then that's the best 
-performances we're going to see and we can fine tune for other languages to 
+performs a little bit a little bit you know, less accurately 
+
+**Dr. McKayla**  19:44
+Than Corinthia?
+
+**Paige Bailey**  18:46
+Yeah, but it's it's ah, it's the same for you know, it's the same for spoken 
+languages. So so if the majority of the source code is implemented in English 
+and the comments are implemented in English, then that's, that's the best 
+performance we're going to see and we can fine tune for other languages to 
 try to get better performance. But it's always going to be a bit tricky to have 
 parity across each kind.
 
@@ -345,7 +353,7 @@ not sure if you've had similar experience, but the the data science code that I
 normally see or the research code, it's not super modular, often. You know, it's 
 like you have data ingestion, and you have like pre processing steps and 
 visualization steps in the model piece, and they all might be part of the same 
-big, big thing and any sort of nudges to refactor that is great. And the but I 
+big, big thing and any sort of nudges to refactor that is great. And the, but I 
 do think that there are opportunities to apply, you know, things like natural 
 language models to suggest perhaps, better names for functions, right? Like if 
 if if copilot is capable of explaining code, then maybe it can also do things 
@@ -362,7 +370,7 @@ consistent names like, let's say, instead of saying, maximum sum, and then
 you say, some min, right, you're switching it, it's somehow confusing. So having 
 the consistent naming, for example, or having consistent style within your 
 project, and I think this is a really good opportunities for machine learning, 
-because you can find the patterns how you know, code is written off the majority 
+because you can find the patterns how you know, code is written of the majority 
 of time, or if you specify this, this is how it should look like, and then find 
 ways where maybe it's not written in, you know, in the same consistent way. And 
 style, is that something that you're exploring as well?
@@ -385,13 +393,13 @@ Yeah, I will. I will link that in the in the show notes so that people don't
 wear the suit, send their CV, or maybe page you or something. So maybe to bring 
 something a little bit different into into the mix, because we are coming a 
 little bit to the end of the of the show, when I looked at your GitHub profile, 
-I found something that's called page views. Right, like your view on things. And 
+I found something that's called "Paige Views". Right, like your view on things. And 
 and there were two that I wanted to talk with you about. And one was it was 
 bring data to opinion fights, right. And I'm just reading what you what you 
-wrote there. And it says, like, folks who are adept at spotting opportunities to 
+wrote there. And it says, like, "folks who are adept at spotting opportunities to 
 apply machine learning and automation to existing business processes will 
 inherit the earth. That's the one or only way to win by bringing data to opinion 
-fights and making every decision data driven, right. And I'm a huge fan of 
+fights and making every decision data driven", right. And I'm a huge fan of 
 decision, data driven decisions. But I'm also always a little bit skeptical. 
 When I say we have to balance the qualitative with the quantitative, right? So  
 I'm always saying you have to be so cautious with this quantitative 
@@ -419,7 +427,7 @@ it can't tell you like, oh, the reason why people aren't using this function is
 because they don't know about it, or, you know, like discoverability, and the 
 documentation is low, or, you know, we don't really have kind of helpful hints 
 in the IDE that would nudge them towards these behaviors. So I think the best 
-recommendation is always to be curious to constantly ask why and to constantly 
+recommendation is always to be curious to constantly ask "why?" and to constantly 
 question your data, to make sure that it's the correct thing to be including, as 
 part of your analysis, like whether it makes sense to to kind of hang your hat 
 on a particular metric, as the thing that you want to increase, as opposed to, 
@@ -470,7 +478,7 @@ and I'll never forget it. And first computer, I, my family, grew up in a very
 small town, we didn't have much money, and there was no one really around to as a 
 computer scientist, but the library was about to throw out an apple two computer 
 that had been donated, because nobody could figure out how to get it to work. 
-And family friend who was an electrician, like, I told my mom, like my mom took 
+And a family friend who was an electrician, like, I told my mom, like my mom took 
 it, took it back home, they got it up and running. And that also, you know, 
 ended up being kind of a life changing thing. That was just a 30 minute act of 
 kindness. So, yeah, so I think that, you know, that is constantly happening 
@@ -487,15 +495,16 @@ of my mind all the time.
 Yeah, and it's really nice. Okay, Paige, this actually brings us to the end of 
 this episode, I want to remind our listener about you know, that they can get a 
 technical preview like a better seat for Code Spaces and Copilot for data 
-science if you retreat and like the episode or let us know what you're doing 
+science if you retweet and like the episode or let us know what you're doing 
 data science wise right now. And I also will link the Microsoft career thing. So 
 if you want to apply, apply and yeah, is there something else that you would 
 like my listeners to know or you know, some some thing that you want to give 
 them on their way while they are navigating this space?
 
 **Paige Bailey**  (36:07):
-Absolutely. Try out GitHub for your machine learning projects. Try out GitHub 
-dot dev VS code and its extension ecosystem. And we are always, always open to 
+Absolutely. Try out GitHub for your machine learning projects. Try out 
+[GitHub.dev](https://github.dev/github/dev) 
+VS code and its extension ecosystem. And we are always, always open to 
 hearing your feedback and to your sort of your ideas for how to make the 
 platform better for data science and machine learning work. So that is that is 
 my one ask download VS code, download the Python extension and the Jupiter 
