@@ -1,4 +1,9 @@
-# Transcript EP 64 Nicolas Dular
+---
+episode: "Transcript Being an engineering manager was not for me"
+permalink: /no-engineering-manager
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello and welcome to the software engineering analog 
 podcast. I'm your host, Dr. Michaela and today I have the pleasure to talk to 
