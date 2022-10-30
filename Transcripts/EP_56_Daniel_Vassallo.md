@@ -90,7 +90,7 @@ And I was noticing that I probably was underestimating. How much uncertainty
 that is in doing something like this, that it's very hard to know. And this
 was a bit more confounding because actually I was getting very strong sickness
 about user base back then, very strong. You know, I just liked the term 
-validationbecause I think sort of it implies something that it isn't there, but 
+validation because I think sort of it implies something that it isn't there, but 
 thetypical size that people look for.
 
 For validation. Like I was sort of had a mailing list of about 4,000 people
