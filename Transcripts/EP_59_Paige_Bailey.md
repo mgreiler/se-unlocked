@@ -1,6 +1,6 @@
 ---
-episode: "Transcript Do not punish learning in software engineering teams"
-permalink: /foster-learning-culture
+episode: "Transcript Improving Code Reviews with Github’s Copilot"
+permalink: /code-reviews-github-copilot
 status: publish
 type: transcript
 ---
