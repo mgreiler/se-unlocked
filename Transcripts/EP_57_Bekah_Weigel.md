@@ -1,5 +1,8 @@
 ---
-title: Transcript Bekah Weigel Kickstarting a Developer Community
+episode: "Transcript Running a developer community"
+permalink: /running-a-developer-community
+status: publish
+type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering unlocked podcast. I'm
