@@ -1,3 +1,10 @@
+---
+episode: "Transcript Make money with open source software"
+permalink: /money-open-source-software
+status: publish
+type: transcript
+---
+
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. Michaela. And today I have the pleasure to talk
 to Alvaro Trigo, a web developer, who enjoys learning every day. But before I start, 
