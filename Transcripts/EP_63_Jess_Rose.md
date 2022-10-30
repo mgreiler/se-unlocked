@@ -1,4 +1,9 @@
-# Transcription
+---
+episode: "Transcript Mentoring as an engineering manager"
+permalink: /mentoring-engineering-manager
+status: publish
+type: transcript
+---
 
 [00:00:00] **Dr. McKayla** Hello, and welcome to the Software Engineering
 Unlocked podcast. I'm your host, Dr. McKayla and today I have the pleasure to
