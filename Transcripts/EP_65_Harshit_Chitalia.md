@@ -1,4 +1,9 @@
-# Harshit Security
+---
+episode: "Transcript Making security easier for developers"
+permalink: /easier-security
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello and welcome to The Software Engineering Unlocked 
 Podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 
