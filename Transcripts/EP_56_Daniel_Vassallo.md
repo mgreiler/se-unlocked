@@ -1,6 +1,8 @@
 ---
-Title: Daniel Vassallo
-Episode: 56
+episode: "Transcript Predictable profit through small bets"
+permalink: /entrepreneurship-developer
+status: publish
+type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello and welcome to the software engineering unlocked
