@@ -1,3 +1,10 @@
+---
+episode: "Transcript What hinders your career as a developer? - Mindset."
+permalink: /advance-dev-career
+status: publish
+type: transcript
+---
+
 [00:00:00] **Dr. McKayla:** Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 
 Dagna Bieda. She's a software engineer turned career coach for software 
