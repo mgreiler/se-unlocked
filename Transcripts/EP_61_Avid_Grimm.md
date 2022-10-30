@@ -1,3 +1,10 @@
+---
+episode: "Transcript Using WordPress to run a profitable developer training business"
+permalink: /wordpress-dev-training-business
+status: publish
+type: transcript
+---
+
 [00:00:00] 
 **Dr. McKayla:** Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and today after pleasure to talk to Avdi 
