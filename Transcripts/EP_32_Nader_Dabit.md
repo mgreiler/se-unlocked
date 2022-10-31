@@ -47,7 +47,7 @@ posts or making videos or implementing some stuff and hardly anybody saw it,
 or how did you break out of the unknown?
 How was that for you?
 
-**Nader:**[00:02:32] Yeah, absolutely. So, I mean, I really started my whole 
+**Nader:** [00:02:32] Yeah, absolutely. So, I mean, I really started my whole 
 social media and I guess outbound presence about four and a half years ago I 
 think I would say. I was working at a company called SchoolStatus and 
 it's a small startup here in Mississippi where I still live at the moment.
@@ -105,7 +105,7 @@ architecture that I have something to say. And I am mainly thinking about, I hav
 maybe something to say for people that came from a Java background right, like this
 niche of people. But how is that for you?
 
-**Nader:**[00:06:27] Yeah, absolutely. I mean, even today I still get that 
+**Nader:** [00:06:27] Yeah, absolutely. I mean, even today I still get that 
 feeling, but I think the interesting thing about technology is that it's not
 like math, where there is a right and wrong answer. A lot of times there are just
 you know, there are best practices, but a lot of times you can see someone that's 
@@ -144,7 +144,7 @@ small organizations. So many engineers for, for example, React Native.
 How, how did that happen? How did you start this company, this training company? 
 And how did that actually go?
 
-**Nader:**[00:09:07] Yes. So I did training and consulting for about year and a 
+**Nader:** [00:09:07] Yes. So I did training and consulting for about year and a 
 half. And I was in between you know, it happened when I ran that company in between 
 where I'm now, where I was before. So I was at a startup as an engineer, today I'm a
 senior developer advocate at AWS. And in between these two jobs, I was running
@@ -223,7 +223,7 @@ little bit on it with this you know overworking and chasing a little bit the mon
 probably as well right. But what are the things that you think if you would do it 
 again, that you would have to you know, level up as a businessman, maybe.
 
-**Nader:**[00:14:45] Yeah, I think that the number one thing I did not
+**Nader:** [00:14:45] Yeah, I think that the number one thing I did not
 do well was scaled the business and the number of leads coming in. 
 I think that when I first started, I had no idea around the demand that there 
 was for that type of work. And how, if you kind of positioned yourself 
@@ -278,7 +278,7 @@ you can do probably I also made. And so then AWS came along and they wanted to w
 with you. They also were getting to know you through your social presence and your 
 presence on Stack Overflow, or how did that you know, connection happen here?
 
-**Nader:**[00:18:19] So I think the first connection happened on Twitter.
+**Nader:** [00:18:19] So I think the first connection happened on Twitter.
 I kind of connected or just met with, met someone based on a tweet that had 
 gone out that they were kind of engaging with another company. And it was having
 to do with mobile development. And I was like, "Oh, I wanna, I wanna do this thing,
@@ -330,7 +330,7 @@ after even writing you know, some major contributions in open source and your
 presence and the trainings, did you still have to prove yourself in the interview
 process? Or how did that, that go?
 
-**Nader:**[00:21:41] Yeah, it was a real interview process, but I also
+**Nader:** [00:21:41] Yeah, it was a real interview process, but I also
 got to kind of see the office and meet a few of the people on the team. And there
 was the typical five-step Amazon interview and there was a technical interview and
 I didn't do that good on the technical interview from what I understand, but I
@@ -354,7 +354,7 @@ the infrastructure as code and you have like the backend actually as services
 that people can just consume. But if you have to explain it, what is serverless,
 who can use it and why is it so powerful?
 
-**Nader:**[00:23:11] Yeah, so serverless and, and, you know, the early days I 
+**Nader:** [00:23:11] Yeah, so serverless and, and, you know, the early days I 
 think was just basically the idea of functions as a service.
 And I think it's kind of grown now to be more of like a philosophy around how 
 you build infrastructure and how you build services. And I think if you asked 
@@ -425,7 +425,7 @@ important stuff that you have to develop. And also train your people internally
 so that they have enough knowledge to really, you know, build a scalable, 
 maintainable solution. What are your thoughts here? 
 
-**Nader:**[00:27:52] Yeah, I think it makes a lot of sense in that comparison. I 
+**Nader:** [00:27:52] Yeah, I think it makes a lot of sense in that comparison. I 
 mean, what, what essentially serverless is, is just another abstruction, you 
 know, on top of things that we've been doing. And it's kind of just a name that 
 people are throwing out there and it actually works in my opinion, people 
@@ -459,7 +459,7 @@ out of the door. But what are other things, the examples that we would get in an
 how would we even tackle this problem of developming MVP, if you want to use
 serverless technologies?
 
-**Nader:**[00:29:49] Yeah, I think authentication is actually like a really great
+**Nader:** [00:29:49] Yeah, I think authentication is actually like a really great
 example because if you think about it, when you're working with something from
 scratch, you're, you're then competing essentially against these services that are
 also out there. So we have with something like Auth0 or Octa or Amazon Cognito, you 
@@ -490,7 +490,7 @@ example, authentication is, I think it's a really good example, but on the other
 hand is like maybe overused example. Can you give me one other example of what 
 we could, what we could, for example, use it as a serverless service.
 
-**Nader:**[00:31:47] Yeah absolutely. I think a really big one is the, well
+**Nader:** [00:31:47] Yeah absolutely. I think a really big one is the, well
 there's two really big ones actually. I think storage is, is, I mean,
 Amazon S3 is just massively, massively 
 used and adopted, and that is a service. It's just a place that you can drop a 
@@ -519,7 +519,7 @@ Would you just implement it directly or would you have like, abstraction layer
 in between so that you actually can change services or, or, you know, serverless 
 functions or something like that?
 
-**Nader:**[00:33:29] Yeah, yeah. I think like when you're buying into these types
+**Nader:** [00:33:29] Yeah, yeah. I think like when you're buying into these types
 of things, then you're, you, you are somewhat, you know, tied into or locked
 into those. So I think it, it's kind of, you know, when people are typically
 building in this way, they are, I guess, weighing the different trade-offs that
@@ -547,7 +547,7 @@ And especially if now staying with serverless and for example, full stack
 serverless, right? How, how do you go from idea to have this finished book and
 yeah.
 
-**Nader:**[00:35:06] So I have two books. One is react native and action 
+**Nader:** [00:35:06] So I have two books. One is react native and action 
 from Manning publications. And the other is full stack serverless from O'Reilly. 
 And I think that it was, the first book was probably the most challenging thing
 I've ever done, you know, really, I would say in my career. 
@@ -589,7 +589,7 @@ I've seen.
 mean, you had already a following. You were known. Why did you choose to go
 again with a publisher? 
 
-**Nader:**[00:37:32] So O'Reilly publications is, you know, O'Reilly is kind 
+**Nader:** [00:37:32] So O'Reilly publications is, you know, O'Reilly is kind 
 of what I learned almost like if I read any technical book learning what I know 
 now, I would say about 80% of them were O'Reilly. So having the opportunity to 
 actually write one was just a really cool opportunity.
@@ -604,7 +604,7 @@ So, yeah. But it could have gone either way, I think for my second book.
 the editor help in the whole process? Did you feel that it's actually a better 
 book because you had like an editor that was working with you on the book?
 
-**Nader:**[00:38:23] Yeah, the editing process was really, really seamless and it
+**Nader:** [00:38:23] Yeah, the editing process was really, really seamless and it
 was cool because I was writing with, you know, putting my, my pages in GitHub,
 a git provider like GitHub.
 So anytime that they would make changes, I could just run a git pull and pull 
@@ -625,7 +625,7 @@ actually different?
 Is it, is it actually the same? Is the no code movement also serverless? Or is 
 that something else and what makes it different from the serverless movement? 
 
-**Nader:**[00:39:35] Yeah, that's a good point. I think they all kind of start 
+**Nader:** [00:39:35] Yeah, that's a good point. I think they all kind of start 
 overlapping, you know, here and there. I think that the, the, the no-code 
 movement is really interesting, but I, I would say that you could kind of 
 compare serverless in my opinion, closer to like the low code movement or 
@@ -658,7 +658,7 @@ plug in together. And as you say, it's, it's actually not no code because you
 definitely have to code and it's not even low code, right. (laugh) 
 It's probably, it's really code, I don't know. (laugh)
 
-**Nader:**[00:41:28] It's lower code maybe, yeah. (laugh)
+**Nader:** [00:41:28] It's lower code maybe, yeah. (laugh)
 
 **Michaela:** [00:41:30] Yeah. (laugh) I don't know where to distinction here
 comes and what it's actually called, right.
@@ -683,7 +683,7 @@ YouTube videos is I feel also the complexity right now with serverless and those
 technologies in general, with our ever evolving technology base comes a 
 little bit from programming to configuration, right? So even those
 
-**Nader** [00:42::57] Oh yeah, that's a really good topic. (laugh)
+**Nader:** [00:42::57] Oh yeah, that's a really good topic. (laugh)
 
 **Michaela:** [00:42:59] So like you have to open up your account online, right.
 And you're just installing something. And I'm sure I hit enter and there will come
@@ -694,7 +694,7 @@ writing code. So I feel that a lot of this complexity that we first had in, in
 writing code is now in configuring your environment, knowing how to, you know,
 install and having systems talk to each other. How do you see that? 
 
-**Nader:**[00:43:36] Yeah, I think, I think it's a super interesting topic. And 
+**Nader:** [00:43:36] Yeah, I think, I think it's a super interesting topic. And 
 I think it's one of the things that we take for granted as developers, as we 
 start getting more experienced than we're doing this longer, because a lot of 
 the things that these abstructions start doing for us were things that we kind 
@@ -754,7 +754,7 @@ extensions of the IDE or will that be something separate? You're talking about
 the AWS CLI, right? So this is probably separate from, from the IDE, but could
 it be also part of it or how do you think, which direction will that all go? 
 
-**Nader:**[00:47:22] So I think they just actually based on some very recent 
+**Nader:** [00:47:22] So I think they just actually based on some very recent 
 experience, because we just released actually something on my team this week 
 that kind of gave us a very good idea around what people like.
 But I mean, what, when, when you go, for instance, you log into something like 
@@ -803,7 +803,7 @@ this interview. Is there something that you think you want to give my listeners
 on the way, especially if they are interested in serverless, for example, or
 cloud computing, mobile development?
 
-**Nader:**[00:50:20] Um, there are a lot of things I would probably like to 
+**Nader:** [00:50:20] Um, there are a lot of things I would probably like to 
 plug. So let me think about this for a second. I mean, if you're interested, you 
 know, in, in cloud computing in general, I would definitely just recommend 
 checking out all of the different options that are out there. There's AWS, but 
@@ -826,7 +826,7 @@ example that I had; we are building our MVP or are we designing our system. Can
 we take serverlesss from here and from there and from over here, or should you
 stick with one provider with one company that's providing those services to you?
 
-**Nader:**[00:51:43] I just, I always say pick the best tool for the job, whatever 
+**Nader:** [00:51:43] I just, I always say pick the best tool for the job, whatever 
 that is. So for you, if that's all with a single cloud provider, then that's great.
 If, if you want to kind of expand and do multiple cloud providers, then if that
 makes sense for you, then do that. I think I'll always, and this is slightly
@@ -847,7 +847,7 @@ and hear you talking about so many things that you experienced from, you know,
 being an entrepreneur, to working at AWS and author and blogger, tutor, everything.
 Thank you so much for being here.
 
-**Nader:**[00:52:59] Thank you, Michela. It was really, really nice to be here. 
+**Nader:** [00:52:59] Thank you, Michela. It was really, really nice to be here. 
 I appreciate you having me on.
 
 **Michaela:** [00:53:03] Yeah, thank you so much. Okay. Bye bye.
