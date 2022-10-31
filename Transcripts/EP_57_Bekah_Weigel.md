@@ -1,5 +1,8 @@
 ---
-title: Transcript Bekah Weigel Kickstarting a Developer Community
+episode: "Transcript Running a developer community"
+permalink: /running-a-developer-community
+status: publish
+type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering unlocked podcast. I'm
@@ -7,14 +10,14 @@ your host, Dr. Michaela. And today I have the pleasure to talk to Bekah Hawrot
 Weigel, a web developer and creator of the virtual coffee developer community.
 
 But before I start, let me tell you about an amazing startup that is sponsoring
-today's episode: Codiga. 
+today's podcast: Codiga. 
 
 Codiga is a code analysis platform that automates the boring
 part of code reviews and lets you merge with confidence on GitHub, GitLab and
 Bitbucket. I've worked with Codiga for around one year now and I really love how it
 guides me in discovering and improving, well, the not so nice parts of my codebase.
 
-But there is more. Codiga has a coding assistant that helps you write
+But there is more. Codiga also has a coding assistant that helps you write
 better code faster. Find and share safe and reusable blocks of code within your
 favorite IDE on demand while you're coding. Codiga has a great free plan, so
 there's nothing that stops you from giving it a try today. Learn more at [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked).
@@ -31,17 +34,18 @@ her brain on how she could develop this awesome. Develop a community so fast in
 just a little bit under two years. 
 
 So that come to my show background, I'm really, really excited that 
+you are here. 
 
-[00:01:41] **Bekah:** you are here. Thanks so much for having me. I'm very
-excited to be here. Yeah. 
+[00:01:41] **Bekah:** Thanks so much for having me. I'm very
+excited to be here too. 
 
-[00:01:45] **Michaela:** So can you tell me a little bit about virtual coffee,
+[00:01:45] **Michaela:** Yeah. So can you tell me a little bit about virtual coffee,
 what it is? And for me it seems a little bit different than other communities.
 It seems a little bit, a little bit more niche, grit, like closer.
 
-W how would you describe 
+Wh how would you describe it?
 
-[00:01:57] **Bekah:** it? Yeah, I think that's a great way to [00:02:00] describe
+[00:01:59] **Bekah:**  Yeah, I think that's a great way to describe
 it. We always like to say that we like the intimacy of virtual coffee because
 we're a small community of developers where all stages of the journey. So if
 you're just learning, if you've been doing it your whole career we've got
@@ -50,12 +54,12 @@ you're using.
 
 If you want to meet up with other developers and share and support each other.
 We're here for it. So we meet up twice a week when we meet up on Tuesdays at
-9:00 AM, Eastern and Wednesdays at 12:00 PM Eastern for some chats. So we go
+9:00 AM Eastern, and Wednesdays at 12:00 PM Eastern for some chats. So we go
 into breakout rooms. So we have small group conversation. We like to maintain
 that intimacy.
 
 And then for members, so people who have attended at least one virtual coffee,
-they're welcome into our slack and our members only. So we have lunch and learns
+they're welcome into our slack and our members only events. So we have lunch and learns
 on most Fridays, we're running our third round of lightening talks soon. We've
 got monthly challenges and some other small groups that meet that are building
 within the slack community, which is just so great to see everybody supporting
@@ -77,7 +81,7 @@ in it, but I would like to just note that I think that, you know, there's a lot
 of people who used to be active that aren't active anymore.
 
 And one of the things about the community is we're really close, but it is
-transient in nature [00:04:00] because sometimes people are looking for their
+transient in nature because sometimes people are looking for their
 first job and they get it and they can't come around much anymore. Sometimes
 people change jobs and their availability changes. 
 
@@ -92,17 +96,17 @@ slack or not.
 
 So I would say maybe we have about 200, 200 or 300 active members, which I think
 is still pretty good. 30 to 50% of our slack is fairly active. And I think, you
-know, We maintain that intimacy by doing, by focusing on small group
-conversation and a lot of ways. So the small group conversation that happens
+know, we maintain that intimacy by doing, by focusing on small group
+conversation in a lot of ways. So the small group conversation that happens
 when we meet up on zoom twice a week we try and keep our breakout rooms between
-eight and 14 people, but we have.
+eight and 14 people, but we always
 
 Start in the big zoom room together. And we go over some announcements, like our
-code of conduct and what the mission of virtual coffee is a little bit of our
+code of conduct and what the mission of virtual coffee is, a little bit of our
 history just to allow people to get a glimpse of this is how long we've been
-doing things. And this is how, how things have grown. And so. By having that
+doing things. And this is how, how things have grown. And so,you know, by having that
 interaction with other people by seeing faces or hearing voices or interacting
-and a synchronous way, it provides some kind of connection and friendship that
+in a synchronous way, it provides some kind of connection and friendship that
 doesn't happen as easily in async only environments.
 
 And then it's great to see what the community members are doing. We have let's
@@ -113,22 +117,22 @@ Wednesday and [00:06:00] a monthly challenge check-in on Friday.
 
 So, you know, the members are really there to support each other and to see what
 the needs are. And so not, everybody's going to come to indie hackers. I like to
-go to that one. It's one of my favorites. You know, maybe there's like. To eight
+go to that one. It's one of my favorites. You know, maybe there's like six to eight
 people there, but it's great because you can really dive into those deeper
 conversations and get to know people in the, those small moments in ways that
 you can't when you're in a large group of people.
 
 So I think that's one of the things that, that we've done well is have people
-who care about each other and, and see them supporting each other in their new. 
+who care about each other and, and see them supporting each other in their needs. 
 
-[00:06:39] **Michaela:** Yeah, that sounds really good. And there are a couple
+[00:06:36] **Michaela:** Yeah, that sounds really good. And there are a couple
 of things that I want to touch base on that you mentioned, first of all. So I
-can imagine that there are like a hundred people joining your soup, and then you
+can imagine that there are like a hundred people joining your zoom, and then you
 have this announcement.
 
 Remember you're members of what is all about, which I think is really good for
 the mission also, and for new members to, you know, Just introduce them to your
-culture code of conduct and them so on, but then how do you announce the
+culture ,code of conduct and them so on, but then how do you announce the
 different breakout rooms? Do you know, do people speak up and say, oh, I want to
 do a breakout room.
 
@@ -148,7 +152,7 @@ members and to constantly remind people of the things that matter to us, which
 is, you know, being kind and recognizing that the impact of our words matters.
 
 And so we have all of that created and we [00:08:00] have let's see maybe about
-30 room leaders in note takers. And so we have a process on Mondays where we see
+30 room leaders and note takers. And so we have a process on Mondays where we see
 who's up for volunteering to be a room leader or note taker. And we pick a
 introduction question, just a random question. It can be something silly.
 
@@ -162,7 +166,7 @@ And then if not, we've got that back pocket topic. We had virtual coffee today
 and our back pocket topic. I'll read it to you. Just so you have a sample of
 some of the things, actually, all of them I think are listed on our discussions
 in our repository. Our topic today was what are some transferable skills you
-bring to tech either from a previous career or from other parts of your life.
+bring to tech, either from a previous career or from other parts of your life.
 
 And so actually my breakout room did talk about that. And so everyone there's
 okay. So we have the. MC he'll gives all of the announcements. And then we have
@@ -170,7 +174,7 @@ a host who controls zoom and the host puts everybody into breakout rooms. So we
 already know who our room leaders and note takers are. Those have already been
 set up the day before.
 
-And so we make sure that they all get in room and we try and have backup ones.
+And so we make sure that they all get in room and we try to have backup ones.
 So, you know, if we need a fifth room, then we're going to have this person as a
 backup room leader. Which today I think we did end up using our backup And then
 the host goes through and fills all of those rooms and we do our best.
@@ -180,34 +184,34 @@ in. But we do our best to make sure that we get a pretty well-rounded room. So
 new folks, people who have been there for a while, you know that some people
 maybe are leading for the first time. And so you want to put some.
 
-[00:10:00] Dependable talkers and their room. And so you try and make sure that
+[00:09:53] Dependable talkers in their room. And so you try and make sure that
 you do that, but that's kind of the process for what we do and how we do it.
-Wow, 
+ 
 
-[00:10:07] **Michaela:** that sounds like you're having a conference and the
-organizational, like I say, not a burden, but burden ID. It doesn't seem like
+[00:10:00] **Michaela:** Wow, that sounds like you're having a conference and the
+organizational, like I say, not a burden, but burden It. It doesn't seem like
 it's a burden to you to organizational fun.
 
-Every week, twice sounds like a lot of work. 
+Every week, twice. Sounds like a lot of work. 
 
-[00:10:22] **Bekah:** Now that we have the process down, it makes it a lot
+[00:10:15] **Bekah:** Now that we have the process down, it makes it a lot
 easier. And we've got some, you know, Slackbots reminding us about some of the
 things that we have to do and where to look for things. And it, it is a lot of
 fun. There is definitely work behind the scenes that happens to make sure that
 we have a, a safe and welcoming environment for everyone.
 
 But, you know, it's worth it. If people feel like this is a safe space that they
-can grow. Yeah, definitely. 
+can grow.  
 
-[00:10:46] **Michaela:** And I can really see like with this organization, I
+[00:10:39] **Michaela:** Yeah, definitely. And I can really see like with this organization, I
 mean probably if, if, you know, like if you started there like five people come
 in, you know, showing up, you don't need a lot of organization. Right.
 
 But then if 10 people, and then it's 20, then you know, you started developing
 those processes and you probably see also what works and what does not work. And
-what are some of the things that you tried that didn't work out. So. 
+what are some of the things that you tried that didn't work out.  
 
-[00:11:08] **Bekah:** Well, I will say that when I first started virtual coffee,
+[00:11:03] **Bekah:** So, I will say that when I first started virtual coffee,
 I didn't even know that zoom had breakout rooms.
 
 So that was a totally new concept to me. And I feel like I've got some expertise
@@ -228,28 +232,28 @@ for a couple of months. So I, I would say that maybe some of the things that
 didn't work were, you know, pushing some of those things off for a while or
 being resistant to.
 
-Adding we, we lean on project boards and get hub issues a lot in our
+Adding we, we lean on project boards and GitHub issues a lot in our
 organization. We want to make sure that we use tools where our members lived.
 And so I initially I was resistant. I was like, I can not look at one more
 repository no more. And now I'm like, yes. Yeah, we need a repository for that.
 
 So. I think that my, my, the thing that didn't work was my frame of mind around
 it, because for a long time, I thought this was going to be a temporary thing.
-And when we did our first heck Tober Fest event two years ago, that's when I
-finally thought, oh, this is, we're not going anywhere. We're w this is not just
+And when we did our first HacktoberFest event two years ago, that's when I
+finally thought, oh, this is, we're not going anywhere. We're  this is not just
 a pandemic thing.
 
 Like we're filling a need for a lot of people, even outside of the pandemic. And
 so that's kind of where. Things started shifting in my mind, like, what is the,
 what are the long-term processes and how can we make this sustainable? 
 
-[00:13:12] **Michaela:** Yeah. And it's really nice. Yeah. I'm also like, I, I'm
+[00:13:19] **Michaela:** Yeah. And it's really nice. Yeah. I'm also like, I, I'm
 often thinking of creating a community around se unlocked, for example, the
 podcast.
 
 Right. But I'm not sure about how it will, you know, what are the right tools?
 What is the right kind of community. I'm also more a person of like, I'm not
-really good at. Participant in the slack channels and this core channel, I get
+really good at. Participant in the slack channels and discord channel, I get
 very easily overwhelmed. And then, you know, like maybe a week I'm trying really
 hard, but 
 
@@ -258,7 +262,7 @@ I can run a community like this, but having, you know, chats or, you know, soon
 conversations. I was also thinking about Twitter spaces. Is that something that
 came to your mind that you could maybe do as well? 
 
-[00:13:57] **Bekah:** Yeah. So I [00:14:00] went through, I ran a lot of Twitter
+[00:14:04] **Bekah:** Yeah. So I went through, I ran a lot of Twitter
 spaces myself.
 
 I went through a string of them. I was doing them weekly, and then I started
@@ -269,7 +273,7 @@ Twitter spaces that I'm really excited about because of the support of the team.
 And we can do some really great stuff. Start build community and fill some of
 the needs that we see out there in the tech community right now. 
 
-[00:14:31] **Michaela:** Yeah. Yeah. And do you think that there's a difference
+[00:14:40] **Michaela:** Yeah. Yeah. And do you think that there's a difference
 between a zoom? It assumed seems a little bit more intimate for me because you
 know, it's, it's a community that's not completely public it's public, right.
 
@@ -281,7 +285,7 @@ people that are in there. And so on. People can drop in and go out.
 Do you think it's different and, and has a different need or fills a different
 need, a different purpose for the condition? 
 
-[00:15:07] **Bekah:** I think, you know, there are expectations when you meet
+[00:15:15] **Bekah:** I think, you know, there are expectations when you meet
 with other people in a small group setting, face-to-face, you know, you, and we
 say like, if you want to leave your camera off, if you want to stay muted,
 that's totally fine.
@@ -297,37 +301,36 @@ if someone's live streaming at Twitch on Twitch, you don't see everybody who is
 there, but in Twitter spaces, you can see those other people and they do connect
 you.
 
-Other like, you know, if we follow [00:16:00] each other, I can see whose space
+Other like, you know, if we follow  each other, I can see whose space
 you're in. I'm like, oh, okay, well, she's there and she's cool. So I'm going to
 go check out, you know, what she's listening to. And so there's a, I think a
 little bit, maybe more community happening in Twitter spaces, but there's less
 like barrier to entry or friction if you're shy or an introvert or, you know,
 just kind of want to check something out one time.
 
-so 
 
-[00:16:24] **Michaela:** another thing that I wanted to talk with you, and I
+[00:16:33] **Michaela:** So another thing that I wanted to talk with you, and I
 think they are a little bit connected. One is that, so I looked on your website,
-virtual coffee.io, and there are a couple of people publicly listed. Right. And
-apparently they are not all of them. Not everybody wants to be listed there or
+virtualcoffee.io, and there are a couple of people publicly listed. Right. And
+apparently there are not all of them. Not everybody wants to be listed there or
 it doesn't, it doesn't.
 
 Hasn't edited themselves. But a couple of people are really listed there. And
 then I also saw that there are different roles, right? You were also talking
 about the different roles for the meetings, but there were two particular ones
-that were like labeled there. And one was the, the. Maintainer and the other was
+that were like labeled there. And one was the, the org Maintainer and the other was
 the community maintainer.
 
 So what are those two roles? Is that all the roles that you have and how do you
 select people or how are people selecting themselves to be in those 
 
-[00:17:07] **Bekah:** roles? Yeah, that's a really great question and it's kind
+[00:17:25] **Bekah:** roles? Yeah, that's a really great question and it's kind
 of evolved over time. We've had so many people step up and offer support and
 offer help. And Sarah, McCombs, they were really great support at the beginning
 of.
 
 Virtual coffee and, and making sure that we got this stuff done and helping
-build out these processes. And when we launched our first hack Tober Fest, we
+build out these processes. And when we launched our first HackToberFest, we
 had a whole team that was focused on that. And a number of the people who were
 on that team ended up coming on as maintainers and. I'm both a, a core
 maintainer and a community maintainer and, or a, an org maintainer rather.
@@ -335,7 +338,7 @@ maintainer and a community maintainer and, or a, an org maintainer rather.
 And what that means is we kind of look at the overall organization, the health,
 the strategy where should we go from here? What decisions need to be made in
 terms of the entire organization? I would say the community maintainers are
-[00:18:00] looking more at the day-to-day, the community management project
+[00:18:15] looking more at the day-to-day, the community management project
 planning that, that kind of more day-to-day focus, I guess, in, in making sure
 that the team is supported there.
 
@@ -366,7 +369,7 @@ might be up on there soon too. So, you know, we're, we're, I think we're in the
 phase where we're trying to figure out how do we best support our members and
 help provide those leadership opportunities that we want.
 
-[00:19:56] **Michaela:** Yeah. Yeah. So when you describe all [00:20:00] of
+[00:20:11] **Michaela:** Yeah. Yeah. So when you describe all of
 that, it seems to me this is a full-time full-time job already, but so how much,
 how much time does really go into that? I mean, there's the meetings themselves,
 right? That you're a participating and I'm even, I'm not part of virtual coffee
@@ -377,9 +380,10 @@ to plan the meetings and there's the chat and you're making all this. You have
 all these thoughts and meetings also with other members of the community, how to
 grow the community, how to, you know, keep it alive and make it healthy.
 
-So how much time off your week goes into data? I can imagine 
+So how much time off your week goes into that? I can imagine 
+a lot. 
 
-[00:20:39] **Bekah:** a lot. I don't know. That's a good question. At some point,
+[00:20:53] **Bekah:**  I don't know. That's a good question. At some point,
 I think. Stopped keeping track of how much time was going into it because it was
 a lot and it's not a job, right. It's a volunteer position. But I think, you
 know, now we have so many supportive members and with the core team that I'm
@@ -392,15 +396,15 @@ more thing to do. There are always things that, you know, I have a whole board
 of things I would love to do for virtual coffee and I have to try and pace
 myself because sometimes I go for it anyway, and then I.
 
-Well into something and I'm like, oh, I, I might, I might die after that. So I
+fall into something and I'm like, oh, I, I might, I might die after that. So I
 try to avoid that feeling now. 
 
-[00:21:38] **Michaela:** Yeah, I can imagine. So I have seen on the GitHub page,
+[00:21:51] **Michaela:** Yeah, I can imagine. So I have seen on the GitHub page,
 there are some, there's some sponsoring going on, right? Is there, are there
 other ways that you're monetizing this community or that the community monetize
 it itself, that it has some budget around that you can also do cool stuff.
 
-[00:21:55] **Bekah:** So right now, sponsorships, we launched [00:22:00]
+[00:22:06] **Bekah:** So right now, sponsorships, we launched 
 sponsorships maybe in September. And so up to that point, we were just paying
 out of pocket for everything. But sponsorships is the primary way that we cover
 our costs. We had a monthly challenge sponsorship, which was nice. We have the
@@ -412,23 +416,22 @@ sharing their stickers. So those are some ways that we're, we're working on
 covering, covering the cost of what we want to do, and then, you know, hopefully
 providing new services and.
 
-Yeah. Yeah. 
+ 
 
-[00:22:38] **Michaela:** I think at one point you have to think about it because
-even like this lag is probably not free, right. You have to pay per month
+[00:22:48] **Michaela:** Yeah. Yeah. I think at one point you have to think about it because
+even like this slack is probably not free, right. You have to pay per month
 membered and. 
 
-[00:22:46] **Bekah:** Nope. So we're on the free version of slack because it
+[00:22:59] **Bekah:** Nope. So we're on the free version of slack because it
 costs, I think $6 per member per month. Yeah. I saw there's no way that we could
 cover that.
+ 
 
-That's so 
-
-[00:22:59] **Michaela:** crazy. Yeah. Yeah. Okay. So there's a free version of
+[00:23:12] **Michaela:** That's so crazy. Yeah. Yeah. Okay. So there's a free version of
 that as well, because I looked into that, I thought like maybe, you know, slack
 channel and it's not like $6. Why am I God, not. 
 
-[00:23:11] **Bekah:** Right, right. Discord, discord, we've gone back and forth
+[00:23:26] **Bekah:** Right, right. Discord, discord, we've gone back and forth
 about it. It has a lot of great tools. We're just not in love with the user
 experience of discord.
 
@@ -441,22 +444,22 @@ producing a podcast can be costly you know, producing.
 Transcripts and providing the services for that. We've got like Zapier and air
 table. So, you know, like we're, we're using all of these tools that we can to
 you know, make things a little bit easier for us, but do cost money. And so what
-we, we try and keep our costs minimal, [00:24:00] but you know, there, there are
-some, but I think that.
+we, we try and keep our costs minimal, but you know, there, there are
+some, but I think that we are.
 
 Covered right now for our CA our monthly costs by our sponsorships, which is
-really, really great. Yeah. That's 
+really, really great. 
 
-[00:24:10] **Michaela:** really good. Yeah, that's really cool. So what would
+[00:24:22] **Michaela:** Yeah. That's really good. Yeah, that's really cool. So what would
 you say to the listeners today that would like to, you know, start their own
 community, have a community? What would be the MVP, a MVP version of a community
 that you, you know, from your experience would.
 
-Suggest to them, should they start with fitness spaces or should they have like
+Suggest to them, should they start with twitter spaces or should they have like
 a meeting or a slack or a discord channel, you know, what are the options and
-what are the pros and cons for each 
+what are the pros and cons for each  one of those?
 
-[00:24:38] **Bekah:** one of those? That's really a great question. I think that,
+[00:24:51] **Bekah:** That's really a great question. I think that,
 first of all, I feel strongly that. You, there are a lot of really great
 communities already out there, and a lot of them really need support.
 
@@ -473,10 +476,10 @@ doing virtual coffee for almost two years now, and we get the same questions in
 our Our zoom sessions.
 
 All the time. And so I can tell that there's a real need for more work, to be
-done around interviewing about supporting junior developers about creating
+done around interviewing about supporting junior developers, about creating
 positive workspaces. So for sure there are. For groups that focus on those
 things. And then I would say for me, if you start a slack or a discord, that's
-probably the most time-consuming [00:26:00] thing that you can do because you
+probably the most time-consuming thing that you can do because you
 want to keep people engaged.
 
 You want to keep them talking, you need to answer questions. So if you don't
@@ -489,9 +492,9 @@ to prioritize the couple that they'll keep and stay active with.
 
 And, and then they're going to be, you know, doing. In really stuff. 
 
-[00:26:42] **Michaela:** Yeah. Yeah. Which is good. I'm I'm waiting for that. 
+[00:26:55] **Michaela:** Yeah. Yeah. Which is good. I'm I'm waiting for that. 
 
-[00:26:47] **Bekah:** Yeah. Yeah. So I mean, thinking about like, okay, maybe you
+[00:26:59] **Bekah:** Yeah. Yeah. So I mean, thinking about like, okay, maybe you
 want to then create some kind of hybrid model or, you know, do an online meetup
 that translates into an in-person thing. Or if you, if in-person is not your
 thing, then, you know, figure out how you can build your online environment
@@ -501,7 +504,7 @@ I think it's tricky because it's not one size fits all, but you know, in-person
 or async, if you're a really async person, then, then slack or discord is a
 great way to go. So yeah, there's, there's a lot, there's a lot there. Yeah. 
 
-[00:27:21] **Michaela:** I think it probably really about personality as well. I
+[00:27:27] **Michaela:** I think it probably really about personality as well. I
 think a lot of people really enjoy.
 
 Writing and, you know, participating in this estrone coroners conversation, even
@@ -514,33 +517,33 @@ What, what are you doing dead? Are you doing actually the same thing that you
 just learned yourself? And you're not like your master now and the expert here
 for, for deep gram or what's your role there? 
 
-[00:27:58] **Bekah:** Yeah, it's kind of, I [00:28:00] feel like it's such, it's
+[00:28:04] **Bekah:** Yeah, it's kind of, I feel like it's such, it's
 been such a good fit for me. My background, I spent 10 years teaching college
 English.
 
 And so deep gram is a speech to text. AI company. And so there, there are so
 many different experts in different fields there. So, you know, whether it's
-data science or linguistics or engineering and, you know, the devil team I get
+data science or linguistics or engineering and, you know, the DevRel team I get
 to talk to everybody and. Understand where they're coming from, but I sit on the
-dev REL team as a technical community builder, so I can do dev rally things.
+DevREL team as a technical community builder, so I can do DevRel-y things.
 
-I can write if I want to I can contribute code, but my focus is on creating
+I can write if I want to, I can contribute code, but my focus is on creating
 those systems and processes for community and the external community at deep
 gram. I always say that your community starts with the internal community. You
 want to make sure that you have a strong internal community before trying to
 start an external community, because you have to have that support network to
 help you and that trust to be in guidance.
 
-So I'm doing. You know, some educating I am doing well, hopefully some speaking
+So I'm doing. You know, some educating, I am doing well, hopefully some speaking
 in the near future and hopefully some writing and building out that community
 strategy and trying to figure out, you know, where, how can we. Fill a need in
 the tech community or how can we support existing communities out there?
 
 So it is, it's pretty much a mixture of everything I've ever done in my life to
 this point. And it's been really fun in the first three weeks now having a team
-to work with them. Yeah, 
+to work with them.  
 
-[00:29:31] **Michaela:** it sounds super exciting. Yeah. I can't imagine
+[00:29:36] **Michaela:** Yeah, it sounds super exciting. Yeah. I can't imagine
 everything coming together for you. And you can really strive now with the
 competencies that you, I think not only developed you probably had already from
 the beginning, right?
@@ -548,15 +551,15 @@ the beginning, right?
 Because it's not something that you. You make the first virtual coffee? I think
 a lot of people did that and then it grows into something that's, you know, so
 probably not in the deaf community as well, so well rounded. So yeah, so
-[00:30:00] congratulations to that. And thank you so much for sharing so much
-about the process and about virtual copy, how it worked.
+congratulations to that. And thank you so much for sharing so much
+about the process and about virtual coffee, how it worked.
 
 Yeah, I really enjoyed it. Is there something that you want to tell our
 listeners? Maybe how can they sign up for virtual coffee? He said, you know, do
 you, do you have to have some commitment there or accountability? 
 
-[00:30:21] **Bekah:** That's a great question. So we make everybody come to at
-least one virtual coffee for before getting an invitation and to our slack and
+[00:30:26] **Bekah:** That's a great question. So we make everybody come to at
+least one virtual coffee for before getting an invitation into our slack and
 that's to, you know, help them experience, you know, our community and to see
 what it's like, because, you know, we feel that we demonstrate that pretty well
 in those meetings.
@@ -564,12 +567,11 @@ in those meetings.
 And so it's really. Figuring out if it's in the community for you, because it's
 not the community for everyone, we all have different needs and, and things that
 we like. And don't like, and so if it's for you, then it's great. Then join our
-slack, fill out our new member form. You can find those events@virtualcoffee.io
-slash events.
+slack, fill out our new member form. You can find those events at virtualcoffee.io/events .
 
 So come and check out a virtual coffee and then. 
 
-[00:31:05] **Michaela:** Yeah, cool. I will link everything in the show notes.
+[00:31:10] **Michaela:** Yeah, cool. I will link everything in the show notes.
 And thank you so much for talking to me being here today with me. I enjoyed it. 
 
 [00:31:14] **Bekah:** Great. Thanks so much. I'm going to, can I mention one more
@@ -578,9 +580,9 @@ Twitter, I think we'll be running some very cool Twitter spaces through there
 soon.
 
 So if you want to check out some Twitter spaces, you can do that as well. And
-thank you so much for having me. This has been great. Yeah, I really 
+thank you so much for having me. This has been great. 
 
-[00:31:35] **Michaela:** loved it. Okay. Thank you for caring. Thank you. Bye 
+[00:31:35] **Michaela:** Yeah, I really  loved it. Okay. Thank you for caring. Thank you. Bye 
 
 [00:31:38] **Bekah:** bye.
 

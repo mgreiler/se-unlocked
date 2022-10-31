@@ -1,5 +1,9 @@
-Transcription
-
+---
+episode: "Transcript what the heck is data-oriented programming?"
+permalink: /data-oriented-programming
+status: publish
+type: transcript
+---
 
 **Dr. McKayla**  00:04 Hello and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and today I have the pleasure to talk to 

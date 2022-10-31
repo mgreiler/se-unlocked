@@ -1,48 +1,53 @@
-# Transcript EP 64 Nicolas Dular
+---
+episode: "Transcript Being an engineering manager was not for me"
+permalink: /no-engineering-manager
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello and welcome to the software engineering analog 
-podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 
-Nicholas doula, a senior software engineer at Gid lab. But before I start, let 
-me tell you a little bit about my latest project. Awesome code reviews.com. 
-Yeah. All my work on code has now its own dedicated home@awesomecodeviews.com.
+podcast. I'm your host, Dr. Michaela and today I have the pleasure to talk to 
+Nicholas Dular, a senior software engineer at GitLab. But before I start, let 
+me tell you a little bit about my latest project awesomecodereviews.com. 
+Yeah. All my work on code reviews has now its own dedicated home at awesomecodeviews.com.
 
 You find articles about code reviews, code reviews, best practices, code review, 
 checklists news about the latest research on code reviews and of course 
-workshops and courses I offer around this topic. So please hop over to awesome 
-culture, views dot. And check out my latest work, but now back to Nicholas, 
-Nicholas is a senior full stack engineer at Gid.
+workshops and courses I offer around this topic. So please hop over to awesomecodereviews.com
+and check out my latest work. But now back to Nicholas, 
+Nicholas is a senior full stack engineer at GitLab.
 
-Before joining GDAP. He was a senior software engineer at P S P kit. And today I 
-want to talk with him about his experience, becoming an engineering manager, 
-like many Nicholas was dreaming of advancing his career in this direction. But 
+Before joining GitLab, he was a senior software engineer at PSPkit. And today I 
+want to talk with him about his experience, becoming an engineering manager. 
+Like many, Nicholas was dreaming of advancing his career in this direction. But 
 after one year he had to come clear with himself that , this role is not what 
-you wanted to do long.
+you wanted to do long term.
 
 so he changed back to an individual contributor role. I'm so excited to talk 
-with him today about his experience. So Nicholas, welcome to this show. Great 
+with him today about his experience. So Nicholas, welcome to this show. Great to have you here. 
 
-[00:01:11] **Nicolas:** year here. Thank you. Hello and welcome Mikayla. Thanks 
-for having me really excited to talk to you 
+[00:01:15] **Nicolas:** Thank you. Hello and welcome Michaela. Thanks 
+for having me really excited to talk to you today.
 
-[00:01:17] **Michaela:** today. Yeah, I know. One year, so we are friends, 
+[00:01:17] **Michaela:**  Yeah, I know. One year, so we are friends, 
 right?
 
 And one year ago you were telling me about this awesome role that you're now in 
 that you're an engineering manager and I know that at the beginning it was a 
-little bit. Stress hectic. Obviously you had to, you know, learn new things. But 
+little bit like stress ,hectic. Obviously you had to, you know, learn new things. But 
 now you're back. How did that all come about and what were you expecting of this 
 role and why didn't it work out as you, as you actually planned?
 
 [00:01:43] **Nicolas:** Yeah. I'm where, where to start. So last year in 2021 in 
-may, I finally had the opportunity to become a manager. So I always told my 
-manager, I want to step up be a manager. I, I like taking our responsibilities. 
-Mm-hmm like taking over, like helping others and all viewing projects. So I 
+May, I finally had the opportunity to become a manager. So I always told my 
+manager, I want to step up be a manager. I like taking our responsibilities. 
+Mm-hmm like taking over, like helping others and overviewing projects. So I 
 thought that this is the logical step for me.
 
 Right. Yeah, then now we are here again one year afterwards and I'm back at the 
-actual position I started at get lab and I what happens? So I, I had the 
-opportunity to try, try it out first. This is one of the principles of get, get 
-lab. You can be an acting engineering manager. So I tried it out if I wanted I, 
+actual position I started at GiLab and I what happens? So I, I had the 
+opportunity to try, try it out first. This is one of the principles of GitLab. 
+You can be an acting engineering manager. So I tried it out if I wanted I, 
 after first three months, I said like, yeah, this actually is nice.
 
 I do something different now after being a developer for 10 years. And then I 
@@ -53,8 +58,8 @@ promoted.
 
 It was amazing. But after like six, seven months, I, I then like realized, oh, 
 this is maybe not what I, I wanted it after all. And yeah, that's that made the 
-hard, hot position to actually step back. And everyone who is the manager says 
-like, this is a completely different. And when you are not a manager, want to 
+hard decision to actually step back. And everyone who is the manager says 
+like, this is a completely different job. And when you are not a manager, want to 
 become one, you think like, yeah, of course Amy, it's a manager, it's not an 
 engineer, but what it actually means is it's a really different job.
 
@@ -75,7 +80,7 @@ that's, that's the nice part.
 
 So I wanted it, but I always wanted to be able to go back all the time and 
 mm-hmm, being an acting interim manager gave me this opportunity to mm-hmm just 
-go back. I want to, 
+go back if I want to, 
 
 [00:04:11] **Michaela:** .Yeah. I'm, I'm interested in this concept of, of 
 trying something out, like how, oh yeah.
@@ -94,7 +99,7 @@ but maybe don't have one or like there's a reorg, you need to split teams.
 
 Mm-hmm, something like that. And if you like talk with the manager, they can 
 promote you to be an acting engineering manager for this time. It's also, I 
-think, kept him to a. Date like three or six months mm-hmm . And after that, you 
+think, kept him to a specific date like three or six months mm-hmm . And after that, you 
 can decide depending on the company, if there's a need for a management 
 position.
 
@@ -103,9 +108,9 @@ reports back then they stepped up step up and be an engineering manager,
 although they knew like they never want to become one. Okay. It's totally fine. 
 But they wanted to have this experience and try it out. So it's perfect.
 
-Perfect opportunity. Right. So 
+Perfect opportunity. Right.
 
-[00:05:30] **Michaela:** you're stepping back. They're looking, they don't have 
+[00:05:30] **Michaela:** So you're stepping back. They're looking, they don't have 
 to immediately have one because another person. Act as an engineering manager, 
 they can try it out. Or the baby is also talking here so they can try it out. 
 And then when, while you're hiring, for example, internally or externally, and 
@@ -133,15 +138,15 @@ I'm like, one of this is one of the things, so. I'm more of an introvert. And I
 like, like, you can, I can sit on the screen for 10 hours and back one buck and 
 fix it and I'm happy.
 
-mm-hmm but as an, also as an engineer get, like, we maybe have like one to two 
+mm-hmm but as an, also as an engineer at GitLab, we maybe have like one to two 
 hours of meetings per week. Which is amazing. It allows you like to have enough 
 Aing time and like deeply focused. But as a manager, you mostly spent your time 
-in meetings. So I had one of ones. I had eight direct direct reports.
+in meetings. So I had one of ones. I had eight direct reports.
 
 So I was in meetings for 10 to 14 hours. And this sounds maybe in like, not many 
 hours for other managers, but for me, it was a lot as an introvert. Mm-hmm so. 
 This drained me, I was sometimes it was Wednesday and I was already drained for 
-this whole week cause of, of these meetings. And so that, that was definitely 
+this whole week cause of, of these meetings. And so, that was definitely 
 the one factor for me.
 
 And another one is this emotional burden actually like I wouldn't, I burden is 
@@ -151,13 +156,13 @@ this emotional part that you want to deal with, or you also have maybe
 interviewing someone and reject the candidate, like reject the candidate mm-hmm 
 and this was hard for me.
 
-And so it cost it cost me emotional energy all the day long. And I'm. I'm just 
+And so it cost it ,cost me emotional energy all the day long. And I'm. I'm just 
 not the right person for this. It seems. And one of the things I talked to 
-another back then, interim manager she she's amazing. And so we talked with each 
+another back then, interim manager. She, she's amazing. And so we talked with each 
 other and she was telling me like, yeah, one-on-ones are the best things of my 
 day.
 
-And I get so energized by that. And I was there after my third day of one oh 
+And I get so energized by that. And I was there after my third day of one on
 ones and said, like, I can't anymore. I can't do this. Tell worrying me so much 
 energy. Although I like talking with people and like all of them, it's just 
 harder for me. So I saw, okay, maybe I'm not the right person for this job.
@@ -177,11 +182,10 @@ oh, this is so important. And you know, I have this nice title and, you know,
 shiny and maybe, I don't know, maybe more, more salary if you are a manager, 
 right?
 
-Yeah, 
 
-[00:09:43] **Nicolas:** exactly. And I, after stepping back, I, I really 
+[00:09:43] **Nicolas:** Yeah, exactly. And I, after stepping back, I, I really 
 noticed, I, I don't care too much about the title anymore. I mean, I also would 
-say that at kit lab, The title is not, not so super important. Mm-hmm we, you 
+say that at GitLab, the title is not, not so super important. Mm-hmm we, you 
 can influence and change things, even though like you maybe an a junior or 
 intermediate engineer, it doesn't really matter, like as long, like what the 
 content matters a lot.
@@ -189,25 +193,25 @@ content matters a lot.
 And so that, that was no advantage there in, in that sense. Mm-hmm and I then 
 step back on those thinking, do I want to become a staff engineer? You know, and 
 my answer was initially, well, If I get to it, maybe, but it's not what I need 
-to have. I don't need staff title now. I I'm just happy to work on something 
+to have. I don't need staff title now. I'm just happy to work on something 
 that I care about and that's it.
 
 That, that's my goal, actually. It's not the title itself. So I learned this as 
-well after, after step stepping back. Yeah. Yeah. And I think it's 
+well after, after stepping back. Yeah. Yeah. And I think it's 
 
 [00:10:39] **Michaela:** it. It's very natural. When I was at university, I also 
-always dreamt of this, you know, career and going up the corporate letter and 
+always dreamt of this, you know, career and going up the corporate ladder and 
 all these titles and, you know, it, it, some, it seemed as something that we 
 should strive for.
 
 Like also the the marks that we get in school, right? You want the one, or, you 
-know, an a in, in another country and so on, right. Another B and so on . And so 
+know, an A in, in another country and so on, right. Another B and so on . And so 
 it also seemed for me that this is important. And over the time I realized, 
 actually it's not that important. Right. It's important if you are energized by 
 what you're doing.
 
 Yeah. If you feel good and then you're getting also better at it, right. Because 
-if it's taking your. You can spend a lot of energy mm-hmm , but because you're 
+if it's taking your energy, you can spend a lot of energy mm-hmm , but because you're 
 not getting it back, you know, it's, it's not, you know, it's not self it's not 
 sustainable. Let's put it that way. That's 
 
@@ -221,7 +225,7 @@ this position. I like it's, it's even more stressed. I, I don't know how
 directors and any, everyone like even managers do it, like how they can deal 
 with it.
 
-I, as I said, like, I'm the wrong person for this job? Although like, I. At 
+I, as I said, like, I'm the wrong person for this job! Although like, I. At 
 least to, to save myself a bit, like I got good feedback. People seem to like me 
 as a manager and I hopefully did great work at least based on the feedback, but 
 I also didn't enjoy it. And then as I saw also, you can do good work, but it 
@@ -234,15 +238,15 @@ side, if I would be able to go get there, it's fine. Like IC, this is still an
 individual contributor role.
 
 It's a different job. So I saw like, okay, career progression wise, I educate 
-to, to go this letter instead of. Yeah. Yeah. 
+to, to go this letter instead of. 
 
-[00:12:41] **Michaela:** And I think I, what you were saying about it, doesn't, 
+[00:12:41] **Michaela:** Yeah. Yeah. And I think I, what you were saying about it, doesn't, 
 it doesn't matter so much how good you are at what you're doing, but it's also 
 important how you feel right. Mm-hmm I was working in a nursing home when I was 
 still back in school during the, the summer break and.
 
 I believe that I was really, really nice to the people and I did a really good 
-job there. But it was just breaking me. I was, I was sad every day. I, it was 
+job there. But it was just breaking me. I was sad every day. I, it was 
 emotionally so draining. And I probably was one of the nicest nurses there. 
 Right. Yeah. And, and maybe did the best job, but I couldn't, I, I wasn't able 
 to do it.
@@ -261,7 +265,7 @@ manager or individual contributor role, but something else maybe. Right.
 But you have to travel, right. Let's say traveling is part of your job then 
 sometimes it could be that this is. The right thing for you to do. I enjoy 
 traveling a lot. Mm-hmm , you know, couple of years back and right now, you 
-know, I, at one point I was also sick, a little bit of traveling, like being in 
+know, I, at one point I was also sick of  little bit of traveling, like being in 
 these photo rooms alone and then there comes a new time and you think like now 
 traveling could be, you know, something that I enjoy again.
 
@@ -280,7 +284,7 @@ Right. So how, how was that exactly for you?
 Yeah, in the, the beginning, I am so grateful for the team. I, I started in this 
 team. I knew nothing about the geneology anything.
 
-And I just observed, I asked them like I, in the first sec, and the second week 
+And I just observed, I asked them like I, in the first, and the second week 
 I made a three pH long questionnaire for the team like, Hey, how is this 
 actually working? And it was actually nice because this is the initial effect 
 you have, you have no idea. And I'm, I like being naive. I like being asking 
@@ -296,7 +300,7 @@ and.
 I maybe I should rethink, but at this point I was still thinking, but that's 
 what I always wanted. Like last 10 years, I was always okay. I go for management 
 at some point and breaking this mindset was, was tough for me. But I also saw it 
-made me much more happier now and relieved after stepping back and back then 
+made me much more happier now and relieved after stepping back, and back then 
 when I went for the promotion, I still saw.
 
 I have this impact. Like I can help others. I can see them grow. I can help the 
@@ -313,9 +317,9 @@ superior of sort of yeah.
 
 But you went to another team, but still, how did you ex how. How did you 
 experience that? Being a new manager, having to learn all of that and then, you 
-know, interacting with the other 
+know, interacting with the other people
 
-[00:16:56] **Nicolas:** people mm-hmm yeah, I, I made it clear from the 
+[00:16:56] **Nicolas:**  mm-hmm yeah, I, I made it clear from the 
 beginning that I'm not the expert, I'm learning this role as I'm going.
 
 So please give me feedback. And I had some people who gave me honest feedback, 
@@ -329,7 +333,7 @@ sorry if I missed something I trust try to be better every day. This and I never
 felt being superior or anything that that was always for me, like I'm here to 
 serve the team. Mm-hmm like, whatever we try to do, I will help you.
 
-That was my. My perspective, how, how, like I see management, like you provide 
+That was my. My perspective on how, how, like I see management, like you provide 
 context, you help them, like you try to make everything more efficient. Like you 
 help people when they are stuck. And yeah, that's, that's how I saw this role. 
 
@@ -344,19 +348,19 @@ product management who had a clear direction. And like, so it was totally clear
 what we want to do. There was nothing I could, I should defend the team on like 
 that, that barely happened.
 
-So. That was most nice to see, like as part of the culture, I guess then. Yeah. 
-Cool. 
+So. That was most nice to see, like as part of the culture, I guess then. 
 
-[00:18:34] **Michaela:** So what about GitLab itself? Is there some training 
+[00:18:34] **Michaela:** Yeah. 
+Cool. So what about GitLab itself? Is there some training 
 that you go through when you're doing that? Or, you know, you just read on the 
 internet, some blogs about how management works and then you do your job or 
 
 [00:18:46] **Nicolas:** yeah. A mix actually in that case, because with 
 everything, everything at get, everything is documented.
 
-Like most of the things are documented. And when you are starting at Gieb, you 
+Like most of the things are documented. And when you are starting at GitLab, you 
 have this huge onboarding issue where you go through all the tasks, you like 
-create accounts, like you read up on how to work kit, get lab. And it's pretty 
+create accounts, like you read up on how to work with GitLab. And it's pretty 
 much the same as a manager. Like you have this huge onboarding issue where they 
 provide you with resources, like maybe read this blog posts about like how to 
 manage, maybe read this.
@@ -364,7 +368,7 @@ manage, maybe read this.
 And I think after five or six months, we also had initiative to for new managers 
 and actually existing managers as well, like to become a better manager. Like we 
 have this had this group every week, we had one hour meeting of like, learning 
-about like management and different trades for manager, like how you are as a 
+about like management and different traits for manager, like how you are as a 
 manager, how you coach someone.
 
 And we have had the small groups, we had resources. And so. There was a lot of 
@@ -392,8 +396,8 @@ Gain more experience of this was, this was really nice. Yeah.
 [00:20:46] **Michaela:** But so this is more crowd knowledge, right?
 
 So that you have to pick up yourself and, and look around. I wonder if there is 
-something like for engineering very often organizations have some consistency, 
-right? They say, oh, we use. GI lab. And we use a CCI CD pipeline and we use, 
+something like for engineering, very often organizations have some consistency, 
+right? They say, oh, we use. GitLab. And we use a CI/CD pipeline and we use, 
 you know, this Paul checker and this linter, and, and then somehow this becomes 
 similar across the organization, not in every organization, obviously, but But, 
 you know, even, you know, you go there and these are the steps and these are the 
@@ -409,21 +413,19 @@ mentors, like how the one-on-ones should be structured.
 
 What are the good questions you should ask? How you, then we have. Tools to like 
 maybe have, have all the metrics for a team, then we have OK. Tooling of course, 
-and like how to write O OKRs and how to form them. And so yes, everything there 
+and like how to write OKRs and how to form them. And so yes, everything there 
 is like very well defined and documented. Like there's.
 
 But it helps you a lot as a new manager, I was not knowing like, what should I 
 do? And there's like a clear guidance. Like, this is how we want you to work. Or 
 like, it's more like a, this is how we think we should work. Of course you can 
 change things. I barely use the format that we have, cuz I like the different 
-format in the 1 0 1 document.
+format in the 101 document.
 
 I, yeah, so you can of course speak things, but there's definitely a guideline 
-for, for how to, how 
+for, for how to, how to perform things
 
-to 
-
-[00:22:26] **Michaela:** perform things. Okay. Cool. So another question that I 
+[00:22:26] **Michaela:**  Okay. Cool. So another question that I 
 had for you, you were talking about eight direct reports and this is a lot, I 
 mean, I hear of engineering managers in the first year and they have one direct 
 report or like two direct reports. So it feels like understandably you're very 
@@ -451,9 +453,9 @@ maybe think you have mm-hmm
 
 So I was actually happy with full blown, a full team already with eight 
 engineers. I couldn't even think of coding. So this helped me like to be in the 
-role completely at 100% immediately. And did 
+role completely at 100% immediately.  
 
-[00:24:04] **Michaela:** you miss it? The coding. 
+[00:24:04] **Michaela:** And did you miss it? The coding. 
 
 [00:24:06] **Nicolas:** Yes that that's. And I I've written this in my blog 
 post, so one of our common friends, right.
@@ -487,16 +489,16 @@ like I I'm in this manager position and I had the feeling like my word counts
 now much, much more.
 
 And if I said like, say we should do it that way, maybe it's just an opinion, 
-but stated does a fact that we should do it. And yeah, as an engineer, it's 
+but stated as fact that we should do it. And yeah, as an engineer, it's 
 easier. You just Talk, and you spin off ideas with others. And as a manager, you 
 should be careful about doing this and this. And, and essentially you're not the 
 one doing the work.
 
 If I say, ah, just rec refactor the service, there could be so many edge cases. 
 I, I will not think about because I'm not the one in the code and who knows 
-everything about. Yeah. 
+everything about.  
 
-[00:26:01] **Michaela:** And so how did you feel about people having problems 
+[00:26:01] **Michaela:** Yeah. And so how did you feel about people having problems 
 and coming to you? Did they even come to you with their problems and telling you 
 like this and that.
 
@@ -507,9 +509,9 @@ personally with how they work mm-hmm or if it's a technical problem. I love
 being, there's this phrase of being a rubber duck.
 
 I love this. I just ask questions because I'm so naive often to things. And so I 
-ask right. Questions, questions, apparently. So this was the favorite part of my 
+ask right questions, questions, apparently. So this was the favorite part of my 
 job, talking with the engineers through technical issues, seeing them grow and 
-that this was absolutely the favorite part of Metro. 
+that this was absolutely the favorite part of my job. 
 
 [00:26:47] **Michaela:** Yeah. Yeah.
 
@@ -524,11 +526,11 @@ One of the first things was you are not their therapist. And people come with
 problems to you to tell you about problems. And I ideally I do this as well. 
 Like I tell my manager, Hey, I'm not effective to speak in this case because 
 it's so hot in Austria right now. But maybe about something personal I'm I'm 
-struggling with and as a manager I do not recommend going into, into deaf her.
+struggling with and as a manager I do not recommend going into, into deaf hear.
 
 Like, you should hear them, you should tell them like, Hey, I understand you. 
 And it's totally okay, but I'm not the right person to, to talk through this. 
-Right. We fortunately have services at, at kLab that can help, like we have 
+Right. We fortunately have services at, at GitLab that can help, like we have 
 modern health, for example where you have coaching sessions and therapist 
 sessions.
 
@@ -537,14 +539,14 @@ off. As we have unlimited PTO it's it was an easy solution to step back, step
 back, maybe. and yeah, this was definitely the, the, the emotional part that was 
 hard on me. And as you mentioned, rejecting someone, a candidate, I was in the 
 same position as they are when I interviewed at GitLab or other companies and I 
-got rejected of course, and it feels so hard on, on one site and the other 
+got rejected of course, and it feels so hard on, on one side and the other 
 side's just.
 
 No, I'm sorry. We will not go forward. Move forward with you. But on the other 
 side, there's a, maybe a world that breaks up at some to some degree and yeah. 
-This, this is tough for 
+This, this is tough for me.
 
-[00:28:26] **Michaela:** me. Yeah. I can also imagine like if you're. Telling no 
+[00:28:26] **Michaela:**  Yeah. I can also imagine like if you're. Telling no 
 to somebody from external. It's challenging, but I can also imagine that in your 
 team, let's say somebody has a problem and they have a problem for longer time 
 and you see that it's really impacting their work and mm-hmm, , it's impacting 
@@ -557,7 +559,7 @@ job in the end. I have such a hard time when there's someone struggling and. You
 need to act, but when it's the right time, like right, you, you it's, and I 
 never wanted to do this have to, to do this decision.
 
-And yeah, that's, that's why I am fortunate feedback again and not need to do 
+And yeah, that's, that's why I am fortunate to back again and not need to do 
 this. 
 
 [00:29:10] **Michaela:** It must be so hard, right? Like, because. as, as you 
@@ -587,7 +589,7 @@ this headache? Right. And should you, should you tell it, or, you know, I, I
 think like after three weeks I would be very resistant to still say I'm still 
 having headaches.
 
-Like there comes this point where you think, should I, should I still see it? 
+Like there comes this point where you think, should I, should I still say it? 
 
 [00:30:26] **Nicolas:** I maybe I'm to influence like how I mean gets, get has 
 this transparency value mm-hmm that is very deep in our culture and in our 
@@ -602,7 +604,7 @@ at data and see, oh, someone is not delivering or someone is not performing, you
 know?
 
 Oh, there has a reason to this. It's. You need to figure out is it will or skill 
-and mm-hmm if it's actually will end skill still there, but it's just impossible 
+and mm-hmm if it's actually will and skill still there, but it's just impossible 
 right now. You, you can understand it. And yeah, it's so much more important to, 
 to just tell them like, Hey, that's going up. I know about it. Because otherwise 
 how, as a manager, let's see, you see a decrease in decrease in performance.
@@ -615,16 +617,16 @@ much better to know upfront.
 
 Yeah. And I was super lucky. So I had the feeling, I had the safe space with all 
 my direct reports and they were able to tell me everything. And this was 
-invaluable. Yeah. 
+invaluable.  
 
-[00:31:56] **Michaela:** So. One thing I, that comes to my mind when, when we 
+[00:31:56] **Michaela:** Yeah. So. One thing I, that comes to my mind when, when we 
 are talking about this is also evaluating other people. Right. I feel that 
 mm-hmm , this is not always easy, especially if we are talking about large 
 numbers.
 
 Right. So when I was working with PhDs, for example, at Microsoft, and we had 
 this very close one on one relationship, right. I didn't have like more than two 
-PhDs. To mm-hmm , you know, to supervise and to work with, then it was extremely 
+PhDs to mm-hmm , you know, to supervise and to work with, then it was extremely 
 easy to say, well, you know, this is the performance of the person and it wasn't 
 even like an abstract.
 
@@ -666,33 +668,32 @@ call the whole afternoon with someone else and helping them mm-hmm so that's
 sometimes quite good.
 
 And to do also tell your manager, like, Hey, you had this call, like, and you 
-help someone. Cause it. Hard to notice otherwise. And so this helped, but 
+help someone. Cause its Hard to notice otherwise. And so this helped, but 
 otherwise I, I say, I agree. It's it's, it comes to a degree of eight people 
-that you don't see everything it's harder to evaluate everyone. Yeah. Yeah. 
+that you don't see everything it's harder to evaluate everyone. Yeah.  
 
-[00:34:50] **Michaela:** And I think, and also some people are better at 
+[00:34:50] **Michaela:** YEah. And I think, and also some people are better at 
 promoting themselves.
 
 Right. Let's saying, oh, you know, I have this person and I did actually this 
 and I shipped over there and look at this wonderful call I made mm-hmm and 
 another person maybe did even more. But they don't. So for example, for me in an 
-organization, it's always really. Like I forget about, you know, writing an 
+organization, it's always really hard. Like I forget about, you know, writing an 
 email saying, oh, you know, this wonderful thing that I did over here.
 
 Mm-hmm I'm, I'm just doing it. And so I feel that as a manager, this must be 
 also really hard to feel like you're fairly evaluating everybody on the team and 
+so on.
 
-so 
-
-[00:35:23] **Nicolas:** on. I mean, that's where at least the peer reviews come 
+[00:35:23] **Nicolas:**  I mean, that's where at least the peer reviews come 
 in, so we have peer reviews and. You get the 360 feedback from others. And when 
 you then read these feedbacks, you at least notice like, oh, someone telling the 
 other engineer, Hey, thanks for helping me so often.
 
 And then you see this, so 360 feedbacks are very valuable for this case. Yeah. 
-Yeah. You 
 
-[00:35:42] **Michaela:** like them as a manager, you like them, did you like? 
+
+[00:35:42] **Michaela:** Yeah. You like them as a manager, you like them, did you like? 
 Yeah, I like them. As an engineer, as an individual contributor, you like them 
 
 [00:35:49] **Nicolas:** an individual contributor. I had a harder time to 
@@ -700,15 +701,15 @@ evaluate my peers. Mm-hmm that?
 
 That's the issue. So you want to be nice to someone, but you also want to help 
 them to grow. So there's a trade off and I think they're anonymous. They're 
-definitely anonymous kid lab. So , I think you only know who evaluated you 
-evaluated you as a manager, but not who is appeared that who evaluat evaluated 
+definitely anonymous at GitLab. So , I think you only know who evaluated you 
+evaluated you as a manager, but not who is appeared that who evaluate evaluated 
 you mm-hmm yeah, at least at least there's that.
 
 [00:36:16] **Michaela:** So I think. What we can sum up here is that it's 
 actually a great experience being a engineering manager for some time, because 
 probably now look at things in a much more different way. You understand, you 
 know, the, the problems that engineering managers have. You can also understand 
-how you can help them, maybe see your potential or you know, what you're doing 
+how you can help them, maybe see your potential or you know, what you're doing,
 your impact and also maybe.
 
 Have a better understanding of KPIs that I, I don't think that a lot of 
@@ -736,9 +737,9 @@ pendulum, like the swing. There's a good blog post about this pendulum of going
 from IC to manager and back, and maybe even dementia again. Because you see this 
 different context and learn so much.
 
-Yeah. Is that 
+Yeah.  
 
-[00:38:03] **Michaela:** from charity you major? I think right from honey pot. 
+[00:38:03] **Michaela:** Is that from charity you major? I think right from honey pot. 
 
 [00:38:06] **Nicolas:** I'm need to check up we this yeah. 
 
@@ -750,7 +751,7 @@ about your blog post that you wrote about this experience as well.
 
 And everything else that's important in the show notes. 
 
-[00:38:26] **Nicolas:** Yeah, thank thank you a lot, Mikayla. It was exciting to 
+[00:38:26] **Nicolas:** Yeah, thank thank you a lot, Michaela. It was exciting to 
 be here. Thanks for having me. Yeah, it was my pleasure. Appreciate it. Okay. 
 
 [00:38:32] **Michaela:** Thank you. Have a good day. Bye-bye 

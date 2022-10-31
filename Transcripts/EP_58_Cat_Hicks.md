@@ -1,3 +1,9 @@
+---
+episode: "Transcript Do not punish learning in software engineering teams"
+permalink: /foster-learning-culture
+status: publish
+type: transcript
+---
 
 **Dr. McKayla** 00:03
 Hello, and welcome to the Software Engineering Unlocked Podcast. I&#39;m your 
