@@ -96,7 +96,7 @@ with this idea, maybe I should write some of those resources, because I feel the
 are not there. But it's really scary to write that if there is nothing that you can 
 fall back and say there is no true or wrong. Especially, I mean here we are going a 
 little bit away from "Does it work or doesn't it work?" because how you structure 
-applications is a little bit up to you (laugh). There's no, "This is how we have to 
+applications is a little bit up to you (_laugh_). There's no, "This is how we have to 
 do it". But how is that for you? If you're developing something or writing something 
 that hasn't been done or hasn't been done in that way. I feel there's a little bit 
 of risk. And for me, it holds me a little bit back to, you know feel confident 
@@ -136,7 +136,7 @@ here, I really don't know what I'm doing". And this somehow lowers the barrier a
 little bit for me, or at least I feel like more confident to share the things
 because I set the stage for "Well, I'm not an expert here right, I'm just sharing
 my story if you want to listen. And if you think I have, you know something 
-interesting to say, I'm happy, but obviously, you know, feel free (laugh) to do 
+interesting to say, I'm happy, but obviously, you know, feel free (_laugh_) to do 
 something else". So you were talking about being a teacher and I think this goes
 maybe a little bit back to this part of your career where you actually were a 
 trainer right? So you trained engineers at large organizations and probably also 
@@ -253,10 +253,10 @@ in taxes.
 And, if I'd actually maybe expensed my stuff better too. I understand now 
 that I could have written a lot of things off that I didn't write off. So 
 all types of stuff. I think you could probably look at every mistake in the book 
-that someone could possibly make and I probably made (laugh) those, made those
+that someone could possibly make and I probably made (_laugh_) those, made those
 mistakes.
 
-**Michaela:** [00:16:39] (laugh) Yeah. And, you know, I started my own consultancy 
+**Michaela:** [00:16:39] (_laugh_) Yeah. And, you know, I started my own consultancy 
 and training businesses. It's also why I'm so interested in this, right? A year 
 ago I went full-time, I did a little bit before also, as you did, but I was 
 still employed at Microsoft. But a year ago, I quit my job and, you know started
@@ -268,7 +268,7 @@ I'm struggling with sales because I don't want to do sales.  I don't know how to
 do sales. So there's really a lot of procrastination going on. So everybody that 
 finds me just finds me through organic stuff, right. So recommendations maybe, 
 word of mouth, my blog and things like this, but I've never really reached out
-to anybody (laugh) and, you know, tried to sell them my services. And then the 
+to anybody (_laugh_) and, you know, tried to sell them my services. And then the 
 accounting part as well right, I have no idea about this. So I see a lot of similarities 
 and I think a lot of engineers that are thinking about, you know making this start 
 maybe have the same struggle. And yeah, it's really interesting. I think in one 
@@ -454,7 +454,7 @@ architecture of this MVP? How would we go about, you know, understanding what
 should be, you know, a service, what should we, you know, keep in-house? Can we 
 just, you know, outsource everything?
 I mean, some of the things that come to my mind definitely is authentication, 
-right (laugh), which is complex (laugh). And we could somehow, you know, get that
+right (_laugh_), which is complex (_laugh_). And we could somehow, you know, get that
 out of the door. But what are other things, the examples that we would get in and
 how would we even tackle this problem of developming MVP, if you want to use
 serverless technologies?
@@ -655,12 +655,12 @@ everyone else.
 granularity, right?
 So with the serverless, you have like really smaller building blocks that you 
 plug in together. And as you say, it's, it's actually not no code because you 
-definitely have to code and it's not even low code, right. (laugh) 
-It's probably, it's really code, I don't know. (laugh)
+definitely have to code and it's not even low code, right. (_laugh_) 
+It's probably, it's really code, I don't know. (_laugh_)
 
-**Nader:** [00:41:28] It's lower code maybe, yeah. (laugh)
+**Nader:** [00:41:28] It's lower code maybe, yeah. (_laugh_)
 
-**Michaela:** [00:41:30] Yeah. (laugh) I don't know where to distinction here
+**Michaela:** [00:41:30] Yeah. (_laugh_) I don't know where to distinction here
 comes and what it's actually called, right.
 A lot of things, even Excel is somehow coding, right? But Yeah. And, and 
 yeah, this is how I see it, right. It's like, it's this. And Wix and all of that 
@@ -668,7 +668,7 @@ are really like these large things, but they're like smaller services. Now we
 have like Sopier for example, or, you know, like where you can have this 
 automation off of processes. 
 And I think people are really doing interesting. I, I'm not really too much 
-into this no-code movement because I think if you can code (laugh), this is
+into this no-code movement because I think if you can code (_laugh_), this is
 maybe the default that you do, but I try to, I try to get a little bit into it
 because I feel that I don't want to replicate everything, right. And spend my time
 doing things that I could actually take out of the box. So this is why I'm 
@@ -683,11 +683,11 @@ YouTube videos is I feel also the complexity right now with serverless and those
 technologies in general, with our ever evolving technology base comes a 
 little bit from programming to configuration, right? So even those
 
-**Nader:** [00:42::57] Oh yeah, that's a really good topic. (laugh)
+**Nader:** [00:42::57] Oh yeah, that's a really good topic. (_laugh_)
 
 **Michaela:** [00:42:59] So like you have to open up your account online, right.
 And you're just installing something. And I'm sure I hit enter and there will come
-an error. (laugh) And I'm like, Oh my God, what I'm gonna do? Something is wrong.
+an error. (_laugh_) And I'm like, Oh my God, what I'm gonna do? Something is wrong.
 So I actually struggled quite a bit with setting up my environments and all of that.
 I feel it much easier to open up, you know, like just a very plain editor and start
 writing code. So I feel that a lot of this complexity that we first had in, in
@@ -744,7 +744,7 @@ And it's, it's like a black box, right? So obviously you can figure out, but it
 takes a lot of time. And, and now I have the same feeling here. Every time I'm 
 using a new tool or a new API or something that comes out of the box and that's 
 actually a black box, I always feel like, Oh, is that, is that gonna work now?
-And if it does, I'm like, wow, (laugh) this was amazing. But very often it doesn't,
+And if it does, I'm like, wow, (_laugh_) this was amazing. But very often it doesn't,
 right. And, and as you said, and it's really hard, I think to troubleshoot,
 especially if you're new to it, because it's a black box and so how, how should
 I know what's going on here right now? So, yeah, there's definitely a trade-off
