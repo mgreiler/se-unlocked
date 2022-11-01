@@ -10,7 +10,7 @@
 
 5. Identify the speakers.
 
-6. For unintelligible audio, when you have an idea what it says, but aren't completelt sure please mark your words with (??).
+6. For unintelligible audio, when you have an idea what it says, but aren't completely sure please mark your words with (??).
 
 7. If the audio is completely unintelligible, these passages should be denoted with [unintelligible].
 

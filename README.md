@@ -7,12 +7,12 @@ To make the transcripts better, they have to be edited and improved by hand.
 If you want to help make the podcast more accessible, please feel free to pick up any transcript and work through it.
 
 ## How to contribute
-Transcripts can be improved either while you listen to the epsiodes, or even just be reading through the 
+Transcripts can be improved either while you listen to the episodes, or even just be reading through the 
 text and correcting issues that way.
 Please remove spelling, grammar and other mistakes that you see. You can find a short 
 guideline on [how to edit the transcripts here](https://github.com/mgreiler/se-unlocked/blob/master/Transcription_Guidelines.md).
 
-**Before starting** to work on an epsiode, please **leave a comment on the issue** indicating that you are 
+**Before starting** to work on an episode, please **leave a comment on the issue** indicating that you are 
 going to work on the transcript, to avoid conflicts and duplication of work. 
 
 The transcripts are formatted with **line breaks after ~80 chars** max to allow for a better pull request experience. 
