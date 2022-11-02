@@ -10,7 +10,8 @@ type: transcript
 Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
 Ashley Hunsberger. Ashley is the Director of Developer experience at Tackle.io. 
 
-But before I start, let me tell you about my latest project: [https://www.awesomecodereviews.com/](awesomecodereviews.com). Yeah. 
+But before I start, let me tell you about my latest project: 
+[awesomecodereviews.com](https://www.awesomecodereviews.com/). Yeah. 
 All my work on Culture Views has now its own dedicated  home at 
 [awesomecodereviews.com](https://www.awesomecodereviews.com/).
 
