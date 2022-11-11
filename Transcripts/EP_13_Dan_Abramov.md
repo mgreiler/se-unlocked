@@ -1,4 +1,9 @@
-# Transcript EP-13 of the Software Engineering Unlocked Podcast Dan Abramov
+---
+episode: "Transcript Episode 13 Dan Abramov"
+permalink: /episode-13-bad-tests-dan-abramov
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:02] Hello and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 

@@ -1,3 +1,10 @@
+---
+episode: "Transcript Episode 9 Charlie Gerard"
+permalink: /episode-9-charlie-gerard
+status: publish
+type: transcript
+---
+
 **Michaela:** [00:00:00] Hello, and welcome to the _Software Engineering Unlocked_ podcast. 
 I'm your host, Dr. Michaela. And today I have the pleasure to talk to Charlie Gerard.
 Charlie is a software engineer and creative technologist. She currently 

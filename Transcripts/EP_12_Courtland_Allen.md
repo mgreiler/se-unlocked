@@ -1,4 +1,9 @@
-# Transcript EP-12 of the Software Engineering Unlocked Podcast Courtland Allen
+---
+episode: "Transcript Episode 12 Courtland Allen"
+permalink: /episode-12-profitable-business-courtland-allen
+status: publish
+type: transcript
+---
 
 **Michaela:[00:00:02]** Hello and welcome to the software engineering unlocked podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to Courtland Allen. Courtland is the founder and driving force behind the indie hacker community. Indie Hackers is a community of bootstrap entrepreneurs and makers.
 

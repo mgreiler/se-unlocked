@@ -1,4 +1,9 @@
-# Transcipt Episode 10: Suz Hinton
+---
+episode: "Transcipt Episode 10: Suz Hinton"
+permalink: /episode-10-no-corporate-games
+status: publish
+type: transcript
+---
 
 **Michaela:**: [00:00:00] Hello, and welcome to the software engineering 
 unlocked podcast. I'm your host, Dr. Michaela. And today I have the pleasure to 

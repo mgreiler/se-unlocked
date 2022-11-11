@@ -1,6 +1,8 @@
 ---
 title: Episode 54 Michaela on "Are Happy Devs more Productive?"
 permalink: /happy-developers-productive
+status: publish
+type: transcript
 ---
 
 [00:00:00] Hello and welcome to the software engineering unlocked podcast. I'm your
