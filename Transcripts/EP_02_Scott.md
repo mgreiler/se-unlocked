@@ -1,4 +1,9 @@
-# Transcript Episode 2 Scott Hanselman
+---
+episode: "Transcript Episode 2 Scott Hanselman"
+permalink: /episode-2-scott-hanselman
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and I opened the doors to software companies 
