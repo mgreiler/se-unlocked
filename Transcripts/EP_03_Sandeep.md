@@ -1,4 +1,9 @@
-# Transcript Episode Sandeep Panda
+---
+episode: "Transcript Episode 3 Sandeep"
+permalink: /episode-3-sandeep-panda
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and I'm opening the doors to the top companies 
