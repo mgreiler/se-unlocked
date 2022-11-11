@@ -1,4 +1,9 @@
-# Transcript Episode 5 Alper Koc
+---
+episode: "Transcript Episode 5 Alper Koc"
+permalink: /episode-1-cassidy-williams
+status: publish
+type: transcript
+---
 
 (Intro music)
 
