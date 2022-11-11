@@ -1,5 +1,9 @@
-# Transcript Episode 7 with Charity Majors
-
+---
+episode: "Transcript Episode 7 with Charity Majors"
+permalink: /episode-7-charity-majors
+status: publish
+type: transcript
+---
 
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked
 podcast. I'm your host, Doctor McKayla and today I have the pleasure to talk to
