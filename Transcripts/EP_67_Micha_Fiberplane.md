@@ -1,4 +1,9 @@
-# Fiberplane
+---
+episode: "Transcript Episode Collaborative debugging with Fiberplane"
+permalink: /fiberplane-collaborative-debugging
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello and welcome to the Software Engineering Unlocked 
 Podcast. I'm host, Dr. McKayla, and today I have the pleasure to talk to Micha 
