@@ -1,4 +1,9 @@
-# Lauren Peate
+---
+episode: "Transcript Episode 68 Lauren Peate"
+permalink: /engineering-metrics
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello, and welcome to the Software Engineering Unlocked 
 Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
