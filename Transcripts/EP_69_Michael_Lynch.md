@@ -6,24 +6,24 @@ type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello, and welcome to the Software Engineering Unlocked 
-Podcast. I'm your host, Dr. McKay, and today I have the pleasure to talk to 
+Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
 Michael Lynch, a senior software engineer and entrepreneur. But before I start, 
-let me tell you a little bit about my latest projects. Awesome. Code 
-reviews.com. Yeah. All my work on code Reviews has now its own dedicated 
-home@awesomecodereviews.com.
-
-You will find articles about code reviews, best practices, code reviews, 
+let me tell you a little bit about my latest project: [awesomecodereviews.com](https://www.awesomecodereviews.com/). 
+Yeah. All my work on code Reviews has now its own dedicated 
+home at  [awesomecodereviews.com](https://www.awesomecodereviews.com/) you will 
+find articles about code reviews, best practices, code reviews, 
 checklists, news about the latest research on code reviews, and of course 
-workshops and courses I offer around this topic. So please hop over to awesome 
-s.com and check out my latest work. But now back to Michael. . Well, Michael is 
+workshops and courses I offer around this topic. So please hop over to 
+[awesomecodereviews.com](https://www.awesomecodereviews.com/) and check out my latest work. 
+
+But now back to Michael. Michael is 
 a software engineer and entrepreneur.
 
 He has launched several businesses after leaving Google in 2018. Interestingly, 
 it's not a software business that was his huge success, but rather a hardware, 
 or let's say a combination of hardware and software business that brought his 
 real success. It's called Tiny Pilot. Today I want to talk with him about his 
-experience writing software for Google, Microsoft, and now for himself, a tiny 
-pilot.
+experience writing software for Google, Microsoft, and now for himself, at tinypilot.
 
 And, well, you probably know Michael as well because he manages to write, write 
 articles, blog posts that frequently rank number one on Hacker News. This means 
