@@ -1,4 +1,9 @@
-# 5picks3
+---
+episode: "Transcript Episode 70 Top 5 of 2022"
+permalink: /top5-2022
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello and welcome to the Software Engineering Unlocked 
 Podcast. I'm your host, Dr. Michaela, and today I have a New Year's special for you. 
