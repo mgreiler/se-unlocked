@@ -10,7 +10,7 @@ Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to
 Heather Reid, a test engineer about her latest job search. 
 
 But before I start, let me tell you about an amazing opportunity that allows YOU, yes, YOU to earn additional income! 
-Do I have your attention? Yes? Great. So, [User Interviews](https://www.userinterviews.com/) is a company that connects 
+Do I have your attention? Yes? Great. So, [User Interviews](https://www.userinterviews.com/hello) is a company that connects 
 researchers with study participants. And they especially are looking for developers 
 that share their feedback on products. 
 
@@ -19,8 +19,8 @@ Most studies take less than one hour to participate and pay over $60.
 
 So, sign-up today - It’s free - apply to give feedback for products that interest you, and make a 
 nice side income. Additionally, you help to shape the future of the tools we als use. 
-What’s not to like, right? So, hop over to [userinterviews.com/](https://www.userinterviews.com/)
-That is [userinterviews.com/](https://www.userinterviews.com/).
+What’s not to like, right? So, hop over to [userinterviews.com/](https://www.userinterviews.com/hello)
+That is [userinterviews.com/](https://www.userinterviews.com/hello).
 
 But now back to Heather. Heather is a test engineer at Glofox.
 
