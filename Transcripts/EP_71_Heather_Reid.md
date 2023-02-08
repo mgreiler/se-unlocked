@@ -19,8 +19,8 @@ Most studies take less than one hour to participate and pay over $60.
 
 So, sign-up today - It’s free - apply to give feedback for products that interest you, and make a 
 nice side income. Additionally, you help to shape the future of the tools we als use. 
-What’s not to like, right? So, hop over to [userinterviews.com/](https://www.userinterviews.com/hello)
-That is [userinterviews.com/](https://www.userinterviews.com/hello).
+What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
+That is [userinterviews.com](https://www.userinterviews.com/hello).
 
 But now back to Heather. Heather is a test engineer at Glofox.
 
