@@ -1,4 +1,9 @@
-# Barak Brudo
+---
+episode: "Transcript Episode 72 Barak Brudo"
+permalink: /software-bill-of-material
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello and welcome to this Software Engineering Unlocked 
 Podcast. I'm your host, Dr. McKay, and today I have the pleasure to talk to 
