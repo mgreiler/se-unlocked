@@ -1,16 +1,30 @@
-# Nadia Zhuk
+---
+episode: "Transcript Episode 74 Nadia Zhuk"
+permalink: /self-taught-developer
+status: publish
+type: transcript
+---
 
 [00:00:00] **Michaela:** Hello, and welcome to the Software Engineering Unlocked 
-Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
-Nadia zk. But before I start, let me tell you a little bit about my latest 
-project, a awesome code reviews.com. Yes. All my work on code reviews has now 
-its own dedicated home at a awesome code reviews.com.
+Podcast. I'm your host, Dr. Mikayla, and today I have the pleasure to talk to 
+Nadia Zhuk. 
 
-You find articles about code. Practices code review checklists, news about the 
-latest research about code reviews, and of course workshops and courses I offer 
-around this topic. So please hop over to awesome code reviews.com and check out 
-my latest work. But now back to Natia. Natia is a software engineer at Intercom 
-and was previously working at Sand.
+But before I start, let me tell you about an amazing opportunity that allows you, yes, you, 
+to earn additional income! 
+
+Do I have your attention? Yes? Great. So, User Interviews is a company that connects researchers 
+with study participants. And they especially are looking for developers that share 
+their feedback on products. 
+
+Share your opinion with top brands such as Spotify, Adobe, Amazon and many more, and get paid. 
+Most studies take less than one hour to participate and pay over $60. 
+
+So, sign-up today - It’s free - apply to give feedback for products that interest you, 
+and make a nice side income. Additionally, you help to shape the future of the tools we als use. 
+What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
+
+But now back to Nadia. Nadia is a software engineer at Intercom 
+and was previously working at Zendesk.
 
 But not long ago, Nadia was an English teacher, a translator and journalist, 
 until she decided to learn to program and enter the tech industry. Today she 
