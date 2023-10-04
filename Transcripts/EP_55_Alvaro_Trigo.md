@@ -568,7 +568,7 @@ how to improve things, what features they want you to add, what bugs they
 found. So I think that's what really helped me. To improve my components 
 at first.
 
-Um, what I would say is that don't quit your job, do something on the side, see 
+What I would say is that don't quit your job, do something on the side, see 
 how it goes, get feedback. And then when you get some traction, you can decide 
 to quit. In my case, I only decided to quit. When I saw that I was going to be 
 able to keep on living from this. Took me six months can take more, can take 
