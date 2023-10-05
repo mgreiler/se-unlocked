@@ -526,42 +526,42 @@ teams for... That's inclusive for the problems that we're solving for the
 communities that it impacts the most. 
 [00:32:42]  
  
-**Kim:** I think, I think that's exactly right. It's so important to be willing, 
+**Kim:** I think that's exactly right. It's so important to be willing, 
 to interrupt bias in engineering culture. And there is a lot of it.
-And so one of the things that TRIA and I work with with engineering leaders to 
-do is to, to, to begin to disrupt bias. And, and so there are a couple of points 
-to, to disrupting bias. There are a couple of different. The first is you need 
-to come up with a shared vocabulary. So TRIA and I use a purple flag.
+And so one of the things that Trier and I work with with engineering leaders to 
+do is to begin to disrupt bias. So, there are a couple of points 
+to disrupting bias. There are a couple of different elements to this. The first is you need 
+to come up with a shared vocabulary. So Trier and I use a purple flag.
 So if I wave a purple flag, it means either I've said something biased or 
-someone else in the room has, and we know that fear. And I know that. So, so 
-shared by other teams we've worked with, have you. I come again, or I don't 
-think you meant that the way it sounded or piece it doesn't the words matter. 
-But I can't give you the words your team has to choose the words that you 
+someone else in the room has. And we know that. Trier and I know that. So,
+shared by other teams we've worked with, have used, come again, or I don't 
+think you meant that the way it sounded, or please... it doesn't... the words matter. 
+But I can't give you the words. Your team has to choose the words that you 
 will actually use.
 So come up with the words. The second point is you've got to commit to using the 
-body center up there. You know, that bias is occurring in every single meeting 
+bias interrupter. You know, that bias is occurring in every single meeting 
 you have. So you need to come up with an expectation that bias is going to get 
 flagged at least once in every meeting. And then the third thing to 
 do is to teach people what to do when they are the person who's 
 caused harm when it's their bias, who's being flagged.
-So if, if Trier waves a purple flag at me, I get two choices of what to say back. 
-And she asked the same two choices when I wave one at her. The first is thanks 
-for pointing it out. I'm going to work on not doing that again. That again, or 
+So if Trier waves a purple flag at me, I get two choices of what to say back. 
+And she has the same two choices when I wave one at her. The first is thanks 
+for pointing it out. I'm going to work on not doing that again. Or 
 thanks for pointing it out. I don't quite understand what I did wrong.
 Can we talk about it after the meeting? And then we do have to talk about it, or 
 if we're on video meeting, we can drop a link into the chat that explains it. 
 And the reason that it's so important to interrupt bias is that if we don't 
 interrupt it publicly and in the moment where we reinforce it. And so I've seen 
-this happen, In code reviews, you asked specifically about code reviews all the 
-time, where, where you find that, that people are reviewing.
-Code of someone who's underrepresented very differently from the way 
+this happen, in code reviews. You asked specifically about code reviews all the 
+time, where you find that, that people are reviewing
+code of someone who's underrepresented very differently from the way 
 they're reviewing other people's code. And it's important, this, this brings us 
 to the second point. So we've got to interrupt it when we notice it, but we also 
-need to quantify it to go out, looking for it, quantify your bias and.
-This means that if you, if you are in your code review, you can quantify how 
+need to quantify it to go out, looking for it, quantify your bias and
+this means that if you, if you are in your code review, you can quantify how 
 many times someone has negatively reviewed people's code. And then you can take 
-a look at whose code they're not going to play review it. And if you notice that 
-men tend to negatively review women's code more than. Men's code then you know, 
+a look at whose code they're not going to negatively review it. And if you notice that 
+men tend to negatively review women's code more than men's code. Then you know 
 that you have identified some bias in your code review.
 Another simpler thing that I experienced, I was working with a leadership team 
 at a tech company, big tech company, and their bias quantification did not take 
@@ -571,16 +571,16 @@ about 10 years.
 So they knew it was a problem. They knew the problem was not the women who 
 worked at the company. They had a lot of great women, so they knew there must be 
 something broken in their recruiting process. And so they invited me to their 
-credit to join their promotion committee, meeting to note because everybody on 
+credit to join their promotion committee meeting to note. Because everybody on 
 the committee was man.
 So they thought maybe I would notice something that they themselves had not 
-noticed. And. There were two people up for promotion. One, a man, one, a woman, 
-both of them had great reputations for being excellent managers, building teams 
-that were very highly functioning and very loyal loyalty. Each of these, these 
-two individuals and.
-They referred to the man who was up for promotion as a great leader. And they 
-prefer, they referred to the woman who was up for promotion as a real mother 
-hand. Now, who are you going to promote the real leader or the real mother hen. 
+noticed. And, there were two people up for promotion. One, a man, one, a woman.
+Both of them had great reputations for being excellent managers, building teams 
+that were very highly functioning and very loyal to each of these, 
+two individuals, and
+they referred to the man who was up for promotion as a great leader. And they 
+referred to the woman who was up for promotion as a real mother 
+hen. Now, who are you going to promote? The real leader or the real mother hen?
 And, and so I pointed this out to them and at first they sort of were like, oh, 
 Kim, come on.
 It's no big deal. I said, it is a big deal. This is why you're not promoting 
@@ -588,7 +588,7 @@ women. It's like the subtle ways that language impacts the way you
 think about people, it is real and you've got, that's why it's so 
 important to quantify your bias and then go look and figure out what's wrong and 
 not what's wrong with the underrepresented candidates, but what's wrong with 
-your hiring processes or your promotion processes or.
+your hiring processes or your promotion processes or whatever.
 [00:37:33] 
  
 **Michaela:** So you're saying that we have to be very consciously thinking and 
@@ -597,8 +597,8 @@ work, but it's also work all the time on, you know, improving our collaboration
 our way we work together. More powerful. Yeah. Maybe the last question that I 
 have for you too, as you're giving workshops on inclusion, diversity [00:38:00] 
 and equity.
-So. How do that workshop works? And also who should be on the workshop should be 
-asked advocates, like people that are already pro diversity, equity and 
+So, how do the workshops work? And also who should be on the workshop? Should we 
+ask advocates, like people that are already pro diversity, equity and 
 inclusion, or should we better have the skeptics participate or a mixture, or 
 how are you going about that? Is there a minimum number of people at the company 
 that have to take such a workshop to be, to get that ripple 
@@ -606,36 +606,36 @@ through in the organism?
 [00:38:28]
 
 
-**Trier:**  Yeah, I think that, you know what we have seen and it's, it's, 
+**Trier:**  Yeah, I think that, you know what we have seen and it's, 
 again, it's been so nice to have such a positive response that we can come into 
 an organization and do a, Just Work keynote for an hour or a half day workshop. 
 And that we're literally leaving people with tactical and practical things that 
 they could implement.
-And it's for everyone right now. Yes, there are. In the frame where we talk 
-about, you know, what do you do? Whether any w if you're in either of the four 
-roles, like a person who's been harmed. A person who's a upstander, which is a 
-bystander who actually intervenes, or if you're the person who caused harm or a 
-leader, and we can do a deeper dive as far as like what leaders and 
+And it's for everyone right? Yes, there are, in the frame where we talk 
+about, you know, what do you do? Whether any... If you're in either of the four 
+roles, like a person who's been harmed, a person who's a upstander, which is a 
+bystander who actually intervenes, or if you're the person who has caused harm or a 
+leader. And we can do a deeper dive as far as like what leaders and 
 organizations should be doing.
-But there's something for everyone in the framework now Just Work the company. 
-We also though have a lot of D and I. Seminars that we do talking about 
+But there's something for everyone in the framework. Now, Just Work the company,
+we also though have a lot of D, E, and I Seminars that we do talking about 
 language, talking about, you know, what does, how do you reduce bias in your 
 recruiting? What does it mean to, you know, take all this education and 
 awareness that you get and put it into action in the workplace, right?
 And those are seminars that are for everyone as well, whether it doesn't matter 
 where you are in your journey. Because for those who actually think that, Hey, I 
-am a, I am an advocate. I am a ally. You know, one of the things that we talk 
-about in one of the seminars, How do you go from being an ally to an advocate?
-Because allyship is very passive, right? And ally is saying, I'm not going to 
-cause you harm, which is good. Right? We don't want people to call [00:40:00] 
+am an advocate, I am a ally, you know, one of the things that we talk 
+about in one of the seminars, is that how do you go from being an ally to an advocate?
+Because ally-ship is very passive, right? And ally is saying, I'm not going to 
+cause you harm, which is good. Right? We don't want people to cause [00:40:00] 
 each other harm, but an advocate, it says, not only am I not going to cause you 
-harm, but I'm going to through action. Stick up for those who have been 
-marginalized and through action.
-And, you know, create a platform and uplift those who, who need, who, who have 
+harm, but I'm going to, through action, stick up for those who have been 
+marginalize. And through action,
+you know, create a platform and uplift those who have 
 been marginalized and know that like they may not have access to all the same 
 opportunities as you. And so how do you use your privilege in that way to be an 
 advocate? And so it doesn't matter where you're at in your journey.
-There's something that we all need to continue to educate because. It's not a 
+There's something that we all need to continue to educate. Because, it's not a 
 sprint and it's not a marathon either. I hear that a lot of like, oh, it's not a 
 sprint, it's a marathon. No, it's actually not a marathon because for those of 
 us who have run a marathon, there is a destination, right. When we're very happy 
@@ -643,62 +643,61 @@ about that, but there's no destination for this.
 We have to continue to do this work. And you know, the other thing that I tell 
 folks is one of the reasons I love, I love this work is because as long as 
 there's a majority, there will always be a minority. And what's interesting 
-though, is that as time goes on, Those audiences and those groups have changed 
+though, is that as time goes on, those audiences and those groups have changed 
 and they've evolved.
 And so it's, and that means that we always have to continue to the work to 
 understand who are the minority groups that we need to ensure that we are paying 
-attention to that we are representing them and that they are having equitable 
-experiences, just like every. 
+attention to, that we are representing them, and that they are having equitable 
+experiences, just like everyone else. 
 [00:41:15] 
  
-**Michaela:** Is there something that you would say to my listeners that they 
+**Michaela:** Is there something that you would say to my listeners, that they 
 should take away from this episode?
-What is like the one tip that they can do maybe from both of you? So we have two 
+What is like the one tip that they can do? Maybe from both of you. So we have two 
 tips for them that they can go and start doing just today and in their workplace 
-to make it better and nicer forever.
+to make it better and nicer for everybody.
 [00:41:37]  
  
 **Kim:** Sure. I think if you can distinguish between bias, prejudice, and 
 bullying and respond to bias, which is just not meaning it with an I statement, 
 which invites the other person. And to understand things from your perspective, 
-respond to prejudice with an it statement. Cause prejudice is a conscious 
-belief.The person means what they say. And so you need to show them where
+respond to prejudice with an It statement. Cause prejudice is a conscious 
+belief. The person means what they say. And so you need to show them where
 the boundary is. They can believe whatever they want. They can do or say whatever 
-they want. So, and its statement can appeal to the law. It is illegal and it can 
+they want. So, an It statement can appeal to the law. It is illegal and it can 
 appeal to an HR policy. It's a violation of HR policy, or it can appeal to 
 common sense.
-And it's ridiculous, you know, to, to refuse to hire a woman, for example, and 
+And it's ridiculous, you know, to refuse to hire a woman, for example, and 
 then last but not least with bullying, which is being mean, respond to it with a 
-use statement. You can't talk to me like. 
+You statement. You can't talk to me like that. 
 [00:42:25] 
  
 **Michaela:** Okay. I like that. Very, very concrete. Cool. Do you know one thing 
 that you would want tip that you could give me?
-Yeah, 
 [00:42:32]
 
 
-**Trier:**  So I think it's really interesting. And Kim is the one who really 
-pushed and challenged me on this is that I've always said that Kim empathy is 
+**Trier:** Yeah. So I think it's really interesting. And Kim is the one who really 
+pushed and challenged me on this, is that I've always said that Kim empathy is 
 the catalyst for change in this space. And Kim would say, We need more 
-compassion. And I was like,  I want more empathy. And then I really 
+compassion. And I was like, I want more empathy. And then I really 
 had to understand the difference between empathy and compassion.
 And so I still do believe that empathy is a catalyst for change, but the change 
-actually occurs through compassion. And the difference is, is that empathy is 
+actually occurs through compassion. And the difference is that empathy is 
 yes, you are putting yourself in that person's shoes. You're understanding what 
-that person is going through, but compassion is you wanting to.
-Through action. Take that pain away, take that suffering your way, do something 
+that person is going through, but compassion is you wanting to,
+through action, take that pain away, take that suffering your way, do something 
 about it. And so it's, I think that it's a journey, right? There was something 
 that I saw about how you go from feeling sorry for someone and having pity to 
-having sympathy. To having empathy and compassion. And so what I would encourage 
+having sympathy, to having empathy and compassion. And so what I would encourage 
 your listeners is to say, where are you in that journey?
 And to really strive to get to compassion, which means that, you know, that's 
-showing up through action and then understanding what that app. 
+showing up through action and then understanding what that action is. 
 [00:43:54] 
  
-**Michaela:** Yeah, thank you. I really like it. Thank you so much. You 
-both for taking the time  being on my show, I really enjoyed it. I 
-will put the book there. If you have other links, I will share them down in the, 
+**Michaela:** Yeah, thank you. I really like it. Great. Thank you so much, you 
+both for taking the time, being on my show. I really enjoyed it. I 
+will put the book there. If you have other links, I will share them down 
 in the show notes.
 So thank you so much. I thank you for being on my show. 
 [00:44:10]  
@@ -714,6 +713,6 @@ So thank you so much. I thank you for being on my show.
 **Kim:**  Bye. 
 [00:44:15] 
  
-**Michaela:** I hope you enjoyed another episode after sup engineering unlocked 
-podcast. Don't forget to subscribe. And I'll talk to you again in two weeks. Bye.
+**Michaela:** I hope you enjoyed another episode of the Software Engineering Unlocked 
+podcast. Don't forget to subscribe, and I'll talk to you again in two weeks. Bye.
 
