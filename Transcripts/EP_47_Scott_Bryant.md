@@ -7,31 +7,31 @@ type: transcript
 
 [00:00:00] 
 **Michaela:** Hello, and welcome to the software engineering unlocked podcast. I'm 
-your host-Dr. McKayla, and today after pleasure to talk to Trier Bryant and 
-Kim Scott who just released the newest book, 'Just Work'. But before I start, I 
-want to tell you more about code, submit the best take home assignment platform 
+your host-Dr. McKayla, and today I have the pleasure to talk to Trier Bryant and 
+Kim Scott who just released their newest book, 'Just Work'. But before I start, I 
+want to tell you more about CodeSubmit. The best take home assignment platform 
 to streamline your tech recruiting.
-Yes, exactly. This amazing startup is back sponsoring. Over the last month, they 
+Yes, exactly. This amazing startup is back sponsoring the podcast. Over the last month, they 
 introduced a lot of exciting new features, such as live coding within a full 
-working ID, running directly in your browser code submit makes it really easy to 
-recruit and hire amazing title, and they support 64 different languages and 
-frameworks and integrate seamlessly with.
-Beginning of the year when I was hiring engineers for a startup I worked with.
+working IDE, running directly in your browser. CodeSubmit makes it really easy to 
+recruit and hire amazing tech talent. They support 64 different languages and 
+frameworks and integrate seamlessly with Git.
+In the beginning of the year when I was hiring engineers for a startup I worked with,
 I used the tool during the interview process for all the candidates and was 
-extremely satisfied. Their mission real task. No, brainteasers resonates a lot 
-with me, so I cannot recommend CodeSumit enough, please check them 
+extremely satisfied. Their mission; "real tasks, no brainteasers" resonates a lot 
+with me. So I cannot recommend CodeSubmit enough, please check them 
 out at codesubmit.io.
-That is codesubmit.io, but now back to Trier and Kim who founded the company just 
-work, which helps organization and individuals create more equitable workplaces 
-to your brand.Trier is a strategic executed leader with distinctive tech wall street 
-and military experience spending over 15 years and the CEO of Just Work.
-She previously worked at Astra Twitter, Goldman Sachs, and led engineering teams 
-in the United States air force, where she also drove diversity, equity and 
-inclusion. Kim's cough is the author of both successful books, Just Work and 
-radical candor. Kim was the CEO coach at Dropbox, Qualtrix, Twitter, and other 
+That is codesubmit.io, but now back to Trier and Kim, who founded the company Just 
+Work, which helps organization and individuals create more equitable workplaces. 
+Trier Bryant is a strategic executed leader with distinctive tech, Wall Street, 
+and military experience spending over 15 years as the CEO of Just Work.
+She previously worked at Astra, Twitter, Goldman Sachs, and led engineering teams 
+in the United States Air Force, where she also drove diversity, equity and 
+inclusion initiatives. Kim Scott is the author of both successful books, Just Work and 
+Radical Candor. Kim was the CEO coach at Dropbox, Qualtrix, Twitter, and other 
 tech companies.
-She was a member of the faculty at apple university and before led AdSense 
-YouTube and DoubleClick teams at Google. So what should I say, except that I'm 
+She was a member of the faculty at Apple University and before led AdSense, 
+YouTube, and DoubleClick teams at Google. So what should I say, except that I'm 
 super, super thrilled to have both fantastic and super accomplished women here 
 with me through here. And Kim, welcome to the show. 
 [00:02:00]
@@ -40,7 +40,7 @@ with me through here. And Kim, welcome to the show.
 [00:02:01]  
  
 **Kim:** 
-Thanks so much. It's an honor to be here. 
+Thanks so much. It's an honor to be here with you. 
 [00:02:04] 
  
 **Michaela:** Yeah,  I'm really excited. It's also the first interview for 
