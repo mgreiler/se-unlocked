@@ -158,13 +158,13 @@ professionals that you gain with experience is just how to be adaptable and how
 to understand, you know, how to make the biggest impact you can with the 
 resources you have and collaborating together efficiently. And I 
 think that that's why 'Just Work' the book and the framework that we 
-have is really being so receptive to tech companies because we need to increase. 
-We need to,  efficiently collaborate. Like how do we 
+have is really being so receptive to tech companies. Because we need to increase...
+We need to, efficiently collaborate. Like how do we 
 increase collaboration while also, respecting individuality? And 
-that's what Just Work is because that's the two by two that Kim gives you.
-And if, you know, cam from radical candor, like Kim's going to give you a two by 
+that's what Just Work is. Because that's the two by two that Kim gives you.
+And if, you know, Kim from Radical Candor, like Kim's going to give you a two by 
 two and Kim is going to give you a framework. And it's been really exciting 
-too. Have the framework and the book leveraged in that way that teams 
+to have the framework and the book leveraged in that way that teams 
 are able to increase that collaboration. 
 [00:09:04] 
  
@@ -175,8 +175,8 @@ her background, because this is also super fascinating, right? So you manage a
 pediatric clinic in Kosovo. That's what I read online. And you started a diamond 
 cutting factory in Moscow.
 I mean, how, why, how did that come about? I mean, this is really a big change. 
-We were just on vacation with my kids. And I read this article on a guy that, 
-where he was looking for diamonds, and I told him about this to my kids and he 
+We were just on vacation with my kids, and I read this article on a guy that, 
+where he was looking for diamonds, and I told about this to my kids and he 
 actually found one and proposed with this diamond and that, and he was like, 
 yeah, we are going to do that.
 And I was like, yes, I didn't even know that it's still a thing. So how did you 
@@ -184,66 +184,65 @@ do that? Like how did you diamond cutting or diamond timing companies? How does
 that go? 
 [00:09:59]  
  
-**Kim:** [00:10:00] Well, so I, unlike Trier,  had a very impractical major in 
+**Kim:** [00:10:00] Well, so, unlike Trier, I had a very impractical major in 
 college. I studied Slavic literature, so it wasn't totally clear when I 
-graduated, how I was gonna make it.
+graduated, how I was gonna make a living.
 And I wound up going to Russia and moving to Moscow and I took a job 
-earning $6 a month, working for Moscow physical technical Institute and what I 
-was doing there. I was the reason why I studied Russian was that I was very 
-interested in. And ending the cold war and then the Berlin wall fell and it 
-solved that problem solved itself.
+earning $6 a month, working for Moscow Physical Technical Institute. And what I 
+was doing there... I was... The reason why I studied Russian was that I was very 
+interested in ending the cold war and then the Berlin wall fell and it 
+solved... That problem solved itself.
 So I wound up in Moscow doing a study on military conversion, sort of swords 
-into plowshares.And that was very interesting. But then that company 
-wound up pulling out of Russia and I wanted to stay in Russia. And so. As all 
-things, this is what Trier and I ain't going to talk a lot. It all comes back to 
+into plowshares. And that was very interesting, but then that company 
+wound up pulling out of Russia and I wanted to stay in Russia. And so, as all 
+things, this is what Trier and I are going to talk a lot. It all comes back to 
 relationships.
 So through a friend of a friend, I wound up a job in Moscow with this
 diamond cutting factory. And that was actually where my interest in management 
-started was, was I had a higher these diamond cutters, these workers, and I 
-thought that they wanted that they were going to just want to be paid. I didn't 
-have any notion of management at the time.
-22 years old. And I thought it would be easy. Cause I had dollars may have 
-rubles dollars worth something and rubles were worth nothing. And so I went to 
-them and I just said, I'm going to give you this salary. And I just assumed they 
+started. I had to hire these diamond cutters, these workers, and I 
+thought that they wanted... They were going to just want to be paid. I didn't 
+have any notion of management at the time. I was 22 years old, and I thought it 
+would be easy, cause I had dollars and they had rubles, and dollar's worth
+something and rubles is were worth nothing. So I went to them and I just said,
+I'm going to give you this salary, and I just assumed they 
 would take the job, but no, they didn't just want money. They wanted a picnic.
-And so we went out on a picnic together. And it turned out after a bottle of 
-vodka. I finally figured out what they really wanted from a leader was someone 
-who would give a damn who would get them out of Russia if things went sideways 
+And so we went out on a picnic together. And it turned out... After a bottle of 
+vodka, I finally figured out what they really wanted from a leader was someone 
+who would give a damn. (Someone) Who would get them out of Russia if things went sideways 
 in that country, as they were apt to do at that time. And, and so that was all 
 of a sudden management became much more interesting than being just 
 about paying people.
-It became about for me, relationships. And as Trier are said, learning how to 
+It became about forming relationships. And as Trier said, learning how to 
 create environments in which we can collaborate and respect one another. That 
-didn't lead me to attack immediately. That was a longer, I wound up in. I wound 
-up in tech after I graduated from business school and I worked for 
-them.
-I worked for the federal government, the only person in my class to do so 
-working at the FCC. And when I was there, the T this was, gosh, it was long time 
-ago. Now it was in 1996, but the telecommunications revolution was, was in full 
-swing. And that was, that was actually where my interest in tech. Working for 
-the US government.
+didn't lead me to tech immediately. That was a longer... I wound up in tech
+after I graduated from business school and I worked for the federal government.
+The only person in my class to do so. Working at the FCC. 
+And when I was there... This was, gosh, it was long time ago now...
+It was in 1996, but the telecommunications revolution was in full 
+swing. And that was actually where my interest in tech began. Working for 
+the US government. So, go figure.
 [00:12:48] 
  
-**Michaela:** So go figure. Yeah. And so there, you started doing something 
-technical or managing technical people. How, how did you tip 
+**Michaela:** Yeah. And so there, you started doing something 
+technical or managing technical people? How, how did you... (inaudible) 
 [00:12:56] 
-**Kim:** I, so it's very strange. So we were trying at the FCC to. And 
-the settlement right system. So it turns out the United States is a net exporter 
-of telephone calls. And because we had broken up the US had broke it up.
-It's telecommunications, monopoly. We, these different Z US telcos 
-were negotiating with, with PTT that were monopolies and we were losing those 
+**Kim:** So it's very strange. So we were trying at the FCC to end 
+the settlement right system. So, it turns out the United States is a net exporter 
+of telephone calls. And because we had broken up... The US had broke it up
+it's telecommunications, monopoly, these different US telcos 
+were negotiating with, PTT that were monopolies and we were losing those 
 negotiations. And so we were exporting billions of dollars in what's called 
-settlement rights. And those days it was quite expensive. I remember. The man I 
+settlement rights. And those days it was quite expensive. I remember, the man I 
 was dating at the time was in Africa and, and I called him and had an hour long 
-conversation.
-And while that with a thousand dollar phone bill, so that was, remember those 
-days we forgotten those days. But that was when I was there. And I, 
-we were trying to end that we were trying to bring down the cost of 
-international phone calls. And as, as we were looking at doing this through 
+conversation and wound up with a thousand dollar phone bill.
+So that was... remember those days. We forgotten those days.
+But that was when I was there. And I...
+We were trying to end that. We were trying to bring down the cost of 
+international phone calls. And as, we were looking at doing this through 
 regulation, I learned about voiceover IP, and I thought, you know what?
-Thatis the solution and I wound up starting in Israeli voiceover 
-IP company called Delta three. So that was my foray into tech. I thought, oh, 
-well, yeah. Tech could solve these problems of bureaucracy. Wow. 
+That is the solution and I wound up starting an Israeli voiceover IP
+company called Deltathree. So that was my foray into tech. I thought,
+tech could solve these problems of bureaucracy.
 [00:14:14] 
  
 **Michaela:** Yeah. So you found it a lot of companies even in different 
