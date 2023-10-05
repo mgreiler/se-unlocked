@@ -33,7 +33,7 @@ tech companies.
 She was a member of the faculty at Apple University and before led AdSense, 
 YouTube, and DoubleClick teams at Google. So what should I say, except that I'm 
 super, super thrilled to have both fantastic and super accomplished women here 
-with me through here. And Kim, welcome to the show. 
+with me. Trier and Kim, welcome to the show. 
 [00:02:00]
 
 **Trier:**  Thank you for having us.
@@ -44,43 +44,43 @@ Thanks so much. It's an honor to be here with you.
 [00:02:04] 
  
 **Michaela:** Yeah,  I'm really excited. It's also the first interview for 
-me, where I have like two guests here on my shows. I'm super excited. And 
+me, where I have two guests here on my show. So, I'm super excited. And 
 I normally start my show with asking my guests how they actually landed in tech. 
-So a little bit about your journey and here, I think it's really interesting 
-because you both have such a wild, a little bit wild and very diverse 
+So a little bit about your journey and here, I think it's really interesting  
+because you both have such a wild, a little bit wild, and very diverse 
 backgrounds.
-So Trier, I want to start with you. You served in the United States air force. 
-Like, I mean, it's already makes me wow. Right. And you led engineering teams 
-there. How did you get into us air force? And how did you get into software 
-engineering and how was that experience before?
+So Trier, I want to start with you. You served in the United States Air Force. 
+I mean, it already makes me wow... Right? And you led engineering teams 
+there. How did you get into the US Air Force? And how did you get into software 
+engineering and how was that experience for you?
 [00:02:44]
 
-**Trier:**  Yeah. I actually got into the air force through, by attending the 
-air force academy.
-So I attended the air force academy for four years for college and then got 
-commissioned as an officer. And I actually wanted to be an engineer. I majored 
-in systems engineering because my dream job was actually to work on the planes. 
-The future planes at the airport was going to build and take feedback from the 
-pilot to make changes.
+**Trier:**  Yeah. I actually got into the Air Force through, by attending the 
+Air Force Academy.
+So I attended the Air Force Academy for four years for college and then got 
+commissioned as an officer. And I actually ended up wanting to be an engineer. I majored 
+in systems engineering because my dream job was actually to work on the planes, 
+the future planes at the Air Force was going to build and take feedback from the 
+pilots and make changes.
 That's not what I ended up doing. I ended up doing cybersecurity, but that's 
-what I wanted to do. And here we are.
+what I wanted to do. And here we are. So.
 [00:03:21] 
  
-**Michaela:** Okay. And cyber security. So did you do that as the US 
-air force? Or where did you, when you do do that? 
+**Michaela:** Okay. And cybersecurity, so did you do that as the US 
+Air Force, or where did you do that? 
 [00:03:29]
 
-**Trier:**  I did that. I did that for seven years, active duty in the air 
-force, cyber security, primarily defense.
-So preventing adversaries from getting into the US military is now. 
+**Trier:**  I did that, I did that for seven years, active duty in the Air 
+Force, cybersecurity, primarily defense.
+So preventing adversaries from getting into the US military's networks. 
 [00:03:42] 
  
 **Michaela:** Oh, that sounds very, very exciting. How was that experience
-for you working with probably quite a lot of men at that point.
-I mean, maybe that's a very naive picture of the US air force. 
+for you working with probably quite a lot of men at that point?
+I mean, maybe that's a very naive picture of the US Air Force. 
 I don't know. Maybe it's like equal, but I mean, engineering generally is
-very heavy, unbalanced workwith diversity.
-So how is that in the US? 
+very heavy, you know, unbalanced with diversity.
+So how is that in the US Air Force? 
 [00:04:04]
 
 **Trier:**  Yeah. So that's actually then how I usually say I stumbled into 
@@ -88,15 +88,15 @@ my passion with diversity equity, inclusion, DEI, and that was because there
 weren't a lot of women in the military, particularly as an officer in the 
 officer Corps. And as a black woman, there definitely were not a lot of black 
 officers as well.
-Fewer black women officers. So that's when I really started to understand what 
-could we do as an institution, both at the air force academy level, air force, 
-and DOD to increase representation in the US. 
+And even fewer black women officers. So that's when I really started to understand
+what could we do as an institution, both at the Air Force Academy level, Air Force, 
+and DOD to increase representation in the US Air Force. 
 [00:04:40] 
  
 **Michaela:** And then you have also been at other companies like Twitter and 
-other tech companies. How has that experience, is it different at the US air 
+other tech companies. How was that experience, is it different at the US air 
 force or is that very similar?
-We say, well, people are similar or work. Cultures are similar, you know, 
+where you say, well, people are similar or work. Cultures are similar, you know, 
 problems are similar. 
 [00:04:55]
 
@@ -106,53 +106,51 @@ them or solve for them will be unique and different. But every company and
 organization and industry has their own cultures and subcultures within those 
 cultures.
 So it's been quite an experience going from a military type of a culture to 
-then, wall street and Goldman Sachs and then two tech companies. But I 
-think ultimately what's really exciting is that. Really great challenges and 
+then, you know, Wall Street and Goldman Sachs and then two tech companies. But I 
+think ultimately what's really exciting is that there is really great challenges and 
 really incredible smart people across all of them, but they're vastly vastly 
-different for sure.
+different, for sure.
 [00:05:32] 
  
-**Michaela:** What do you like? Could we generalize that it's more, that's more 
-hierarchy there in the US air force, at least that's what I would think that 
+**Michaela:** Could we generalize that it's more, that's more 
+hierarchy there in the US Air Force, at least that's what I would think that 
 it's very radical and very like order and the, you know.
 [00:05:44]
 
 **Trier:**  Yeah, there's definitely a chain of command. You 
 know exactly how many people in levels there are between you and the commander 
 in chief, the president of the United States, but there's a, I think 
-the biggest difference from a culture perspective is.
-And the military, as I say, everything that the military does is either to save 
-a life or take a life on wall street. Everything at Goldman was about making a 
+the biggest difference from a culture perspective is,
+in the military, I say, everything that the military does is either to save 
+a life or take a life. On Wall Street, everything-and Goldman-was about making a 
 dollar, losing a dollar. And then I found at tech, you know, it's really 
-just about. What's been really energizing about tech. It's like, what is the 
+just about... What's been really energizing about tech, it's like, what is the 
 cool new thing, right?
 Like what's the new, cool thing that people want to build or how do you want to 
 solve it? And, and, and building upon that. And it's been really interesting, 
-but very different cultures as far as like what motivates people to show up. 
+but very different cultures as far as like what motivates people to show up
+and do the work. 
 [00:06:36] 
  
 **Michaela:**  Yeah, I can imagine. Yeah. I like it this very, very, to the 
-point abstracted essence of what it means to work somewhere, right?
-Like a dollar alive. And now we say, well, the coolest and newest and shiniest 
+point, abstracted essence of what it means to work somewhere, right?
+Like a dollar, a life. And now we say, well, the coolest and newest and shiniest 
 thing, even though I think maybe Twitter and, you know, like those tech 
 companies are a little bit more advanced. There are a lot of tech companies that 
 are quite old school, boring tech companies, where I wonder a lot, like I'm 
-doing a study right now.
-Work culture and what motivates people and productivity, satisfaction, 
-happiness, and a lot of people deal with not that new and shiny thing, right. 
-They work with, you know, established technologies and. What I've seen from the 
+doing a study right now on work culture and what motivates people and productivity,
+satisfaction, happiness, and a lot of people deal with not that new and shiny thing.
+Right? They work with, you know, established technologies and what I've seen from the 
 interviews that I did is that people are not only motivated by the 
-new and Chinese thing, but really the value also that they bring with 
+new and shiniest thing, but really the value also that they bring with 
 their product, for example, or sometimes it's just the people that 
-you're working with that are  very energizing and, bring your 
-motivation.
+you're working with that are very energizing and, bring you motivation.
 And I have seen it as quite diverse and really depending on the company and the 
 environment, people are very, also adaptable to the environments that they are 
 in. When, you know that thing isn't going so well, they can adjust and focus on 
 something else. Is that also your experience that, you know, even if you're in a 
 workplace where some of the things aren't going that well, depending on what 
-kind of things you're focusing on, something else, and people are 
-tough.
+kind of things you're focusing on, something else, and people adapt to it?
 [00:08:05]
 
 **Trier:**  Yeah, I think that that's one of the things that, you know, 
