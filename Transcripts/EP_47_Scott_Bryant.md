@@ -245,252 +245,249 @@ company called Deltathree. So that was my foray into tech. I thought,
 tech could solve these problems of bureaucracy.
 [00:14:14] 
  
-**Michaela:** Yeah. So you found it a lot of companies even in different 
-countries and this must be such an.
-Impressive experience as well. I mean, I moved to several countries, lived 
+**Michaela:** Wow. Yeah. So you founded a lot of companies even in different 
+countries and this must be such an
+impressive experience as well. I mean, I moved to several countries, lived 
 there, established a life there, but even, you know, starting a company is 
 another, another step. Right? Like you have to understand how to do that there, 
-how people work, how people think that's really, really impressive. And so you 
-both together work on chest work.
-You wrote the book, Just Work. And now you have a consultancy around that. As I 
-understand it, it's like focusing on recognizing understanding and preventing 
-or fighting injustice. But if you have to summarize it in one sentence, how, how 
-would you say what's the, what's the essence of the book and, and why, why would 
-people care?
+how people work, how people think. That's really, really impressive. And so you 
+both, together, work on Just Work.
+You wrote the book, 'Just Work', and now you have a consultancy around that. As I 
+understand it, it's like focusing on recognizing, understanding, and preventing 
+or fighting work injustice. But if you have to summarize it in one sentence,
+how would you say, what's the essence of the book and, why, would people care?
 Why should they go and read it? 
 [00:15:08] 
 
-**Kim:** So the essence of the book is about really diagnosing and 
+**Kim:** So, the essence of the book is about really diagnosing and 
 treating the problem of workplace injustice so that we can build the kind of 
-organizations where we all want to work, where organizations that are optimized 
-for collaboration, which is humanity's superpower and organizations in which we 
-can all respect.
-One another as Trier said before, I don't know if that counts as one sentence 
-about chair can do it better than me.
+organizations where we all want to work, Where organizations that are optimized 
+for collaboration, which is humanity's superpower, and organizations in which we 
+can all respect one another as Trier said before.
+I don't know if that counts as one sentence I bet Trier can do it better than me.
 [00:15:34]
 
-**Trier:**  No, I think that's, it can that's the essence of the 
-book. And then for Just Work, the company, helps leaders and 
+**Trier:**  No, I think that's it Kim. That's the essence of the 
+book. And then for Just Work the company, it helps leaders and 
 organizations build more equitable, productive, and successful workplaces.
-But what makes the company unique is that the Just Work framework book is 
+But what makes the company unique is that the Just Work framework from the book is 
 definitely part of that, but we meet organizations where they are, because 
 there's also other things, you know, there's not a silver bullet to 
 get this right. You have to have a very comprehensive strategy. And so we 
-provide, you know, a full suite of D and I solutions and products that, you 
-know, can help organizations get there so that they can Just Work because it 
-takes a lot,  there's not just one thing.
-That's gonna get you there, but you have to have a starting place. Right. One of 
+provide, you know, a full suite of D,E and I solutions and products that, you 
+know, can help organizations get there so that they can Just Work. But it 
+takes a lot, there's not just one thing
+that's gonna get you there, but you have to have a starting place. and one of 
 the things that's just so powerful about the book is that, you know, we don't 
-have a lot of frameworks. We don't, I have never been familiar with a framework 
+have a lot of frameworks. We don't... I have never been familiar with a framework 
 that employees can use, that organizations can use, that leaders can use, that 
-you can add to your toolkit.
-That's very tactical, right? And so the fact that Kim has really built this and 
-provided this is really powerful that you can point to something and people can 
-easily grasp it and start using it in their every day in their 
-everyday work situation. 
+you can add to your toolkit that's very tactical, right?
+And so the fact that Kim has really built this and 
+provided this is really powerful. That you can point to something and people can 
+easily grasp it and start using it in their everyday work situation. 
 [00:16:57] 
  
 **Michaela:** So, what you're describing is this diagnostic tool for identifying 
 and treating systematic work injustice.
 Is that also described in the book? And can you describe it for my listeners? 
-How it looks like, how can they imagine it? What does it do? 
+How it looks like, how can they imagine it? What does it do? How do we work?
 [00:17:13]  
  
-**Kim:** How do we work? Sure. Absolutely. So I think we tend to treat the 
-problem of workplace injustice as though we're one big monolithic problem. And 
-when we treat it that way, it becomes very difficult to cure the problem 
-to solve the problem.
+**Kim:** Sure. Absolutely. So I think we tend to treat the 
+problem of workplace injustice as though we're one big monolithic problem.
+And when we treat it that way, it becomes very difficult to cure the problem.
+To solve the problem.
 And so what we've done is we broken down the problem into its component parts. 
-So at the root, the root causes of workplace injustice or bias, 
+So at the root, the root causes of workplace injustice are bias, 
 prejudice, and bullying. And I think too often, we tend to conflate those three 
 things. We treat them as though they're all the same thing, but 
 they're different.
 So bias is sort of not meaning it. It's often unconscious. Prejudice is meaning 
-it it's a conscious belief and bullying is being mean or meaning
-harm. And so each of these, each of these attitudes and behaviors demands a 
+it. It's a conscious belief. And bullying is being mean or meaning
+harm. And so each of these attitudes and behaviors demands a 
 different kind of confrontation. And then when you add power on top of bias, 
-prejudice and bullying, you wind up with discrimination, harassment, and 
-physical violations, and we can walk you through some of the, some of the 
-solutions that we recommend that leaders can put into place and, uh, upstate.
-Can use so that they don't get slimed by other people's bad behavior. And that 
+prejudice, and bullying, you wind up with discrimination, harassment, and 
+physical violations, and we can walk you through some of the 
+solutions that we recommend that leaders can put into place and that upstanders
+can use so that they don't get slimed by other people's bad behavior. And that 
 we can use when we are the person who's harmed by these attitudes and behaviors. 
 And also how we can respond when we get feedback that we are the person who was 
-harmed. So in some senses, it's like a six by four. It's a big, it's a, it's a 
-big problem, but six by four is not intractable.
+harmed. So in some senses, it's like a six by four. It's a big 
+problem, but six by four is not intractable.
 So there's bias, prejudice, bullying, discrimination, harassment, physical 
 violations. So those are the problems. And then each of us play four different 
-roles where either the leader where the upstander. We are the person who's 
+roles where either the leader we're the upstander, we are the person who's 
 harmed or where the person who's causing harm. And one of the things that Trier 
-and I are working on doing is, is coming up with very specific interventions for 
-each of those problems enrolls. 
+and I are working on doing is, coming up with very specific interventions for 
+each of those problems and roles. 
 [00:19:13] 
  
 **Michaela:** Yeah, I really liked that. And I think, especially when I was 
-younger, I've ended up, I don't know why I ended up quite often in situation 
+younger, I've ended up, I don't know why, I ended up quite often in a situation 
 where there was harassment or really bad situations. And I felt like people 
 could already smell that they can step over boundaries and be mean, 
-be bullying even more.
-Right. And so, I don't know. Is that something that you, that you saw, you 
-probably did some research around that and, and very familiar with.
+be bullying even more, right?
+So, I don't know, is that something that you, that you saw, you 
+probably did some research around that and, very familiar with?
 [00:19:44]  
  
-**Kim:** So I think that it is one of the things that I have found is that when 
+**Kim:** So, I think that it is one of the things that I have found is that when 
 we, when we observe workplace injustice or we observe that someone is a 
 colleague who we care about is coming into work, having experienced [00:20:00] 
 injustice in the society at large. And if we don't do anything about it, if we are
-a passive bystander, Then I find at least I often wind up feeling quite good.
+a passive bystander, then I find at least I often wind up feeling quite guilty.
 And then, and then that wakes me up. And now all of a sudden, not only am I a 
 bystander, I'm also harmed by it, but I also have caused harm by not 
 intervening. And so now all of a sudden I'm playing three of those roles. And so 
-teaching teaching. Sort of bystanders to become upstanders is really important.
-And then also working with people who are the targets, bias, prejudice, and 
-bullying to know how to respond.I think we have a default to 
-silence and very often when, when there is a default to silence, then we 
+teaching bystanders to become upstanders is really important.
+And then also working with people who are the targets of bias, prejudice, and 
+bullying to know how to respond. Cause I think we have a default to 
+silence and very often when there is a default to silence, then we 
 reinforce the problem. So helping people learn how to choose a response. 
 [00:20:58] 
  
-**Michaela:** I also think like I'm coming from Europe and especially Australia.
-So I don't want to generalize for whole Europe now. There is in Austria then was 
-when I entered the workforce. I wasn't really expecting that people were really 
-nice to me. You know what I mean? Like the school system here is already that, 
+**Michaela:** I also think like I'm coming from Europe... and especially in Australia.
+I don't want to generalize for the whole Europe now. There was in Austria then, 
+when I entered the workforce, I wasn't really expecting that people were really 
+nice to me. You know what I mean? Like, the school system here is already that, 
 you know, there's like the power hierarchies and teachers can be quite mean and 
 you know, the person is the boss, so they can, they have, somehow people are 
 expecting the boss to be mean and, you know, to be in power and to be able to 
 say mean things.
-Over time. Very, it took me many, many years and you know, many countries to 
-work on that. I also changed my, my perception and I said, well, what happened 
+And over time, where it took me many, many years and you know, many countries to 
+work on that. I also changed my perception and I said, well, what happened 
 at that point where I felt really shitty as a, you know, as a student, for 
-example, with professors or even working at university horrible, horrible work 
+example, with professors or even working at university. Horrible, horrible work 
 environment, harassment, but really official harassment, like shouting in front 
 of the colleagues.
-Like the professor, for example, nobody would stand up because. [00:22:00] The 
-new it, but it weren't like it wasn't, it wasn't something that you would say, 
+Like the professor, for example, nobody would stand up. Because [00:22:00] they 
+knew it, but they weren't like it wasn't, it wasn't something that you would say, 
 oh, it's not allowed. It's not good. We know it, but it wasn't really not 
 allowed. And just over time, and those were being in the US I get more sensible 
 for it.
-And I was like, this was really unright at that point, I would 
-but it wasn't my current. Understanding at that point that this is 
+And I was like, this was really un-right at that point, I would 
+but it wasn't my conscious understanding at that point that this is 
 something that is not allowed. How do you see that? Is that, is that a cultural 
-thing as well? Or it has to do, I think it's cultural, but it's also probably 
-with the age, right.
-That you're really young and you're coming into and you don't know what's right. 
-And what's wrong. Is that allowed or not? 
+thing as well? Or it has to do... I think it's cultural, but it's also probably 
+with the age, right?
+That you're really young and you're coming into and you don't know what's right,
+and what's wrong. Is that allowed or not? And so on...
 [00:22:37]
 
 **Trier:**  Yeah, some of that, some of it is culture and how things are 
 communicated, but you know what you're, I think that what you're, what you're 
 getting to are some gaps within organizations, within their people, HR 
-practices, because there's a need for things to be very explicit and not be 
+practices. Because there's a need for things to be very explicit and not be 
 implicit.
 And one of the things that we talk about in the framework is having a code of 
-conduct. Right. And it needs to be very clear. So. People can think and believe 
+conduct. Right? And it needs to be very clear. So, people can think and believe 
 whatever they want, but you can't come into an organization and do and say 
 whatever you want. And so in a company to your point, like it has to be very 
 clear.
 This is not acceptable, or these behaviors and attitudes are acceptable. And 
 then another part that we talk about in the framework is having, you know, a 
-holder of consent. And that's another one that, you know, Kim and I have spent a 
+culture of consent. And that's another one that, you know, Kim and I have spent a 
 lot of time talking about, about we're in an organization. Organizations, aren't 
 very explicit on a culture of consent.
 Right? So like McKayla, you've probably worked at organizations where if we 
 said, Hey, was there a culture of consent in your previous organization or 
-companies? And most people will say, well, yeah, there's a culture of consent. 
-No, one's going to say no, we don't have a culture of consent, but 
+company? Most people will say, well, yeah, there's a culture of consent. 
+No one's going to say no, we don't have a culture of consent, but 
 it's implicit.
 But those are things where organizations have to make it very, very clear. 
-Right. Like in whatever type of documentation employees, reading adhere to that, 
+Right? Like in whatever type of documentation employees, reading adhere to that, 
 [00:24:00] everyone can point to it. Everyone understands what it is. And the 
 other thing that Kim and I have talked about a lot is that in this, you know, 
 environment of a pandemic with COVID and people going back into the workplace, 
-having that being explicit is really important because it goes beyond.
-You know, these physical interactions, it might be more intimate or personal to 
-something as simple as like a handshake, right. There's culture of consent. And 
+having that being explicit is really important because it goes beyond, just
+you know, these physical interactions. It might be more intimate or personal to 
+something as simple as like a handshake, right? This culture of consent in 
 COVID is like, what are we going to do with the handshake? It was interesting 
 yesterday in my building, someone reached out their hand to introduce themselves 
 to me because they're a new member of the staff.
 And I was like, I'm never shaking anyone's hand again, but we can like nice to 
-me to pull it out. Right. But like, how are companies thinking about this in 
+me you and pull it out. Right? But like, how are companies thinking about this in 
 your organizations or even, you know, you're in a meeting. If someone wanted to 
-borrow my pen and didn't ask you just grabbed it. I wouldn't think too.
+borrow my pen and didn't ask you just grabbed it, I wouldn't think twice.
 Now, if we're in a meeting and you grab my pen and I'd be like, you know what, 
-it's yours have it. I have plenty on my desk. So, you know, these are some of 
+it's yours. Have it. I have plenty on my desk. So, you know, these are some of 
 the things that I think there's real opportunity for leaders and organizations 
 to really pause, look at the artifacts that they have for their employees that 
-help them understand.
-What is acceptable, what is expected of their behaviors and their actions in the 
+help them understand
+what is acceptable, what is expected of their behaviors and their actions in the 
 workplace. And if there's things missing, then where do we need to add and fill 
-some gaps so that we can get it right. And it's very clear of as far as like, 
+some gaps so that we can get it right and it's very clear of as far as like, 
 what is expected of people. 
 [00:25:22]  
  
 **Kim:** And I think also McKayla, I'm sorry you had those experiences in 
 school.
-It sounds like. Sort of acceptable for professors to bully students. And I don't 
-think that's unusual, unfortunately I don't. I think that happens everywhere in 
-the world to a certain extent. And, but I do, I also think it's changing. Well I'm 
+It sounds like it was sort of acceptable for professors to bully students. And I don't 
+think that's unusual, unfortunately. I think that happens everywhere in 
+the world to a certain extent. But I do, I also think it's changing. Well I'm 
 an eternal optimist, but I really do. In fact, I learned 
-how to deal with bullying from my daughter when she was in third year.
-So she was getting bullied on the playground as happens, children everywhere in 
+how to deal with bullying from my daughter when she was in third grade.
+So she was getting bullied on the playground as happens to children everywhere in 
 the world, unfortunately, and her [00:26:00] teachers weren't doing enough 
-about it. I mean, one of the things that trior and I work with leaders on doing 
+about it. I mean, one of the things that Trier and I work with leaders on doing 
 is creating consequences, but there were no consequences for this kid who was 
 bullying my daughter.
-And so she and I were talking about how to deal with it. And I was sort of. 
-Trying to convince her to use what we call an I statement with this little kid 
+And so she and I were talking about how to deal with it. And I was sort of, 
+trying to convince her to use what we call an I statement with this little kid 
 and to say, I feel sad when you, blah, blah, blah, blah, blah. And my daughter 
 banged her fist on the table. And she said, mom, he is trying to make me feel 
 sad.
 Why would I tell him he succeeded? And I thought, oh my gosh, she is exactly 
-right. And so we talked about it and we realized a use statement is much more 
-effective. If an I statement sort of. Invite someone in to see things from your 
-perspective, a you statement pushes them away. So you can't talk to me like 
-that, or you need to stop now or, or what's going on for you here.
+right. And so we talked about it and we realized a You statement is much more 
+effective. If an I statement sort of, invite someone in to see things from your 
+perspective, a You statement pushes them away. So you can't talk to me like 
+that, or you need to stop now or, what's going on for you here?
 If it feels like those first two statements might escalate the situation too 
-much. But the point is with the use statement and the Facebook. You are now in 
-the active role and you're making the other person, the person who's bullying. 
-You answer your questions. So you're not submitting to the bullying and that is 
+much. But the point is, with the You statement in the face of bullying, you are now in 
+the active role and you're making the other person, the person who's bullying 
+you, answer your questions. So you're not submitting to the bullying and that is 
 really crucial to respond to it.
 So I think it's, and I think increasingly leaders are beginning to understand 
 that it is a part, whether they're a teacher or a manager or a CEO, they're 
-beginning to realize. Part of their job to tamp down bullying in their 
-organizations. Because if humanity, superpower is collaboration, as we were 
+beginning to realize that it's part of their job to tamp down bullying in their 
+organizations. Because if humanity's superpower is collaboration, as we were 
 talking about earlier, bullying is a collaboration killer, and it might work for 
 the person who's bullying, but it's bad for the team collectively.
 [00:27:52] 
  
 **Michaela:** Yeah. One thing that came to my mind is I love to talk about 
-software engineering practices ended [00:28:00] on this podcast as well. And. 
-What I'm wondering sometimes is how, and probably you, as the experts here, you 
+software engineering practices [00:28:00] on this podcast as well. And, 
+what I'm wondering sometimes is how, and probably you, as the experts here, you 
 thought about that already. How can some of the engineering practices shape our 
-culture, or how are you doing this?
+culture, or how are you doing that?
 And do you think that they can increase or decrease, you know, diversity, equity 
 and inclusion? For example, cultural abuse, right? There are also studies on 
-biases in culture abuse that, you know, certain, certain types of groups GAD, 
+biases in culture abuse that, you know, certain types of groups GAD, 
 their cultural views rejected for, you know, for no reason or less of a reason 
 than other people or what I always saw.
-Like the Friday night beer. Well, like I hated the Friday night there. I don't 
+Like the Friday night beer. Well, like I hated the Friday night beer. I don't 
 drink beer and, you know, it's very, very stereotypical, but I don't drink beer 
-and there was no wine, never, ever a wine, right. Or a coal gore, you know, I 
+and there was no wine, never, ever a wine, right? Or a coal gore, you know, I 
 would even like more, just a soda or something. Right. It's sort of the Citroen.
 What is your, what are your thoughts on that and how, how we should, should we 
 reflect on it? Is there something around engineering, testing, code reviews, 
-even there's Def
+even Dev Ops?
 [00:29:06]
 
-**Trier:**  Ops. Yeah. Okay. It's so interesting. Having been an engineer, led 
+**Trier:**  Yeah. Okay. It's so interesting, having been an engineer, led 
 engineering teams, working at tech companies, working very closely with 
 engineering leaders.
 There was a lot of things that are problematic in kind of the engineering 
-culture and it doesn't have to be right. That's the part that is so silly  
-that it doesn't have to be that people consist, like continue to perpetuate and 
+culture and it doesn't have to be, right? That's the part that is so silly.  
+That it doesn't have to be that people consist, like continue to perpetuate and 
 make a conscious effort not to change their behaviors because it works for that 
 person or the status quo.
 But we have to challenge the status quo. What are some things that engineering 
-leaders and teams can do? One that I was really inspired. And there's a bunch 
+leaders and teams can do? One that I was really inspired by... And there's a bunch 
 of, there was an article written about it and there was a bunch of tweets on 
 Twitter and it got a lot of attention actually from a black engineer that when I 
 was at Twitter, my university recruiting team actually hired, but they created 
-this documentary.
+this document.
 [00:30:00]
 And really getting engineers to change even the language that they 
 use, right? Like a black list versus a white list. There's a lot of problematic 
@@ -499,34 +496,34 @@ finding that list and saying, okay, we're going to change some of this language.
 We're not going to use, you know, this language anymore because it just 
 reinforces bias. And, and our, our minds are very, very powerful. And so I think 
 the language that is used within engineering is step one. Right? That's that's 
-one, two. What is really interesting is I, I was working with a white man 
-engineering leader at a previous company once. And I have one of the highest 
+one. Two, what is really interesting is, I was working with a white man 
+engineering leader at a previous company once. And he said, Trier, I have one of the highest 
 performing engineering teams at the company and they're all white men. So if 
 it's not broke, don't fix it. Like, why would I need, if 
-we're performing and we're high performing, like  why does it matter that 
+we're performing and we're high performing, like why does it matter that 
 everyone on the team are white men?
 And I said, wow, like you, you think if you're high-performing with just all of 
-these white men on your team, The data, the data and the research is there that 
+these white men on your team, The data and the research is there that 
 we know more diverse teams, outperform homogenous teams, right? Imagine what you 
 could be if you actually had representation on your team. And I wasn't even my, 
 my engineering background didn't even align with what he did, but I pointed to 
 an engineer on his question.
-This was a team that part of their responsibility was to write algorithms. To 
+This was a team that part of their responsibility was to write algorithms to 
 identify hate on a platform. If you look at most platforms, underrepresented 
 women, first of all, trans women and black women face the most hate on most 
 social media platforms. So if that is the population that experiences the most 
 hate, but yet you have a group of white [00:32:00] men that are supposed to 
 write the algorithms to do find that hate.
-That's problematic. Right. There we is that we are, I don't even know exactly 
+That's problematic right there. We are, I don't even know exactly 
 how to do, I don't know how to do your job, but I just know that it's not 
-working. Right. And we also know that. These populations are still experiencing 
+working. Right? And we also know that, these populations are still experiencing 
 so much hate on every single platform. And one of the problems is that we don't 
-have a people who look like the populations who can identify that those 
+have enough people who look like the populations who can identify that those 
 populations have considered the table and have those conversations about like, 
 how do you really define that and make it better?
 And so I think that, like, we really need to think about representation on the 
-teams for that that's inclusive for the problems that we're solving for the 
-communities that it impacted. 
+teams for... That's inclusive for the problems that we're solving for the 
+communities that it impacts the most. 
 [00:32:42]  
  
 **Kim:** I think, I think that's exactly right. It's so important to be willing, 
