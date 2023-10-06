@@ -7,7 +7,7 @@ type: transcript
 
 [00:00:00] 
 **Michaela:** Hello, and welcome to the software engineering unlocked podcast. I'm 
-your host-Dr. McKayla, and today I have the pleasure to talk to Trier Bryant and 
+your host-Dr. Michaela, and today I have the pleasure to talk to Trier Bryant and 
 Kim Scott who just released their newest book, 'Just Work'. But before I start, I 
 want to tell you more about CodeSubmit. The best take home assignment platform 
 to streamline your tech recruiting.
@@ -389,7 +389,7 @@ then another part that we talk about in the framework is having, you know, a
 culture of consent. And that's another one that, you know, Kim and I have spent a 
 lot of time talking about, about we're in an organization. Organizations, aren't 
 very explicit on a culture of consent.
-Right? So like McKayla, you've probably worked at organizations where if we 
+Right? So like Michaela, you've probably worked at organizations where if we 
 said, Hey, was there a culture of consent in your previous organization or 
 company? Most people will say, well, yeah, there's a culture of consent. 
 No one's going to say no, we don't have a culture of consent, but 
@@ -420,7 +420,7 @@ some gaps so that we can get it right and it's very clear of as far as like,
 what is expected of people. 
 [00:25:22]  
  
-**Kim:** And I think also McKayla, I'm sorry you had those experiences in 
+**Kim:** And I think also Michaela, I'm sorry you had those experiences in 
 school.
 It sounds like it was sort of acceptable for professors to bully students. And I don't 
 think that's unusual, unfortunately. I think that happens everywhere in 
