@@ -8,7 +8,7 @@ type: transcript
 [00:00:00] 
 **Michaela:** Hello, and welcome to the software engineering unlocked podcast. I'm 
 your host-Dr. Michaela, and today I have the pleasure to talk to Trier Bryant and 
-Kim Scott who just released their newest book, 'Just Work'. But before I start, I 
+Kim Scott who just released their newest book, "Just Work". But before I start, I 
 want to tell you more about CodeSubmit. The best take home assignment platform 
 to streamline your tech recruiting.
 Yes, exactly. This amazing startup is back sponsoring the podcast. Over the last month, they 
@@ -19,11 +19,11 @@ frameworks and integrate seamlessly with Git.
 In the beginning of the year when I was hiring engineers for a startup I worked with,
 I used the tool during the interview process for all the candidates and was 
 extremely satisfied. Their mission; "real tasks, no brainteasers" resonates a lot 
-with me. So I cannot recommend CodeSubmit enough, please check them 
+with me. So, I cannot recommend CodeSubmit enough, please check them 
 out at codesubmit.io.
-That is codesubmit.io, but now back to Trier and Kim, who founded the company Just 
+That is codesubmit.io, but now back to Trier and Kim, who co-founded the company Just 
 Work, which helps organization and individuals create more equitable workplaces. 
-Trier Bryant is a strategic executed leader with distinctive tech, Wall Street, 
+Trier Bryant is a strategic executive leader with distinctive tech, Wall Street, 
 and military experience spending over 15 years as the CEO of Just Work.
 She previously worked at Astra, Twitter, Goldman Sachs, and led engineering teams 
 in the United States Air Force, where she also drove diversity, equity and 
@@ -41,7 +41,7 @@ with me. Trier and Kim, welcome to the show.
  
 **Kim:** 
 Thanks so much. It's an honor to be here with you. 
-[00:02:04] 
+[00:02:03] 
  
 **Michaela:** Yeah,  I'm really excited. It's also the first interview for 
 me, where I have two guests here on my show. So, I'm super excited. And 
@@ -64,7 +64,7 @@ the future planes at the Air Force was going to build and take feedback from the
 pilots and make changes.
 That's not what I ended up doing. I ended up doing cybersecurity, but that's 
 what I wanted to do. And here we are. So.
-[00:03:21] 
+[00:03:20] 
  
 **Michaela:** Okay. And cybersecurity, so did you do that as the US 
 Air Force, or where did you do that? 
@@ -73,7 +73,7 @@ Air Force, or where did you do that?
 **Trier:**  I did that, I did that for seven years, active duty in the Air 
 Force, cybersecurity, primarily defense.
 So preventing adversaries from getting into the US military's networks. 
-[00:03:42] 
+[00:03:41] 
  
 **Michaela:** Oh, that sounds very, very exciting. How was that experience
 for you working with probably quite a lot of men at that point?
@@ -91,12 +91,12 @@ officers as well.
 And even fewer black women officers. So that's when I really started to understand
 what could we do as an institution, both at the Air Force Academy level, Air Force, 
 and DOD to increase representation in the US Air Force. 
-[00:04:40] 
+[00:04:39] 
  
 **Michaela:** And then you have also been at other companies like Twitter and 
 other tech companies. How was that experience, is it different at the US air 
 force or is that very similar?
-where you say, well, people are similar or work. Cultures are similar, you know, 
+where you say, well, people are similar or work cultures are similar, you know, 
 problems are similar. 
 [00:04:55]
 
@@ -110,16 +110,16 @@ then, you know, Wall Street and Goldman Sachs and then two tech companies. But I
 think ultimately what's really exciting is that there is really great challenges and 
 really incredible smart people across all of them, but they're vastly vastly 
 different, for sure.
-[00:05:32] 
+[00:05:31] 
  
 **Michaela:** Could we generalize that it's more, that's more 
-hierarchy there in the US Air Force, at least that's what I would think that 
-it's very radical and very like order and the, you know.
-[00:05:44]
+hierarchy there in the US Air Force? At least that's what I would think that 
+it's very hierarchial and very like order and the, you know...
+[00:05:43]
 
 **Trier:**  Yeah, there's definitely a chain of command. You 
 know exactly how many people in levels there are between you and the commander 
-in chief, the president of the United States, but there's a, I think 
+in chief, the president of the United States, but there's a... I think 
 the biggest difference from a culture perspective is,
 in the military, I say, everything that the military does is either to save 
 a life or take a life. On Wall Street, everything-and Goldman-was about making a 
@@ -127,7 +127,7 @@ dollar, losing a dollar. And then I found at tech, you know, it's really
 just about... What's been really energizing about tech, it's like, what is the 
 cool new thing, right?
 Like what's the new, cool thing that people want to build or how do you want to 
-solve it? And, and, and building upon that. And it's been really interesting, 
+solve it? And building upon that. And it's been really interesting, 
 but very different cultures as far as like what motivates people to show up
 and do the work. 
 [00:06:36] 
@@ -151,7 +151,7 @@ in. When, you know that thing isn't going so well, they can adjust and focus on
 something else. Is that also your experience that, you know, even if you're in a 
 workplace where some of the things aren't going that well, depending on what 
 kind of things you're focusing on, something else, and people adapt to it?
-[00:08:05]
+[00:08:02]
 
 **Trier:**  Yeah, I think that that's one of the things that, you know, 
 professionals that you gain with experience is just how to be adaptable and how 
@@ -171,7 +171,7 @@ are able to increase that collaboration.
 **Michaela:** Yeah, that's really cool.
 I really want to deep dive into that and really understand a little bit more 
 about that. But before we go there, I want to ask Kim a little bit about
-her background, because this is also super fascinating, right? So you manage a 
+her background, because this is also super fascinating, right? So you managed a 
 pediatric clinic in Kosovo. That's what I read online. And you started a diamond 
 cutting factory in Moscow.
 I mean, how, why, how did that come about? I mean, this is really a big change. 
@@ -182,7 +182,7 @@ yeah, we are going to do that.
 And I was like, yes, I didn't even know that it's still a thing. So how did you 
 do that? Like how did you diamond cutting or diamond timing companies? How does 
 that go? 
-[00:09:59]  
+[00:09:57]  
  
 **Kim:** [00:10:00] Well, so, unlike Trier, I had a very impractical major in 
 college. I studied Slavic literature, so it wasn't totally clear when I 
@@ -190,7 +190,7 @@ graduated, how I was gonna make a living.
 And I wound up going to Russia and moving to Moscow and I took a job 
 earning $6 a month, working for Moscow Physical Technical Institute. And what I 
 was doing there... I was... The reason why I studied Russian was that I was very 
-interested in ending the cold war and then the Berlin wall fell and it 
+interested in ending the Cold War and then the Berlin wall fell and it 
 solved... That problem solved itself.
 So I wound up in Moscow doing a study on military conversion, sort of swords 
 into plowshares. And that was very interesting, but then that company 
@@ -208,18 +208,18 @@ I'm going to give you this salary, and I just assumed they
 would take the job, but no, they didn't just want money. They wanted a picnic.
 And so we went out on a picnic together. And it turned out... After a bottle of 
 vodka, I finally figured out what they really wanted from a leader was someone 
-who would give a damn. (Someone) Who would get them out of Russia if things went sideways 
-in that country, as they were apt to do at that time. And, and so that was all 
+who would give a damn. (Someone) Who would get them out of Russia if things went
+sideways in that country, as they were apt to do at that time. And so that was all 
 of a sudden management became much more interesting than being just 
 about paying people.
-It became about forming relationships. And as Trier said, learning how to 
+It became about forming relationships, and as Trier said, learning how to 
 create environments in which we can collaborate and respect one another. That 
 didn't lead me to tech immediately. That was a longer... I wound up in tech
 after I graduated from business school and I worked for the federal government.
 The only person in my class to do so. Working at the FCC. 
-And when I was there... This was, gosh, it was long time ago now...
+And when I was there... This was, gosh, it was long time ago now.
 It was in 1996, but the telecommunications revolution was in full 
-swing. And that was actually where my interest in tech began. Working for 
+swing and that was actually where my interest in tech began. Working for 
 the US government. So, go figure.
 [00:12:48] 
  
@@ -251,20 +251,20 @@ impressive experience as well. I mean, I moved to several countries, lived
 there, established a life there, but even, you know, starting a company is 
 another, another step. Right? Like you have to understand how to do that there, 
 how people work, how people think. That's really, really impressive. And so you 
-both, together, work on Just Work.
-You wrote the book, 'Just Work', and now you have a consultancy around that. As I 
+both, together, worked on "Just Work".
+You wrote the book, "Just Work", and now you have a consultancy around that. As I 
 understand it, it's like focusing on recognizing, understanding, and preventing 
 or fighting work injustice. But if you have to summarize it in one sentence,
-how would you say, what's the essence of the book and, why, would people care?
+how would you say, what's the essence of the book and, why would people care?
 Why should they go and read it? 
-[00:15:08] 
+[00:15:06] 
 
 **Kim:** So, the essence of the book is about really diagnosing and 
 treating the problem of workplace injustice so that we can build the kind of 
 organizations where we all want to work, Where organizations that are optimized 
 for collaboration, which is humanity's superpower, and organizations in which we 
 can all respect one another as Trier said before.
-I don't know if that counts as one sentence I bet Trier can do it better than me.
+I don't know if that counts as one sentence/ I bet Trier can do it better than me.
 [00:15:34]
 
 **Trier:**  No, I think that's it Kim. That's the essence of the 
@@ -274,7 +274,7 @@ But what makes the company unique is that the Just Work framework from the book 
 definitely part of that, but we meet organizations where they are, because 
 there's also other things, you know, there's not a silver bullet to 
 get this right. You have to have a very comprehensive strategy. And so we 
-provide, you know, a full suite of D,E and I solutions and products that, you 
+provide, you know, a full suite of D, E, and I solutions and products that, you 
 know, can help organizations get there so that they can Just Work. But it 
 takes a lot, there's not just one thing
 that's gonna get you there, but you have to have a starting place. and one of 
@@ -291,7 +291,7 @@ easily grasp it and start using it in their everyday work situation.
 and treating systematic work injustice.
 Is that also described in the book? And can you describe it for my listeners? 
 How it looks like, how can they imagine it? What does it do? How do we work?
-[00:17:13]  
+[00:17:14]  
  
 **Kim:** Sure. Absolutely. So I think we tend to treat the 
 problem of workplace injustice as though we're one big monolithic problem.
@@ -311,22 +311,22 @@ physical violations, and we can walk you through some of the
 solutions that we recommend that leaders can put into place and that upstanders
 can use so that they don't get slimed by other people's bad behavior. And that 
 we can use when we are the person who's harmed by these attitudes and behaviors. 
-And also how we can respond when we get feedback that we are the person who was 
+And also, how we can respond when we get feedback that we are the person who was 
 harmed. So in some senses, it's like a six by four. It's a big 
 problem, but six by four is not intractable.
 So there's bias, prejudice, bullying, discrimination, harassment, physical 
 violations. So those are the problems. And then each of us play four different 
-roles where either the leader we're the upstander, we are the person who's 
-harmed or where the person who's causing harm. And one of the things that Trier 
+roles. We're either the leader, we're the upstander, we are the person who's 
+harmed or we're the person who's causing harm. And one of the things that Trier 
 and I are working on doing is, coming up with very specific interventions for 
 each of those problems and roles. 
-[00:19:13] 
+[00:19:12] 
  
 **Michaela:** Yeah, I really liked that. And I think, especially when I was 
 younger, I've ended up, I don't know why, I ended up quite often in a situation 
 where there was harassment or really bad situations. And I felt like people 
 could already smell that they can step over boundaries and be mean, 
-be bullying even more, right?
+be bullying, even more, right?
 So, I don't know, is that something that you, that you saw, you 
 probably did some research around that and, very familiar with?
 [00:19:44]  
@@ -336,7 +336,7 @@ we, when we observe workplace injustice or we observe that someone is a
 colleague who we care about is coming into work, having experienced [00:20:00] 
 injustice in the society at large. And if we don't do anything about it, if we are
 a passive bystander, then I find at least I often wind up feeling quite guilty.
-And then, and then that wakes me up. And now all of a sudden, not only am I a 
+And then that wakes me up. And now all of a sudden, not only am I a 
 bystander, I'm also harmed by it, but I also have caused harm by not 
 intervening. And so now all of a sudden I'm playing three of those roles. And so 
 teaching bystanders to become upstanders is really important.
@@ -346,7 +346,7 @@ silence and very often when there is a default to silence, then we
 reinforce the problem. So helping people learn how to choose a response. 
 [00:20:58] 
  
-**Michaela:** I also think like I'm coming from Europe... and especially in Australia.
+**Michaela:** I also think like I'm coming from Europe... and especially in Austria.
 I don't want to generalize for the whole Europe now. There was in Austria then, 
 when I entered the workforce, I wasn't really expecting that people were really 
 nice to me. You know what I mean? Like, the school system here is already that, 
@@ -365,7 +365,7 @@ knew it, but they weren't like it wasn't, it wasn't something that you would say
 oh, it's not allowed. It's not good. We know it, but it wasn't really not 
 allowed. And just over time, and those were being in the US I get more sensible 
 for it.
-And I was like, this was really un-right at that point, I would 
+And I was like, this was really un-right at that point, I would...
 but it wasn't my conscious understanding at that point that this is 
 something that is not allowed. How do you see that? Is that, is that a cultural 
 thing as well? Or it has to do... I think it's cultural, but it's also probably 
@@ -387,10 +387,10 @@ clear.
 This is not acceptable, or these behaviors and attitudes are acceptable. And 
 then another part that we talk about in the framework is having, you know, a 
 culture of consent. And that's another one that, you know, Kim and I have spent a 
-lot of time talking about, about we're in an organization. Organizations, aren't 
+lot of time talking about where in an organization, organizations aren't 
 very explicit on a culture of consent.
 Right? So like Michaela, you've probably worked at organizations where if we 
-said, Hey, was there a culture of consent in your previous organization or 
+said, hey, was there a culture of consent in your previous organization or 
 company? Most people will say, well, yeah, there's a culture of consent. 
 No one's going to say no, we don't have a culture of consent, but 
 it's implicit.
@@ -435,7 +435,7 @@ bullying my daughter.
 And so she and I were talking about how to deal with it. And I was sort of, 
 trying to convince her to use what we call an I statement with this little kid 
 and to say, I feel sad when you, blah, blah, blah, blah, blah. And my daughter 
-banged her fist on the table. And she said, mom, he is trying to make me feel 
+banged her fist on the table and she said, mom, he is trying to make me feel 
 sad.
 Why would I tell him he succeeded? And I thought, oh my gosh, she is exactly 
 right. And so we talked about it and we realized a You statement is much more 
@@ -453,16 +453,16 @@ beginning to realize that it's part of their job to tamp down bullying in their
 organizations. Because if humanity's superpower is collaboration, as we were 
 talking about earlier, bullying is a collaboration killer, and it might work for 
 the person who's bullying, but it's bad for the team collectively.
-[00:27:52] 
+[00:27:50] 
  
 **Michaela:** Yeah. One thing that came to my mind is I love to talk about 
-software engineering practices [00:28:00] on this podcast as well. And, 
+software engineering practices on this podcast [00:28:00] as well. And, 
 what I'm wondering sometimes is how, and probably you, as the experts here, you 
 thought about that already. How can some of the engineering practices shape our 
 culture, or how are you doing that?
 And do you think that they can increase or decrease, you know, diversity, equity 
-and inclusion? For example, cultural abuse, right? There are also studies on 
-biases in culture abuse that, you know, certain types of groups GAD, 
+and inclusion? For example, culture views, right? There are also studies on 
+biases in culture views that, you know, certain types of groups got 
 their cultural views rejected for, you know, for no reason or less of a reason 
 than other people or what I always saw.
 Like the Friday night beer. Well, like I hated the Friday night beer. I don't 
@@ -487,14 +487,13 @@ leaders and teams can do? One that I was really inspired by... And there's a bun
 of, there was an article written about it and there was a bunch of tweets on 
 Twitter and it got a lot of attention actually from a black engineer that when I 
 was at Twitter, my university recruiting team actually hired, but they created 
-this document.
-[00:30:00]
-And really getting engineers to change even the language that they 
+this document
+and really getting engineers [00:30:00] to change even the language that they 
 use, right? Like a black list versus a white list. There's a lot of problematic 
 language and language is so important in engineering. And so even like going and 
 finding that list and saying, okay, we're going to change some of this language.
 We're not going to use, you know, this language anymore because it just 
-reinforces bias. And, and our, our minds are very, very powerful. And so I think 
+reinforces bias. And, and our minds are very, very powerful. And so I think 
 the language that is used within engineering is step one. Right? That's that's 
 one. Two, what is really interesting is, I was working with a white man 
 engineering leader at a previous company once. And he said, Trier, I have one of the highest 
@@ -502,21 +501,21 @@ performing engineering teams at the company and they're all white men. So if
 it's not broke, don't fix it. Like, why would I need, if 
 we're performing and we're high performing, like why does it matter that 
 everyone on the team are white men?
-And I said, wow, like you, you think if you're high-performing with just all of 
-these white men on your team, The data and the research is there that 
+And I said, wow, like you think if you're high-performing with just all of 
+these white men on your team, the data and the research is there that 
 we know more diverse teams, outperform homogenous teams, right? Imagine what you 
-could be if you actually had representation on your team. And I wasn't even my, 
-my engineering background didn't even align with what he did, but I pointed to 
+could be if you actually had representation on your team. And I wasn't even...
+My engineering background didn't even align with what he did, but I pointed to 
 an engineer on his question.
 This was a team that part of their responsibility was to write algorithms to 
 identify hate on a platform. If you look at most platforms, underrepresented 
 women, first of all, trans women and black women face the most hate on most 
 social media platforms. So if that is the population that experiences the most 
-hate, but yet you have a group of white [00:32:00] men that are supposed to 
-write the algorithms to do find that hate.
-That's problematic right there. We are, I don't even know exactly 
+hate, but yet you have a group of white men that are supposed to 
+[00:32:00] write the algorithms to do find that hate,
+that's problematic right there. I don't even know exactly 
 how to do, I don't know how to do your job, but I just know that it's not 
-working. Right? And we also know that, these populations are still experiencing 
+working, right? And we also know that, these populations are still experiencing 
 so much hate on every single platform. And one of the problems is that we don't 
 have enough people who look like the populations who can identify that those 
 populations have considered the table and have those conversations about like, 
@@ -524,11 +523,11 @@ how do you really define that and make it better?
 And so I think that, like, we really need to think about representation on the 
 teams for... That's inclusive for the problems that we're solving for the 
 communities that it impacts the most. 
-[00:32:42]  
+[00:32:41]  
  
 **Kim:** I think that's exactly right. It's so important to be willing, 
 to interrupt bias in engineering culture. And there is a lot of it.
-And so one of the things that Trier and I work with with engineering leaders to 
+And so one of the things that Trier and I work with engineering leaders to 
 do is to begin to disrupt bias. So, there are a couple of points 
 to disrupting bias. There are a couple of different elements to this. The first is you need 
 to come up with a shared vocabulary. So Trier and I use a purple flag.
@@ -555,19 +554,19 @@ interrupt it publicly and in the moment where we reinforce it. And so I've seen
 this happen, in code reviews. You asked specifically about code reviews all the 
 time, where you find that, that people are reviewing
 code of someone who's underrepresented very differently from the way 
-they're reviewing other people's code. And it's important, this, this brings us 
+they're reviewing other people's code. And it's important. This brings us 
 to the second point. So we've got to interrupt it when we notice it, but we also 
 need to quantify it to go out, looking for it, quantify your bias and
-this means that if you, if you are in your code review, you can quantify how 
+this means that if you are in your code review, you can quantify how 
 many times someone has negatively reviewed people's code. And then you can take 
-a look at whose code they're not going to negatively review it. And if you notice that 
-men tend to negatively review women's code more than men's code. Then you know 
+a look at whose code they're not going to negatively reviewing. And if you notice that 
+men tend to negatively review women's code more than men's code, then you know 
 that you have identified some bias in your code review.
 Another simpler thing that I experienced, I was working with a leadership team 
 at a tech company, big tech company, and their bias quantification did not take 
 a lot of effort. They noticed that they had not promoted any women to the 
-executive team at this company. And the [00:36:00] company had been around for 
-about 10 years.
+executive team at this company. And the company had been around for 
+[00:36:00] about 10 years.
 So they knew it was a problem. They knew the problem was not the women who 
 worked at the company. They had a lot of great women, so they knew there must be 
 something broken in their recruiting process. And so they invited me to their 
@@ -576,7 +575,7 @@ the committee was man.
 So they thought maybe I would notice something that they themselves had not 
 noticed. And, there were two people up for promotion. One, a man, one, a woman.
 Both of them had great reputations for being excellent managers, building teams 
-that were very highly functioning and very loyal to each of these, 
+that were very highly functioning and very loyal to each of these
 two individuals, and
 they referred to the man who was up for promotion as a great leader. And they 
 referred to the woman who was up for promotion as a real mother 
@@ -589,46 +588,46 @@ think about people, it is real and you've got, that's why it's so
 important to quantify your bias and then go look and figure out what's wrong and 
 not what's wrong with the underrepresented candidates, but what's wrong with 
 your hiring processes or your promotion processes or whatever.
-[00:37:33] 
+[00:37:32] 
  
 **Michaela:** So you're saying that we have to be very consciously thinking and 
 looking at bias and what's going on to do work. And it looks like it's not just 
 work, but it's also work all the time on, you know, improving our collaboration 
 our way we work together. More powerful. Yeah. Maybe the last question that I 
-have for you too, as you're giving workshops on inclusion, diversity [00:38:00] 
-and equity.
-So, how do the workshops work? And also who should be on the workshop? Should we 
+have for you two is you're giving workshops on inclusion, diversity 
+and equity. [00:38:00]
+So, how do the workshops work? And also who should be on the workshops? Should we 
 ask advocates, like people that are already pro diversity, equity and 
 inclusion, or should we better have the skeptics participate or a mixture, or 
 how are you going about that? Is there a minimum number of people at the company 
 that have to take such a workshop to be, to get that ripple 
-through in the organism?
-[00:38:28]
+through in the organization?
+[00:38:26]
 
 
-**Trier:**  Yeah, I think that, you know what we have seen and it's, 
-again, it's been so nice to have such a positive response that we can come into 
+**Trier:**  Yeah, I think that, you know, what we have seen and it's, 
+again, it's been so nice to have such a positive response, that we can come into 
 an organization and do a, Just Work keynote for an hour or a half day workshop. 
 And that we're literally leaving people with tactical and practical things that 
 they could implement.
-And it's for everyone right? Yes, there are, in the frame where we talk 
+And it's for everyone, right? Yes, there are, in the frame where we talk 
 about, you know, what do you do? Whether any... If you're in either of the four 
 roles, like a person who's been harmed, a person who's a upstander, which is a 
 bystander who actually intervenes, or if you're the person who has caused harm or a 
 leader. And we can do a deeper dive as far as like what leaders and 
 organizations should be doing.
 But there's something for everyone in the framework. Now, Just Work the company,
-we also though have a lot of D, E, and I Seminars that we do talking about 
+we also though have a lot of D, E, and I seminars that we do talking about 
 language, talking about, you know, what does, how do you reduce bias in your 
 recruiting? What does it mean to, you know, take all this education and 
 awareness that you get and put it into action in the workplace, right?
-And those are seminars that are for everyone as well, whether it doesn't matter 
-where you are in your journey. Because for those who actually think that, Hey, I 
-am an advocate, I am a ally, you know, one of the things that we talk 
+And those are seminars that are for everyone as well. It doesn't matter 
+where you are in your journey. Because for those who actually think that, hey, I 
+am an advocate, I am an ally, you know, one of the things that we talk 
 about in one of the seminars, is that how do you go from being an ally to an advocate?
 Because ally-ship is very passive, right? And ally is saying, I'm not going to 
-cause you harm, which is good. Right? We don't want people to cause [00:40:00] 
-each other harm, but an advocate, it says, not only am I not going to cause you 
+cause you harm, which is good, right? We don't want people to cause each other harm,
+[00:40:00] but an advocate, it says, not only am I not going to cause you 
 harm, but I'm going to, through action, stick up for those who have been 
 marginalize. And through action,
 you know, create a platform and uplift those who have 
@@ -638,10 +637,10 @@ advocate? And so it doesn't matter where you're at in your journey.
 There's something that we all need to continue to educate. Because, it's not a 
 sprint and it's not a marathon either. I hear that a lot of like, oh, it's not a 
 sprint, it's a marathon. No, it's actually not a marathon because for those of 
-us who have run a marathon, there is a destination, right. When we're very happy 
+us who have run a marathon, there is a destination, right? When we're very happy 
 about that, but there's no destination for this.
 We have to continue to do this work. And you know, the other thing that I tell 
-folks is one of the reasons I love, I love this work is because as long as 
+folks is one of the reasons I love this work is because as long as 
 there's a majority, there will always be a minority. And what's interesting 
 though, is that as time goes on, those audiences and those groups have changed 
 and they've evolved.
@@ -656,33 +655,33 @@ should take away from this episode?
 What is like the one tip that they can do? Maybe from both of you. So we have two 
 tips for them that they can go and start doing just today and in their workplace 
 to make it better and nicer for everybody.
-[00:41:37]  
+[00:41:34]  
  
 **Kim:** Sure. I think if you can distinguish between bias, prejudice, and 
 bullying and respond to bias, which is just not meaning it with an I statement, 
-which invites the other person. And to understand things from your perspective, 
+which invites the other person in to understand things from your perspective, 
 respond to prejudice with an It statement. Cause prejudice is a conscious 
 belief. The person means what they say. And so you need to show them where
-the boundary is. They can believe whatever they want. They can do or say whatever 
+the boundary is. They can believe whatever they want. They can't do or say whatever 
 they want. So, an It statement can appeal to the law. It is illegal and it can 
 appeal to an HR policy. It's a violation of HR policy, or it can appeal to 
 common sense.
-And it's ridiculous, you know, to refuse to hire a woman, for example, and 
+It's ridiculous, you know, to refuse to hire a woman, for example, and 
 then last but not least with bullying, which is being mean, respond to it with a 
 You statement. You can't talk to me like that. 
 [00:42:25] 
  
 **Michaela:** Okay. I like that. Very, very concrete. Cool. Do you know one thing 
-that you would want tip that you could give me?
-[00:42:32]
+that you would, one tip that you could give me?
+[00:42:35]
 
 
 **Trier:** Yeah. So I think it's really interesting. And Kim is the one who really 
-pushed and challenged me on this, is that I've always said that Kim empathy is 
+pushed and challenged me on this, is that I've always said that empathy is 
 the catalyst for change in this space. And Kim would say, We need more 
 compassion. And I was like, I want more empathy. And then I really 
 had to understand the difference between empathy and compassion.
-And so I still do believe that empathy is a catalyst for change, but the change 
+And so, I still do believe that empathy is a catalyst for change, but the change 
 actually occurs through compassion. And the difference is that empathy is 
 yes, you are putting yourself in that person's shoes. You're understanding what 
 that person is going through, but compassion is you wanting to,
@@ -693,7 +692,7 @@ having sympathy, to having empathy and compassion. And so what I would encourage
 your listeners is to say, where are you in that journey?
 And to really strive to get to compassion, which means that, you know, that's 
 showing up through action and then understanding what that action is. 
-[00:43:54] 
+[00:43:56] 
  
 **Michaela:** Yeah, thank you. I really like it. Great. Thank you so much, you 
 both for taking the time, being on my show. I really enjoyed it. I 
