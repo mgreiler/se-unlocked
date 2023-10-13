@@ -6,22 +6,14 @@ type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello and welcome to this Software Engineering Unlocked 
-Podcast. I'm your host, Dr. McKay, and today I have the pleasure to talk to 
-Barack Br. 
+Podcast. I'm your host, Dr. Michaela, and today I have the pleasure to talk to 
+Barack Brudo. 
 
-But before I start, let me tell you about an amazing opportunity that allows YOU, yes, YOU to earn additional income! 
-Do I have your attention? Yes? Great. So, [User Interviews](https://www.userinterviews.com/hello) is a company that connects 
-researchers with study participants. And they especially are looking for developers 
-that share their feedback on products. 
+But before I start, let me tell you about my latest project [awesomecodereviews.com](https://www.awesomecodereviews.com/), Yeah, all my work from code reiviews has its own dedicated home. 
 
-Share your opinion with top brands such as Sporify, Adobe, Amazon and many more, and get paid. 
-Most studies take less than one hour to participate and pay over \$60. 
+At awesomecodereviews.com you will find articles about codeine best practices, go to your checklist news about the latest research on code reviews and of course workshops and courses i offer around this topic.
 
-So, sign-up today - It’s free - apply to give feedback for products that interest you, and make a 
-nice side income. Additionally, you help to shape the future of the tools we als use. 
-What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
-That is [userinterviews.com](https://www.userinterviews.com/hello).
-
+So hop over to [awesomecodereviews.com](https://www.awesomecodereviews.com/) and check out my latest book.
 
 But now back to Barak. Barak helps organization secure the 
 software supply chain.
@@ -29,15 +21,15 @@ software supply chain.
 He works as a developer relation advocate at scribe security, and Vela will tell 
 us today all about why we should care about acronyms such 
 
-as e o 14 zero uh, 28 s, SD f and s b o m. So welcome to the show, Barak. I'm so 
+as eo140 uh, 28, ssdf, and sbom. So welcome to the show, Barak. I'm so 
 curious what this all means, . 
 
-[00:01:05] **Barak:** Well acronyms are very common in, in the land of cyber in, 
+[00:01:05] **Barak:** Well acronyms are very common in, in the land of cyber and high tech 
 in general.
 
 Uh, They're just because there's so many words that it makes much more sense to, 
 to shorten them into acronyms than to say the whole thing over and over and over 
-again. There are actually so many acronyms that you could get confused, cuz some 
+again. There are actually so many acronyms that you could get confused, cause some 
 of them just mean different things depending on the context.
 
 But for this conversation, all of these acronyms are centered around one main 
@@ -60,15 +52,15 @@ for example, olives and you eat something, but suddenly, oops, you're not
 feeling well.
 
 Maybe there was a trace of olives in there and you just didn't know. So the 
-whole point of these various acronyms is to help. Or help the, the industry at 
+whole point of these various acronyms is to help us. Or help the industry at 
 large, figure out what's in your code, what's in everybody's code so that 
 everybody can know where or what everything is. That transparency should help 
 everybody be more secure, more safe.
 
-At least they'll be informed, which is the first step. So we started with EO 14 
-0 28. That's the number of the executive order from the Biden administration in 
-the United States. It came out in May of 2020. Following the very massive, very 
-famous public pack of SolarWinds in the late 2020. The executive order is, is 
+At least they'll be informed, which is the first step. So we started with EO14 
+028. That's the number of the executive order from the Biden administration in 
+the United States. It came out in May of 2021. Following the very massive, very 
+famous public pack of SolarWinds in the late 2020. The executive order is 
 very long, very comprehensive.
 
 Section four of that executive order speaks specifically about the securing the 
@@ -76,7 +68,7 @@ software supply chain. It numbers various ideas, various strategies among other
 things that charges nist which is the national infrastructure. Organization 
 there to write a framework for securing the software supply chain.
 
-It also mentions the sbo, the S B O M by name. Specifically the SBO is the 
+It also mentions the SBOM (s-bom), the S B O M by name specifically. The SBOM is the 
 software bill of materials. Just like any bill of materials or a list of 
 components, it does exactly that. It's a list of components for your software. 
 Um, Because it is supposed to be, at least in theory, comprehensive. It doesn't 
@@ -85,11 +77,9 @@ only tell you you have fragment or library A.
 It tells you everything in your software, even things you didn't know you had. 
 So instead of just saying, this is library A, it tells you this is library A, 
 and it relies on library B, C, and D, and those libraries rely on those if these 
-are the connections between them. This is everything in your 
+are the connections between them. This is everything in your software.
 
-[00:04:18] **Michaela:** software.
-
-So it's like a dependency graph of my. , 
+[00:04:18] **Michaela:** So it's like a dependency graph of my. , 
 
 [00:04:22] **Barak:** it's more than in dependency graph because dependency is 
 only one of the types of relationship that you can find between mm-hmm. 
@@ -98,81 +88,81 @@ relationships that you can describe. For example, this file was created as a
 result of a test on this file.
 
 These two files joined together, then we're deleted in the compiling process, 
-creating this file instead there the description of the. Standard for Sbam 
+creating this file instead there the description of the. Standard for SBOM 
 describes I think over 43 different types of relationships. I don't remember 
 them all, but yes, dependencies is the most common. And again, you can describe 
 dependencies in a graph, which is very helpful.
 
-But an ESBA is so much more because it is has other uses. For example, each of 
+But an SBOM is so much more because it has other uses. For example, each of 
 these open source libraries has their own license. some of these licenses. There 
 are many different types of licenses. Some of these licenses say that if you 
-include that, that library in your product, it has to be open source.
+include that, library in your product, it has to be open source.
 
 You can't use it if you're using it for something that is proprietary. If you 
 don't follow the chain of, of let's call a chain of dependency all the way 
-through, you might inadvertently. Such a piece of license in your software, and 
+through, you might inadvertently include such a piece of license in your software, and 
 suddenly your IP is meaningless. Everything you do becomes open source.
 
 It's called licensed. Yeah, it's called licensed poison. Okay. And a lot of 
 people that are let's call it legally minded, spend a lot of time and effort to 
 make sure that everything that is included in enterprise software does not 
 inadvertently somewhere include one of these licenses. That's just one of the 
-uses that you can use an SBO for.
+uses that you can use an SBOM for.
 
-Some other examples is once you have a full list of everything in your. A full 
+Some other examples is once you have a full list of everything in your software. A full 
 list makes it a lot easier, first of all to search for vulnerabilities, to 
 search for exploits. It also enables you to take the whole list, plug it into a 
 database of vulnerabilities and give back a full list of everything that might 
 be a problem, including where it is in your software.
 
 You need to remember that software is a very, very dynamic thing. It also gets 
-old, very, very, So if you have a legacy system that the people who wrote or 
-developed are no longer with you, maybe on old servers, having an SBO for those 
-systems make it so much easier to suddenly tackle known and, and very, very 
+old, very, very quickly. So if you have a legacy system that the people who wrote or 
+developed are no longer with you, maybe on old servers, having an SBOM for those 
+systems make it so much easier to suddenly tackle known and, very, very 
 rapidly becoming a problem.
 
-New vulnerability, for example, to log four j instance late last year in 
-December was a huge problem, still is for a lot of. Mainly because they weren't 
+New vulnerability, for example, the logs for j instance late last year in 
+December was a huge problem, still is for a lot of companys. Mainly because they weren't 
 sure if they had that particular problematic version. And even if they did, 
 where exactly was it? Remember that a certain piece of software or library could 
 be included numerous times in various places, locations.
 
 The fact that you possibly may have found it once doesn't mean that you're now 
-free and clear. So having an sbam that tells you exactly where everything is, 
+free and clear. So having an SBOM that tells you exactly where everything is, 
 including. Relative path of various libraries, including the exact version, 
 including the exact license. It tells you basically everything you need to know 
 about your software.
 
-Very handy. Okay, 
+Very handy. 
 
-[00:07:29] **Michaela:** so you made a lot of arguments for such a as bomb 
+[00:07:29] **Michaela:**  Okay, so you made a lot of arguments for such an SBOM 
 thing, right? So we need it because obviously we are depending on third party 
-libraries and you know, we don't know where it is. So now, , when I think about 
+libraries and you know, we don't know where it is. So now, um, when I think about 
 a list of all the software that I'm using, first of all, as you said, it's 
 dynamic. So it's changing a lot.
 
 And first of all, creating it will be definitely quite tedious. So how, how I'm 
-going to work with such a sbo? Is it, is it something that's extracted from my 
+going to work with such a SBOM? Is it, is it something that's extracted from my 
 software? And then updated automatically? Or do I have to write that by, you 
 know, by hand? How, how does it work? 
 
 [00:08:04] **Barak:** Well, The reason that the executive order and, and the 
-SSVF and other let's call it people of conscience are, are saying to use it, is 
+ssdf and other let's call it people of conscience are, are saying to use it, is 
 that it's not the responsibility of the user to produce this list of components.
 
 It's actually the responsibility of the producer. So the idea is that everybody 
-who produces software will include in their pipe. a little piece of software 
-that produces an sba. Obviously the SBA needs to be recreated every time you 
+who produces software will include in their pipeline. A little piece of software 
+that produces an sba. Obviously the SBOM needs to be recreated every time you 
 recompile your software. Mm-hmm. . Now, if you are using third party software, 
 then you need to request an ESBA with that piece of software too.
 
 The thing is that like you said, some people already recognize the importance of 
-escom and they wanted to run the, the program that creates it themselves on 
-their own software. But some people let's call. , very, very zealous for their 
+SBOM and they wanted to run the, the program that creates it themselves on 
+their own software. But some people let's call them, very, very zealous for their 
 IP rights, are worried that if you break open their software to look what's 
 inside, to see what's under the hood, you may discover some things that they 
 don't want you to see, for example, that they're using very old libraries, 
-unpatched un unmitigated with, with, even, even though they have known 
+unpatched unmitigated with, with, even though they have known 
 vulnerabilities, just because a lot of.
 
 Value the concept of if it's not broken, don't fix it. And it saves time on 
@@ -181,25 +171,25 @@ they're actually rules. I don't know if they're, you know, fully legal now, but
 there are rules, just like the old rule of don't remove the tag.
 
 From a mattress or don't open a laptop yourself because you void the, the 
-warranty there rules that if you run an SBO creating software on a closed piece 
+warranty there rules that if you run an SBOM creating software on a closed piece 
 of software, you're basically voiding the warranty or doing some other, you 
 know, very, very bad thing. So the idea is for the software producers to create 
-the esba and supply it.
+the SBOM and supply it.
 
 with every with, with their piece of software so that you're not only getting a 
 black box, that you have no idea what's in it. You're getting the black box and 
-you're getting the full list of everything in it. So the ingredients, if you 
+you're getting the full list of everything in it. So- the ingredients, if you 
 have, yeah, if you have a problem, if you're allergic to a certain library, a 
-certain certain ingredient in that software, you now have the ability to look at 
-the, the list and see that you don't really want to.
+certain, certain ingredient in that software, you now have the ability to look at 
+the, the list and see that you don't really want to use it.
 
-Well, you might, 
+Well, you know, 
 
 [00:10:19] **Michaela:** yeah. But as you said, I mean, now let's think about, 
 okay. It's a very nice idea, right? And you know, but as you said, some 
 companies, and they think quite a large majority of their companies, they have 
 real problems with it. And this is not just, they're not making things up. 
-Right. It's, it's not, they cannot, similar to j Lockford J right?
+Right. It's, it's not, they cannot, similar to J Lockford J right?
 
 You cannot just go and say, oh, I'm spending a day and I'm, you know, now 
 removing the dependencies. It's a lot of work, which sometimes is just not 
@@ -209,10 +199,10 @@ that, I mean, it's not that.
 
 It's not that I'm secure because not of exposing it, but I'm definitely more 
 unsecure if I'm exposing, you know, that I am relying on those. Like, it's, 
-it's, it's open to every hacker, you know, in the world. , that wants to destroy 
-me . So I'm not going to release it. I would not release it. I would say yes.
+it's, it's open to every hacker, you know, in the world, that wants to destroy 
+me. So I'm not going to release it. I would not release it. I would say yes.
 
-Nice idea, but , 
+Nice idea, but, 
 
 [00:11:21] **Barak:** yeah. Yeah. It, it's just that you, you are thinking of it 
 from the point of view of the producers. Mm-hmm. , which is fair enough that a 
