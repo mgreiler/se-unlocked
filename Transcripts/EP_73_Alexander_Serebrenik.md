@@ -7,20 +7,20 @@ type: transcript
 
 [00:00:00] **Michaela:** Hello, and welcome to the Software Engineering Unlocked 
 Podcast. I'm your host, Dr. Mikayla, and today I have the pleasure to talk to 
-Alexander Sreek about social aspects of software engineering. 
+Alexander Serebrenik about social aspects of software engineering. 
 
 But before I start, let me tell you about an amazing opportunity that allows you, yes, you, 
 to earn additional income! 
 
 Do I have your attention? Yes? Great. So, User Interviews is a company that connects researchers 
-with study participants. And they especially are looking for developers that share 
+with study participants. And, they especially are looking for developers that share 
 their feedback on products. 
 
 Share your opinion with top brands such as Spotify, Adobe, Amazon and many more, and get paid. 
 Most studies take less than one hour to participate and pay over $60. 
 
 So, sign-up today - It’s free - apply to give feedback for products that interest you, 
-and make a nice side income. Additionally, you help to shape the future of the tools we als use. 
+and make a nice side income. Additionally, you help to shape the future of the tools we also use. 
 What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
 
 And now back to Alexander. Alexander is a full professor of software, social software 
@@ -28,41 +28,35 @@ engineering, and I University in the Netherlands. Alexander's research goal is
 to.
 
 Facilitate evolution of software by taking into account social aspects of 
-software development. So I'm super, super thrilled to have him on my podcast 
+software development. So I'm super thrilled to have him on my podcast
 today. Uh, So welcome Alexander. Welcome to the show. 
 
 [00:00:57] **Alexander:** Good morning, Mihaela. Thank you very much for 
 inviting me. It's a great pleasure for me to talk to you about.
 
-Well, you know, my favorite subject, . 
+Well, my favorite subject, . 
 
-[00:01:04] **Michaela:** Yeah. That, that's so cool. So you sent me a couple of 
-papers. You have plenty of papers, so people should really check them out. But 
-one really stroke my my attention, right? It was called Emotions and Perceived 
+[00:01:04] **Michaela:** Yeah. That, that's so cool. So you sent me a couple of papers. You have plenty of papers, so people should really check them out. But 
+one really stroke my attention, right? It was called Emotions and Perceived 
 Productivity of Software Developers at Workplace.
 
-And maybe I'm. Very inclined to talk about this paper because I was working on 
+And maybe I'm very inclined to talk about this paper because I was working on 
 productivity, perceived productivity and well developer experience. How do 
 developer experience their work environment and how does this influence their 
-productivity for the last couple of years? So so I'm super interested to.
-
-What this paper is about and what you found out. So can you maybe give us a, a 
-little summary of the paper and also h how, why, why do you look at perceived 
+productivity for the last couple of years? So I'm super interested to what this paper is about and what you found out. So can you maybe give us a 
+little summary of the paper and also how and why do you look at perceived 
 productivity of software developers? Why is that interesting? 
 
-[00:01:50] **Alexander:** Well, let's us start looking at the entire story of 
-emotions, right? So of course we know that people experience emotions and we 
-also know that emotions influence cognitive processes such as problem solving, 
-and also influences how people collaborate with each other.
+[00:01:50] **Alexander:** Well, let's start looking at the entire story of 
+emotions, right? So of course we know that people experience emotions and we also know that emotions influence cognitive processes such as problem solving, and also influences how people collaborate with each other.
 
 And this is exactly what software engineering is about. It is a collaborative 
 problem solving. So if you want to think about increasing productivity, if you 
 want to think about improving collaboration, we need to understand what emotions 
 people feel when they are working together or when they are performing 
-programming.
+programming tasks
 
-So for several years and I sometimes independently and sometimes together have 
-been trying to understand emotion as expressed in, for instance, code review 
+So for several years and I sometimes independently and sometimes together have been trying to understand emotion as expressed. For instance, code review 
 comments or in second flow question. But of course, emotion is expressed. It's 
 not necessarily emotion is experienced. Mm-hmm. . So to get further insights and 
 emotions as experienced, we wanted to go for more direct measurement for 
@@ -70,7 +64,7 @@ biometrics.
 
 [00:02:54] **Michaela:** Can you, can you outline a little bit more what's the 
 difference between expressed emotions and experienced emotions? How do you draw 
-the line here? What's, you know, how can we understand it as we are not that 
+the line here? How can we understand it as we are not that 
 familiar with emotions and the research behind emotions? 
 
 [00:03:09] **Alexander:** Well, there are all kinds of series that explain how 
@@ -78,11 +72,10 @@ emotions exactly are being expressed.
 
 But roughly speaking we need to understand that not everything we feel we 
 express. in general and in particular in the professional setting, norms of 
-professional behavior restrict the way emotion is expressed or sometimes force 
-it to amplify. Mm-hmm. you are thinking about uh, things like cause of conduct.
+professional behavior restrict the way emotion is expressed or sometimes force it to amplify. Mm-hmm. you are thinking about things like cause of conduct.
 
 Cause of conduct will typically say don't be a jerk and welcome newcomers, and 
-so on and so on. You know, if I'm an experienced software developer and I don't 
+so on and so on. If I'm an experienced software developer and I don't 
 care about those newcomers, I'm not going to be as excited, as welcoming as 
 maybe this kind of norms of behavior expect me to be. So I will be amplifying 
 something, which I do not necessarily feel as strongly as expected.
@@ -94,25 +87,23 @@ do you express it. . So of course we can ask people how do you feel?
 
 And we hope that during the experiment people will be more open about what they 
 feel as opposed to the real workplace environment. But of course going even 
-deeper to the hardware level would be even cold. . So this, this work actually 
-has started with the work of Nicole Nav and her team Philip.
+deeper to the hardware level would be even cooler. So this, this work actually 
+has started with the work of Nicole Naviele and her team Philip Daniela Gerardi.
 
 So they have conducted a controlled experiment with several students. So the 
 students have been asked to perform a certain programming tasks and they've been 
 interrupted on a regular occasions to measure their biometrics. Biometrics. 
-Think about heartbeat. Think about Skin. So if you are stressed, then you are 
+Think about heartbeat. Think about Skin response. So if you are stressed, then you are 
 starting to sweat a little bit.
 
 It doesn't mean that you know the entire environment is suffering because of it, 
 but electrical conductivity of your skin changes and sensors can actually 
 measure it and see it as a reflection of stress. And then of course, you can 
-compare it to emotion as reported by the. . So this was an interesting work.
+compare it to emotion as reported by the students. So this was an interesting work.
 
-They have successfully built a machine learning classifiers. It succeeded to pre 
-classify motion according to those biomed signals. But of course, those were 
+They have successfully built a machine learning classifiers. It succeeded to classify emotion according to those biomed signals. But of course, those were 
 students. And it was only one hour. Mm-hmm. . So it was a controlled experiment. 
-And as any controlled experiment it is not necessarily representative for the 
-real.
+And as any controlled experiment it is not necessarily representative for the real world.
 
 And so in the paper you have mentioned we have actually went to this real world 
 and tried to see how this kind of uh, questions can be answered on the 
@@ -130,7 +121,7 @@ to turn it off, to download the biometric signals on certain moments and so on
 and so on.
 
 So we have been very, very lucky to get those uh, this information. And in 
-addition to this biometrics, we have been also asking people to. How they feel 
+addition to this biometrics, we have been also asking people to report how they feel 
 and what makes them feel in terms of what triggers their positive or negative 
 emotion therapy. Mm-hmm. . And of course you also ask about perceived 
 productivity.
@@ -141,7 +132,7 @@ ways, and perception is only one of. So ultimately, what have we figured out?
 
 When it comes to what makes people happy or unhappy. So we have seen things 
 which are related to the individuals themselves. For instance, feeling in the 
-flow makes, triggers positive emotions as opposed to being stuck, which triggers 
+flow makes, trigger positive emotions as opposed to being stuck, which triggers 
 negative emotions. But you have also seen that uh, positive emotions are 
 typically associated with collaboration.
 
@@ -159,19 +150,19 @@ pressure like unconstructive meetings and so on.
 And so. By the way, constructive meetings actually trigger positive emotions. So 
 it's not true that all the meetings are horrible and that software developers 
 just hate them because they're meetings. Meetings can be constructive and then 
-triggering positive emotions. Meetings can be not constructive, not productive, 
-and then they trigger negative.
+trigger positive emotions. Meetings can be not constructive, not productive, 
+and then they can trigger negative.
 
 [00:08:59] **Michaela:** Can I ask you about the positive emotions? Yeah. So I 
 understand that, for example, negative emotions we would detect with this 
 sensors by sweating, for example, right? Or the heart rate goes up. But how do 
 you detect positive emotions? Is it just not negative emotions or is it really, 
-is there neutral and then there is a positive reaction of your body?
+is there neutral and is there a positive reaction of your body?
 
 How would you, how would you measure that? In, you know, my biometric. 
 
 [00:09:24] **Alexander:** Well it's not that we measure, we directly link stress 
-to po to negative emotion or , it's essentially you're measuring the same 
+to positive to negative emotion or , it's essentially you're measuring the same 
 things, right? You're measuring certain biometric signals and then you are 
 mapping them to balance arousal and so on and so on.
 
@@ -182,7 +173,7 @@ how, that's how it works, right? Mm-hmm. When you are trying to connect it to
 productivity then it seems that indeed balance, so positive versus negative is 
 the most important predictor, which explains up to 12%, which is kind of a lot.
 
-Mm-hmm. . And what's also interesting is that there is an interaction of balance 
+Mm-hmm. . And what's also interesting is that there is an interaction of balance and time.
 and. . Uh, Essentially it means that at the end of the day, in the second half 
 of the day your emotion is more likely to affect your productivity. Okay. And 
 this is essentially related to fatigue. Mm-hmm. , right? So, fatigue reduces 
@@ -196,7 +187,7 @@ Actual productive I am or it's not How many tasks, you know, it's really how,
 how productive do I feel?
 
 Do I feel like I get a lot done, or do I feel like, oh, I'm a little bit stuck? 
-So, Probably you know, tell you that on a, on some likelihood scale, right, some 
+So, Probably you know, tell you that on some likelihood scale, right, some 
 I feel very productive or very unproductive. And then you are also asking me 
 about my emotions. So I would say, oh, I'm very stressed. And then you look at 
 the link whether or not, probably negative.
@@ -209,9 +200,9 @@ that, is that how, how uh,
 [00:11:33] **Alexander:** roughly? Yes. Right. So, so productivity is indeed on 
 a liker scale from very low to very high.
 
-And we operationalize emotions through the so-called uh, V A D model, which is e 
-essentially a balance, arousal and dominance. And balance is indeed this 
-positive negative from annoyed to. Arousal is from calm to um, And dominance 
+And we operationalize emotions through the so-called uh, VAD model, which is
+essentially a valence, arousal and dominance. And balance is indeed this 
+positive negative from annoyed to pleased. Arousal is from calm to um, excited And dominance 
 from control to controlling. Mm-hmm. . Those are the three dimensions of 
 emotions.
 
@@ -219,7 +210,7 @@ There are different ionizations of emotions. This is the one we use here. And
 when I said that balance is the most important predictor, essentially it says 
 that when people are more positive than they are feeling more productive. 
 Mm-hmm. Of course, you know, it's a simplified thing because there is more to it 
-than only balance, but it still explains 12% of your.
+than only balance, but it still explains 12% of your variance.k
 
 So it's quite important as opposed to it. For instance, arousal will explain 
 only roughly 3% of your variants, right? So arousal ranging from calm to 
@@ -272,7 +263,7 @@ Getting your, your system back on track and so on. So have, have you seen that
 maybe directly in the study or did you get some, some insights into that? 
 
 [00:14:59] **Alexander:** Not directly into the study but there is of course , 
-separate line of research by Thomas Reitz, mm-hmm. , and back then Manuel 
+separate line of research by Thomas Fritz , mm-hmm. , and back then Manuel 
 Siegler on interruptions, right?
 
 Mm-hmm. . So what kinda interruptions? When can you interrupt people? When you 
@@ -295,7 +286,7 @@ and I was there doing it, I don't know, debugging for two hours and then I took
 a small break, came back and you know, right there in front of me, lost a 
 problem.
 
-Crisply clear. I think I've heard at least stories like that. Quite frequently. 
+Crisply clear. I think I've heard at least stories like that. Quite, quite frequently. 
 
 [00:16:13] **Alexander:** Absolutely. Absolutely. And I also think now about the 
 work of Pedro de Guerro, I dunno whether she has already been on your podcast. 
@@ -322,14 +313,14 @@ companies. Yeah. When people are supposed to know each other. Yeah.
 that paper or in this study, but in many, many different studies. And you 
 already talked a little bit about it.
 
-Also emotions and. Code reviews, for example, right there. We can look at the 
+Also emotions and uh, Code reviews, for example, right there. We can look at the 
 cultural comments and we can, you know, try to figure out whether or not it's a 
 positive comment or a negative comment, you know, if it's, if you are a little 
 bit angry, frustrated, or happy and so on. So what's your experience with 
 emotions?
 
 in code reviews, do we see? Can we detect them? Do we see them? Do people try 
-not to share 
+not to share them
 
 [00:18:06] **Alexander:** them? We do see them. They are different in a sense 
 that more of course the laws of professional behavior prevent people from 
@@ -344,18 +335,18 @@ issue because if I. As a reviewer, I'm confused what the source code is doing.
 I might be tempted to approve it. Essentially relying on the developer having 
 done their job, and obviously in a sematic way. If I'm a developer and if I'm 
 confused about something that some other code is doing, I will just assume that 
-it's doing something reasonable and hopes that the reviewer will catch my.
+it's doing something reasonable and hopes that the reviewer will catch my mistake.
 
 So this confusion is essentially related to mistakes passing through this kind 
 of quality gains. Mm-hmm. . So we've been looking at confusion quite 
 extensively. Uh, We have been serving people, we have been mining data from 
 repositories on GitHub. And indeed you see a whole bunch of issues and the most 
-common problem, which is triggering confusion.
+common problem, which is triggering confusion
 
-relation to artifacts is essentially missing rationale. People are not, 
+in relation to artifacts is essentially missing rationale. People are not, 
 developers are not understanding why certain things are being done. Mm-hmm. And 
 this brings a cause opens an entire direction of can we find some kind of 
-rationale in previous discussions. or in some other kind of documents or some 
+knowledge in previous discussions. or in some other kind of documents or some 
 other kind of artifacts which might be present.
 
 Uh, Because if we cannot rely upon developers to actually comment to, to 
