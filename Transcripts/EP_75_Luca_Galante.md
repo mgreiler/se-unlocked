@@ -12,21 +12,21 @@ Galante, who will talk with me about platform engineering.
 But before I start, let me tell you about an amazing opportunity that allows you, yes, you, 
 to earn additional income! 
 
-Do I have your attention? Yes? Great. So, User Interviews is a company that connects researchers 
+Do I have your attention? Yes? Great. So, Userinterviews.com is a company that connects researchers 
 with study participants. And they especially are looking for developers that share 
 their feedback on products. 
 
-Share your opinion with top brands such as Spotify, Adobe, Amazon and many more, and get paid. 
+So, share your opinion with top brands such as Spotify, Amazon, Adobe, and many many more, and get paid. 
 Most studies take less than one hour to participate and pay over $60. 
 
-So, sign-up today - It’s free - apply to give feedback for products that interest you, 
-and make a nice side income. Additionally, you help to shape the future of the tools we als use. 
-What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
+So, sign-up today - It’s totaly free - apply to give feedback for products that interest you, 
+and make a nice side income. Additionally, you help to shape the future of the tools we all use. 
+So, What’s not to like, right? So, are you ready to earn extra income by sharing your expert opinion?head over to [userinterviews.com](https://www.userinterviews.com/hello) to signup and participate today.
 
 But now back to Luca. Luca is leading 
 product at Humanitech and so hundreds of DevOps and platform setups, and he 
 condensed all his learnings into his weekly newsletter that's called Platform 
-Weekly, which ha, which has 10,000 subscribers.
+Weekly, which has, which has 10,000 subscribers.
 
 He's also the core contributor to the platform engineering community that has 
 more than 10,000 meet up, uh, members, more than 8,000 Slack members. And 
@@ -35,7 +35,7 @@ engineering that has over 6,000 and attends in just one day. Well, so I think he
 knows
 
 He knows a lot about platform engineering. I will pick his brain today. So I'm 
-so, so happy that you're here, Luca with me today. Welcome to. 
+so, so happy that you're here, Luca with me today. Welcome to the show. 
 
 [00:01:24] **Luca:** Thank you. Thank you for having me. 
 
@@ -43,7 +43,7 @@ so, so happy that you're here, Luca with me today. Welcome to.
 conversation with you, I asked them, so what do you think about platform 
 engineering
 
-And they were like, what platform? What, what is that? Platform engineering. 
+And they were like, what? platform, what?what is that? Platform engineering. 
 Yeah, exactly. Um, so can you maybe outline a little bit what is platform 
 engineering? And um, I actually noted it's a little bit of a hype now. Why is 
 that? What is it and why is it a hype right now? 
@@ -51,13 +51,11 @@ that? What is it and why is it a hype right now?
 [00:01:53] **Luca:** Yeah, absolutely. Um, so platform engineering, I, I define 
 it as the science, but really the art as well of designing and really bringing 
 together all the different tech and tools that you have in an organization, 
-especially.
-
-You're kind of mid-size, large size enterprise engineer organizations and bring 
+especially you're kind of mid-size, large size enterprise engineer organizations and bring 
 all of that tech and tools into one golden path that enables, um, developers 
 sell service and at the same time reduces the cognitive load on the individual 
 developer and the individual contributor. And so these golden paths, um, are 
-most often referred to as an internal developer platform or Id.
+most often referred to as an internal developer platform or IDP.
 
 and that IDP is built by a platform engineering team or internal platform team, 
 or platform team. And uh, the, the kind of like the key principle of of platform 
@@ -67,11 +65,11 @@ to the rest of the engineer organizations.
 
 Um, who are their customers? The, the developers. So developers are their 
 internal customers, and that is really one of the, kind of like the key 
-differences to something like sre, which is mainly focused on, you know, 
+differences to something like SRE, which is mainly focused on, you know, 
 reliable production systems, really, and DevOps, which is a culture or 
-philosophy. Um, never meant to be, it was never meant to be a job role.
+philosophy. Um, never meant to be, it was never meant to be a job role technically.
 
-Technically , um, and platform engineering is really a, a new, a new discipline, 
+Um, and platform engineering is really a, a new, a new discipline, 
 right? That actually hopes to. Um, bring to live, uh, the, the initial tenant of 
 DevOps, which is you build it, you run, and, and so, If we, you know, if we 
 think about, you know, DevOps, uh, cause I think this is important context to, 
@@ -83,15 +81,15 @@ point. And, and when it did, the word was at very, very different place. Right?
 We, we were mainly working on monoliths, running on bare metal. Um, the 
 infrastructure that we were running. Insanely less complex than it is right now.
 
-You didn't have Kubernetes GI ups, you didn't have, you know, the CNCF Cloud 
+You didn't have Kubernetes GitHubs, you didn't have, you know, the CNCF Cloud 
 native tooling landscape, which is like hundreds or thousands of different tools 
-that nobody really understands how they fit together and. You know, and, and so 
+that nobody really understands how they fit together and, You know, and, and so 
 the, the time is really different, right? And, and the initial idea behind 
 DevOps is quite simple and, and is great, right?
 
 It's, is to remove barriers between developers and operations and facilitate 
 collaboration between them. But the issue is, in reality for many organizations, 
-uh, what that turned into when you consider all this conve. Trends of GI ops, 
+uh, what that turned into when you consider all this converging trends of GitHubs, 
 cloud Native Kubernetes, iac, and so on and so forth, is a world where, you 
 know, developers are overwhelmed.
 
@@ -110,13 +108,13 @@ developers that are just like too afraid of touching all this, you know,
 spaghetti configuration stuff that they don't wanna mess up.
 
 And on the flip side of that, you have operations or DevOps in some cases, 
-teams. Are completely overwhelmed and you know, are basically just trying to put 
-out fires and fighting constantly ticket ups and. And so when we at Humanitech 
+teams. That are completely overwhelmed and you know, are basically just trying to put 
+out fires and fighting constantly taking ups and, and so when we at Humanitech 
 looked at this, you know, our, our funding team comes from, you know, people who 
 built, uh, the platform, Xing, which is a big, you know, kind of like LinkedIn 
-competitor in Europe that never really took off, but it's still a very company.
+competitor in Europe that never really took off, but it's still a very new company.
 
-Um, our CT O actually built one of the platforms at Google and you know, we 
+Um, our CTO actually built one of the platforms at Google and you know, we 
 realized that in this whole DevOps revolution, what leading. Engineering 
 organizations were doing was building platforms cuz they immediately realized, 
 hey, there is no way that we can, you know, onboard hundreds or even thousands 
@@ -124,8 +122,8 @@ of developers like they were doing every day.
 
 Um, but, um, you know, and expecting everybody to understand this full, you 
 know, super complex, increasingly complex cloud native setup. And so we need 
-some sort of platform layer here to enable developer cell service on the one 
-hand, and then make ops life easier on the. and that's kind of where platform 
+some sort of platform layer here to enable developer self service on the one 
+hand, and then make ops slightly easier on the other. and that's kind of where platform 
 engineering was started.
 
 And this is where we started also doing the work on our community that happy to 
@@ -138,7 +136,7 @@ that developers also run the code, right?
 
 So that you're not throwing code over and then another person or another team is 
 reliable for even to test it, right? So I think everything came a little bit 
-more closer together over the last, let's say 15 years, right? So, uh, respo. 
+more closer together over the last, let's say 15 years, right? So, uh.
 Developers took over more responsibility for testing the code, but also for 
 running the code, but then for shipping the code, right?
 
@@ -170,7 +168,7 @@ question for you. I couldn't said it said it better myself. ,
 [00:09:13] **Michaela:** what you are also talking is DevOps and then site 
 reliability. Site reliability, engineering, right? Mm-hmm. . But another thing 
 that comes up in my mind, especially because I've worked on that over the last 
-two years, is develop experie.
+two years, is develop experience.
 
 And I see a lot of, um, platform teams that you're talking about, right? Those 
 platform from teams also being interested in develop developer experience, 
@@ -182,7 +180,7 @@ Um, but I think the idea of really calling it something. Straight out like
 telling, saying it's it's developer experience and we are also responsible for 
 that. Um, is another task. Do you see that, that people are really interested in 
 that or is it only a part of the developer, uh, the, the platform engineering 
-folks that are interested in DeVero developer experience?
+folks that are interested in Devero developer experience?
 
 What's your perspective on, uh, perspective on that? 
 
@@ -193,7 +191,7 @@ know, make sure that they really optimize for their day-to-day developer
 experience.
 
 Right. And that is where it's so important that you treat your platform as a 
-product that you're. and you treat developers as your internal customers. Cause 
+product that you're shipping. and you treat developers as your internal customers. Cause 
 otherwise that flow, that feedback loop breaks. Um, and so, you know, what we 
 see in the community and in the marketing in general, successful platform 
 engineering teams do is.
@@ -233,11 +231,11 @@ Um, but you know, you brought up earlier this idea of glue that's actually. A
 really, really valuable part, um, of, of the job, of platform teams is really 
 gluing together their, you know, what is a very complex tool chain into one 
 golden path that makes sense. And I think crucially. , you wanna provide 
-developers with a choice of what is the right golden path for a data, right?
+developers with a choice of what is the right golden path for a path, right?
 
 So as an example, what you said, right? You have, you might have, you know, a 
-lot of, um, you know, front end, like a junior front end engineer that really 
-wants to worry about reacting JavaScript and nothing, and not too much more than 
+lot of, um, you know, front-end, like a junior front-end engineer that really 
+wants to worry about react JavaScript and nothing, and not too much more than 
 that. , right? So they don't care whether you're running on E Ks, G K E, which 
 region, like they don't care about any of that, right?
 
@@ -253,10 +251,10 @@ going off path, the ability of, you know, messing around with like lower level
 stuff. And so, you know, What we advocate for in the platform engine community 
 is really a, you know, a toolbox that, um, you know, platform teams use.
 
-There is an unop opinionated toolbox to build opinionated golden path. Why? 
+There is an opinionated toolbox to build opinionated golden path. Why? 
 Because you, there's no better person than your platform, your own platform team 
 to understand what is the right level of instruction and what does a golden path 
-really means for, um, our organiz. . 
+really means for, um, our organization. 
 
 [00:14:44] **Michaela:** So I have, uh, many questions. I wrote down actually 
 four that are really important, so we have to cover all of them.
@@ -272,7 +270,7 @@ Right? So we were providing mm-hmm. , the tools for the software engineers. Um,
 but what I have seen there, and then actually my team was. Reorged, uh, because 
 it grew and grew and grew, right? It became more and more important into one ES 
 one engineering system, which I think, you know, it's a little bit, this idea of 
-first we were, um, we were responsible, responsible for making the build faster 
+first we wl were responsible, responsible for making the build faster 
 for, for, you know, the large organization, which sounds trivial, but if you're 
 running Microsoft, uh, for example, a Windows, it's not that, right?
 
@@ -285,7 +283,7 @@ right?
 
 One engineering platform. And I have seen at that point that a lot of companies 
 tried to, especially larger companies, tried for from this very scattered 
-landscape, right? This team is doing it that way. The S team is doing it a 
+landscape, right? This team is doing it that way. This team is doing it a 
 little bit different. They are using a very different tool, Jane, into this one 
 engineering system where you say, well, an organization with 200,000 people 
 should all have the same tools, right?
@@ -295,7 +293,7 @@ a, a little bit of, of this idea, which is I think, different from what you were
 saying. Right. So, um, you were saying listen to your customers. Um, where, what 
 I have seen, um, in the early days, it was more a top-down approach, right?
 
-It was like we. Get, for example, , right? So now we have, you know, this tool 
+It was like we want Git, for example, right? So now we have, you know, this tool 
 or we have this hammer, let's, let's put it that way, right? We have this 
 hammer, uh, that works very well and we want everybody to use it, right? 
 Independent of their situation. Um, or we want, you know, that everybody does 
@@ -325,7 +323,7 @@ this platform.
 Whereas the, I think the, the ideal scenario actually, and, and frankly what we 
 see in the vast majority of cases in practice is, you know, you have a, a 
 brownfield complex enterprise setup and now you wanna roll out the platform 
-initiative, which. We already have, you know, tens of development teams with 
+initiative, which means we already have, you know, tens of development teams with 
 their own stack, right?
 
 Like these people prefer using, um, you know, Argo cd. These people prefer using 
@@ -337,7 +335,7 @@ see some pattern, I can see some preferences.
 I understand I talk to them, right? And this is where you start formulating an 
 idea of what this like minimum common denominator is. And that is the starting 
 point of your platform. And I would argue that it's probably actually a better 
-starting point. It. A more difficult one and a more, a more laborious one than, 
+starting point. It might be a more difficult one and a more, a more laborious one than, 
 Hey, we can start from scratch and just dream up the ideal platform.
 
 But I think is something is, is, is one that in the long run will probably, um, 
@@ -367,7 +365,7 @@ think the right number, uh, it's about 50 , I would say, uh, you know, 30, 50.
 That's when I think you start seeing the things breaking, right? Because you 
 have two, I think you have two scenarios below that threshold, right? Like, 
 either you have, you know, people are saying, all right, like, I'm just gonna go 
-with the past, like something that, you know, maybe like five or 10 years ago 
+with the path, like something that, you know, maybe like five or 10 years ago 
 could have been like in Heroku for instance.
 
 Now you have a bunch of other solutions for that. Or like, As a service type of 
@@ -378,7 +376,7 @@ then it becomes really hard because that toolbox is just not flexible enough,
 right?
 
 Um, and then the other scenario is basically you just have your like 10, 15, 
-senior backing engineers and everyone is kind. You know, really comfortable 
+senior backing engineers and everyone is kinda like you know, really comfortable 
 handing, handling your IAC modules and your Kubernetes like helmet charts and, 
 and stuff like that. Right? And that's also fine, but that's also doesn't scale.
 
@@ -405,16 +403,16 @@ Cause they have like very, and in fact they have many different platforms
 internally, right? Because they have like very specific requirements and they're 
 just like at a huge scale, right? But, um, if you are not at that scale of a 
 Salesforce over Google, where you actually have like multiple platform teams 
-internally competing with the.
+internally competing with each other.
 
 Um, but you just have like one platform team. Then you wanna provide that 
 platform team with the best possible toolbox to make them succeed. And you don't 
 wanna, and you wanna make sure they don't reinvent the wheel and just like build 
 the whole thing from scratch, but leverage a combination of, you know, either 
 open source or open source and, and, and commercial offerings that give them 
-that initial kind of, you know, found.
+that initial kind of, you know, foundation.
 
-That, that then can be that sort of unop opinionated, um, you know, toolbox that 
+That, that then can be that sort of opinionated, um, you know, toolbox that 
 we're talking about to go build your own opinionated platform and your own 
 opinionated workflows on top. But I think it's important that you kind of focus 
 as a platform team on that serve like last mile optimization and not on let me 
@@ -427,7 +425,7 @@ see a lot of organizations underestimate the effort of, you know, not just
 building a platform , which can be like one or two years, uh, at any, you know, 
 considerable size of company, but also maintaining and improving that platform.
 
-And we see actually a lot of organizations making this mistake where they. Hey, 
+And we see actually a lot of organizations making this mistake where they say. Hey, 
 you know, we had this platform, initiative's gonna run for a year, then we're 
 gonna, this platform is gonna be great. And actually, you know, when you ship 
 the v1 that's when the work starts, like, like with every other product, right?
@@ -461,10 +459,10 @@ there's a.
 A large, uh, virality of forms, how we could actually have that from quite 
 manual to extremely automated. So, so what, what is the toolbox that you are 
 talking about? Do, do I go to GitHub and is there a repository and I download, 
-you know, uh, uh, a standard, um, platform engineering, um, poer plate coat, , 
+you know, uh, uh, a standard, um, platform engineering, um, polar plate coat, , 
 and then I start customizing that to my needs?
 
-Or how, how does that. 
+Or how, how does that work. 
 
 [00:26:34] **Luca:** Yeah, I love this question. This is such a good question 
 because. It's actually something where I think we see the largest gap right now 
@@ -487,7 +485,7 @@ that we see out there is um, especially when there is a top down initiative
 around, hey, we need to build a platform.
 
 Cause it's cool and, you know, people say we should do it. Um, then kind of like 
-people go. Looking at what is the, you know, looking at developer workflows 
+people go into looking at what is the, you know, looking at developer workflows 
 chronologically, right? And so then they analyze it, right? Where, where does a 
 developer start when, you know, she wants to create a new application, a new 
 service.
@@ -550,9 +548,7 @@ and, and it's also gonna be, in fact, one of the, the, the trucks that I'm
 personally really excited about, uh, platform Con 23, which is really just 
 platform blueprints and, and just bring the practitioners and try and start 
 building, you know, phase one was about building a, a, uh, if you will, a 
-shared.
-
-Framework for how to think about these things now is about, you know, building 
+shared framework for how to think about these things now is about, you know, building 
 and sharing actual blueprints and architectures. And so this is what we're 
 focusing on now. Yeah. Yeah. 
 
