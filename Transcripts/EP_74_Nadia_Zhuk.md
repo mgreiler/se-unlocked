@@ -9,208 +9,207 @@ type: transcript
 Podcast. I'm your host, Dr. Mikayla, and today I have the pleasure to talk to 
 Nadia Zhuk. 
 
-But before I start, let me tell you about an amazing opportunity that allows you, yes, you, 
+But before I start, let me tell you about an amazing opportunity that allows you, yes you, 
 to earn additional income! 
 
-Do I have your attention? Yes? Great. So, User Interviews is a company that connects researchers 
-with study participants. And they especially are looking for developers that share 
+Do I have your attention? Yes, Great. So User Interviews is a company that connects researchers 
+with study participants, And they especially are looking for developers that share 
 their feedback on products. 
 
-Share your opinion with top brands such as Spotify, Adobe, Amazon and many more, and get paid. 
+Share your opinion with top brands such as Spotify, Adobe, Amazon and many more and get paid. 
 Most studies take less than one hour to participate and pay over $60. 
 
-So, sign-up today - It’s free - apply to give feedback for products that interest you, 
-and make a nice side income. Additionally, you help to shape the future of the tools we als use. 
-What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
+So sign-up today, It’s free, apply to give feedback for products that interest you, 
+and make a nice side income. Additionally, you help to shape the future of the tools we all use. 
+What’s not to like right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
 
 But now back to Nadia. Nadia is a software engineer at Intercom 
 and was previously working at Zendesk.
 
 But not long ago, Nadia was an English teacher, a translator and journalist, 
 until she decided to learn to program and enter the tech industry. Today she 
-shares with me all about he self thought journey and how to successfully build a 
+shares with me all about her self thought journey and how to successfully build a 
 career as a coder when you're just starting out. So Nadia, I'm really excited 
-that you're here.
+that you're here!
 
 Welcome to the show. 
 
-[00:01:01] **Nadia:** Thank you so much. I'm really excited to be, uh, on. 
+[00:01:01] **Nadia:** Thank you so much. I'm really excited to be on. 
 
-[00:01:04] **Michaela:** So how long are you now in, in the tech industry? How 
-long are you now a programmer 
+[00:01:04] **Michaela:** So how long are you now in the tech industry? How 
+long are you now a programmer?
 
 [00:01:09] **Nadia:** coder? Yeah. It's been just over four years. And, you 
 know, time really flies . Yeah. So, 
 
-[00:01:17] **Michaela:** um, I, I looked a little bit into a book because you 
-wrote a book about your, your journey into tech, right?
+[00:01:17] **Michaela:** um, I looked a little bit into a book because you 
+wrote a book about your journey into tech, right?
 
-So what you learned on this self-taught, uh, developer journey and, um, it, it 
-starts with, at 25, I decided to learn to program. So what's really behind this 
-story? Why did you decide to, uh, you know, start to program instead of, you 
-know, following your career as an journalist, uh, English teacher? Mm-hmm. And 
+So what you learned on this self-taught, developer journey and, it 
+starts with, at age 25, I decided to learn to program. So what's really behind this 
+story? Why did you decide to, you know, start to program instead of, 
+following your career as an journalist, English teacher, and 
 translator.
 
-[00:01:43] **Nadia:** Yeah. So, um, in my book I talk a lot, a lot, a lot about 
+[00:01:43] **Nadia:** Yeah. So, in my book I talk a lot, about 
 my background and how I was really non-technical before I started teaching 
 myself to code. And you know, when I say I was nontechnical, I'm not being 
-honest. Uh, you know, modest, uh, I was non-technical. So I was one of those in 
+honest. you know, modest, I was non-technical. So I was one of those in 
 line people who are afraid of.
 
 Change in the setting on their computer, you know, because they're afraid of 
-breaking their whole machine. So, uh, for me, this change from being a 
-journalist to being a programmer was a really huge transformation. So, um, the 
+breaking their whole machine. So, for me, this change from being a 
+journalist to being a programmer was a really huge transformation. So, the 
 decision to switch gears didn't come from a very positive place. So actually, I 
 was working as an editor at an independent news magazine.
 
-Uh, You know, by that time and while we decided to close down the magazine, I 
+By that time and while we decided to close down the magazine, I 
 kind of was in a very dark place where I didn't really want to continue working 
-as a journalist anymore. I didn't want to be involved in use or politics. I was 
-very disappointed in the whole uh, world, in this whole sphere. So I wanted to 
+as a journalist anymore. I didn't want to be involved in politics. I was 
+very disappointed in the world. So I wanted to 
 do something new and also I was.
 
 Still living back home in Belarus, and I decided to move from Belarus to Poland. 
 So at the same time, I was thinking of what I could be doing once I moved to a 
-new country. So I needed to do something that would be, uh, easily done in a new 
+new country. So I needed to do something that would be, easily done in a new 
 country where I didn't speak the language, where I didn't know the culture.
 
 So I realized full very quickly that I didn't really have many transferable 
-skills that I could just take with. Go into a country which was, uh, you know, 
-where another language was being spoken. So, um, I thought about different 
-options and honestly I had a lot of resistance, uh, towards the idea of being a 
-programmer, even though it was becoming, uh, You know, pretty obvious to me that 
-this was a career that was wide open to anybody who had the time and the, uh, 
-you know, the energy to learn it.
+skills that I could just take with me. Go into a country which was, you know, 
+where another language was being spoken. So, I thought about different 
+options and honestly I had a lot of resistance, towards the idea of being a 
+programmer, even though it was becoming, You know, pretty obvious to me that 
+this was a career that was wide open to anybody who had the time and the, 
+ the energy to learn it.
 
 And I knew that this was probably the best bet for me in terms of starting a new 
 life in a new country. And still I was very reluctant. I had a lot of 
-misconceptions and a lot of stereotypes about being a programmer and. Pretty 
-sure that I would never be able to become a programmer. So, uh, finally I 
+misconceptions and a lot of stereotypes about being a programmer and, pretty 
+sure that I would never be able to become a programmer. So, finally I 
 managed to break down my internal resistance.
 
-I started teaching myself to code, uh, bit by bit. It was very difficult. Uh, 
+I started teaching myself to code, bit by bit. It was very difficult. Uh, 
 overall, it took me nine months to go from being completely non-technical to 
-finding my first job in Poland. And at the end of those nine months, I was able 
-to move from Belarus to Poland to start my first developer job, kind of kick my, 
-uh, kick off my new career.
+finding my first job in Poland, and at the end of those nine months, I was able 
+to move from Belarus to Poland to start my first developer job, to kick off my new career.
 
-and also my life in the new country. And from then it has just been a very quick 
-progression of events, different jobs. And uh, eventually last year I moved from 
+and also my life in the new country, from then it has just been a very quick 
+progression of events, different jobs. And eventually last year I moved from 
 Poland to London to start my current job. And it is just been such, um, an 
 amazing journey and it's interesting to think of how much changed since then and 
 how many opportunities the technical skills really opened up.
 
 Yeah. And it 
 
-[00:04:31] **Michaela:** sounds like a, an amazing journey. And, um, so what 
-would be interesting to me is, was it all internally? So, um, did you think 
+[00:04:31] **Michaela:** sounds like an amazing journey. And, so what 
+would be interesting to me is, was it is all internally? So, did you think 
 about like, one day while programming as a career that would allow me, you know, 
-to live the life that I'm dreaming of, you know, like in Poland and with the 
+to live the life that I'm dreaming of, like in Poland and with the 
 skills that I have right now?
 
-Um, or is it somebody that you know, that somebody from outside told you, you 
-know, actually programming, you know, would, would make a good 
+Or is it somebody that you know, that somebody from outside told you,
+actually programming, would make a good 
 
-[00:04:57] **Nadia:** career for. . Mm-hmm. . Yeah. Actually, my husband was the 
-one that really encouraged me to learn to code because he, uh, was, he is also a 
-self-taught programmer, so he encouraged me and he told me that this is 
+[00:04:57] **Nadia:** career. Actually, my husband was the 
+one that really encouraged me to learn to code because he was, he is also a 
+self-taught programmer, so he encouraged me and told me that this is 
 something that you can actually learn, that anybody can learn to program if 
-they, you know, put in their time and the effort.
+they, put in their time and the effort.
 
 And of course, I also heard a lot of stories from people online who taught 
-themselves to code, and I saw. The skill transformed their lives. But finally 
-enough, I think that I, before that time, I didn't ever consider learning 
-computer science or coding, uh, even though my, um, My brother, uh, has, has 
+themselves to code, and I saw the skill transformed their lives, but finally I
+think that, before that time, I didn't ever consider learning 
+computer science or coding, even though my, my brother, has 
 been a program professional programmer for all of his life, so almost 20 years 
 now.
 
 And I never really asked him what he did for a living. Nobody really understood 
-it because like my whole family's not non-technical. So, uh, we just knew that 
-he was like, you know, Good with computers, and that's how we knew about him. 
-Uh, so for me, and also I, of course I met people who were involved with 
+it because my whole family's non-technical. So, we just knew that 
+he was like, good with computers, and that's how we knew him. 
+Uh, so for me, of course I met people who were involved with 
 computer science, but for me it was always something very foreign.
 
-So I think that a combination of a couple of factors came in, uh, encouragement 
+So I think that a combination of a couple of factors came in, encouragement 
 from my husband, me really being in a place where I didn't know what to do next, 
 and I just wanted to do something that would give me some kind of direction on 
-purpose. Uh, and also something that, Allow me to relocate to another country 
+purpose, and also something that allows me to relocate to another country 
 and start a new life with a job that would be relatively well paid.
 
 And also I knew that there were a lot of opportunities in the world of tech, 
-that those jobs were in demand. I also heard of people really, uh, enjoying the 
+that those jobs were in demand. I also heard of people really, enjoying the 
 profession and the opportunities that it brings. So, um, there is a lot of 
 different factors. I think that a lot of it was kind of external and.
 
-internal motivation was there as well. Um, yeah. Yeah. 
+Internal motivation was there as welL 
 
-[00:06:40] **Michaela:** Cool. And so how did you start, like did you go to, um, 
-a search engine and just said like, Programming tutorial , or, 
+[00:06:40] **Michaela:**  And so how did you start, like did you go to, 
+a search engine and just said like, Programming tutorial?
 
-[00:06:49] **Nadia:** you know, uh, it's, it's nice to remember like what was 
-the first, like, uh, first Google search term, but, uh, I tried a couple of 
+[00:06:49] **Nadia:** you know, it's nice to remember like what was 
+the first Google search term, but I tried a couple of 
 different things.
 
-Uh, I tried, uh, so for the first thing that I tried, uh, was, uh, Website 
-called, uh, try Ruby, which is like a 15 minute tutorial where you can try out 
-the Ruby language. And in general, why did I start with Ruby? Uh, which is not 
+I tried, so for the first thing that I tried a Website 
+called, try Ruby, which is like a 15 minute tutorial where you can try out 
+the Ruby language. And in general, why did I start with Ruby? which is not 
 the most popular language and it's not something that most people start with. So 
 I had this friend who actually told me about Ruby, this great programming 
 language.
 
-He said that it does. Meta programming. Uh, I had no idea what it was, but he 
+He said that it does. Meta programming. I had no idea what it was, but he 
 was like, it's really cool. Then there is also rub rails, which is a framework 
 that is very easy to learn and to, that allows you to build websites very 
-quickly. So I heard this and I was, uh, excited about it at that point, but also 
-I, I think I did the Google search and I looked.
+quickly. So I heard this and I was, excited about it at that point, but also 
+I think I did the Google search and I looked.
 
 At what was the most popular programming language, right? And it was JavaScript 
 like it is right now. So I actually tried learning JavaScript first before I 
 properly learned Ruby. It was a complete disaster. I couldn't understand 
-anything. Um, I. Went through some tutorials on YouTube, had no idea what they 
+anything. I went through some tutorials on YouTube, had no idea what they 
 were talking about.
 
-Almost gave up on coding. Uh, thought that maybe I was too stupid to do this. 
-But then luckily I decided to try Ruby and to try this other language and other 
-framework. And this was the moment when I found the tutorial that worked for me 
-that, um, Showed me that there was some hope for me, you know, that I could 
+Almost gave up on coding. Thought that maybe I was too stupid to do this. 
+Then luckily I decided to try Ruby and to try this other language and other 
+framework. This was the moment when I found the tutorial that worked for me 
+that, showed me that there was some hope for me, you know, that I could 
 understand something at least.
 
-And this is when it started. And then I think from there it was easier for me 
-because I, once I understood the basics of programming in rub rails, I was like, 
-okay, now I understand that I need to, you know, also, I did like tutorials for 
-HTML and css, um, on, uh, code Academy and website like this. So I was learning 
+And this is when it started. Then I think from there it was easier for me 
+because once I understood the basics of programming in rub rails, I was like, 
+okay, now I understand that I need to do tutorials for 
+HTML and css, on code Academy and websites like this. So I was learning 
 the basics of web development.
 
-Um, and this is how it started. And afterwards, once I underst. There were, you 
-know, there was such in success, there were some several languages. Uh, once I 
+This is how it started. Afterwards, once I undersoot. There were, you 
+know, there was alot of success, there were some several languages. Once I 
 understood the basic words and terminology, I was able to search for more 
 tutorials and for more books. I did a lot of my study actually through books.
 
-Um, and that's how, that's how it went for a while. Then I went into the, you 
-know, job search mode that I built, the type projects and portfolio. Uh, and 
-that was kind of another story, but I don't, I can't say that I had. Organized, 
-uh, curriculum because it was all done by me. I didn't really have like a 
+That's how, that's how it went for a while. Then I went into the,
+job search mode that I built, the type projects and portfolio.
+That was kind of another story, but I don't, I can't say that I had organized, 
+curriculum because it was all done by me. I didn't really have like a 
 teacher or somebody who would be guiding me all the time.
 
 So it was mostly self-guided and I think that it worked very well for me, but it 
-was also very difficult. Um, I'm going to lie. Um, but unfortunately I didn't 
+was also very difficult. I'm not going to lie, but unfortunately I didn't 
 really have any other options at that time. I couldn't afford to bootcamp. I 
 didn't want to go to college, so that was the only option that I had.
 
-And. glad that I kept pushing through . Yeah, it 
+Glad that I kept pushing through. Yeah, it 
 
-[00:09:38] **Michaela:** turned out great. Right. So what's the first job that 
-you then apply? Is it, um, a full, full developer job, or was it like an 
-internship or, um, yeah. What, what kind of job do you, did you feel like you 
+[00:09:38] **Michaela:** turned out great. Right, so what's the first job that 
+you then apply? Is it, a full developer job, or was it like an 
+internship? What, what kind of job do you, did you feel like you 
 
-[00:09:50] **Nadia:** could handle? Uh, yeah, so I think that like many people, 
+[00:09:50] **Nadia:** could handle? Yeah, so I think that like many people, 
 when I was just learning to code, I felt that I wasn't really ready to apply for 
 jobs because objectively I didn't really know that much.
 
-And I'm saying this now because I now know how little I knew at that point. But 
-at that point I didn't really know how, you know, , how poor my knowledge was . 
-And also I was living in Valis and I was kind of, um, I was feeling that, you 
-know, I really need to move, you know, quickly. And there was this. Pressure 
+I'm saying this now because I now know how little I knew at that point, but 
+at that point I didn't really know how poor my knowledge was. 
+And also I was living in Valis and I was kind of, I was feeling that
+I really need to move, quickly. And there was this, pressure 
 that I felt, um, that I need to do something quickly and I need to get moving.
 
 And I think that this kind of pressure really motivated me to ignore my imposter 
