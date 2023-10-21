@@ -6,7 +6,7 @@ type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello and welcome to the Software Engineering Unlocked 
-Podcast. I'm host Dr. McKay, and today I have the pleasure to talk to Luca 
+Podcast. I'm host Dr. Greiler, and today I have the pleasure to talk to Luca 
 Galante, who will talk with me about platform engineering. 
 
 But before I start, let me tell you about an amazing opportunity that allows you, yes, you, 
