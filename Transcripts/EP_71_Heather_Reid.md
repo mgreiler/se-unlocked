@@ -9,26 +9,20 @@ type: transcript
 Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
 Heather Reid, a test engineer about her latest job search. 
 
-But before I start, let me tell you about an amazing opportunity that allows YOU, yes, YOU to earn additional income! 
-Do I have your attention? Yes? Great. So, [User Interviews](https://www.userinterviews.com/hello) is a company that connects 
-researchers with study participants. And they especially are looking for developers 
-that share their feedback on products. 
-
-Share your opinion with top brands such as Sporify, Adobe, Amazon and many more, and get paid. 
-Most studies take less than one hour to participate and pay over $60. 
-
-So, sign-up today - It’s free - apply to give feedback for products that interest you, and make a 
-nice side income. Additionally, you help to shape the future of the tools we als use. 
-What’s not to like, right? So, hop over to [userinterviews.com](https://www.userinterviews.com/hello)
-That is [userinterviews.com](https://www.userinterviews.com/hello).
+But before I start, let me tell you a little bit about my latest project 
+awesomecodereviews.com. All my work on code reviews has now its own dedicated 
+home. At awesomecodereviews.com, you'll find articles about code review 
+practices, code review checklists, news about the latest research about code 
+reviews, and of course workshops and courses I offer around this topic. So 
+please hop over to awesomecodereviews.com and check out my latest work.
 
 But now back to Heather. Heather is a test engineer at Glofox.
 
 Before that, she was the community boss for Ministry of Testing, making sure 
 that the testing community had everything to be striving. Before that, she was a 
-software tester at Exploristics. And at Moola, although Heather had been active in the 
-testing community for over a decade, when she was searching for a new role, she 
-heard she wasn't the tester and that she has been gone too long.
+software tester at Exploristics, and at Moola. Although Heather had been active 
+in the testing community for over a decade, when she was searching for a new 
+role, she heard she wasn't the tester and that she has been gone too long.
 
 I want to talk with her about her latest job search. So Heather, welcome to the 
 show. 
@@ -36,65 +30,66 @@ show.
 [00:01:13] **Heather:** Thank you so much for having me. 
 
 [00:01:16] **Michaela:** Yeah, so we met like Matt online, Matt, when I was 
-actually applying for giving a talk ministry of testing. I think that was the 
-first time that we somehow got into contact was a little bit before the pandemic 
-and then we never met because the pandemic came and we didn't 
+actually applying for giving a talk at Ministry of Testing, I think. That was the 
+first time that we somehow got into contact, was a little bit before the pandemic 
+and then we never met because the pandemic came and we didn't go there, like to 
+the Ministry of Testing thing.
 
-[00:01:33] **Heather:** go there, like to the Ministry of Testing thing.
+[00:01:35] **Heather:** Yeah, yeah.
 
-Right, 
+[00:01:36] **Michaela:** Right, the test batch. So yeah, but I'm really happy 
+that to have you here. And so, well, because of that, I'm following you on 
+Twitter and I'm reading, you know, a little bit what you're writing and I saw 
+you write this blog post about your, like, like this latest job search that at 
+one point you were very convinced that it's true.
 
-[00:01:36] **Michaela:** The test batch. So yeah, but I'm really happy that to 
-have you here. . And so, well, because of that, I'm following you on Twitter and 
-I'm reading, you know, a little bit what you're writing and I saw you write this 
-blog post about your, like, like this latest chop search that at one point you 
-were very convinced that it's true.
+I have been out of the testing game. 
 
-I have been out of the testing game, . Yes. And, and it's really hard to get a 
+[00:01:57] **Heather** Yes. 
+
+[00:01:58] **Michaela** And, and it's really hard to get a 
 job now. So how, how did that come? 
 
 [00:02:00] **Heather:** Um, So yeah, I suppose why I started searching for a job 
-was I, I started with ministry of testing to, to work on our community platform, 
-the club. And I started writing code for that and I realized, Oh, I miss this so 
-much and like testing my changes and everyth.
+was I, I started with Ministry of Testing to, to work on our community platform, 
+the club. And I started writing code for that and I realized, oh, I miss this so 
+much and like testing my changes and everything.
 
 And I started, I started to think then that maybe, maybe I, I wanted to get back 
-into a role where I was doing much more testing every day than I was getting. 
-The chance to with ministry of Testing because there, there was so much to do. 
+into a role where I was doing much more testing every day than I was getting
+the chance to with Ministry of Testing because there, there was so much to do. 
 It was, it was a really exciting job. There was, there was so much that you, 
 that you could do in it.
 
 But I wanted, I wanted to pivot more back to, to the testing side of things. So 
 I started to apply to different companies. Some people rejected me as soon as 
-they saw my cv, but just they saw ministry of testing, community boss. All 
-right. Well, you haven't been a tester for, for five years, so No. A couple of 
-other companies.
+they saw my CV, but just they saw Ministry of Testing, community boss. All 
+right. Well, you haven't been a tester for, for five years, so no. A couple of 
+other companies, then I went through the interview process with them and had, 
 
-Then I went through the interview process with them and had, So can we, can we 
+[00:03:18] **Michaela:** So can we, can we, tell maybe a little bit what a 
+Community Boss does because yeah, I know it, you know it, but maybe you know, 
+my listeners don't know. So they said you have been a community boss at 
+Ministry of Testing for five years.
 
-[00:03:18] **Michaela:** tell maybe a little bit what a Community Boss does 
-because Yeah, I know it, you know it, but maybe you know, my listeners don't 
-know. So they said you have been a community boss at Ministry of Testing for 
-five years.
-
-Ministry of Testing is one of the largest. Testing. Communities. Right. Maybe. I 
-dunno. And and so you had a community boss there. What were your 
+Ministry of Testing is one of the largest testing communities, right? Maybe. I 
+dunno. And so you had a community boss there. What were your 
 responsibilities? What did you do all day as a community boss that you are so 
-out of testing and you know, far away from 
+out of testing and you know, far away from the industry?
 
-[00:03:44] **Heather:** the industry? Yeah, that's a, it's a, that's a good 
-point actually, cuz one of my previous roles was a, a mathematical planner, 
-which was the job title for.
+[00:03:44] **Heather:** Yeah, that's a, it's a, that's a good 
+point actually, 'cause one of my previous roles was a, a mathematical planner, 
+which was the job title for, for a software developer. 
 
-For a software developer. Cause I just seem to, I, I seem to live in vague job 
-title land a lot of the time. . So yeah, the community boss I was involved in 
+Cause I just seem to, I, I seem to live in vague job 
+title land a lot of the time. So yeah, the community boss I was involved in 
 organizing the conferences that we ran around the world each year. So we used 
-run seven conferences around the globe each year. I also helped out with our 
+to run seven conferences around the globe each year. I also helped out with our 
 social media platforms, making sure that things were getting shared both our 
 content and content from people in the community.
 
 I, so as part of the, the organizing of the events, I used to listen to 
-podcasts, watch people's YouTube channels, read their blogs to. To get a good, a 
+podcasts, watch people's YouTube channels, read their blogs, to, to get a good, a 
 good feel for people in the community. So looking for people who could give a 
 talk, maybe online, not quite at the conference as part of the conferences, then 
 I would.
@@ -102,76 +97,72 @@ I would.
 I would make a point of reviewing every single abstract that we received for a 
 conference to give people feedback. Now that might sound like, well, obviously 
 you should do that, but for some of the events, we were getting four or 500 
-abstracts submitted for them, and we had a maximum of 10 places. So, wow.
+abstracts submitted for them, and we had a maximum of 10 places.
 
-The, the ratio of, of submissions to acceptances. , it was never going to be 
-huge. But at because of that I wanted to make sure that everyone who submitted 
+So, the, the ratio of, of submissions to acceptances, was, it was never going to be 
+huge. But because of that I wanted to make sure that everyone who submitted 
 received feedback from us as to why, how they could make it better. How, how to 
 push themselves into the top 20 shortlist for future, for example, up. What, 
 what else did I do?
 
-Oh, yeah. I did, I moderated online communities, so a lot of that as well is in 
+I did, I moderated online communities, so a lot of that as well is in 
 the background. So a lot of what the community boss did was kind of in the 
-shadows. , mm-hmm. . So I was keeping an eye on our Slack channels, our, our 
+shadows. So I was keeping an eye on our Slack channels, our, our 
 other discussion forums. If we had an online event. I was watching the chat 
 stream.
 
-making sure that people were adhering to our code of conduct. Mm-hmm. . And if 
-they weren't, then again, taking action behind the scenes for that. Okay. So 
-yeah, a lot. Yeah. . 
+Making sure that people were adhering to our code of conduct. And if 
+they weren't, then again, taking action behind the scenes for that. So 
+yeah, a lot.
 
 [00:06:14] **Michaela:** Yeah, a lot. A lot. And I definitely didn't hear that 
-you were testing, so probably Right, right. So you're not actively testing. But 
-on the other hand, what comes to my mind is like softer testing, I would.
+you were testing, so probably, right, right. So you're not actively testing. But 
+on the other hand, what comes to my mind is like software testing. 
 
-Almost like riding a bicycle. I don't know. Like I would say it's like that, 
-Like if you know how to test software, it's really hard to forget. I don't know, 
+I would say its almost like riding a bicycle. I don't know. Like I would say it's 
+like that, like if you know how to test software, it's really hard to forget. I don't know, 
 maybe you can't forget. Maybe you forget it. In five years, did you forget how 
-to test software in five 
+to test software in five years?
 
-[00:06:39] **Heather:** years? Definitely not given, given the experience I've 
+[00:06:39] **Heather:** Definitely not, given, given the experience I've 
 had in the job so far.
 
-Yeah, Right. I definitely haven't I, yeah, I think, I think to an extent, 
+I definitely haven't I, yeah, I think, I think to an extent, 
 writing code is similar. Like you'll come, like if you took a break and you come 
 back. You'll be able to start writing code. It might not be super perfect. 
-Mm-hmm. , there be a bullet of nuances that you'll have forgotten, but you'll, 
+There'll be a couple of nuances that you'll have forgotten, but you'll, 
 you'll manage to, to use your riding a bike analogy, you'll manage to get up on 
 the bike and, and pedal for a little bit, but your balance might be off, but 
-you'll keep practicing and practicing and, and you'll, you'll get.
+you'll keep practicing and practicing and, and you'll, you'll get ack.
 
 [00:07:17] **Michaela:** Yeah. I also think that if you read, you know, 
 abstracts of, you know, what people will give talks at the conference, if you 
 read blog posts to be, you know, informed what the community thinks. You 
-actually know a lot about testing. I mean, yeah, these are, this is if you would 
+actually know a lot about testing. I mean, these are, this is if you would 
 be on a testing job, well then you would do testing, but then in addition, if 
 you would be reading those articles, you would definitely advance your career.
 
-Right. So, yeah. How, how did you feel about it? Did you feel that you actually 
+Right. So, how, how did you feel about it? Did you feel that you actually 
 know quite what's going on in the testing community? Maybe even better as 
 somebody that just tests and doesn't read any articles or sees any, you know, 
-conference talks. I mean, you were right there with the latest 
+conference talks. I mean, you were right there with the latest and greatest, right?
 
-[00:07:57] **Heather:** and greatest, right?
-
-Yeah. Yeah. And as part of that as well, I, I used to, at the, at the in-person 
-conferences, I used to sit in on some of the workshops as. Maybe even take part 
-in some of them. And that went as well when we moved to online because of the 
-pandemic. Then we started to do 99 minute workshops, mm-hmm. on online.
+[00:07:57] **Heather:** Yeah. Yeah. And as part of that as well, I, I used to, at the, 
+at the in-person conferences, I used to sit in on some of the workshops as well. 
+Maybe even take part in some of them. And that went as well when we moved to online 
+because of the pandemic. Then we started to do 99 minute workshops, mm-hmm. on online.
 
 So you could attend online and you could, you could learn a key skill in 99 
 minutes. So as, as part of the, the moderating and all that sort of stuff. I 
 used to attend those workshops and I used to, So I there's one that sticks out 
-in my mind of like, of, of, of GI skills, so how to mm-hmm. . So I was trying to 
-refresh my memory and how to use gi.
+in my mind of like, of, of, of Git skills, so how to, So I was trying to 
+refresh my memory and how to use git.
 
 So I attended one of those. There was a, an SQL workshop, an accessibility 
 workshop. So I was attending all of these and I was doing and learning with 
-people who were in, in the community. So while I didn. Necessarily have a 
+people who were in, in the community. So while I didn't necessarily have a 
 product that I could practice it all on. I was, I was still trying to stay up to 
-date with it all.
-
-Yeah. 
+date with it all. 
 
 [00:09:13] **Michaela:** So you told us that there were some desk rejects, 
 right? People just saw Ucv. Yeah. Oh, community boss. That's not the tester. So 
@@ -713,5 +704,3 @@ Well, whatever messaging system you use, or give it a positive review on your
 favorite podcasting platform, such as Spotify or iTunes. This would mean really 
 a lot to me. So thank you for listening. Don't forget to subscribe and I will 
 talk to you in two weeks. Bye.
-
-
