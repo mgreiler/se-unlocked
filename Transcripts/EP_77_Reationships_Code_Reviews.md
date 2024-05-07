@@ -1,4 +1,9 @@
-# code-review-relationship
+---
+episode: "Transcript Episode 77 Realationships impact Code Review Outcomes"
+permalink: /relationships-code-reviews/
+status: publish
+type: transcript
+--- 
 
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked Podcast. I'm
 your host, Dr. McKay, and after quite some time of radio silence on my end,
