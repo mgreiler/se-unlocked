@@ -6,7 +6,7 @@ type: transcript
 ---
 
 [00:00:00] **Michaela:** Hello and welcome to the Software Engineering Unlocked 
-Podcast. I'm your host, Dr. McKayla, and today I have the pleasure to talk to 
+Podcast. I'm your host, Dr. Michaela, and today I have the pleasure to talk to 
 Heather Reid, a test engineer about her latest job search. 
 
 But before I start, let me tell you a little bit about my latest project 
@@ -29,7 +29,7 @@ show.
 
 [00:01:13] **Heather:** Thank you so much for having me. 
 
-[00:01:16] **Michaela:** Yeah, so we met like Matt online, Matt, when I was 
+[00:01:16] **Michaela:** Yeah, so we met like met online, met, when I was 
 actually applying for giving a talk at Ministry of Testing, I think. That was the 
 first time that we somehow got into contact, was a little bit before the pandemic 
 and then we never met because the pandemic came and we didn't go there, like to 
@@ -38,12 +38,12 @@ the Ministry of Testing thing.
 [00:01:35] **Heather:** Yeah, yeah.
 
 [00:01:36] **Michaela:** Right, the test batch. So yeah, but I'm really happy 
-that to have you here. And so, well, because of that, I'm following you on 
+to have you here. And so, well, because of that, I'm following you on 
 Twitter and I'm reading, you know, a little bit what you're writing and I saw 
 you write this blog post about your, like, like this latest job search that at 
-one point you were very convinced that it's true.
+one point you were very convinced that it's true:
 
-I have been out of the testing game. 
+"I have been out of the testing game". 
 
 [00:01:57] **Heather** Yes. 
 
@@ -65,7 +65,7 @@ But I wanted, I wanted to pivot more back to, to the testing side of things. So
 I started to apply to different companies. Some people rejected me as soon as 
 they saw my CV, but just they saw Ministry of Testing, community boss. All 
 right. Well, you haven't been a tester for, for five years, so no. A couple of 
-other companies, then I went through the interview process with them and had, 
+other companies, then I went through the interview process with them and had some--
 
 [00:03:18] **Michaela:** So can we, can we, tell maybe a little bit what a 
 Community Boss does because yeah, I know it, you know it, but maybe you know, 
@@ -92,7 +92,7 @@ I, so as part of the, the organizing of the events, I used to listen to
 podcasts, watch people's YouTube channels, read their blogs, to, to get a good, a 
 good feel for people in the community. So looking for people who could give a 
 talk, maybe online, not quite at the conference as part of the conferences, then 
-I would.
+I would--
 
 I would make a point of reviewing every single abstract that we received for a 
 conference to give people feedback. Now that might sound like, well, obviously 
@@ -179,11 +179,11 @@ give you this exercise to do, and then we're gonna go through your. Get
 repositories and we're going to go through all your previous blogs. And it was, 
 it was really intense, but I was successful.
 
-And that was the first one. And I kind of went, Oh, maybe I can do this. And 
-then they said, Oh, sorry, actually you're based in Ireland. Oh, we can't hire 
-from Ireland. And I was, No. Cool. Okay. Thank you. . . So there was that, that 
+And that was the first one. And I kind of went, "Oh, maybe I can do this". And 
+then they said, "Oh, sorry, actually you're based in Ireland. Oh, we can't hire 
+from Ireland". And I was, "No. Cool. Okay. Thank you..." So there was that, that 
 the initial, it was like, Woo, brilliant. And then I had, I had a couple of 
-other interviews, so one where I did, so they'd read my cv, I had a couple of 
+other interviews, so one where I did, so they'd read my CV, I had a couple of 
 half hour interviews and everything was looking really good.
 
 They were apparently very impressed with me. and, and then I got a rejection and 
@@ -193,29 +193,29 @@ someone who can do that. And I was kind of, I, I was really hurt when I first
 heard it.
 
 I was like, Oh my God. But as I spoke to people in the community, they were 
-like, Nobody will make an impact in their first week in a new job That. 
+like, nobody will make an impact in their first week in a new job. That's 
 outrageous to assume, but it, the doubt starts to creep in. And then mm-hmm. 
 interviewed with a couple of other companies and maybe did the first round and 
-they'd said, Oh, if, why do you want to get back into testing?
+they'd said, "Oh, if, why do you want to get back into testing?"
 
-I said, Well, I've, I've never left. But Okay. Well, I, I miss hands on testing 
+I said, "Well, I've, I've never left. But Okay." Well, I, I miss hands on testing 
 and, you know, I've been practicing. Well, you know, practicing isn't the real. 
 Oh, okay. And then there was a couple where it was just question after question 
-after question from the interviewer, and they were asking me, Oh, what if you 
-are in this scenario, how would you test this?
+after question from the interviewer, and they were asking me, "Oh, what if you 
+are in this scenario, how would you test this?"
 
 And I started asking questions for context, because as testers, that's what we 
 do. You, we don't just get a product and start testing. You're starting to ask, 
 Well, what do our customers want? Okay. And. For what risks have you seen? So 
-you're starting to build a picture of mm-hmm. . Okay. Well if they've already 
+you're starting to build a picture of mm-hmm. Okay. Well if they've already 
 identified these risks, but I've identified these where, where can we take this 
-when we're testing and I got back, Well, you can't ask questions.
+when we're testing and I got back, "Well, you can't ask questions."
 
-Sorry. No, you just have to go with this and test this. You can't ask. And each 
-of as, as these bad interviews for want of a better phrase, build up, and 
+"Sorry. No, you just have to go with this and test this. You can't ask." And as each 
+of, as these bad interviews for want of a better phrase, build up, and 
 they're, they start getting more and more negative. You start doubting yourself. 
-You start thinking, I can't do this. I can't get back into testing, and I, I 
-don't know this.
+You start thinking, "I can't do this. I can't get back into testing, and I, I 
+don't know this."
 
 And they're, they're all right. And why should I even be trying? And it was 
 really hard, but. Lots of people in the community were supporting me because 
@@ -224,43 +224,43 @@ And the, the company that I'm now with, it was, it was a, a chance encounter
 where I got a message asking, Oh, how are things going?
 
 I'm, I mean, I'm interviewing for some jobs and, and Hugh, who is my manager now 
-at Blow Fox, he said, Oh, you're, you're interviewing. And I said, Yeah, I just, 
-I wanna get back into, into software testing. And he says, Oh, we have an open 
+at Glofox, he said, "Oh, you're, you're interviewing." And I said, "Yeah, I just, 
+I wanna get back into, into software testing." And he says, "Oh, we have an open 
 role. Would you like to apply now? He said, Because I know you, I'm gonna stay 
-as much outta this process as possible.
+as much outta this process as possible."
 
-I'm gonna let our other managers, whatever interview you. But I really, really 
-think that you would be a perfect fit for our company. And I was like, Oh yeah, 
-here we go. Another one saying, You'll be perfect because you know people from 
+"I'm gonna let our other managers, whatever interview you. But I really, really 
+think that you would be a perfect fit for our company." And I was like, "Oh yeah, 
+here we go." Another one saying, You'll be perfect because you know people from 
 the community and they're, that's all, they're only interested in me because 
 like it's, I could help them with connections or something, which is, which is 
 what had happened with previous roles.
 
-So I was entering it with a negative mindset, I suppose. Mm-hmm. . But my first 
+So I was entering it with a negative mindset, I suppose. Mm-hmm. But my first 
 interview was, One of the directors of engineering who I'd never met and, and 
 the, the the guy who would go on to be my team lead and they. We were able to 
 ask like really frank, honest questions to each other, and I felt so excited.
 
 Like I, I, I genuinely asked them. Cause at this point I was like, I have 
 nothing to lose. I've had so many bad interviews, Let's just roll with it. I 
-said, Okay. In your opinion, what's the biggest mistake this company has ever 
-made? And, and they said, Hmm, okay. That's a good. Well, I think one of our 
-biggest mistakes was not having testers in, in the beginning.
+said, "Okay. In your opinion, what's the biggest mistake this company has ever 
+made?" And, and they said, "Hmm, okay. That's a good. Well, I think one of our 
+biggest mistakes was not having testers in, in the beginning."
 
-We did two years without it and we've spent years paying it back. So they were, 
-they were both pretty well aligned on that. And I said, I asked then what does a 
-bad day in your job look like? And the director of engineering had. Well, if 
-there is an outage that goes on for a prolonged period of time, he said, That's 
+"We did two years without it and we've spent years paying it back. "So they were, 
+they were both pretty well aligned on that. And I said, I asked them "what does a 
+bad day in your job look like?" And the director of engineering said "Well, if 
+there is an outage that goes on for a prolonged period of time", he said, "That's 
 a bad day in my job because customers are, are gonna start losing faith in our 
-business.
+business."
 
-And we, we pride ourselves in very like low amounts of downtime. And the team 
+"And we, we pride ourselves in very like low amounts of downtime. And the team 
 lead said for him a bad day in his job was receiv. A notice that someone wanted 
 to quit because he said if, if he'd had no indication before this, that that was 
 going to happen, that then to him, it felt like he wasn't doing a good job as a 
-team lead.
+team lead."
 
-Mm-hmm. if he, if he didn't see it coming, he felt like he'd somehow let this 
+Mm-hmm. If he, if he didn't see it coming, he felt like he'd somehow let this 
 person or the team. and I really loved that honesty. It's like, this is great. I 
 got to ask questions and I got really honest answers back. This is fabulous. And 
 so my total interview process, I had the first interview with the, the team lead 
@@ -280,13 +280,13 @@ And yeah, honestly, it's. The role so far has lived up to the expectations that
 those people set and more so I was definitely not sold something fake
 
 [00:17:24] **Michaela:** And so it sounds very intense. So there was the, the 
-director, there was the cto mm-hmm. The ceo and another 
+director, there was the cto mm-hmm. The CEO and another. 
 
-[00:17:32] **Heather:** tester, right? Or so Yeah. The, the first one was, The 
+[00:17:32] **Heather:** Tester, right? Or so Yeah. The, the first one was, The 
 director of engineering and the team lead, and then there was a tester and the 
-test team lead and then the cto and I was meant to have one with the ceo.
+test team lead and then the cto and I was meant to have one with the CEO.
 
-Mm-hmm. . But at the time that I was interviewing he was, he was trying to 
+Mm-hmm. But at the time that I was interviewing he was, he was trying to 
 secure series B funding, so he sent his apologies and said, Look, everyone's so, 
 Has sung your praises? I am. I am completely happy to, to offer you a role. And 
 then once I started, there was I think four other people who started around the 
@@ -319,10 +319,10 @@ Mm-hmm. time Box your investigation into this and based on your investigation,
 write a short report of the risks you saw or the approaches you would take to 
 testing. And at the time I had a seven month old. So I, time boxing was perfect 
 for me because I didn't have a lot of time to spend. So I sat down at the 
-computer and I said, Right, I'm giving myself two hours, absolute max, but I'd 
-like to spend less than two hours.
+computer and I said, "Right, I'm giving myself two hours, absolute max, but I'd 
+like to spend less than two hours."
 
-And I wrote all this in the report I wrote, mm-hmm , time spent initially 
+And I wrote all this in the report I wrote, mm-hmm, time spent initially 
 exploring the product, like seeing what it does, 15 minutes. Issues to come back 
 to that I identified while doing this. These time spent writing or time spent 
 writing a couple of charters or ideas to explore this. And based on that, here 
@@ -338,59 +338,59 @@ And they had made that clear in the instructions. We we're just using this to
 see how you would approach testing. Mm-hmm. It's like, it's not our product , so 
 you don't, you don't need to be putting this much time into it. And they do, 
 they value the, the work life balance. And the team lead had said to me a after, 
-when I was hired, he said, In all the years I am interviewing people, you are 
-the best interview.
+when I was hired, he said, "In all the years I am interviewing people, you are 
+the best interview that I have ever done."
 
-That I have ever done. And I was like, Nice. Really? Like I, Cause sometimes he 
-can be quite sarcastic. Um, And I said, Oh, you're, you're joking, right? 
-Because, you know, I'm a tester and you are a developer. He goes, No, Heather, 
-I'm serious. Because he rounded out the, the, the interview with the question. 
-If I gave you a budget of, I think it was something like 123 Euros and 57 pens 
-for it was a very specific number.
+And I was like, "Nice. Really?" Like I, Cause sometimes be 
+can be quite sarcastic. Um, And I said, "Oh, you're, you're joking, right? 
+Because, you know, I'm a tester and you are a developer." He goes, "No, Heather, 
+I'm serious." Because he rounded out the, the, the interview with the question. 
+"If I gave you a budget of, I think it was something like 123 Euros and 57 pens 
+for it was a very specific number."
 
-And I said to you, I wanted to organize a team activity. How would you spend 
-that money? And I said, Well, it de, it depends what you're hoping for from your 
+"And I said to you, I wanted to organize a team activity. How would you spend 
+that money?" And I said, "Well, it de-- it depends what you're hoping for from your 
 team. So, Is your team very well connected? Is this a team building exercise? Do 
 you think they need to work on their communications? If so, something like maybe 
-an escape room could be fun.
+an escape room could be fun."
 
-Have they had like a super intense delivery period? If it's that, then maybe 
+"Have they had like a super intense delivery period? If it's that, then maybe 
 something like a group gaming session where they can just relax. Or depending on 
 if there's just two people on your team and they've worked maybe a lot of 
 overtime in the past while, divide that equally between them and send them a 
-voucher to, to go and have a meal with someone to get a break.
+voucher to, to go and have a meal with someone to get a break."
 
-Yeah. And he was, he said, You know, this is the amount of people who just turn 
-around and go, I'd buy pizza and beers for everyone.
+Yeah. And he was, he said, "You know, this is the amount of people who just turn 
+around and go, 'I'd buy pizza and beers for everyone'."
 
 [00:23:17] **Michaela:** Yeah. And I think this is also showing too, that even 
 though you're maybe not directly working exactly in that role, that you're, you 
 know, are going to now work, you are acquiring so many new skills, right? So 
 yeah. I mean, if you are a tester for five years, And then a tester for 10 
-years. I really wonder, can you, No.
+years. I really wonder, can you, no.
 
-Now, is there such a big difference between a tester that you know into it for 
+No, is there such a big difference between a tester that you know into it for 
 five years, for seven years or for 10 years? Or maybe you know, a person that 
 sees something else that learns something else? Different skills, right? Being 
 in a different environment. And then it's not that you have been a nurse, right?
 
-You're still in the testing. You know, In the testing, environ. , but suddenly 
+You're still in the testing. You know, In the testing, environment. But suddenly 
 you have really different skill sets to learn and you bring that actually as a 
 very as a bonus. I think if we are all, we all want people to, you know, think 
 out of the box and, you know, be openminded and be, you know, have. Initiative 
 and inspiration and whatnot.
 
-Right. But then we want them to do the same things for 25 years. Right. , don't 
+Right. But then we want them to do the same things for 25 years. Right. don't 
 change anything in your current path, right? Yep. Just be a tester and you know, 
 be it from day one until you die . Yeah. Which makes no sense to be right. So 
 you're actually bringing a lot of different. Different skills and different 
 perspectives, and I think perspectives are extremely important for a tester.
 
 Right? Having different perspectives and knowing actually this product could be 
-maybe used differently. Or . Yeah. Yeah. You know, I could attempt to do this 
-with that product and so on. Right. So this is actually a, a great 
+maybe used differently. Or. Yeah. Yeah. You know, I could attempt to do this 
+with that product and so on. Right. So this is actually a, a great-- 
 
-[00:24:53] **Heather:** benefit I think. . Yeah, definitely. 
+[00:24:53] **Heather:** Benefit I think. Yeah, definitely. 
 
 [00:24:56] **Michaela:** Yeah, so it was definitely nice to hear that, right? To 
 hear suddenly somebody being, and, and I think probably not only hearing it 
@@ -400,52 +400,52 @@ more, I would argue that you can sense what they think about you in the first
 seconds.
 
 And this last whole, you know, interview, if they look at you and they, they 
-think right secretly, maybe even unconsciously. Oh, Heather, The not tester, . 
-Yeah. You know, the person far gone, 
+think right secretly, maybe even unconsciously. Oh, Heather, The 'not tester'. 
+Yeah. You know, the person far gone. 
 
-[00:25:33] **Heather:** you know, the, the, the, the 
+[00:25:33] **Heather:** You know, the, the, the, the--
 
-[00:25:36] **Michaela:** career switcher. Yeah. They will perform a very 
+[00:25:36] **Michaela:** Ccareer switcher. Yeah. They will perform a very 
 different interview than, you know, the person that comes in and sees Heather.
 
-Yeah, you know, header who wants to be a tester here and has experience in the 
+Yeah, you know, Heather who wants to be a tester here and has experience in the 
 testing community and, and a lot of experience and very valuable experience, 
 right? They will ask different questions. They will integrate your answers very 
 differently, right? And probably you also perform differently because you feel 
 how they.
 
-Respond to your, 
+Respond to your--
 
 [00:26:04] **Heather:** you know. Yeah. You feel like there are people that you 
 could work with. Yeah, yeah, yeah. 
 
 [00:26:11] **Michaela:** I interviewed once for Google and, and interview 
 started off me and the person interviewing me, arguing whether I'm interviewing 
-for the software engineering Precision or the pro product manager.
+for the software engineering position or the pro-- product manager.
 
 Oh, 
 
-[00:26:26] **Heather:** that's a great start. . 
+[00:26:26] **Heather:** That's a great start.
 
-[00:26:28] **Michaela:** Yeah. Right. And I said, I'm here for the software 
-engineering position. And he says, No, you're here for the product manager. And 
-I'm no . Go back, back and forth. And you know, you can 
+[00:26:28] **Michaela:** Yeah. Right. And I said, "I'm here for the software 
+engineering position." And he says, "No, you're here for the product manager." And 
+I'm "No." Go back, back and forth. And you know, you can--
 
-[00:26:39] **Heather:** imagine how that went.
+[00:26:39] **Heather:** --imagine how that went.
 
 Yeah, 
 
-[00:26:46] **Michaela:** it was just downhill after that. . 
+[00:26:46] **Michaela:** It was just downhill after that.
 
 [00:26:50] **Heather:** Yeah. Yeah. I do, I do wonder sometimes, like, cuz I've, 
 I've heard of a, one of my colleagues who went from being a test manager back to 
 being a tester and she talks about her quitting criteria for an interview. Mm. 
-So at one point in when she was interviewing to get to get back air quotes into 
-testing she, she said, I well minded an interview.
+So at one point in it when she was interviewing to get to get back "air quotes" into 
+testing she, she said, at one point in an interview.
 
-She just said, I'm sorry, it's, that's just call it a day here. I'm, I'm not 
-proceeding with this interview. And I kind of thought, Wow. Massive respect for 
-doing. in the middle of an interview because like that, like you, you sat 
+She just said, "I'm sorry, it's, let's just call it a day here. I'm, I'm not 
+proceeding with this interview." And I kind of thought, Wow. Massive respect for 
+doing that in the middle of an interview because like that, like you, you sat 
 through that interview. I, after having that experience, when you already 
 probably had a good feeling that like they had to, they would've had to wow you.
 
@@ -453,7 +453,7 @@ At that point to make go for them. I mean, I was
 
 [00:27:48] **Michaela:** writing algorithms 
 
-[00:27:50] **Heather:** in Google Dogs, . Yeah. Which was the most horrible 
+[00:27:50] **Heather:** in Google Docs. Yeah. Which was the most horrible 
 experience 
 
 [00:27:55] **Michaela:** ever with this guy that didn't believe I can be a 
@@ -462,20 +462,20 @@ software engineer. So, you know, it was just done
 [00:28:00] **Heather:** from the beginning. 
 
 [00:28:01] **Michaela:** Like, there, there one, no, there was no path to 
-success. . 
+success.
 
 [00:28:06] **Heather:** Yeah,
 
-[00:28:08] **Michaela:** It was already close and, And I did it right. I should 
-have said, Well, you. If I, because he's probably not even prepared to do an s d 
-e interview, right? Yeah. Like he's prepared to do a different kind of interview 
+[00:28:08] **Michaela:** It was already close and, and I did it right. I should 
+have said, Well, you. If I, because he's probably not even prepared to do an SDE 
+interview, right? Yeah. Like he's prepared to do a different kind of interview 
 and then we do this, you know I don't know, string search, 
 
-[00:28:23] **Heather:** thing in booby dogs, which, 
+[00:28:23] **Heather:** thing in Google Docs, which, 
 
 [00:28:25] **Michaela:** or I, I can't remember what was some of those very.
 
-Traditional . Yeah. You know, coding past things where you traver in Google Docs 
+Traditional Yeah. You know, coding past things where you traver in Google Docs 
 thingy, right? Well anyway. Yeah. So cool. So then you got this job, but there's 
 still something in between that we are not talking about. This project that 
 you're doing right. 
@@ -500,13 +500,13 @@ and, and working on some small side projects to kind of, to really harness
 skills that I already had, but in a, in a productive way mm-hmm.
 
 So getting a website set up, writing blogs about my experience because when I 
-look back at my career, . For me, a blog is a very good personal diary, but 
+look back at my career. For me, a blog is a very good personal diary, but 
 that's public. So how did I handle that situation in the past? So the blog post 
 that you mentioned at the start of Yeah. The, this podcast is an example o of of 
 that.
 
 It's like a writing a letter to my future self of if you ever doubt your 
-abilities. Know that you are excellent. So So yeah, in, in work then I have a, a 
+abilities. Know that you are excellent. So so yeah, in, in work then I have a, a 
 lot of, a lot of projects kind of spinning that I de I decided I wanted to do 
 myself. So while we can test the product that we're working on, there's many 
 other ways that testers can have a positive impact in their organiz.
@@ -531,24 +531,24 @@ advocate.
 
 I, I believe that everything. It should be as accessible as it possibly can be. 
 Does that mean that everybody would be able to use it? Not necessarily. So I'm 
-thinking here, you know, like mountain biking trails as an example. Mm-hmm. , 
+thinking here, you know, like mountain biking trails as an example. Mm-hmm. 
 like, not everyone can use them, but they can, they can be accessible to, to 
-some people who aren't, you know, 20 somethings with , with kick ass bites.
+some people who aren't, you know, 20 somethings with, with kick ass bites.
 
 So the accessibility project was on top of all of the other things we were 
 doing, bringing new features into the product, this bold backlog. Some other 
 like projects like trying to build an automation, a bigger automation suite for 
-the product and it. It's been so rewarding, . Um, It's, it start, it started off 
+the product and it. It's been so rewarding. Um, It's, it start, it started off 
 with the kind of the team maybe saying, Yeah, we need to build accessibility in, 
 but I mean, we dunno where to start.
 
-I said, Well, I don't exactly know where to start either, but if we agree to do 
-this together, you never know. Like what we could. And so we, in the 
+I said, "Well, I don't exactly know where to start either, but if we agree to do 
+this together, you never know. Like what we could." And so we, in the 
 organization, the way we work is we slice down features which means that we're 
 delivering, When we're delivering, we're delivering the smallest piece of 
 something that delivers value to the customer.
 
-Mm-hmm. , And by, it's not quite MVP land, it's more. Value and risk. So by 
+Mm-hmm. And by, it's not quite MVP land, it's more. Value and risk. So by 
 delivering the smallest thing possible, we're re, we're trying to reduce 
 business and technical risk. So we're not gonna over-engineer a whole new 
 database, for example. We're gonna see what we can do maybe with the existing 
@@ -566,14 +566,14 @@ using a screen reader, a user will be able to search for a class using a screen
 reader.
 
 And we, we, we broke it all down like that incrementally so that each, at each 
-step of the way we were delivering value to somebody. Mm-hmm. . And so this, 
-this is a, this is a long way of saying that , when you, or if you are thinking 
+step of the way we were delivering value to somebody. Mm-hmm. And so this, 
+this is a, this is a long way of saying that, when you, or if you are thinking 
 of getting back into software testing or software engineering or whatever 
 industry you feel like you've been out of for a while, but you like to get back 
 to don't necessarily feel intimidated by people's blogs and YouTube channels and 
 everything, talking about all of the amazing things.
 
-they're doing because that can seem super daunting and, and similar with the job 
+They're doing because that can seem super daunting and, and similar with the job 
 search. There's so many things to do with the job search, but if you slice it 
 down like we did with the projects or how we do with features into the smallest 
 possible thing that can deliver value to you as an individual, and you have.
@@ -590,13 +590,13 @@ down to smaller, to smaller winds, then you're getting a little win along the
 way.
 
 [00:36:56] **Michaela:** And I, I actually think like, how long have you now 
-been at the 
+been at the--
 
-[00:37:00] **Heather:** blue? Six months. 
+[00:37:00] **Heather:** --blue? Six months. 
 
 [00:37:01] **Michaela:** Six months. And you talked about so many things that 
 you're already impacting there. I actually think that there's, it's a little bit 
-imprinted in your mind. You can't have impact . Yeah. Even though he said within 
+imprinted in your mind. You can't have impact. Yeah. Even though he said within 
 the first week, like you're like, I can have impact, you know?
 
 Yeah. And I think you are definitely showing, right? And you're proving people 
@@ -611,9 +611,9 @@ I'm writing this, this blog, and it's like the, the vibe of it is you. A letter
 to everyone who said, I couldn't do this, and here's the impact I've made in, in 
 my first, I said, I'd break it down and just do the first three months.
 
-And he said, You don't, you don't need to do that. Like in the company, we're 
-all seeing the impact that you're having. I said, I know I don't need to from a 
-company perspective, but I want to from from a perspective of near. Reminded 
+And he said, "You don't, you don't need to do that. Like in the company, we're 
+all seeing the impact that you're having". I said, "I know I don't need to from a 
+company perspective, but I want to from from a perspective of near." Reminded 
 myself that I could do it. Yeah. Because my career coach said to me when I 
 started the job, create a document at Google Docs, and he said, And every time 
 you have a small win, so, oh, for, I, I wrote one automation test today and I 
@@ -633,7 +633,7 @@ an
 [00:39:17] **Michaela:** impact. And I think, I was actually talking with 
 Michael Lynch for his podcast, and he has something that's called.
 
-What I, what I have done or something, right? Mm-hmm. , there were also startups 
+What I, what I have done or something, right? Mm-hmm. There were also startups 
 got this done or something like this, and it's very similar, right? That it's 
 it's a memory of what I have actually accomplished. And I think it's so, so 
 important for career advancement because we, we assume the team lead will.
@@ -673,18 +673,18 @@ blog or something right, is so, so important.
 into like, Oh, I'm gonna, I'm gonna do this myself, but . But again, it was kind 
 of one of those things of just to prove that I could do it. Yeah, 
 
-[00:41:46] **Michaela:** yeah, yeah. And I totally see that if you are like a 
+[00:41:46] **Michaela:** Yeah, yeah. And I totally see that if you are like a 
 little bit hurt, you know, from all these external evaluations and evaluations 
 and, you know, hearing.
 
 You know, you're not there or you've gone or whatnot. Right. It's, it's not 
 nice. So you have to prove somehow that, Yeah. But yeah, I'm super happy that 
-you have this great role now header. Thank you so much. And you have your blog 
+you have this great role now Heather. Thank you so much. And you have your blog 
 and that I could talk with you about it. I think it was very, very interesting.
 
-And yeah, don't let anybody, you know, get some doubt into 
+And yeah, don't let anybody, you know, get some doubt into-- 
 
-[00:42:19] **Heather:** your head. Yeah. Yeah. That's, that's definitely 
+[00:42:19] **Heather:** --your head. Yeah. Yeah. That's, that's definitely 
 something everyone should take away. So yeah, if you're, if you're feeling 
 scared or daunted about what's ahead of you, slice it all down into smaller 
 chunks and, and just tackle those one by one.
